@@ -1,0 +1,1762 @@
+True,Country,Source,Variable,Year,Unit,Value
+0,Australia,Total freshwater,Total gross abstraction,2009,Cubic metres,14613.0
+1,Australia,Total freshwater,Total gross abstraction,2010,Cubic metres,13842.0
+2,Australia,Total freshwater,Total gross abstraction,2011,Cubic metres,13702.0
+3,Australia,Total freshwater,Total gross abstraction,2012,Cubic metres,16351.0
+4,Australia,Total freshwater,Total gross abstraction,2013,Cubic metres,20133.0
+5,Australia,Total freshwater,Total gross abstraction,2014,Cubic metres,19364.0
+6,Australia,Total freshwater,Total gross abstraction,2015,Cubic metres,18222.0
+7,Australia,Total freshwater,Total gross abstraction,2016,Cubic metres,16813.717
+8,Australia,Total freshwater,Public water supply,2009,Cubic metres,3453.0
+9,Australia,Total freshwater,Public water supply,2010,Cubic metres,3196.0
+10,Australia,Total freshwater,Public water supply,2011,Cubic metres,2952.0
+11,Australia,Total freshwater,Public water supply,2012,Cubic metres,4686.0
+12,Australia,Total freshwater,Public water supply,2013,Cubic metres,5390.0
+13,Australia,Total freshwater,Public water supply,2014,Cubic metres,5308.0
+14,Australia,Total freshwater,Public water supply,2015,Cubic metres,5124.0
+15,Australia,Total freshwater,Public water supply,2016,Cubic metres,3389.748
+16,Australia,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,6989.0
+17,Australia,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,4090.0
+18,Australia,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,3707.0
+19,Australia,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,4921.0
+20,Australia,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,3321.0
+21,Australia,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,3900.0
+22,Australia,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,4596.0
+23,Australia,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,4320.0
+24,Australia,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,4535.027
+25,Australia,Total freshwater,Irrigation,2008,Cubic metres,6285.0
+26,Australia,Total freshwater,Irrigation,2009,Cubic metres,3573.0
+27,Australia,Total freshwater,Irrigation,2010,Cubic metres,3267.0
+28,Australia,Total freshwater,Irrigation,2011,Cubic metres,4491.0
+29,Australia,Total freshwater,Irrigation,2012,Cubic metres,2909.0
+30,Australia,Total freshwater,Irrigation,2013,Cubic metres,3515.0
+31,Australia,Total freshwater,Irrigation,2014,Cubic metres,3995.0
+32,Australia,Total freshwater,Irrigation,2015,Cubic metres,3462.0
+33,Australia,Total freshwater,Irrigation,2016,Cubic metres,3794.677
+34,Australia,Total freshwater,Manufacturing industry,2009,Cubic metres,338.0
+35,Australia,Total freshwater,Manufacturing industry,2010,Cubic metres,322.0
+36,Australia,Total freshwater,Manufacturing industry,2011,Cubic metres,346.0
+37,Australia,Total freshwater,Manufacturing industry,2012,Cubic metres,266.0
+38,Australia,Total freshwater,Manufacturing industry,2013,Cubic metres,275.0
+39,Australia,Total freshwater,Manufacturing industry,2014,Cubic metres,280.0
+40,Australia,Total freshwater,Manufacturing industry,2015,Cubic metres,272.0
+41,Australia,Total freshwater,Manufacturing industry,2016,Cubic metres,281.54200000000003
+42,Australia,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,672.2008
+43,Australia,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,625.7667
+44,Australia,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,609.525
+45,Australia,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,716.4625
+46,Australia,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,869.6487
+47,Australia,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,824.8892
+48,Australia,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,765.6445
+49,Australia,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,696.9172
+50,Austria,Total freshwater,Public water supply,2008,Cubic metres,608.0
+51,Austria,Total freshwater,Public water supply,2010,Cubic metres,685.0
+52,Austria,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,77.0
+53,Austria,Total freshwater,Irrigation,2010,Cubic metres,18.0
+54,Austria,Total freshwater,Manufacturing industry,2008,Cubic metres,1657.0
+55,Belgium,Total freshwater,Total gross abstraction,2008,Cubic metres,6136.04
+56,Belgium,Total freshwater,Total gross abstraction,2009,Cubic metres,6005.4
+57,Belgium,Total freshwater,Total gross abstraction,2010,Cubic metres,5988.3798799999995
+58,Belgium,Total freshwater,Total gross abstraction,2011,Cubic metres,5296.6001
+59,Belgium,Total freshwater,Total gross abstraction,2012,Cubic metres,5300.56006
+60,Belgium,Total freshwater,Total gross abstraction,2013,Cubic metres,4829.04004
+61,Belgium,Total freshwater,Public water supply,2008,Cubic metres,706.3
+62,Belgium,Total freshwater,Public water supply,2009,Cubic metres,712.52
+63,Belgium,Total freshwater,Public water supply,2010,Cubic metres,743.0499900000001
+64,Belgium,Total freshwater,Public water supply,2011,Cubic metres,735.28998
+65,Belgium,Total freshwater,Public water supply,2012,Cubic metres,724.85999
+66,Belgium,Total freshwater,Public water supply,2013,Cubic metres,733.62
+67,Belgium,Total freshwater,Public water supply,2014,Cubic metres,720.7999900000001
+68,Belgium,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,39.062529999999995
+69,Belgium,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,40.16276
+70,Belgium,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,37.48
+71,Belgium,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,36.98
+72,Belgium,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,33.12
+73,Belgium,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,35.87
+74,Belgium,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,37.25
+75,Belgium,Total freshwater,Manufacturing industry,2008,Cubic metres,1217.57798
+76,Belgium,Total freshwater,Manufacturing industry,2009,Cubic metres,1089.3560300000001
+77,Belgium,Total freshwater,Manufacturing industry,2010,Cubic metres,1231.85999
+78,Belgium,Total freshwater,Manufacturing industry,2011,Cubic metres,1123.45996
+79,Belgium,Total freshwater,Manufacturing industry,2012,Cubic metres,1121.18005
+80,Belgium,Total freshwater,Manufacturing industry,2013,Cubic metres,1024.70996
+81,Belgium,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,569.2496
+82,Belgium,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,552.9686
+83,Belgium,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,547.447
+84,Belgium,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,480.9371
+85,Belgium,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,478.2367
+86,Belgium,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,433.0391
+87,Canada,Total freshwater,Total gross abstraction,2009,Cubic metres,31513.2
+88,Canada,Total freshwater,Total gross abstraction,2011,Cubic metres,33335.5
+89,Canada,Total freshwater,Total gross abstraction,2013,Cubic metres,35850.3
+90,Canada,Total freshwater,Public water supply,2011,Cubic metres,5123.7
+91,Canada,Total freshwater,Public water supply,2013,Cubic metres,5032.8
+92,Canada,Total freshwater,Public water supply,2015,Cubic metres,5020.8
+93,Canada,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,2366.5
+94,Canada,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,1809.0
+95,Canada,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,2007.5
+96,Canada,Total freshwater,Irrigation,2009,Cubic metres,2086.1
+97,Canada,Total freshwater,Irrigation,2011,Cubic metres,1540.5
+98,Canada,Total freshwater,Irrigation,2013,Cubic metres,1738.2
+99,Canada,Total freshwater,Manufacturing industry,2009,Cubic metres,3113.1
+100,Canada,Total freshwater,Manufacturing industry,2011,Cubic metres,3056.4
+101,Canada,Total freshwater,Manufacturing industry,2013,Cubic metres,3200.2
+102,Canada,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,932.6238
+103,Canada,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,965.1659
+104,Canada,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,1016.8710000000001
+105,Czech Republic,Total freshwater,Total gross abstraction,2008,Cubic metres,1988.0
+106,Czech Republic,Total freshwater,Total gross abstraction,2009,Cubic metres,1948.0
+107,Czech Republic,Total freshwater,Total gross abstraction,2010,Cubic metres,1950.0
+108,Czech Republic,Total freshwater,Total gross abstraction,2011,Cubic metres,1886.0
+109,Czech Republic,Total freshwater,Total gross abstraction,2012,Cubic metres,1840.0
+110,Czech Republic,Total freshwater,Total gross abstraction,2013,Cubic metres,1650.0
+111,Czech Republic,Total freshwater,Total gross abstraction,2014,Cubic metres,1650.0
+112,Czech Republic,Total freshwater,Total gross abstraction,2015,Cubic metres,1603.0999800000002
+113,Czech Republic,Total freshwater,Public water supply,2008,Cubic metres,682.0
+114,Czech Republic,Total freshwater,Public water supply,2009,Cubic metres,672.0
+115,Czech Republic,Total freshwater,Public water supply,2010,Cubic metres,663.0
+116,Czech Republic,Total freshwater,Public water supply,2011,Cubic metres,638.0
+117,Czech Republic,Total freshwater,Public water supply,2012,Cubic metres,637.0
+118,Czech Republic,Total freshwater,Public water supply,2013,Cubic metres,619.0
+119,Czech Republic,Total freshwater,Public water supply,2014,Cubic metres,602.0
+120,Czech Republic,Total freshwater,Public water supply,2015,Cubic metres,612.90002
+121,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,33.0
+122,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,40.0
+123,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,37.0
+124,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,39.0
+125,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,43.0
+126,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,44.0
+127,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,48.0
+128,Czech Republic,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,54.1
+129,Czech Republic,Total freshwater,Irrigation,2008,Cubic metres,16.0
+130,Czech Republic,Total freshwater,Irrigation,2009,Cubic metres,23.0
+131,Czech Republic,Total freshwater,Irrigation,2010,Cubic metres,20.0
+132,Czech Republic,Total freshwater,Irrigation,2011,Cubic metres,22.0
+133,Czech Republic,Total freshwater,Irrigation,2012,Cubic metres,25.0
+134,Czech Republic,Total freshwater,Irrigation,2013,Cubic metres,14.0
+135,Czech Republic,Total freshwater,Irrigation,2014,Cubic metres,16.8
+136,Czech Republic,Total freshwater,Irrigation,2015,Cubic metres,31.8
+137,Czech Republic,Total freshwater,Aquaculture,2010,Cubic metres,5.7
+138,Czech Republic,Total freshwater,Aquaculture,2011,Cubic metres,6.0
+139,Czech Republic,Total freshwater,Aquaculture,2012,Cubic metres,6.1
+140,Czech Republic,Total freshwater,Aquaculture,2013,Cubic metres,6.0
+141,Czech Republic,Total freshwater,Aquaculture,2014,Cubic metres,6.0
+142,Czech Republic,Total freshwater,Aquaculture,2015,Cubic metres,2.9
+143,Czech Republic,Total freshwater,Manufacturing industry,2008,Cubic metres,249.0
+144,Czech Republic,Total freshwater,Manufacturing industry,2009,Cubic metres,253.0
+145,Czech Republic,Total freshwater,Manufacturing industry,2010,Cubic metres,243.0
+146,Czech Republic,Total freshwater,Manufacturing industry,2011,Cubic metres,234.0
+147,Czech Republic,Total freshwater,Manufacturing industry,2012,Cubic metres,236.0
+148,Czech Republic,Total freshwater,Manufacturing industry,2013,Cubic metres,214.0
+149,Czech Republic,Total freshwater,Manufacturing industry,2014,Cubic metres,227.0
+150,Czech Republic,Total freshwater,Manufacturing industry,2015,Cubic metres,226.7
+151,Czech Republic,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,190.7175
+152,Czech Republic,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,185.7565
+153,Czech Republic,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,185.0747
+154,Czech Republic,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,178.4512
+155,Czech Republic,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,173.8021
+156,Czech Republic,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,155.7415
+157,Czech Republic,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,155.68200000000002
+158,Czech Republic,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,151.1822
+159,Denmark,Total freshwater,Total gross abstraction,2008,Cubic metres,693.7000099999999
+160,Denmark,Total freshwater,Total gross abstraction,2009,Cubic metres,657.89001
+161,Denmark,Total freshwater,Total gross abstraction,2010,Cubic metres,652.18
+162,Denmark,Total freshwater,Total gross abstraction,2011,Cubic metres,733.72
+163,Denmark,Total freshwater,Total gross abstraction,2012,Cubic metres,555.4
+164,Denmark,Total freshwater,Total gross abstraction,2013,Cubic metres,761.74
+165,Denmark,Total freshwater,Total gross abstraction,2014,Cubic metres,746.06
+166,Denmark,Total freshwater,Total gross abstraction,2015,Cubic metres,656.18
+167,Denmark,Total freshwater,Public water supply,2008,Cubic metres,406.14001
+168,Denmark,Total freshwater,Public water supply,2009,Cubic metres,384.89999
+169,Denmark,Total freshwater,Public water supply,2010,Cubic metres,386.7
+170,Denmark,Total freshwater,Public water supply,2011,Cubic metres,384.1
+171,Denmark,Total freshwater,Public water supply,2012,Cubic metres,360.5
+172,Denmark,Total freshwater,Public water supply,2013,Cubic metres,381.23
+173,Denmark,Total freshwater,Public water supply,2014,Cubic metres,367.56
+174,Denmark,Total freshwater,Public water supply,2015,Cubic metres,377.97
+175,Denmark,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,249.40001
+176,Denmark,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,237.98
+177,Denmark,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,229.4
+178,Denmark,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,311.0
+179,Denmark,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,164.2
+180,Denmark,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,248.38
+181,Denmark,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,243.42
+182,Denmark,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,138.82
+183,Denmark,Total freshwater,Irrigation,2008,Cubic metres,198.47
+184,Denmark,Total freshwater,Irrigation,2009,Cubic metres,183.29001
+185,Denmark,Total freshwater,Irrigation,2010,Cubic metres,180.7
+186,Denmark,Total freshwater,Irrigation,2011,Cubic metres,242.0
+187,Denmark,Total freshwater,Irrigation,2012,Cubic metres,97.1
+188,Denmark,Total freshwater,Irrigation,2013,Cubic metres,126.28
+189,Denmark,Total freshwater,Irrigation,2014,Cubic metres,132.04
+190,Denmark,Total freshwater,Irrigation,2015,Cubic metres,138.82
+191,Denmark,Total freshwater,Manufacturing industry,2008,Cubic metres,35.93
+192,Denmark,Total freshwater,Manufacturing industry,2009,Cubic metres,33.08
+193,Denmark,Total freshwater,Manufacturing industry,2010,Cubic metres,33.68
+194,Denmark,Total freshwater,Manufacturing industry,2011,Cubic metres,36.0
+195,Denmark,Total freshwater,Manufacturing industry,2012,Cubic metres,28.5
+196,Denmark,Total freshwater,Manufacturing industry,2013,Cubic metres,130.13
+197,Denmark,Total freshwater,Manufacturing industry,2014,Cubic metres,133.08
+198,Denmark,Total freshwater,Manufacturing industry,2015,Cubic metres,137.39
+199,Denmark,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,126.1779
+200,Denmark,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,119.0439
+201,Denmark,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,117.4074
+202,Denmark,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,131.4234
+203,Denmark,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,98.99014
+204,Denmark,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,135.1126
+205,Denmark,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,131.7216
+206,Denmark,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,115.3481
+207,Finland,Total freshwater,Public water supply,2009,Cubic metres,408.0
+208,Finland,Total freshwater,Public water supply,2010,Cubic metres,410.0
+209,Finland,Total freshwater,Public water supply,2011,Cubic metres,400.0
+210,Finland,Total freshwater,Public water supply,2012,Cubic metres,415.0
+211,Finland,Total freshwater,Public water supply,2013,Cubic metres,415.0
+212,Finland,Total freshwater,Irrigation,2010,Cubic metres,4.5
+213,Finland,Total freshwater,Manufacturing industry,2009,Cubic metres,1292.0
+214,Finland,Total freshwater,Manufacturing industry,2010,Cubic metres,1422.0
+215,Finland,Total freshwater,Manufacturing industry,2012,Cubic metres,1272.4000199999998
+216,Finland,Total freshwater,Manufacturing industry,2013,Cubic metres,1429.0
+217,France,Total freshwater,Total gross abstraction,2008,Cubic metres,29203.4082
+218,France,Total freshwater,Total gross abstraction,2009,Cubic metres,29585.28711
+219,France,Total freshwater,Total gross abstraction,2010,Cubic metres,28338.845210000003
+220,France,Total freshwater,Total gross abstraction,2011,Cubic metres,28316.02533
+221,France,Total freshwater,Total gross abstraction,2012,Cubic metres,30007.38139
+222,France,Total freshwater,Total gross abstraction,2013,Cubic metres,27828.127239999998
+223,France,Total freshwater,Public water supply,2008,Cubic metres,5518.82129
+224,France,Total freshwater,Public water supply,2009,Cubic metres,5645.19531
+225,France,Total freshwater,Public water supply,2010,Cubic metres,5490.22021
+226,France,Total freshwater,Public water supply,2011,Cubic metres,5379.54297
+227,France,Total freshwater,Public water supply,2012,Cubic metres,5480.66797
+228,France,Total freshwater,Public water supply,2013,Cubic metres,5283.24756
+229,France,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,2587.88525
+230,France,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,3144.9292
+231,France,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,3033.12524
+232,France,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,3051.97
+233,France,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,2927.89
+234,France,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,2787.99
+235,France,Total freshwater,Manufacturing industry,2008,Cubic metres,2034.67969
+236,France,Total freshwater,Manufacturing industry,2009,Cubic metres,1952.9207800000001
+237,France,Total freshwater,Manufacturing industry,2010,Cubic metres,1757.0
+238,France,Total freshwater,Manufacturing industry,2011,Cubic metres,1805.0
+239,France,Total freshwater,Manufacturing industry,2012,Cubic metres,1689.0
+240,France,Total freshwater,Manufacturing industry,2013,Cubic metres,1573.0
+241,France,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,468.5322
+242,France,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,471.9486
+243,France,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,449.6321
+244,France,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,447.0228
+245,France,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,471.5186
+246,France,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,435.3593
+247,Germany,Total freshwater,Total gross abstraction,2010,Cubic metres,33035.99609
+248,Germany,Total freshwater,Total gross abstraction,2013,Cubic metres,25326.84766
+249,Germany,Total freshwater,Public water supply,2010,Cubic metres,5080.662960000001
+250,Germany,Total freshwater,Public water supply,2013,Cubic metres,5053.407
+251,Germany,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,210.89502000000002
+252,Germany,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,288.04934
+253,Germany,Total freshwater,Irrigation,2010,Cubic metres,169.40646999999998
+254,Germany,Total freshwater,Irrigation,2013,Cubic metres,238.47793
+255,Germany,Total freshwater,Manufacturing industry,2010,Cubic metres,4660.42517
+256,Germany,Total freshwater,Manufacturing industry,2013,Cubic metres,4226.66094
+257,Germany,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,408.695
+258,Germany,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,311.95
+259,Greece,Total freshwater,Total gross abstraction,2011,Cubic metres,9934.61035
+260,Greece,Total freshwater,Total gross abstraction,2012,Cubic metres,9934.91016
+261,Greece,Total freshwater,Total gross abstraction,2013,Cubic metres,9924.50977
+262,Greece,Total freshwater,Total gross abstraction,2014,Cubic metres,9916.2998
+263,Greece,Total freshwater,Total gross abstraction,2015,Cubic metres,9907.74023
+264,Greece,Total freshwater,Public water supply,2011,Cubic metres,1418.39001
+265,Greece,Total freshwater,Public water supply,2012,Cubic metres,1418.39001
+266,Greece,Total freshwater,Public water supply,2013,Cubic metres,1418.39001
+267,Greece,Total freshwater,Public water supply,2014,Cubic metres,1418.39001
+268,Greece,Total freshwater,Public water supply,2015,Cubic metres,1418.39001
+269,Greece,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,8282.54004
+270,Greece,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,8282.54004
+271,Greece,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,8282.54004
+272,Greece,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,8282.54004
+273,Greece,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,8282.54004
+274,Greece,Total freshwater,Irrigation,2011,Cubic metres,8232.16016
+275,Greece,Total freshwater,Irrigation,2012,Cubic metres,8232.16016
+276,Greece,Total freshwater,Irrigation,2013,Cubic metres,8232.16016
+277,Greece,Total freshwater,Irrigation,2014,Cubic metres,8232.16016
+278,Greece,Total freshwater,Irrigation,2015,Cubic metres,8232.16016
+279,Greece,Total freshwater,Manufacturing industry,2011,Cubic metres,125.99
+280,Greece,Total freshwater,Manufacturing industry,2012,Cubic metres,125.99
+281,Greece,Total freshwater,Manufacturing industry,2013,Cubic metres,125.99
+282,Greece,Total freshwater,Manufacturing industry,2014,Cubic metres,125.99
+283,Greece,Total freshwater,Manufacturing industry,2015,Cubic metres,125.99
+284,Greece,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,869.7173
+285,Greece,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,873.1487
+286,Greece,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,876.6228
+287,Greece,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,880.2966
+288,Greece,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,883.216
+289,Hungary,Total freshwater,Total gross abstraction,2008,Cubic metres,5432.0
+290,Hungary,Total freshwater,Total gross abstraction,2009,Cubic metres,6342.0
+291,Hungary,Total freshwater,Total gross abstraction,2010,Cubic metres,5332.759770000001
+292,Hungary,Total freshwater,Total gross abstraction,2011,Cubic metres,5192.97021
+293,Hungary,Total freshwater,Total gross abstraction,2012,Cubic metres,5018.6098600000005
+294,Hungary,Total freshwater,Public water supply,2008,Cubic metres,641.0
+295,Hungary,Total freshwater,Public water supply,2009,Cubic metres,632.0
+296,Hungary,Total freshwater,Public water supply,2010,Cubic metres,598.0
+297,Hungary,Total freshwater,Public water supply,2011,Cubic metres,600.0
+298,Hungary,Total freshwater,Public water supply,2012,Cubic metres,599.0
+299,Hungary,Total freshwater,Public water supply,2013,Cubic metres,589.3125
+300,Hungary,Total freshwater,Public water supply,2014,Cubic metres,574.5071
+301,Hungary,Total freshwater,Public water supply,2015,Cubic metres,604.53122
+302,Hungary,Total freshwater,Public water supply,2016,Cubic metres,597.56822
+303,Hungary,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,334.0
+304,Hungary,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,385.0
+305,Hungary,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,279.0
+306,Hungary,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,329.0
+307,Hungary,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,322.0
+308,Hungary,Total freshwater,Irrigation,2010,Cubic metres,49.13
+309,Hungary,Total freshwater,Irrigation,2011,Cubic metres,110.41
+310,Hungary,Total freshwater,Irrigation,2012,Cubic metres,164.31
+311,Hungary,Total freshwater,Irrigation,2013,Cubic metres,150.2351
+312,Hungary,Total freshwater,Irrigation,2014,Cubic metres,99.8374
+313,Hungary,Total freshwater,Irrigation,2015,Cubic metres,111.8493
+314,Hungary,Total freshwater,Irrigation,2016,Cubic metres,99.62611
+315,Hungary,Total freshwater,Manufacturing industry,2008,Cubic metres,81.5
+316,Hungary,Total freshwater,Manufacturing industry,2009,Cubic metres,71.0
+317,Hungary,Total freshwater,Manufacturing industry,2010,Cubic metres,70.5
+318,Hungary,Total freshwater,Manufacturing industry,2011,Cubic metres,75.0
+319,Hungary,Total freshwater,Manufacturing industry,2012,Cubic metres,94.4
+320,Hungary,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,543.6783
+321,Hungary,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,636.8146
+322,Hungary,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,537.1521
+323,Hungary,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,524.6376
+324,Hungary,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,508.4874
+325,Iceland,Total freshwater,Total gross abstraction,2010,Cubic metres,1929.90005
+326,Iceland,Total freshwater,Total gross abstraction,2011,Cubic metres,2126.2000399999997
+327,Iceland,Total freshwater,Total gross abstraction,2012,Cubic metres,2173.59998
+328,Iceland,Total freshwater,Total gross abstraction,2013,Cubic metres,2006.49995
+329,Iceland,Total freshwater,Total gross abstraction,2014,Cubic metres,1440.79996
+330,Iceland,Total freshwater,Public water supply,2010,Cubic metres,817.40002
+331,Iceland,Total freshwater,Public water supply,2011,Cubic metres,919.7000099999999
+332,Iceland,Total freshwater,Public water supply,2012,Cubic metres,929.9000199999999
+333,Iceland,Total freshwater,Public water supply,2013,Cubic metres,881.5999800000001
+334,Iceland,Total freshwater,Public water supply,2014,Cubic metres,739.2999900000001
+335,Iceland,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,1083.4000199999998
+336,Iceland,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,1174.9000199999998
+337,Iceland,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,1207.19995
+338,Iceland,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,1091.5999800000002
+339,Iceland,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,670.59998
+340,Iceland,Total freshwater,Manufacturing industry,2010,Cubic metres,29.1
+341,Iceland,Total freshwater,Manufacturing industry,2011,Cubic metres,31.6
+342,Iceland,Total freshwater,Manufacturing industry,2012,Cubic metres,36.5
+343,Iceland,Total freshwater,Manufacturing industry,2013,Cubic metres,33.3
+344,Iceland,Total freshwater,Manufacturing industry,2014,Cubic metres,30.9
+345,Iceland,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,6024.7622200000005
+346,Iceland,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,6574.154939999999
+347,Iceland,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,6677.19313
+348,Iceland,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,6135.5415
+349,Iceland,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,4386.544129999999
+350,Ireland,Total freshwater,Total gross abstraction,2009,Cubic metres,757.0
+351,Ireland,Total freshwater,Public water supply,2009,Cubic metres,680.0
+352,Ireland,Total freshwater,Public water supply,2010,Cubic metres,631.0
+353,Ireland,Total freshwater,Public water supply,2011,Cubic metres,627.0
+354,Ireland,Total freshwater,Public water supply,2012,Cubic metres,628.0
+355,Ireland,Total freshwater,Public water supply,2013,Cubic metres,620.0
+356,Ireland,Total freshwater,Public water supply,2014,Cubic metres,659.8178
+357,Ireland,Total freshwater,Public water supply,2015,Cubic metres,627.0
+358,Ireland,Total freshwater,Public water supply,2016,Cubic metres,631.0
+359,Ireland,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,165.7157
+360,Italy,Total freshwater,Total gross abstraction,2008,Cubic metres,53751.0
+361,Italy,Total freshwater,Public water supply,2008,Cubic metres,9094.69
+362,Italy,Total freshwater,Public water supply,2012,Cubic metres,9450.71
+363,Italy,Total freshwater,Irrigation,2012,Cubic metres,15916.99
+364,Italy,Total freshwater,Manufacturing industry,2012,Cubic metres,6068.35
+365,Italy,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,903.3419
+366,Japan,Total freshwater,Total gross abstraction,2008,Cubic metres,82400.0
+367,Japan,Total freshwater,Total gross abstraction,2009,Cubic metres,81454.0
+368,Japan,Total freshwater,Total gross abstraction,2010,Cubic metres,81467.0
+369,Japan,Total freshwater,Total gross abstraction,2011,Cubic metres,80897.0
+370,Japan,Total freshwater,Total gross abstraction,2012,Cubic metres,80500.0
+371,Japan,Total freshwater,Total gross abstraction,2013,Cubic metres,80170.0
+372,Japan,Total freshwater,Total gross abstraction,2014,Cubic metres,80067.0
+373,Japan,Total freshwater,Public water supply,2008,Cubic metres,15451.0
+374,Japan,Total freshwater,Public water supply,2009,Cubic metres,15415.0
+375,Japan,Total freshwater,Public water supply,2010,Cubic metres,15428.0
+376,Japan,Total freshwater,Public water supply,2011,Cubic metres,15164.0
+377,Japan,Total freshwater,Public water supply,2012,Cubic metres,15110.0
+378,Japan,Total freshwater,Public water supply,2013,Cubic metres,15104.0
+379,Japan,Total freshwater,Public water supply,2014,Cubic metres,14842.0
+380,Japan,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,54640.0
+381,Japan,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,54430.0
+382,Japan,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,54375.0
+383,Japan,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,54448.0
+384,Japan,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,53915.0
+385,Japan,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,53977.0
+386,Japan,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,54138.0
+387,Japan,Total freshwater,Irrigation,2008,Cubic metres,54200.0
+388,Japan,Total freshwater,Irrigation,2009,Cubic metres,53990.0
+389,Japan,Total freshwater,Irrigation,2010,Cubic metres,53938.0
+390,Japan,Total freshwater,Irrigation,2011,Cubic metres,54011.0
+391,Japan,Total freshwater,Irrigation,2012,Cubic metres,53484.0
+392,Japan,Total freshwater,Irrigation,2013,Cubic metres,53577.0
+393,Japan,Total freshwater,Irrigation,2014,Cubic metres,53738.0
+394,Japan,Total freshwater,Manufacturing industry,2008,Cubic metres,12307.0
+395,Japan,Total freshwater,Manufacturing industry,2009,Cubic metres,11609.0
+396,Japan,Total freshwater,Manufacturing industry,2010,Cubic metres,11664.0
+397,Japan,Total freshwater,Manufacturing industry,2011,Cubic metres,11284.0
+398,Japan,Total freshwater,Manufacturing industry,2012,Cubic metres,11476.0
+399,Japan,Total freshwater,Manufacturing industry,2013,Cubic metres,11089.0
+400,Japan,Total freshwater,Manufacturing industry,2014,Cubic metres,11087.0
+401,Japan,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,640.9932
+402,Japan,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,633.5546
+403,Japan,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,633.7286
+404,Japan,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,629.5222
+405,Japan,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,626.8182
+406,Japan,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,624.8007
+407,Japan,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,624.7285
+408,Korea,Total freshwater,Total gross abstraction,2008,Cubic metres,22063.0
+409,Korea,Total freshwater,Total gross abstraction,2009,Cubic metres,22699.0
+410,Korea,Total freshwater,Total gross abstraction,2010,Cubic metres,19564.0
+411,Korea,Total freshwater,Total gross abstraction,2011,Cubic metres,19535.0
+412,Korea,Total freshwater,Total gross abstraction,2012,Cubic metres,21222.0
+413,Korea,Total freshwater,Total gross abstraction,2013,Cubic metres,23871.0
+414,Korea,Total freshwater,Total gross abstraction,2014,Cubic metres,25100.0
+415,Korea,Total freshwater,Public water supply,2008,Cubic metres,7526.0
+416,Korea,Total freshwater,Public water supply,2009,Cubic metres,7453.0
+417,Korea,Total freshwater,Public water supply,2010,Cubic metres,7538.0
+418,Korea,Total freshwater,Public water supply,2011,Cubic metres,7656.0
+419,Korea,Total freshwater,Public water supply,2012,Cubic metres,7632.0
+420,Korea,Total freshwater,Public water supply,2013,Cubic metres,7706.0
+421,Korea,Total freshwater,Public water supply,2014,Cubic metres,7600.0
+422,Korea,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,12275.0
+423,Korea,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,12497.0
+424,Korea,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,9570.0
+425,Korea,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,9543.0
+426,Korea,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,11360.0
+427,Korea,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,13555.0
+428,Korea,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,15200.0
+429,Korea,Total freshwater,Irrigation,2008,Cubic metres,11659.0
+430,Korea,Total freshwater,Irrigation,2009,Cubic metres,11835.0
+431,Korea,Total freshwater,Irrigation,2010,Cubic metres,8908.0
+432,Korea,Total freshwater,Irrigation,2011,Cubic metres,8855.0
+433,Korea,Total freshwater,Irrigation,2012,Cubic metres,10640.0
+434,Korea,Total freshwater,Irrigation,2013,Cubic metres,12779.0
+435,Korea,Total freshwater,Irrigation,2014,Cubic metres,14398.0
+436,Korea,Total freshwater,Manufacturing industry,2008,Cubic metres,2262.0
+437,Korea,Total freshwater,Manufacturing industry,2009,Cubic metres,2749.0
+438,Korea,Total freshwater,Manufacturing industry,2010,Cubic metres,2456.0
+439,Korea,Total freshwater,Manufacturing industry,2011,Cubic metres,2336.0
+440,Korea,Total freshwater,Manufacturing industry,2012,Cubic metres,2230.0
+441,Korea,Total freshwater,Manufacturing industry,2013,Cubic metres,2610.0
+442,Korea,Total freshwater,Manufacturing industry,2014,Cubic metres,2300.0
+443,Korea,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,448.26199999999994
+444,Korea,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,459.6874
+445,Korea,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,394.8108
+446,Korea,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,392.7055
+447,Korea,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,424.8458
+448,Korea,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,475.8094
+449,Korea,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,498.1586
+450,Luxembourg,Total freshwater,Total gross abstraction,2009,Cubic metres,47.0
+451,Luxembourg,Total freshwater,Total gross abstraction,2010,Cubic metres,47.0
+452,Luxembourg,Total freshwater,Total gross abstraction,2011,Cubic metres,46.0
+453,Luxembourg,Total freshwater,Total gross abstraction,2012,Cubic metres,45.0
+454,Luxembourg,Total freshwater,Total gross abstraction,2013,Cubic metres,43.0
+455,Luxembourg,Total freshwater,Total gross abstraction,2014,Cubic metres,45.95
+456,Luxembourg,Total freshwater,Total gross abstraction,2015,Cubic metres,44.85
+457,Luxembourg,Total freshwater,Total gross abstraction,2016,Cubic metres,44.4
+458,Luxembourg,Total freshwater,Public water supply,2009,Cubic metres,43.0
+459,Luxembourg,Total freshwater,Public water supply,2010,Cubic metres,45.0
+460,Luxembourg,Total freshwater,Public water supply,2011,Cubic metres,45.0
+461,Luxembourg,Total freshwater,Public water supply,2012,Cubic metres,41.0
+462,Luxembourg,Total freshwater,Public water supply,2013,Cubic metres,41.0
+463,Luxembourg,Total freshwater,Public water supply,2014,Cubic metres,42.25
+464,Luxembourg,Total freshwater,Public water supply,2015,Cubic metres,42.17
+465,Luxembourg,Total freshwater,Public water supply,2016,Cubic metres,42.38
+466,Luxembourg,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,0.3
+467,Luxembourg,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,0.68
+468,Luxembourg,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,0.299
+469,Luxembourg,Total freshwater,Irrigation,2011,Cubic metres,0.013000000000000001
+470,Luxembourg,Total freshwater,Irrigation,2012,Cubic metres,0.016
+471,Luxembourg,Total freshwater,Irrigation,2015,Cubic metres,0.06
+472,Luxembourg,Total freshwater,Irrigation,2016,Cubic metres,0.047
+473,Luxembourg,Total freshwater,Manufacturing industry,2010,Cubic metres,3.0
+474,Luxembourg,Total freshwater,Manufacturing industry,2011,Cubic metres,4.0
+475,Luxembourg,Total freshwater,Manufacturing industry,2012,Cubic metres,4.0
+476,Luxembourg,Total freshwater,Manufacturing industry,2013,Cubic metres,2.0
+477,Luxembourg,Total freshwater,Manufacturing industry,2014,Cubic metres,2.95
+478,Luxembourg,Total freshwater,Manufacturing industry,2015,Cubic metres,2.0
+479,Luxembourg,Total freshwater,Manufacturing industry,2016,Cubic metres,1.25
+480,Luxembourg,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,95.2381
+481,Luxembourg,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,93.60685
+482,Luxembourg,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,89.87886
+483,Luxembourg,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,85.73061
+484,Luxembourg,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,80.07449
+485,Luxembourg,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,83.59105
+486,Luxembourg,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,79.70599
+487,Mexico,Total freshwater,Total gross abstraction,2008,Cubic metres,79752.28044
+488,Mexico,Total freshwater,Total gross abstraction,2009,Cubic metres,80587.00373
+489,Mexico,Total freshwater,Total gross abstraction,2010,Cubic metres,80213.44983
+490,Mexico,Total freshwater,Total gross abstraction,2011,Cubic metres,81588.14482999999
+491,Mexico,Total freshwater,Total gross abstraction,2012,Cubic metres,82733.71457000001
+492,Mexico,Total freshwater,Total gross abstraction,2013,Cubic metres,81651.19226
+493,Mexico,Total freshwater,Total gross abstraction,2014,Cubic metres,84928.80412999999
+494,Mexico,Total freshwater,Total gross abstraction,2015,Cubic metres,85664.2472
+495,Mexico,Total freshwater,Total gross abstraction,2016,Cubic metres,86576.75313
+496,Mexico,Total freshwater,Public water supply,2008,Cubic metres,11197.472440000001
+497,Mexico,Total freshwater,Public water supply,2009,Cubic metres,11395.38616
+498,Mexico,Total freshwater,Public water supply,2010,Cubic metres,11443.132590000001
+499,Mexico,Total freshwater,Public water supply,2011,Cubic metres,12179.52592
+500,Mexico,Total freshwater,Public water supply,2012,Cubic metres,11981.32693
+501,Mexico,Total freshwater,Public water supply,2013,Cubic metres,11961.50365
+502,Mexico,Total freshwater,Public water supply,2014,Cubic metres,12052.27595
+503,Mexico,Total freshwater,Public water supply,2015,Cubic metres,12440.83934
+504,Mexico,Total freshwater,Public water supply,2016,Cubic metres,12577.1274
+505,Mexico,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,61214.947920000006
+506,Mexico,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,61794.03758
+507,Mexico,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,61490.13696
+508,Mexico,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,62096.01044
+509,Mexico,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,63349.69739
+510,Mexico,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,61822.70164
+511,Mexico,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,65154.99456
+512,Mexico,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,65359.45845
+513,Mexico,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,66048.66346
+514,Mexico,Total freshwater,Irrigation,2008,Cubic metres,59373.7
+515,Mexico,Total freshwater,Irrigation,2009,Cubic metres,59373.7
+516,Mexico,Total freshwater,Irrigation,2010,Cubic metres,59936.3
+517,Mexico,Total freshwater,Irrigation,2011,Cubic metres,59645.43285
+518,Mexico,Total freshwater,Irrigation,2012,Cubic metres,61449.206470000005
+519,Mexico,Total freshwater,Irrigation,2013,Cubic metres,59968.0206
+520,Mexico,Total freshwater,Irrigation,2014,Cubic metres,58433.566770000005
+521,Mexico,Total freshwater,Irrigation,2015,Cubic metres,58450.14883
+522,Mexico,Total freshwater,Irrigation,2016,Cubic metres,58981.44403
+523,Mexico,Total freshwater,Manufacturing industry,2008,Cubic metres,3264.61607
+524,Mexico,Total freshwater,Manufacturing industry,2009,Cubic metres,3319.65473
+525,Mexico,Total freshwater,Manufacturing industry,2010,Cubic metres,3202.1511600000003
+526,Mexico,Total freshwater,Manufacturing industry,2011,Cubic metres,3234.57934
+527,Mexico,Total freshwater,Manufacturing industry,2012,Cubic metres,3325.23999
+528,Mexico,Total freshwater,Manufacturing industry,2013,Cubic metres,3337.87313
+529,Mexico,Total freshwater,Manufacturing industry,2014,Cubic metres,3571.9923299999996
+530,Mexico,Total freshwater,Manufacturing industry,2015,Cubic metres,3675.5165899999997
+531,Mexico,Total freshwater,Manufacturing industry,2016,Cubic metres,3801.6413799999996
+532,Mexico,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,701.6629
+533,Mexico,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,697.6914
+534,Mexico,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,683.7213
+535,Mexico,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,685.0964
+536,Mexico,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,684.7213
+537,Mexico,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,666.3447
+538,Mexico,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,683.6879
+539,Mexico,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,680.4639
+540,Mexico,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,678.8182
+541,Netherlands,Total freshwater,Total gross abstraction,2008,Cubic metres,10709.0
+542,Netherlands,Total freshwater,Total gross abstraction,2009,Cubic metres,11398.0
+543,Netherlands,Total freshwater,Total gross abstraction,2010,Cubic metres,10990.0
+544,Netherlands,Total freshwater,Total gross abstraction,2011,Cubic metres,10242.0
+545,Netherlands,Total freshwater,Total gross abstraction,2012,Cubic metres,10783.0
+546,Netherlands,Total freshwater,Total gross abstraction,2013,Cubic metres,10706.0
+547,Netherlands,Total freshwater,Total gross abstraction,2014,Cubic metres,9481.0
+548,Netherlands,Total freshwater,Public water supply,2008,Cubic metres,1252.0
+549,Netherlands,Total freshwater,Public water supply,2009,Cubic metres,1235.0
+550,Netherlands,Total freshwater,Public water supply,2010,Cubic metres,1217.0
+551,Netherlands,Total freshwater,Public water supply,2011,Cubic metres,1229.0
+552,Netherlands,Total freshwater,Public water supply,2012,Cubic metres,1218.0
+553,Netherlands,Total freshwater,Public water supply,2013,Cubic metres,1222.0
+554,Netherlands,Total freshwater,Public water supply,2014,Cubic metres,1224.0
+555,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,72.0
+556,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,92.0
+557,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,122.0
+558,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,120.0
+559,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,61.0
+560,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,107.0
+561,Netherlands,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,83.0
+562,Netherlands,Total freshwater,Irrigation,2008,Cubic metres,36.0
+563,Netherlands,Total freshwater,Irrigation,2009,Cubic metres,56.0
+564,Netherlands,Total freshwater,Irrigation,2010,Cubic metres,82.0
+565,Netherlands,Total freshwater,Irrigation,2011,Cubic metres,81.0
+566,Netherlands,Total freshwater,Irrigation,2012,Cubic metres,23.2
+567,Netherlands,Total freshwater,Irrigation,2013,Cubic metres,67.0
+568,Netherlands,Total freshwater,Irrigation,2014,Cubic metres,42.0
+569,Netherlands,Total freshwater,Manufacturing industry,2008,Cubic metres,3206.0
+570,Netherlands,Total freshwater,Manufacturing industry,2009,Cubic metres,3561.0
+571,Netherlands,Total freshwater,Manufacturing industry,2010,Cubic metres,2865.0
+572,Netherlands,Total freshwater,Manufacturing industry,2011,Cubic metres,2916.0
+573,Netherlands,Total freshwater,Manufacturing industry,2012,Cubic metres,2958.0
+574,Netherlands,Total freshwater,Manufacturing industry,2013,Cubic metres,2822.0
+575,Netherlands,Total freshwater,Manufacturing industry,2014,Cubic metres,2507.0
+576,Netherlands,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,646.3378
+577,Netherlands,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,685.5146
+578,Netherlands,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,658.7576
+579,Netherlands,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,611.9376
+580,Netherlands,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,642.2621
+581,Netherlands,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,635.7596
+582,Netherlands,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,561.4187
+583,New Zealand,Total freshwater,Total gross abstraction,2010,Cubic metres,5200.5
+584,New Zealand,Total freshwater,Total gross abstraction,2014,Cubic metres,9874.35
+585,New Zealand,Total freshwater,Public water supply,2010,Cubic metres,809.5
+586,New Zealand,Total freshwater,Public water supply,2014,Cubic metres,1350.35
+587,New Zealand,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,3206.5
+588,New Zealand,Total freshwater,Irrigation,2010,Cubic metres,2802.0
+589,New Zealand,Total freshwater,Irrigation,2014,Cubic metres,5046.8
+590,New Zealand,Total freshwater,Manufacturing industry,2010,Cubic metres,1184.5
+591,New Zealand,Total freshwater,Manufacturing industry,2014,Cubic metres,1305.37
+592,New Zealand,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,1190.029
+593,New Zealand,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,2162.25
+594,Norway,Total freshwater,Public water supply,2008,Cubic metres,826.0
+595,Norway,Total freshwater,Public water supply,2009,Cubic metres,800.0
+596,Norway,Total freshwater,Public water supply,2010,Cubic metres,803.0
+597,Norway,Total freshwater,Public water supply,2011,Cubic metres,819.0
+598,Norway,Total freshwater,Public water supply,2012,Cubic metres,816.0
+599,Norway,Total freshwater,Public water supply,2013,Cubic metres,838.0
+600,Norway,Total freshwater,Public water supply,2014,Cubic metres,863.0
+601,Norway,Total freshwater,Manufacturing industry,2008,Cubic metres,1133.0
+602,Norway,Total freshwater,Manufacturing industry,2009,Cubic metres,1027.0
+603,Poland,Total freshwater,Total gross abstraction,2008,Cubic metres,11365.0
+604,Poland,Total freshwater,Total gross abstraction,2009,Cubic metres,11517.0
+605,Poland,Total freshwater,Total gross abstraction,2010,Cubic metres,11645.0
+606,Poland,Total freshwater,Total gross abstraction,2011,Cubic metres,11911.0
+607,Poland,Total freshwater,Total gross abstraction,2012,Cubic metres,11478.0
+608,Poland,Total freshwater,Total gross abstraction,2013,Cubic metres,11242.0
+609,Poland,Total freshwater,Total gross abstraction,2014,Cubic metres,11308.5
+610,Poland,Total freshwater,Total gross abstraction,2015,Cubic metres,11093.5
+611,Poland,Total freshwater,Total gross abstraction,2016,Cubic metres,11153.0
+612,Poland,Total freshwater,Public water supply,2008,Cubic metres,2103.0
+613,Poland,Total freshwater,Public water supply,2009,Cubic metres,2067.0
+614,Poland,Total freshwater,Public water supply,2010,Cubic metres,2062.0
+615,Poland,Total freshwater,Public water supply,2011,Cubic metres,2032.0
+616,Poland,Total freshwater,Public water supply,2012,Cubic metres,2030.0
+617,Poland,Total freshwater,Public water supply,2013,Cubic metres,1991.0
+618,Poland,Total freshwater,Public water supply,2014,Cubic metres,1988.0999800000002
+619,Poland,Total freshwater,Public water supply,2015,Cubic metres,2047.5
+620,Poland,Total freshwater,Public water supply,2016,Cubic metres,2046.0
+621,Poland,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,1149.0
+622,Poland,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,1159.0
+623,Poland,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,1153.0
+624,Poland,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,1111.0
+625,Poland,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,1102.0
+626,Poland,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,1080.0
+627,Poland,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,1056.6
+628,Poland,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,991.7999900000001
+629,Poland,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,1045.4
+630,Poland,Total freshwater,Irrigation,2008,Cubic metres,102.0
+631,Poland,Total freshwater,Irrigation,2009,Cubic metres,95.0
+632,Poland,Total freshwater,Irrigation,2010,Cubic metres,75.0
+633,Poland,Total freshwater,Irrigation,2011,Cubic metres,83.0
+634,Poland,Total freshwater,Irrigation,2012,Cubic metres,80.0
+635,Poland,Total freshwater,Irrigation,2013,Cubic metres,78.0
+636,Poland,Total freshwater,Irrigation,2014,Cubic metres,80.8
+637,Poland,Total freshwater,Irrigation,2015,Cubic metres,84.9
+638,Poland,Total freshwater,Irrigation,2016,Cubic metres,88.5
+639,Poland,Total freshwater,Aquaculture,2008,Cubic metres,1047.0
+640,Poland,Total freshwater,Aquaculture,2009,Cubic metres,1064.0
+641,Poland,Total freshwater,Aquaculture,2010,Cubic metres,1078.0
+642,Poland,Total freshwater,Aquaculture,2011,Cubic metres,1028.0
+643,Poland,Total freshwater,Aquaculture,2012,Cubic metres,1022.0
+644,Poland,Total freshwater,Aquaculture,2013,Cubic metres,1002.0
+645,Poland,Total freshwater,Aquaculture,2014,Cubic metres,975.7999900000001
+646,Poland,Total freshwater,Aquaculture,2015,Cubic metres,906.9000199999999
+647,Poland,Total freshwater,Manufacturing industry,2008,Cubic metres,463.0
+648,Poland,Total freshwater,Manufacturing industry,2009,Cubic metres,444.0
+649,Poland,Total freshwater,Manufacturing industry,2010,Cubic metres,381.0
+650,Poland,Total freshwater,Manufacturing industry,2011,Cubic metres,472.0
+651,Poland,Total freshwater,Manufacturing industry,2012,Cubic metres,465.0
+652,Poland,Total freshwater,Manufacturing industry,2013,Cubic metres,470.0
+653,Poland,Total freshwater,Manufacturing industry,2014,Cubic metres,462.20000999999996
+654,Poland,Total freshwater,Manufacturing industry,2015,Cubic metres,471.20000999999996
+655,Poland,Total freshwater,Manufacturing industry,2016,Cubic metres,490.3
+656,Poland,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,296.5374
+657,Poland,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,300.5098
+658,Poland,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,303.8613
+659,Poland,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,310.8222
+660,Poland,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,299.5506
+661,Poland,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,293.4524
+662,Poland,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,295.3146
+663,Poland,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,289.9107
+664,Poland,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,291.7769
+665,Portugal,Total freshwater,Public water supply,2008,Cubic metres,906.54395
+666,Portugal,Total freshwater,Public water supply,2009,Cubic metres,933.62036
+667,Portugal,Total freshwater,Public water supply,2011,Cubic metres,950.11311
+668,Portugal,Total freshwater,Public water supply,2012,Cubic metres,883.0999800000001
+669,Portugal,Total freshwater,Public water supply,2013,Cubic metres,894.21277
+670,Portugal,Total freshwater,Public water supply,2014,Cubic metres,871.91986
+671,Portugal,Total freshwater,Irrigation,2009,Cubic metres,3437.37
+672,Portugal,Total freshwater,Irrigation,2013,Cubic metres,3412.3
+673,Slovak Republic,Total freshwater,Total gross abstraction,2008,Cubic metres,664.0
+674,Slovak Republic,Total freshwater,Total gross abstraction,2009,Cubic metres,628.0
+675,Slovak Republic,Total freshwater,Total gross abstraction,2010,Cubic metres,601.0
+676,Slovak Republic,Total freshwater,Total gross abstraction,2011,Cubic metres,593.0
+677,Slovak Republic,Total freshwater,Total gross abstraction,2012,Cubic metres,665.0
+678,Slovak Republic,Total freshwater,Total gross abstraction,2013,Cubic metres,637.0
+679,Slovak Republic,Total freshwater,Total gross abstraction,2014,Cubic metres,559.08
+680,Slovak Republic,Total freshwater,Total gross abstraction,2015,Cubic metres,573.78998
+681,Slovak Republic,Total freshwater,Total gross abstraction,2016,Cubic metres,554.7
+682,Slovak Republic,Total freshwater,Public water supply,2008,Cubic metres,319.0
+683,Slovak Republic,Total freshwater,Public water supply,2009,Cubic metres,318.0
+684,Slovak Republic,Total freshwater,Public water supply,2010,Cubic metres,309.0
+685,Slovak Republic,Total freshwater,Public water supply,2011,Cubic metres,303.0
+686,Slovak Republic,Total freshwater,Public water supply,2012,Cubic metres,306.0
+687,Slovak Republic,Total freshwater,Public water supply,2013,Cubic metres,295.0
+688,Slovak Republic,Total freshwater,Public water supply,2014,Cubic metres,285.6
+689,Slovak Republic,Total freshwater,Public water supply,2015,Cubic metres,289.01999
+690,Slovak Republic,Total freshwater,Public water supply,2016,Cubic metres,286.14
+691,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,17.0
+692,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,25.0
+693,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,18.0
+694,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,23.0
+695,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,31.0
+696,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,26.0
+697,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,22.64
+698,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,30.48
+699,Slovak Republic,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,17.08
+700,Slovak Republic,Total freshwater,Irrigation,2008,Cubic metres,11.0
+701,Slovak Republic,Total freshwater,Irrigation,2009,Cubic metres,14.0
+702,Slovak Republic,Total freshwater,Irrigation,2010,Cubic metres,7.0
+703,Slovak Republic,Total freshwater,Irrigation,2011,Cubic metres,12.0
+704,Slovak Republic,Total freshwater,Irrigation,2012,Cubic metres,21.0
+705,Slovak Republic,Total freshwater,Irrigation,2013,Cubic metres,17.0
+706,Slovak Republic,Total freshwater,Irrigation,2014,Cubic metres,13.57
+707,Slovak Republic,Total freshwater,Irrigation,2015,Cubic metres,21.48
+708,Slovak Republic,Total freshwater,Irrigation,2016,Cubic metres,10.99
+709,Slovak Republic,Total freshwater,Manufacturing industry,2008,Cubic metres,287.0
+710,Slovak Republic,Total freshwater,Manufacturing industry,2009,Cubic metres,263.0
+711,Slovak Republic,Total freshwater,Manufacturing industry,2010,Cubic metres,254.0
+712,Slovak Republic,Total freshwater,Manufacturing industry,2011,Cubic metres,248.0
+713,Slovak Republic,Total freshwater,Manufacturing industry,2012,Cubic metres,310.0
+714,Slovak Republic,Total freshwater,Manufacturing industry,2013,Cubic metres,297.0
+715,Slovak Republic,Total freshwater,Manufacturing industry,2014,Cubic metres,231.84
+716,Slovak Republic,Total freshwater,Manufacturing industry,2015,Cubic metres,233.28999
+717,Slovak Republic,Total freshwater,Manufacturing industry,2016,Cubic metres,227.47
+718,Slovak Republic,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,122.98899999999999
+719,Slovak Republic,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,116.2808
+720,Slovak Republic,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,111.2079
+721,Slovak Republic,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,109.6149
+722,Slovak Republic,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,122.7601
+723,Slovak Republic,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,117.4165
+724,Slovak Republic,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,102.9075
+725,Slovak Republic,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,105.4893
+726,Slovak Republic,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,101.8879
+727,Spain,Total freshwater,Total gross abstraction,2008,Cubic metres,35373.0
+728,Spain,Total freshwater,Total gross abstraction,2009,Cubic metres,36122.0
+729,Spain,Total freshwater,Total gross abstraction,2010,Cubic metres,35224.0
+730,Spain,Total freshwater,Total gross abstraction,2011,Cubic metres,34993.0
+731,Spain,Total freshwater,Total gross abstraction,2012,Cubic metres,34239.0
+732,Spain,Total freshwater,Total gross abstraction,2013,Cubic metres,32279.0
+733,Spain,Total freshwater,Total gross abstraction,2014,Cubic metres,32855.0
+734,Spain,Total freshwater,Public water supply,2008,Cubic metres,5765.0
+735,Spain,Total freshwater,Public water supply,2009,Cubic metres,5450.0
+736,Spain,Total freshwater,Public water supply,2010,Cubic metres,5050.0
+737,Spain,Total freshwater,Public water supply,2011,Cubic metres,4644.0
+738,Spain,Total freshwater,Public water supply,2012,Cubic metres,4598.0
+739,Spain,Total freshwater,Public water supply,2013,Cubic metres,4628.0
+740,Spain,Total freshwater,Public water supply,2014,Cubic metres,4552.0
+741,Spain,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,22760.0
+742,Spain,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,23970.0
+743,Spain,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,23360.0
+744,Spain,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,23700.0
+745,Spain,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,23065.0
+746,Spain,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,21228.0
+747,Spain,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,21964.0
+748,Spain,Total freshwater,Irrigation,2008,Cubic metres,20300.0
+749,Spain,Total freshwater,Irrigation,2009,Cubic metres,21800.0
+750,Spain,Total freshwater,Irrigation,2010,Cubic metres,21300.0
+751,Spain,Total freshwater,Irrigation,2011,Cubic metres,21720.0
+752,Spain,Total freshwater,Irrigation,2012,Cubic metres,20966.0
+753,Spain,Total freshwater,Irrigation,2013,Cubic metres,19178.0
+754,Spain,Total freshwater,Irrigation,2014,Cubic metres,20014.0
+755,Spain,Total freshwater,Aquaculture,2008,Cubic metres,2460.0
+756,Spain,Total freshwater,Aquaculture,2009,Cubic metres,2170.0
+757,Spain,Total freshwater,Aquaculture,2010,Cubic metres,2060.0
+758,Spain,Total freshwater,Aquaculture,2011,Cubic metres,1980.0
+759,Spain,Total freshwater,Aquaculture,2012,Cubic metres,2100.0
+760,Spain,Total freshwater,Aquaculture,2013,Cubic metres,2050.0
+761,Spain,Total freshwater,Aquaculture,2014,Cubic metres,1950.0
+762,Spain,Total freshwater,Manufacturing industry,2008,Cubic metres,503.0
+763,Spain,Total freshwater,Manufacturing industry,2009,Cubic metres,507.0
+764,Spain,Total freshwater,Manufacturing industry,2010,Cubic metres,514.0
+765,Spain,Total freshwater,Manufacturing industry,2011,Cubic metres,499.0
+766,Spain,Total freshwater,Manufacturing industry,2012,Cubic metres,476.0
+767,Spain,Total freshwater,Manufacturing industry,2013,Cubic metres,473.0
+768,Spain,Total freshwater,Manufacturing industry,2014,Cubic metres,469.0
+769,Spain,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,769.2597
+770,Spain,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,779.0362
+771,Spain,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,764.7789
+772,Spain,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,774.7731
+773,Spain,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,798.6289999999999
+774,Spain,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,694.2262
+775,Spain,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,708.4275
+776,Sweden,Total freshwater,Total gross abstraction,2010,Cubic metres,2690.0
+777,Sweden,Total freshwater,Public water supply,2010,Cubic metres,908.0
+778,Sweden,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,98.0
+779,Sweden,Total freshwater,Irrigation,2010,Cubic metres,62.0
+780,Sweden,Total freshwater,Manufacturing industry,2010,Cubic metres,1451.0
+781,Sweden,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,286.4698
+782,Switzerland,Total freshwater,Total gross abstraction,2012,Cubic metres,2004.8
+783,Switzerland,Total freshwater,Public water supply,2008,Cubic metres,980.0
+784,Switzerland,Total freshwater,Public water supply,2009,Cubic metres,967.0
+785,Switzerland,Total freshwater,Public water supply,2010,Cubic metres,940.0
+786,Switzerland,Total freshwater,Public water supply,2011,Cubic metres,954.0
+787,Switzerland,Total freshwater,Public water supply,2012,Cubic metres,935.0
+788,Switzerland,Total freshwater,Public water supply,2013,Cubic metres,917.0
+789,Switzerland,Total freshwater,Public water supply,2014,Cubic metres,901.0
+790,Switzerland,Total freshwater,Public water supply,2015,Cubic metres,933.0
+791,Switzerland,Total freshwater,Public water supply,2016,Cubic metres,923.0
+792,Switzerland,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,249.6118
+793,Turkey,Total freshwater,Total gross abstraction,2008,Cubic metres,42008.0
+794,Turkey,Total freshwater,Total gross abstraction,2009,Cubic metres,45130.0
+795,Turkey,Total freshwater,Total gross abstraction,2010,Cubic metres,46956.0
+796,Turkey,Total freshwater,Total gross abstraction,2012,Cubic metres,50510.0
+797,Turkey,Total freshwater,Total gross abstraction,2014,Cubic metres,51970.94922
+798,Turkey,Total freshwater,Public water supply,2008,Cubic metres,5768.0
+799,Turkey,Total freshwater,Public water supply,2009,Cubic metres,5708.0
+800,Turkey,Total freshwater,Public water supply,2010,Cubic metres,5791.0
+801,Turkey,Total freshwater,Public water supply,2011,Cubic metres,5892.0
+802,Turkey,Total freshwater,Public water supply,2012,Cubic metres,5968.0
+803,Turkey,Total freshwater,Public water supply,2014,Cubic metres,5424.16016
+804,Turkey,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,33768.0
+805,Turkey,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,36907.0
+806,Turkey,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,38146.0
+807,Turkey,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,40643.0
+808,Turkey,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,41547.0
+809,Turkey,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,43489.0
+810,Turkey,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,43667.96875
+811,Turkey,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,48293.42969
+812,Turkey,Total freshwater,Irrigation,2008,Cubic metres,33768.0
+813,Turkey,Total freshwater,Irrigation,2009,Cubic metres,36907.0
+814,Turkey,Total freshwater,Irrigation,2010,Cubic metres,38146.0
+815,Turkey,Total freshwater,Irrigation,2011,Cubic metres,40643.0
+816,Turkey,Total freshwater,Irrigation,2012,Cubic metres,41547.0
+817,Turkey,Total freshwater,Irrigation,2013,Cubic metres,43489.0
+818,Turkey,Total freshwater,Irrigation,2014,Cubic metres,35848.0
+819,Turkey,Total freshwater,Irrigation,2015,Cubic metres,40606.0
+820,Turkey,Total freshwater,Manufacturing industry,2008,Cubic metres,658.0
+821,Turkey,Total freshwater,Manufacturing industry,2010,Cubic metres,810.0
+822,Turkey,Total freshwater,Manufacturing industry,2012,Cubic metres,619.0
+823,Turkey,Total freshwater,Manufacturing industry,2014,Cubic metres,680.21002
+824,Turkey,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,596.3654
+825,Turkey,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,632.6116
+826,Turkey,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,649.2189
+827,Turkey,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,677.3513
+828,Turkey,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,674.6791
+829,United Kingdom,Total freshwater,Public water supply,2008,Cubic metres,6941.53
+830,United States,Total freshwater,Total gross abstraction,2010,Cubic metres,489527.5592
+831,United States,Total freshwater,Public water supply,2010,Cubic metres,58030.36265
+832,United States,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,175233.73342
+833,United States,Total freshwater,Irrigation,2010,Cubic metres,159445.3298
+834,United States,Total freshwater,Aquaculture,2010,Cubic metres,13029.19809
+835,United States,Total freshwater,Manufacturing industry,2010,Cubic metres,22086.63236
+836,United States,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,1582.454
+837,Chile,Total freshwater,Public water supply,2008,Cubic metres,1496.42
+838,Chile,Total freshwater,Public water supply,2009,Cubic metres,1527.46
+839,Chile,Total freshwater,Public water supply,2010,Cubic metres,1544.2
+840,Chile,Total freshwater,Public water supply,2011,Cubic metres,1584.03
+841,Chile,Total freshwater,Public water supply,2012,Cubic metres,1620.0
+842,Chile,Total freshwater,Public water supply,2013,Cubic metres,1652.0
+843,Chile,Total freshwater,Public water supply,2014,Cubic metres,1682.0
+844,Chile,Total freshwater,Public water supply,2015,Cubic metres,1707.67603
+845,Chile,Total freshwater,Public water supply,2016,Cubic metres,1700.9079600000002
+846,Estonia,Total freshwater,Total gross abstraction,2008,Cubic metres,1605.31006
+847,Estonia,Total freshwater,Total gross abstraction,2009,Cubic metres,1388.01697
+848,Estonia,Total freshwater,Total gross abstraction,2010,Cubic metres,1842.0
+849,Estonia,Total freshwater,Total gross abstraction,2011,Cubic metres,1873.87805
+850,Estonia,Total freshwater,Total gross abstraction,2012,Cubic metres,1630.9710699999998
+851,Estonia,Total freshwater,Total gross abstraction,2013,Cubic metres,1747.8110000000001
+852,Estonia,Total freshwater,Total gross abstraction,2014,Cubic metres,1724.05847
+853,Estonia,Total freshwater,Total gross abstraction,2015,Cubic metres,1615.34265
+854,Estonia,Total freshwater,Total gross abstraction,2016,Cubic metres,1756.2406
+855,Estonia,Total freshwater,Public water supply,2008,Cubic metres,29.42
+856,Estonia,Total freshwater,Public water supply,2009,Cubic metres,62.96
+857,Estonia,Total freshwater,Public water supply,2010,Cubic metres,68.01899999999999
+858,Estonia,Total freshwater,Public water supply,2011,Cubic metres,102.93799999999999
+859,Estonia,Total freshwater,Public water supply,2012,Cubic metres,62.379
+860,Estonia,Total freshwater,Public water supply,2013,Cubic metres,60.567
+861,Estonia,Total freshwater,Public water supply,2014,Cubic metres,61.31365
+862,Estonia,Total freshwater,Public water supply,2015,Cubic metres,60.1383
+863,Estonia,Total freshwater,Public water supply,2016,Cubic metres,60.35232
+864,Estonia,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,4.52566
+865,Estonia,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,4.41
+866,Estonia,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,4.47
+867,Estonia,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,4.48094
+868,Estonia,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,4.46782
+869,Estonia,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,4.69372
+870,Estonia,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,4.78
+871,Estonia,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,5.09462
+872,Estonia,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,4.9
+873,Estonia,Total freshwater,Manufacturing industry,2008,Cubic metres,22.026889999999998
+874,Estonia,Total freshwater,Manufacturing industry,2009,Cubic metres,21.01
+875,Estonia,Total freshwater,Manufacturing industry,2010,Cubic metres,23.92
+876,Estonia,Total freshwater,Manufacturing industry,2011,Cubic metres,19.854979999999998
+877,Estonia,Total freshwater,Manufacturing industry,2012,Cubic metres,22.97625
+878,Estonia,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,1198.25
+879,Estonia,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,1039.067
+880,Estonia,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,1382.777
+881,Estonia,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,1410.576
+882,Estonia,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,1230.983
+883,Estonia,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,1322.536
+884,Estonia,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,1307.731
+885,Estonia,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,1228.098
+886,Estonia,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,1338.1470000000002
+887,Israel,Total freshwater,Total gross abstraction,2008,Cubic metres,1595.0
+888,Israel,Total freshwater,Total gross abstraction,2009,Cubic metres,1313.0
+889,Israel,Total freshwater,Total gross abstraction,2010,Cubic metres,1340.0
+890,Israel,Total freshwater,Total gross abstraction,2011,Cubic metres,1266.0
+891,Israel,Total freshwater,Total gross abstraction,2012,Cubic metres,1318.0
+892,Israel,Total freshwater,Total gross abstraction,2013,Cubic metres,1296.0
+893,Israel,Total freshwater,Total gross abstraction,2014,Cubic metres,1271.0
+894,Israel,Total freshwater,Total gross abstraction,2015,Cubic metres,1145.0
+895,Israel,Total freshwater,Public water supply,2008,Cubic metres,1488.42
+896,Israel,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,65.39
+897,Israel,Total freshwater,Irrigation,2008,Cubic metres,65.39
+898,Israel,Total freshwater,Manufacturing industry,2008,Cubic metres,40.91
+899,Israel,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,224.7299
+900,Israel,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,180.6575
+901,Israel,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,180.4481
+902,Israel,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,167.2662
+903,Israel,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,171.1887
+904,Israel,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,165.7055
+905,Israel,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,160.0488
+906,Israel,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,141.9795
+907,Slovenia,Total freshwater,Total gross abstraction,2008,Cubic metres,1040.0
+908,Slovenia,Total freshwater,Total gross abstraction,2009,Cubic metres,943.0
+909,Slovenia,Total freshwater,Total gross abstraction,2010,Cubic metres,925.0
+910,Slovenia,Total freshwater,Total gross abstraction,2011,Cubic metres,851.0
+911,Slovenia,Total freshwater,Total gross abstraction,2012,Cubic metres,781.09998
+912,Slovenia,Total freshwater,Total gross abstraction,2013,Cubic metres,892.5
+913,Slovenia,Total freshwater,Total gross abstraction,2014,Cubic metres,977.37
+914,Slovenia,Total freshwater,Total gross abstraction,2015,Cubic metres,895.0999800000001
+915,Slovenia,Total freshwater,Total gross abstraction,2016,Cubic metres,884.37
+916,Slovenia,Total freshwater,Public water supply,2008,Cubic metres,166.0
+917,Slovenia,Total freshwater,Public water supply,2009,Cubic metres,165.0
+918,Slovenia,Total freshwater,Public water supply,2010,Cubic metres,166.0
+919,Slovenia,Total freshwater,Public water supply,2011,Cubic metres,169.0
+920,Slovenia,Total freshwater,Public water supply,2012,Cubic metres,161.0
+921,Slovenia,Total freshwater,Public water supply,2013,Cubic metres,164.0
+922,Slovenia,Total freshwater,Public water supply,2014,Cubic metres,163.03
+923,Slovenia,Total freshwater,Public water supply,2015,Cubic metres,164.39999
+924,Slovenia,Total freshwater,Public water supply,2016,Cubic metres,161.8
+925,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,2.0
+926,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,2.0
+927,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,2.0
+928,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,3.0
+929,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,2.0
+930,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,4.0
+931,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,1.7
+932,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,3.63
+933,Slovenia,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,3.37
+934,Slovenia,Total freshwater,Irrigation,2008,Cubic metres,2.0
+935,Slovenia,Total freshwater,Irrigation,2009,Cubic metres,2.0
+936,Slovenia,Total freshwater,Irrigation,2010,Cubic metres,2.0
+937,Slovenia,Total freshwater,Irrigation,2011,Cubic metres,3.0
+938,Slovenia,Total freshwater,Irrigation,2012,Cubic metres,2.0
+939,Slovenia,Total freshwater,Irrigation,2013,Cubic metres,4.0
+940,Slovenia,Total freshwater,Irrigation,2014,Cubic metres,1.7
+941,Slovenia,Total freshwater,Irrigation,2015,Cubic metres,3.63
+942,Slovenia,Total freshwater,Irrigation,2016,Cubic metres,3.37
+943,Slovenia,Total freshwater,Manufacturing industry,2008,Cubic metres,49.0
+944,Slovenia,Total freshwater,Manufacturing industry,2009,Cubic metres,48.0
+945,Slovenia,Total freshwater,Manufacturing industry,2010,Cubic metres,50.0
+946,Slovenia,Total freshwater,Manufacturing industry,2011,Cubic metres,45.0
+947,Slovenia,Total freshwater,Manufacturing industry,2012,Cubic metres,40.1
+948,Slovenia,Total freshwater,Manufacturing industry,2013,Cubic metres,43.5
+949,Slovenia,Total freshwater,Manufacturing industry,2014,Cubic metres,43.04
+950,Slovenia,Total freshwater,Manufacturing industry,2015,Cubic metres,40.9
+951,Slovenia,Total freshwater,Manufacturing industry,2016,Cubic metres,40.6
+952,Slovenia,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,513.6974
+953,Slovenia,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,463.2942
+954,Slovenia,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,452.2856
+955,Slovenia,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,414.4273
+956,Slovenia,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,379.103
+957,Slovenia,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,432.4533
+958,Slovenia,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,472.04400000000004
+959,Slovenia,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,431.4175
+960,Slovenia,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,425.6154
+961,England and Wales,Total freshwater,Total gross abstraction,2008,Cubic metres,8347.0
+962,England and Wales,Total freshwater,Total gross abstraction,2009,Cubic metres,8281.0
+963,England and Wales,Total freshwater,Total gross abstraction,2010,Cubic metres,8263.0
+964,England and Wales,Total freshwater,Total gross abstraction,2011,Cubic metres,7685.0
+965,England and Wales,Total freshwater,Total gross abstraction,2012,Cubic metres,8214.0
+966,England and Wales,Total freshwater,Total gross abstraction,2013,Cubic metres,7865.5
+967,England and Wales,Total freshwater,Public water supply,2008,Cubic metres,5944.0
+968,England and Wales,Total freshwater,Public water supply,2009,Cubic metres,5761.0
+969,England and Wales,Total freshwater,Public water supply,2010,Cubic metres,5955.0
+970,England and Wales,Total freshwater,Public water supply,2011,Cubic metres,5817.0
+971,England and Wales,Total freshwater,Public water supply,2012,Cubic metres,5828.0
+972,England and Wales,Total freshwater,Public water supply,2013,Cubic metres,5867.6001
+973,England and Wales,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,1115.0
+974,England and Wales,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,1052.0
+975,England and Wales,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,1187.0
+976,England and Wales,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,990.0
+977,England and Wales,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,1049.0
+978,England and Wales,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,1072.19995
+979,England and Wales,Total freshwater,Irrigation,2008,Cubic metres,57.0
+980,England and Wales,Total freshwater,Irrigation,2009,Cubic metres,84.99600000000001
+981,England and Wales,Total freshwater,Irrigation,2010,Cubic metres,104.0
+982,England and Wales,Total freshwater,Irrigation,2011,Cubic metres,118.0
+983,England and Wales,Total freshwater,Irrigation,2012,Cubic metres,49.0
+984,England and Wales,Total freshwater,Irrigation,2013,Cubic metres,99.6
+985,England and Wales,Total freshwater,Manufacturing industry,2008,Cubic metres,1097.0
+986,England and Wales,Total freshwater,Manufacturing industry,2009,Cubic metres,1242.0
+987,England and Wales,Total freshwater,Manufacturing industry,2010,Cubic metres,890.0
+988,England and Wales,Total freshwater,Manufacturing industry,2011,Cubic metres,673.0
+989,England and Wales,Total freshwater,Manufacturing industry,2012,Cubic metres,1122.0
+990,England and Wales,Total freshwater,Manufacturing industry,2013,Cubic metres,772.7999900000001
+991,England and Wales,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,152.2009
+992,England and Wales,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,149.923
+993,England and Wales,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,148.3696
+994,England and Wales,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,136.8144
+995,England and Wales,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,145.2063
+996,England and Wales,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,138.1167
+997,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,3.7741800000000003
+998,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,3.57504
+999,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,3.5388900000000003
+1000,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,4.22306
+1001,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,5.19985
+1002,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,5.00124
+1003,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,4.70629
+1004,Australia,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,4.34256
+1005,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,3.7741800000000003
+1006,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,3.57504
+1007,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,3.5388900000000003
+1008,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,4.22306
+1009,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,5.19985
+1010,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,5.00124
+1011,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,4.70629
+1012,Australia,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,4.34256
+1013,Belgium,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,30.78332
+1014,Belgium,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,30.12793
+1015,Belgium,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,30.042540000000002
+1016,Belgium,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,26.572020000000002
+1017,Belgium,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,26.59188
+1018,Belgium,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,24.22636
+1019,Belgium,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,49.77724
+1020,Belgium,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,48.71745
+1021,Belgium,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,48.57938
+1022,Belgium,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,42.96747
+1023,Belgium,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,42.9996
+1024,Belgium,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,39.1745
+1025,Canada,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,0.8943700000000001
+1026,Canada,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,0.94609
+1027,Canada,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,1.01746
+1028,Canada,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,0.90764
+1029,Canada,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,0.9601200000000001
+1030,Canada,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,1.03255
+1031,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,12.44289
+1032,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,12.19253
+1033,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,12.205039999999999
+1034,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,11.80447
+1035,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,11.51655
+1036,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,10.32735
+1037,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,10.32735
+1038,Czech Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,10.0338
+1039,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,13.047189999999999
+1040,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,12.78467
+1041,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,12.797789999999999
+1042,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,12.37776
+1043,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,12.07587
+1044,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,10.8289
+1045,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,10.8289
+1046,Czech Republic,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,10.5211
+1047,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,4.24541
+1048,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,4.02626
+1049,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,3.99131
+1050,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,4.49033
+1051,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,3.3990199999999997
+1052,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,4.66181
+1053,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,4.56585
+1054,Denmark,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,4.01579
+1055,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,4.24541
+1056,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,4.02626
+1057,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,3.99131
+1058,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,4.49033
+1059,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,3.3990199999999997
+1060,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,4.66181
+1061,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,4.56585
+1062,Denmark,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,4.01579
+1063,France,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,15.29375
+1064,France,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,15.493739999999999
+1065,France,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,14.840979999999998
+1066,France,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,14.82903
+1067,France,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,15.71478
+1068,France,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,14.57351
+1069,France,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,16.228620000000003
+1070,France,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,16.440839999999998
+1071,France,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,15.74818
+1072,France,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,15.7355
+1073,France,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,16.6754
+1074,France,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,15.46437
+1075,Germany,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,17.58579
+1076,Germany,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,13.48439
+1077,Germany,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,29.25778
+1078,Germany,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,22.43421
+1079,Greece,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,13.798070000000001
+1080,Greece,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,13.79849
+1081,Greece,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,13.78404
+1082,Greece,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,13.772639999999999
+1083,Greece,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,13.76075
+1084,Greece,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,16.557679999999998
+1085,Greece,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,16.55818
+1086,Greece,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,16.54085
+1087,Greece,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,16.52717
+1088,Greece,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,16.5129
+1089,Hungary,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,4.6654599999999995
+1090,Hungary,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,5.44705
+1091,Hungary,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,4.58023
+1092,Hungary,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,4.46017
+1093,Hungary,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,4.31041
+1094,Hungary,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,72.10938
+1095,Hungary,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,84.18956999999999
+1096,Hungary,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,70.79198000000001
+1097,Hungary,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,68.93629
+1098,Hungary,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,66.62167
+1099,Iceland,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,1.13524
+1100,Iceland,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,1.25071
+1101,Iceland,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,1.27859
+1102,Iceland,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,1.18029
+1103,Iceland,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,0.8475299999999999
+1104,Iceland,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,1.13524
+1105,Iceland,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,1.25071
+1106,Iceland,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,1.27859
+1107,Iceland,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,1.18029
+1108,Iceland,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,0.8475299999999999
+1109,Ireland,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,1.4339
+1110,Ireland,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,1.5348700000000002
+1111,Italy,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,46.4195
+1112,Italy,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,63.01628
+1113,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,19.913339999999998
+1114,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,19.684720000000002
+1115,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,19.68786
+1116,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,19.55011
+1117,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,19.45417
+1118,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,19.37442
+1119,Japan,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,19.349529999999998
+1120,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,19.913339999999998
+1121,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,19.684720000000002
+1122,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,19.68786
+1123,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,19.55011
+1124,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,19.45417
+1125,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,19.37442
+1126,Japan,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,19.349529999999998
+1127,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,29.0379
+1128,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,29.87497
+1129,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,25.74888
+1130,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,25.71071
+1131,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,27.93103
+1132,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,31.417479999999998
+1133,Korea,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,33.03501
+1134,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,29.0379
+1135,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,29.87497
+1136,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,25.74888
+1137,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,25.71071
+1138,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,27.93103
+1139,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,31.417479999999998
+1140,Korea,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,33.03501
+1141,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,2.85888
+1142,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,2.85888
+1143,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,2.79805
+1144,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,2.73723
+1145,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,2.61557
+1146,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,2.79501
+1147,Luxembourg,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,2.7281
+1148,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,5.19337
+1149,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,5.19337
+1150,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,5.08287
+1151,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,4.97238
+1152,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,4.75138
+1153,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,5.07735
+1154,Luxembourg,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,4.9558
+1155,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,16.899179999999998
+1156,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,17.07605
+1157,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,16.9969
+1158,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,17.28819
+1159,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,17.530929999999998
+1160,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,17.30155
+1161,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,17.99606
+1162,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,18.1519
+1163,Mexico,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,18.34525
+1164,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,18.82953
+1165,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,19.02661
+1166,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,18.93841
+1167,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,19.26298
+1168,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,19.53345
+1169,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,19.27786
+1170,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,20.05171
+1171,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,20.22534
+1172,Mexico,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,20.44079
+1173,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,11.6624
+1174,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,12.41274
+1175,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,11.96842
+1176,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,11.153830000000001
+1177,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,11.742989999999999
+1178,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,11.659130000000001
+1179,Netherlands,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,10.32616
+1180,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,103.7191
+1181,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,110.3923
+1182,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,106.4407
+1183,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,99.19613000000001
+1184,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,104.4358
+1185,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,103.6901
+1186,Netherlands,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,91.83535
+1187,New Zealand,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,1.1635799999999998
+1188,New Zealand,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,2.20932
+1189,New Zealand,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,1.1635799999999998
+1190,New Zealand,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,2.20932
+1191,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,18.41977
+1192,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,18.66613
+1193,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,18.87358
+1194,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,19.3047
+1195,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,18.60292
+1196,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,18.22042
+1197,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,18.3282
+1198,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,17.97974
+1199,Poland,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,18.076179999999997
+1200,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,21.282770000000003
+1201,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,21.567420000000002
+1202,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,21.80712
+1203,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,22.305239999999998
+1204,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,21.49438
+1205,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,21.052429999999998
+1206,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,21.17697
+1207,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,20.77434
+1208,Poland,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,20.88577
+1209,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,0.80442
+1210,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,0.76081
+1211,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,0.7281
+1212,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,0.7184
+1213,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,0.8056300000000001
+1214,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,0.77171
+1215,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,0.6773100000000001
+1216,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,0.69513
+1217,Slovak Republic,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,0.67201
+1218,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,4.3421400000000006
+1219,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,4.10672
+1220,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,3.93016
+1221,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,3.87785
+1222,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,4.34868
+1223,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,4.16558
+1224,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,3.6560300000000003
+1225,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,3.75222
+1226,Slovak Republic,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,3.62739
+1227,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,31.82943
+1228,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,32.5034
+1229,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,32.04269
+1230,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,32.58258
+1231,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,33.607479999999995
+1232,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,29.10588
+1233,Spain,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,29.61893
+1234,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,31.82943
+1235,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,32.5034
+1236,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,32.04269
+1237,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,32.58258
+1238,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,33.607479999999995
+1239,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,29.10588
+1240,Spain,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,29.61893
+1241,Sweden,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,1.44487
+1242,Sweden,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,1.5588899999999999
+1243,Switzerland,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,3.8269800000000003
+1244,Switzerland,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,5.0339
+1245,Turkey,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,17.92915
+1246,Turkey,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,19.26163
+1247,Turkey,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,20.04097
+1248,Turkey,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,21.55783
+1249,Turkey,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,22.18137
+1250,Turkey,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,18.47318
+1251,Turkey,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,19.84609
+1252,Turkey,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,20.649079999999998
+1253,Turkey,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,22.21196
+1254,Turkey,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,22.85442
+1255,United States,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,19.75495
+1256,United States,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,19.89949
+1257,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,13.001619999999999
+1258,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,11.24173
+1259,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,14.9186
+1260,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,15.176789999999999
+1261,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,13.20945
+1262,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,14.15575
+1263,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,13.963379999999999
+1264,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,13.082880000000001
+1265,Estonia,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,14.224029999999999
+1266,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,13.001619999999999
+1267,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,11.24173
+1268,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,14.9186
+1269,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,15.176789999999999
+1270,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,13.20945
+1271,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,14.15575
+1272,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,13.963379999999999
+1273,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,13.082880000000001
+1274,Estonia,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,14.224029999999999
+1275,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,56.36042
+1276,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,46.395759999999996
+1277,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,47.34982
+1278,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,44.73499
+1279,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,46.57244
+1280,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,45.79506
+1281,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,44.91166
+1282,Israel,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,40.45937
+1283,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,81.37755
+1284,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,66.98979
+1285,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,68.36735
+1286,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,64.59184
+1287,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,67.2449
+1288,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,66.12244
+1289,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,64.84694
+1290,Israel,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,58.418369999999996
+1291,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,3.24068
+1292,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,2.93843
+1293,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,2.88234
+1294,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,2.65175
+1295,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,2.43394
+1296,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,2.78418
+1297,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,3.04602
+1298,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,2.78917
+1299,Slovenia,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,2.75573
+1300,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,5.5926
+1301,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,5.0709800000000005
+1302,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,4.97419
+1303,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,4.57625
+1304,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,4.2003699999999995
+1305,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,4.8048
+1306,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,5.25667
+1307,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,4.8134
+1308,Slovenia,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,4.7557
+1309,England and Wales,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,4.97369
+1310,England and Wales,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,4.93436
+1311,England and Wales,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,4.92364
+1312,England and Wales,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,4.57923
+1313,England and Wales,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,4.89444
+1314,England and Wales,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,4.686780000000001
+1315,England and Wales,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,5.172619999999999
+1316,England and Wales,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,5.13172
+1317,England and Wales,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,5.12056
+1318,England and Wales,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,4.76238
+1319,England and Wales,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,5.0902
+1320,England and Wales,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,4.874230000000001
+1321,Switzerland,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,160.12
+1322,Switzerland,Total freshwater,Irrigation,2012,Cubic metres,135.6
+1323,Switzerland,Total freshwater,Manufacturing industry,2012,Cubic metres,592.0
+1324,OECD - Total,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,833.4166
+1325,OECD - Total,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,831.2965
+1326,OECD - Total,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,823.9243
+1327,OECD - Total,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,818.3104
+1328,OECD - Total,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,819.4921
+1329,OECD - Total,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,815.3415
+1330,OECD - Total,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,814.4874
+1331,OECD - Total,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,809.1644
+1332,OECD - Total,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,804.4939999999999
+1333,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,9.70785
+1334,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,9.71371
+1335,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,9.75752
+1336,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,9.74737
+1337,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,9.744710000000001
+1338,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,9.744710000000001
+1339,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,9.744710000000001
+1340,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,9.744710000000001
+1341,OECD - Total,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,9.744710000000001
+1342,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,10.37734
+1343,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,10.3836
+1344,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,10.43043
+1345,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,10.41958
+1346,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,10.416739999999999
+1347,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,10.416739999999999
+1348,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,10.416739999999999
+1349,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,10.416739999999999
+1350,OECD - Total,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,10.416739999999999
+1351,Brazil,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,38268.0
+1352,Brazil,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,41549.0
+1353,Brazil,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,44830.0
+1354,Brazil,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,48111.0
+1355,Brazil,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,51392.0
+1356,Latvia,Total freshwater,Total gross abstraction,2008,Cubic metres,227.73309
+1357,Latvia,Total freshwater,Total gross abstraction,2009,Cubic metres,394.814
+1358,Latvia,Total freshwater,Total gross abstraction,2010,Cubic metres,275.16200000000003
+1359,Latvia,Total freshwater,Total gross abstraction,2011,Cubic metres,369.276
+1360,Latvia,Total freshwater,Total gross abstraction,2012,Cubic metres,260.111
+1361,Latvia,Total freshwater,Total gross abstraction,2013,Cubic metres,205.80700000000002
+1362,Latvia,Total freshwater,Total gross abstraction,2014,Cubic metres,168.31799999999998
+1363,Latvia,Total freshwater,Total gross abstraction,2015,Cubic metres,176.62
+1364,Latvia,Total freshwater,Total gross abstraction,2016,Cubic metres,224.394
+1365,Colombia,Total freshwater,Manufacturing industry,2008,Cubic metres,1577.0
+1366,Colombia,Total freshwater,Manufacturing industry,2012,Cubic metres,2106.0
+1367,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,9.53904
+1368,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,10.09114
+1369,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,10.226389999999999
+1370,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,10.13082
+1371,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,10.02467
+1372,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,10.02467
+1373,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,10.02467
+1374,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,10.02467
+1375,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,10.02467
+1376,Colombia,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,1.58397
+1377,Colombia,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,1.58883
+1378,Colombia,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,799.0148
+1379,Colombia,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,767.6166
+1380,Colombia,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,21606.0
+1381,Colombia,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,21463.0
+1382,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,9.5453
+1383,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,10.097760000000001
+1384,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,10.2331
+1385,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,10.13747
+1386,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,10.03125
+1387,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,10.03125
+1388,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,10.03125
+1389,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,10.03125
+1390,OECD Asia Oceania,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,10.03125
+1391,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,13.40047
+1392,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,13.07274
+1393,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,13.049610000000001
+1394,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,13.02449
+1395,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,13.03483
+1396,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,13.03483
+1397,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,13.03483
+1398,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,13.03483
+1399,OECD - Europe,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,13.03483
+1400,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,595.6532
+1401,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,592.6113
+1402,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,572.649
+1403,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,571.2033
+1404,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,593.1414
+1405,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,625.6995
+1406,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,632.4319
+1407,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,625.0177
+1408,OECD Asia Oceania,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,617.1154
+1409,Brazil,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,344.4416
+1410,Brazil,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,362.57800000000003
+1411,Brazil,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,380.5966
+1412,Brazil,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,398.1142
+1413,Brazil,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,415.335
+1414,Colombia,Total freshwater,Irrigation,2008,Cubic metres,19349.0
+1415,Luxembourg,Total freshwater,Aquaculture,2014,Cubic metres,0.13
+1416,Brazil,Total freshwater,Manufacturing industry,2008,Cubic metres,11296.0
+1417,Brazil,Total freshwater,Manufacturing industry,2009,Cubic metres,11873.0
+1418,Brazil,Total freshwater,Manufacturing industry,2010,Cubic metres,12453.0
+1419,Brazil,Total freshwater,Manufacturing industry,2011,Cubic metres,13033.0
+1420,Brazil,Total freshwater,Manufacturing industry,2012,Cubic metres,13613.0
+1421,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,9.37418
+1422,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,9.377239999999999
+1423,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,9.42787
+1424,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,9.43923
+1425,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,9.453330000000001
+1426,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,9.453330000000001
+1427,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,9.453330000000001
+1428,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,9.453330000000001
+1429,OECD America,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,9.453330000000001
+1430,Latvia,Total freshwater,Public water supply,2008,Cubic metres,109.73100000000001
+1431,Latvia,Total freshwater,Public water supply,2009,Cubic metres,211.98488999999998
+1432,Latvia,Total freshwater,Public water supply,2010,Cubic metres,100.62772
+1433,Latvia,Total freshwater,Public water supply,2011,Cubic metres,186.748
+1434,Latvia,Total freshwater,Public water supply,2012,Cubic metres,120.51
+1435,Latvia,Total freshwater,Public water supply,2013,Cubic metres,100.619
+1436,Latvia,Total freshwater,Public water supply,2014,Cubic metres,86.16799999999999
+1437,Latvia,Total freshwater,Public water supply,2015,Cubic metres,85.042
+1438,Latvia,Total freshwater,Public water supply,2016,Cubic metres,107.18
+1439,China (People's Republic of),Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,437.4541
+1440,China (People's Republic of),Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,438.8825
+1441,China (People's Republic of),Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,438.9688
+1442,China (People's Republic of),Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,442.6682
+1443,China (People's Republic of),Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,442.5979
+1444,OECD - Europe,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,510.6303
+1445,OECD - Europe,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,519.5619
+1446,OECD - Europe,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,516.5871
+1447,OECD - Europe,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,509.0138
+1448,OECD - Europe,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,506.9942
+1449,OECD - Europe,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,492.6546
+1450,OECD - Europe,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,489.892
+1451,OECD - Europe,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,487.0465
+1452,OECD - Europe,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,485.4858
+1453,Colombia,Total freshwater,Total gross abstraction,2008,Cubic metres,35877.0
+1454,Colombia,Total freshwater,Total gross abstraction,2012,Cubic metres,35987.0
+1455,Brazil,Total freshwater,Total gross abstraction,2008,Cubic metres,66470.0
+1456,Brazil,Total freshwater,Total gross abstraction,2009,Cubic metres,70665.0
+1457,Brazil,Total freshwater,Total gross abstraction,2010,Cubic metres,74900.0
+1458,Brazil,Total freshwater,Total gross abstraction,2011,Cubic metres,79100.0
+1459,Brazil,Total freshwater,Total gross abstraction,2012,Cubic metres,83300.0
+1460,Russia,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,20983.0
+1461,Russia,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,20369.0
+1462,Russia,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,19460.0
+1463,Russia,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,18981.0
+1464,Russia,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,18475.0
+1465,Russia,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,18466.0
+1466,Russia,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,18635.0
+1467,Russia,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,17477.0
+1468,Russia,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,18187.0
+1469,Russia,Total freshwater,Manufacturing industry,2008,Cubic metres,6026.0
+1470,Russia,Total freshwater,Manufacturing industry,2009,Cubic metres,5315.0
+1471,Russia,Total freshwater,Manufacturing industry,2010,Cubic metres,5553.0
+1472,Russia,Total freshwater,Manufacturing industry,2011,Cubic metres,5174.0
+1473,Russia,Total freshwater,Manufacturing industry,2012,Cubic metres,5013.0
+1474,Russia,Total freshwater,Manufacturing industry,2013,Cubic metres,4512.0
+1475,Russia,Total freshwater,Manufacturing industry,2014,Cubic metres,4323.0
+1476,Russia,Total freshwater,Manufacturing industry,2015,Cubic metres,4126.0
+1477,Russia,Total freshwater,Manufacturing industry,2016,Cubic metres,4184.0
+1478,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,9.548060000000001
+1479,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,9.551169999999999
+1480,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,9.602739999999999
+1481,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,9.614310000000001
+1482,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,9.62867
+1483,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,9.62867
+1484,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,9.62867
+1485,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,9.62867
+1486,OECD America,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,9.62867
+1487,OECD America,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,1336.265
+1488,OECD America,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,1318.286
+1489,OECD America,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,1308.66
+1490,OECD America,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,1300.79
+1491,OECD America,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,1293.7060000000001
+1492,OECD America,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,1282.47
+1493,OECD America,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,1278.008
+1494,OECD America,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,1268.328
+1495,OECD America,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,1259.14
+1496,Colombia,Total freshwater,Public water supply,2008,Cubic metres,3134.0
+1497,Colombia,Total freshwater,Public water supply,2012,Cubic metres,2963.0
+1498,Colombia,Total freshwater,Aquaculture,2008,Cubic metres,2584.0
+1499,China (People's Republic of),Total freshwater,Total gross abstraction,2008,Cubic metres,588120.0
+1500,China (People's Republic of),Total freshwater,Total gross abstraction,2009,Cubic metres,593399.0
+1501,China (People's Republic of),Total freshwater,Total gross abstraction,2010,Cubic metres,596890.0
+1502,China (People's Republic of),Total freshwater,Total gross abstraction,2011,Cubic metres,605340.0
+1503,China (People's Republic of),Total freshwater,Total gross abstraction,2012,Cubic metres,608660.0
+1504,China (People's Republic of),Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,20.54999
+1505,China (People's Republic of),Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,20.73444
+1506,China (People's Republic of),Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,20.85642
+1507,China (People's Republic of),Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,21.15168
+1508,China (People's Republic of),Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,21.267689999999998
+1509,Russia,Total freshwater,Total gross abstraction,2008,Cubic metres,74354.0
+1510,Russia,Total freshwater,Total gross abstraction,2009,Cubic metres,69915.0
+1511,Russia,Total freshwater,Total gross abstraction,2010,Cubic metres,72685.0
+1512,Russia,Total freshwater,Total gross abstraction,2011,Cubic metres,68652.0
+1513,Russia,Total freshwater,Total gross abstraction,2012,Cubic metres,66296.0
+1514,Russia,Total freshwater,Total gross abstraction,2013,Cubic metres,65104.0
+1515,Russia,Total freshwater,Total gross abstraction,2014,Cubic metres,64807.0
+1516,Russia,Total freshwater,Total gross abstraction,2015,Cubic metres,62163.0
+1517,Russia,Total freshwater,Total gross abstraction,2016,Cubic metres,63000.0
+1518,Latvia,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,38.927
+1519,Latvia,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,111.294
+1520,Latvia,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,47.104
+1521,Latvia,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,22.581999999999997
+1522,Latvia,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,41.041000000000004
+1523,Latvia,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,35.889
+1524,Latvia,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,37.287
+1525,Latvia,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,49.4
+1526,Latvia,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,58.357
+1527,Latvia,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,105.2751
+1528,Latvia,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,184.0359
+1529,Latvia,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,129.864
+1530,Latvia,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,176.4766
+1531,Latvia,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,125.87799999999999
+1532,Latvia,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,100.84700000000001
+1533,Latvia,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,83.48589
+1534,Latvia,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,88.63516
+1535,Latvia,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,113.8749
+1536,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,10.60247
+1537,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,10.34318
+1538,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,10.32488
+1539,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,10.305
+1540,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,10.313180000000001
+1541,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,10.313180000000001
+1542,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,10.313180000000001
+1543,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,10.313180000000001
+1544,OECD - Europe,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,10.313180000000001
+1545,Brazil,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,0.78888
+1546,Brazil,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,0.8386600000000001
+1547,Brazil,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,0.8889299999999999
+1548,Brazil,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,0.9387700000000001
+1549,Brazil,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,0.98862
+1550,Latvia,Total freshwater,Manufacturing industry,2008,Cubic metres,23.62201
+1551,Latvia,Total freshwater,Manufacturing industry,2009,Cubic metres,20.37411
+1552,Latvia,Total freshwater,Manufacturing industry,2010,Cubic metres,61.852869999999996
+1553,Latvia,Total freshwater,Manufacturing industry,2011,Cubic metres,54.66611999999999
+1554,Latvia,Total freshwater,Manufacturing industry,2012,Cubic metres,34.78555
+1555,Latvia,Total freshwater,Manufacturing industry,2013,Cubic metres,22.70139
+1556,Latvia,Total freshwater,Manufacturing industry,2014,Cubic metres,21.101960000000002
+1557,Latvia,Total freshwater,Manufacturing industry,2015,Cubic metres,19.015
+1558,Latvia,Total freshwater,Manufacturing industry,2016,Cubic metres,39.356
+1559,Latvia,Total freshwater,Aquaculture,2008,Cubic metres,35.6
+1560,Latvia,Total freshwater,Aquaculture,2009,Cubic metres,43.0
+1561,Latvia,Total freshwater,Aquaculture,2010,Cubic metres,30.8
+1562,Latvia,Total freshwater,Aquaculture,2011,Cubic metres,19.9
+1563,Latvia,Total freshwater,Aquaculture,2013,Cubic metres,33.4
+1564,Russia,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,519.6558
+1565,Russia,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,488.5991
+1566,Russia,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,507.7404
+1567,Russia,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,479.1993
+1568,Russia,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,462.2488
+1569,Russia,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,453.3792
+1570,Russia,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,450.7956
+1571,Russia,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,432.0235
+1572,Russia,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,437.6078
+1573,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,0.67785
+1574,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,1.17048
+1575,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,0.81575
+1576,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,1.09477
+1577,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,0.77113
+1578,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,0.61014
+1579,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,0.499
+1580,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,0.52361
+1581,Latvia,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,0.66525
+1582,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,1.35285
+1583,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,2.33604
+1584,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,1.62808
+1585,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,2.18494
+1586,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,1.53903
+1587,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,1.2177200000000001
+1588,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,0.9959100000000001
+1589,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,1.04503
+1590,Latvia,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,1.3277
+1591,Russia,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,1.7456900000000002
+1592,Russia,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,1.64147
+1593,Russia,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,1.70648
+1594,Russia,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,1.61181
+1595,Russia,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,1.5565
+1596,Costa Rica,Total freshwater,Total gross abstraction,2008,Cubic metres,384.46554
+1597,Costa Rica,Total freshwater,Total gross abstraction,2009,Cubic metres,486.4184
+1598,Costa Rica,Total freshwater,Total gross abstraction,2010,Cubic metres,853.3281599999999
+1599,Costa Rica,Total freshwater,Total gross abstraction,2011,Cubic metres,1066.20251
+1600,Costa Rica,Total freshwater,Total gross abstraction,2012,Cubic metres,1246.09814
+1601,Costa Rica,Total freshwater,Total gross abstraction,2013,Cubic metres,1347.40405
+1602,Costa Rica,Total freshwater,Total gross abstraction,2014,Cubic metres,1656.21533
+1603,Costa Rica,Total freshwater,Total gross abstraction,2015,Cubic metres,1990.3183600000002
+1604,Costa Rica,Total freshwater,Total gross abstraction,2016,Cubic metres,2089.36987
+1605,Costa Rica,Total freshwater,Public water supply,2008,Cubic metres,248.44839
+1606,Costa Rica,Total freshwater,Public water supply,2009,Cubic metres,273.47
+1607,Costa Rica,Total freshwater,Public water supply,2010,Cubic metres,294.65079
+1608,Costa Rica,Total freshwater,Public water supply,2011,Cubic metres,308.28711
+1609,Costa Rica,Total freshwater,Public water supply,2012,Cubic metres,313.84078999999997
+1610,Costa Rica,Total freshwater,Public water supply,2013,Cubic metres,322.7739
+1611,Costa Rica,Total freshwater,Public water supply,2014,Cubic metres,345.59
+1612,Costa Rica,Total freshwater,Public water supply,2015,Cubic metres,348.48343
+1613,Costa Rica,Total freshwater,Public water supply,2016,Cubic metres,291.39557
+1614,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,125.0241
+1615,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,195.8779
+1616,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,529.31042
+1617,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,717.76221
+1618,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,881.0913099999999
+1619,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,952.7274199999999
+1620,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,1209.8129900000001
+1621,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,1525.61694
+1622,Costa Rica,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,1675.33044
+1623,Costa Rica,Total freshwater,Irrigation,2008,Cubic metres,111.9814
+1624,Costa Rica,Total freshwater,Irrigation,2009,Cubic metres,168.4608
+1625,Costa Rica,Total freshwater,Irrigation,2010,Cubic metres,462.85449000000006
+1626,Costa Rica,Total freshwater,Irrigation,2011,Cubic metres,639.6680299999999
+1627,Costa Rica,Total freshwater,Irrigation,2012,Cubic metres,792.62598
+1628,Costa Rica,Total freshwater,Irrigation,2013,Cubic metres,838.70612
+1629,Costa Rica,Total freshwater,Irrigation,2014,Cubic metres,1046.47632
+1630,Costa Rica,Total freshwater,Irrigation,2015,Cubic metres,1260.89343
+1631,Costa Rica,Total freshwater,Irrigation,2016,Cubic metres,1364.49646
+1632,Costa Rica,Total freshwater,Manufacturing industry,2008,Cubic metres,4.8064
+1633,Costa Rica,Total freshwater,Manufacturing industry,2009,Cubic metres,8.9079
+1634,Costa Rica,Total freshwater,Manufacturing industry,2010,Cubic metres,16.236
+1635,Costa Rica,Total freshwater,Manufacturing industry,2011,Cubic metres,20.5328
+1636,Costa Rica,Total freshwater,Manufacturing industry,2012,Cubic metres,26.0071
+1637,Costa Rica,Total freshwater,Manufacturing industry,2013,Cubic metres,42.8053
+1638,Costa Rica,Total freshwater,Manufacturing industry,2014,Cubic metres,65.9055
+1639,Costa Rica,Total freshwater,Manufacturing industry,2015,Cubic metres,77.11747
+1640,Costa Rica,Total freshwater,Manufacturing industry,2016,Cubic metres,80.67599
+1641,Costa Rica,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,86.80429000000001
+1642,Costa Rica,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,108.3787
+1643,Costa Rica,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,187.7441
+1644,Costa Rica,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,231.7593
+1645,Costa Rica,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,267.74
+1646,Costa Rica,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,286.2918
+1647,Costa Rica,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,348.2006
+1648,Costa Rica,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,413.9702
+1649,Costa Rica,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,430.1528
+1650,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,0.34324
+1651,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,0.43423999999999996
+1652,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,0.76178
+1653,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,0.9518
+1654,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,1.11239
+1655,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,1.2028299999999998
+1656,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,1.47884
+1657,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,1.7767400000000002
+1658,Costa Rica,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,1.8651799999999998
+1659,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,0.34324
+1660,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,0.43423999999999996
+1661,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,0.76178
+1662,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,0.9518
+1663,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,1.11239
+1664,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,1.2028299999999998
+1665,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,1.47884
+1666,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,1.7767400000000002
+1667,Costa Rica,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,1.8651799999999998
+1668,Lithuania,Total freshwater,Total gross abstraction,2008,Cubic metres,2274.89233
+1669,Lithuania,Total freshwater,Total gross abstraction,2009,Cubic metres,2411.86719
+1670,Lithuania,Total freshwater,Total gross abstraction,2010,Cubic metres,741.2559200000001
+1671,Lithuania,Total freshwater,Total gross abstraction,2011,Cubic metres,612.07831
+1672,Lithuania,Total freshwater,Total gross abstraction,2012,Cubic metres,668.72339
+1673,Lithuania,Total freshwater,Total gross abstraction,2013,Cubic metres,443.10202000000004
+1674,Lithuania,Total freshwater,Total gross abstraction,2014,Cubic metres,388.61621
+1675,Lithuania,Total freshwater,Total gross abstraction,2015,Cubic metres,410.50037000000003
+1676,Lithuania,Total freshwater,Total gross abstraction,2016,Cubic metres,340.12309
+1677,Lithuania,Total freshwater,Public water supply,2008,Cubic metres,138.1394
+1678,Lithuania,Total freshwater,Public water supply,2009,Cubic metres,129.8978
+1679,Lithuania,Total freshwater,Public water supply,2010,Cubic metres,126.10700000000001
+1680,Lithuania,Total freshwater,Public water supply,2011,Cubic metres,124.2563
+1681,Lithuania,Total freshwater,Public water supply,2012,Cubic metres,120.5663
+1682,Lithuania,Total freshwater,Public water supply,2013,Cubic metres,129.30798000000001
+1683,Lithuania,Total freshwater,Public water supply,2014,Cubic metres,130.84439
+1684,Lithuania,Total freshwater,Public water supply,2015,Cubic metres,129.73987
+1685,Lithuania,Total freshwater,Public water supply,2016,Cubic metres,130.43012
+1686,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2008,Cubic metres,81.1901
+1687,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2009,Cubic metres,79.278
+1688,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2010,Cubic metres,67.9983
+1689,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2011,Cubic metres,63.568999999999996
+1690,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2012,Cubic metres,60.6522
+1691,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2013,Cubic metres,59.00571
+1692,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2014,Cubic metres,57.89686999999999
+1693,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2015,Cubic metres,61.41958
+1694,Lithuania,Total freshwater,"Agriculture, forestry, fishing",2016,Cubic metres,59.338930000000005
+1695,Lithuania,Total freshwater,Irrigation,2008,Cubic metres,1.1713
+1696,Lithuania,Total freshwater,Irrigation,2009,Cubic metres,0.9913
+1697,Lithuania,Total freshwater,Irrigation,2010,Cubic metres,1.1944
+1698,Lithuania,Total freshwater,Irrigation,2011,Cubic metres,0.8823
+1699,Lithuania,Total freshwater,Irrigation,2012,Cubic metres,1.0265
+1700,Lithuania,Total freshwater,Irrigation,2013,Cubic metres,1.02498
+1701,Lithuania,Total freshwater,Irrigation,2014,Cubic metres,0.8733
+1702,Lithuania,Total freshwater,Irrigation,2015,Cubic metres,0.8765200000000001
+1703,Lithuania,Total freshwater,Irrigation,2016,Cubic metres,0.67308
+1704,Lithuania,Total freshwater,Aquaculture,2010,Cubic metres,63.4
+1705,Lithuania,Total freshwater,Aquaculture,2011,Cubic metres,59.47
+1706,Lithuania,Total freshwater,Aquaculture,2012,Cubic metres,56.79
+1707,Lithuania,Total freshwater,Aquaculture,2013,Cubic metres,54.86
+1708,Lithuania,Total freshwater,Manufacturing industry,2008,Cubic metres,30.4638
+1709,Lithuania,Total freshwater,Manufacturing industry,2009,Cubic metres,25.6272
+1710,Lithuania,Total freshwater,Manufacturing industry,2010,Cubic metres,24.2865
+1711,Lithuania,Total freshwater,Manufacturing industry,2011,Cubic metres,28.5071
+1712,Lithuania,Total freshwater,Manufacturing industry,2012,Cubic metres,32.708
+1713,Lithuania,Total freshwater,Manufacturing industry,2013,Cubic metres,31.35722
+1714,Lithuania,Total freshwater,Manufacturing industry,2014,Cubic metres,30.477459999999997
+1715,Lithuania,Total freshwater,Manufacturing industry,2015,Cubic metres,30.575779999999998
+1716,Lithuania,Total freshwater,Manufacturing industry,2016,Cubic metres,30.24966
+1717,Lithuania,Total freshwater,Gross abstractions per capita,2008,Cubic metres per capita,707.6691
+1718,Lithuania,Total freshwater,Gross abstractions per capita,2009,Cubic metres per capita,761.1362
+1719,Lithuania,Total freshwater,Gross abstractions per capita,2010,Cubic metres per capita,237.2928
+1720,Lithuania,Total freshwater,Gross abstractions per capita,2011,Cubic metres per capita,198.7344
+1721,Lithuania,Total freshwater,Gross abstractions per capita,2012,Cubic metres per capita,220.1743
+1722,Lithuania,Total freshwater,Gross abstractions per capita,2013,Cubic metres per capita,147.832
+1723,Lithuania,Total freshwater,Gross abstractions per capita,2014,Cubic metres per capita,131.2074
+1724,Lithuania,Total freshwater,Gross abstractions per capita,2015,Cubic metres per capita,140.0105
+1725,Lithuania,Total freshwater,Gross abstractions per capita,2016,Cubic metres per capita,116.9512
+1726,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2008,Percentage,9.47477
+1727,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2009,Percentage,10.04526
+1728,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2010,Percentage,3.08728
+1729,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2011,Percentage,2.54926
+1730,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2012,Percentage,2.78519
+1731,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2013,Percentage,1.84549
+1732,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2014,Percentage,1.61856
+1733,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2015,Percentage,1.7097099999999998
+1734,Lithuania,Total freshwater,Gross abstractions as percentage of total renewable resources,2016,Percentage,1.41659
+1735,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2008,Percentage,15.14575
+1736,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2009,Percentage,16.0577
+1737,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2010,Percentage,4.93513
+1738,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2011,Percentage,4.07509
+1739,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2012,Percentage,4.45222
+1740,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2013,Percentage,2.95008
+1741,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2014,Percentage,2.58733
+1742,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2015,Percentage,2.73303
+1743,Lithuania,Total freshwater,Gross abstractions as percentage of internal resources,2016,Percentage,2.26447
+1744,Hungary,Total freshwater,Aquaculture,2010,Cubic metres,54.16
+1745,Hungary,Total freshwater,Aquaculture,2011,Cubic metres,67.5
+1746,Hungary,Total freshwater,Aquaculture,2012,Cubic metres,85.2
+1747,Hungary,Total freshwater,Aquaculture,2013,Cubic metres,78.15
+1748,Hungary,Total freshwater,Aquaculture,2015,Cubic metres,55.24
+1749,Iceland,Total freshwater,Aquaculture,2010,Cubic metres,1083.4000199999998
+1750,Iceland,Total freshwater,Aquaculture,2011,Cubic metres,1174.9000199999998
+1751,Iceland,Total freshwater,Aquaculture,2012,Cubic metres,1207.19995
+1752,Iceland,Total freshwater,Aquaculture,2013,Cubic metres,1091.5999800000002
+1753,Iceland,Total freshwater,Aquaculture,2014,Cubic metres,670.59998
+1754,Turkey,Total freshwater,Aquaculture,2014,Cubic metres,7819.9702099999995
+1755,Turkey,Total freshwater,Aquaculture,2015,Cubic metres,7687.430179999999
+1756,England and Wales,Total freshwater,Aquaculture,2008,Cubic metres,1043.0
+1757,England and Wales,Total freshwater,Aquaculture,2009,Cubic metres,953.0
+1758,England and Wales,Total freshwater,Aquaculture,2010,Cubic metres,1058.0
+1759,England and Wales,Total freshwater,Aquaculture,2011,Cubic metres,846.0
+1760,England and Wales,Total freshwater,Aquaculture,2012,Cubic metres,974.0
