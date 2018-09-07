@@ -1,0 +1,928 @@
+,True,Country,Variable,Year,Unit,Value,recycled,percentofrecycledwaste
+0,0,Australia,Municipal waste generated,1992,Tonnes,12000.0,8903.0,74.19
+1,1,Australia,Municipal waste generated,2000,Tonnes,13200.0,12798.666,96.96
+2,2,Australia,Municipal waste generated,2007,Tonnes,12798.666,13027.542,101.79
+3,3,Australia,Municipal waste generated,2008,Tonnes,13027.542,13256.419,101.76
+4,4,Australia,Municipal waste generated,2009,Tonnes,13256.419,13515.592,101.96
+5,5,Australia,Municipal waste generated,2010,Tonnes,13515.592,13462.518999999998,99.61
+6,6,Australia,Municipal waste generated,2011,Tonnes,13462.518999999998,13344.891,99.13
+7,7,Australia,Municipal waste generated,2012,Tonnes,13344.891,13227.263,99.12
+8,8,Australia,Municipal waste generated,2013,Tonnes,13227.263,13109.635,99.11
+9,9,Australia,Municipal waste generated,2014,Tonnes,13109.635,13344.539,101.79
+10,10,Australia,Municipal waste generated,2015,Tonnes,13344.539,3513.0,26.33
+11,103,Austria,Municipal waste generated,1990,Tonnes,3204.0,2770.0,86.45
+12,104,Austria,Municipal waste generated,1991,Tonnes,3126.0,2823.0,90.31
+13,105,Austria,Municipal waste generated,1992,Tonnes,3176.0,2890.0,90.99
+14,106,Austria,Municipal waste generated,1993,Tonnes,3341.0,2923.0,87.49
+15,107,Austria,Municipal waste generated,1994,Tonnes,3400.0,3835.0,112.79
+16,108,Austria,Municipal waste generated,1995,Tonnes,3476.0,4297.0,123.62
+17,109,Austria,Municipal waste generated,1996,Tonnes,3845.0,4407.0,114.62
+18,110,Austria,Municipal waste generated,1997,Tonnes,3977.0,4411.0,110.91
+19,111,Austria,Municipal waste generated,1998,Tonnes,3983.0,4620.0,115.99
+20,112,Austria,Municipal waste generated,1999,Tonnes,4171.0,4744.0,113.74
+21,113,Austria,Municipal waste generated,2000,Tonnes,4321.0,4749.0,109.91
+22,114,Austria,Municipal waste generated,2001,Tonnes,4309.0,4821.0,111.88
+23,115,Austria,Municipal waste generated,2002,Tonnes,4589.0,4950.0,107.87
+24,116,Austria,Municipal waste generated,2003,Tonnes,4607.0,4625.0,100.39
+25,117,Austria,Municipal waste generated,2004,Tonnes,4686.7,4601.3,98.18
+26,118,Austria,Municipal waste generated,2005,Tonnes,4731.7,4834.2,102.17
+27,119,Austria,Municipal waste generated,2006,Tonnes,4932.5,4859.4,98.52
+28,120,Austria,Municipal waste generated,2007,Tonnes,4951.1,4888.7,98.74
+29,121,Austria,Municipal waste generated,2008,Tonnes,4996.9,4787.6,95.81
+30,122,Austria,Municipal waste generated,2009,Tonnes,4921.0,4581.7,93.11
+31,123,Austria,Municipal waste generated,2010,Tonnes,4700.8,4631.7,98.53
+32,124,Austria,Municipal waste generated,2011,Tonnes,4806.9,4718.2,98.15
+33,125,Austria,Municipal waste generated,2012,Tonnes,4883.3,4743.5,97.14
+34,126,Austria,Municipal waste generated,2013,Tonnes,4905.2,4673.2,95.27
+35,127,Austria,Municipal waste generated,2014,Tonnes,4832.5,4727.8,97.83
+36,128,Austria,Municipal waste generated,2015,Tonnes,4836.0,4825.2,99.78
+37,129,Austria,Municipal waste generated,2016,Tonnes,4928.4,3961.0,80.37
+38,633,Belgium,Municipal waste generated,1990,Tonnes,3436.0,4107.0,119.53
+39,634,Belgium,Municipal waste generated,1995,Tonnes,4613.0,4238.0,91.87
+40,635,Belgium,Municipal waste generated,1996,Tonnes,4567.0,4438.0,97.18
+41,636,Belgium,Municipal waste generated,1997,Tonnes,4650.0,4600.0,98.92
+42,637,Belgium,Municipal waste generated,1998,Tonnes,4603.0,4516.0,98.11
+43,638,Belgium,Municipal waste generated,1999,Tonnes,4702.0,4414.0,93.87
+44,639,Belgium,Municipal waste generated,2000,Tonnes,4830.0,4604.0,95.32
+45,640,Belgium,Municipal waste generated,2001,Tonnes,4802.0,4568.0,95.13
+46,641,Belgium,Municipal waste generated,2002,Tonnes,4981.0,4554.0,91.43
+47,642,Belgium,Municipal waste generated,2003,Tonnes,4824.0,4895.0,101.47
+48,643,Belgium,Municipal waste generated,2004,Tonnes,5059.0,4644.0,91.8
+49,644,Belgium,Municipal waste generated,2005,Tonnes,5052.0,4798.0,94.97
+50,645,Belgium,Municipal waste generated,2006,Tonnes,5115.0,4800.0,93.84
+51,646,Belgium,Municipal waste generated,2007,Tonnes,5243.0,5004.0,95.44
+52,647,Belgium,Municipal waste generated,2008,Tonnes,5134.0,5188.0,101.05
+53,648,Belgium,Municipal waste generated,2009,Tonnes,5037.0,4990.0,99.07
+54,649,Belgium,Municipal waste generated,2010,Tonnes,4973.0,5454.0,109.67
+55,650,Belgium,Municipal waste generated,2011,Tonnes,5035.0,4936.0,98.03
+56,651,Belgium,Municipal waste generated,2012,Tonnes,4944.0,4827.0,97.63
+57,652,Belgium,Municipal waste generated,2013,Tonnes,4883.0,4791.0,98.12
+58,653,Belgium,Municipal waste generated,2014,Tonnes,4774.0,4824.0,101.05
+59,654,Belgium,Municipal waste generated,2015,Tonnes,4648.0,4717.0,101.48
+60,655,Belgium,Municipal waste generated,2016,Tonnes,4757.0,4757.0,100.0
+61,1252,Czech Republic,Municipal waste generated,1994,Tonnes,2489.8,4696.0,188.61
+62,1253,Czech Republic,Municipal waste generated,1995,Tonnes,3120.0,4579.0,146.76
+63,1254,Czech Republic,Municipal waste generated,1996,Tonnes,3200.0,4707.0,147.09
+64,1255,Czech Republic,Municipal waste generated,1997,Tonnes,3280.0,17095.345,521.2
+65,1256,Czech Republic,Municipal waste generated,1998,Tonnes,3017.0,23827.1,789.76
+66,1257,Czech Republic,Municipal waste generated,1999,Tonnes,3365.0,29307.41,870.95
+67,1258,Czech Republic,Municipal waste generated,2000,Tonnes,3434.0,30722.92,894.67
+68,1259,Czech Republic,Municipal waste generated,2001,Tonnes,2798.0,32339.5,1155.81
+69,1260,Czech Republic,Municipal waste generated,2002,Tonnes,2845.0,34043.694,1196.61
+70,1261,Czech Republic,Municipal waste generated,2003,Tonnes,2857.0,34237.047,1198.36
+71,1262,Czech Republic,Municipal waste generated,2004,Tonnes,2841.0,33048.534,1163.27
+72,1263,Czech Republic,Municipal waste generated,2005,Tonnes,2954.0,33146.119,1122.08
+73,1264,Czech Republic,Municipal waste generated,2006,Tonnes,3039.0,34160.211,1124.06
+74,1265,Czech Republic,Municipal waste generated,2007,Tonnes,3025.0,3120.0,103.14
+75,1266,Czech Republic,Municipal waste generated,2008,Tonnes,3176.0,3200.0,100.76
+76,1267,Czech Republic,Municipal waste generated,2009,Tonnes,3310.0,3280.0,99.09
+77,1268,Czech Republic,Municipal waste generated,2010,Tonnes,3334.0,2997.0,89.89
+78,1269,Czech Republic,Municipal waste generated,2011,Tonnes,3358.0,3186.0,94.88
+79,1270,Czech Republic,Municipal waste generated,2012,Tonnes,3233.0,3250.0,100.53
+80,1271,Czech Republic,Municipal waste generated,2013,Tonnes,3228.23,2582.0,79.98
+81,1272,Czech Republic,Municipal waste generated,2014,Tonnes,3260.58,2523.0,77.38
+82,1273,Czech Republic,Municipal waste generated,2015,Tonnes,3337.34,2475.0,74.16
+83,1274,Czech Republic,Municipal waste generated,2016,Tonnes,3579.61,2396.0,66.93
+84,1643,Denmark,Municipal waste generated,1994,Tonnes,2802.6,2495.0,89.02
+85,1644,Denmark,Municipal waste generated,1995,Tonnes,2725.0,2659.22,97.59
+86,1645,Denmark,Municipal waste generated,1996,Tonnes,3253.0,2817.37,86.61
+87,1646,Denmark,Municipal waste generated,1997,Tonnes,3104.0,2756.66,88.81
+88,1647,Denmark,Municipal waste generated,1998,Tonnes,3141.0,2894.47,92.15
+89,1648,Denmark,Municipal waste generated,1999,Tonnes,3329.0,3186.39,95.72
+90,1649,Denmark,Municipal waste generated,2000,Tonnes,3546.0,3346.34,94.37
+91,1650,Denmark,Municipal waste generated,2001,Tonnes,3519.0,3232.64,91.86
+92,1651,Denmark,Municipal waste generated,2002,Tonnes,3568.0,3228.23,90.48
+93,1652,Denmark,Municipal waste generated,2003,Tonnes,3618.0,3260.58,90.12
+94,1653,Denmark,Municipal waste generated,2004,Tonnes,3757.0,3337.34,88.83
+95,1654,Denmark,Municipal waste generated,2005,Tonnes,3990.0,3579.61,89.71
+96,1655,Denmark,Municipal waste generated,2006,Tonnes,4021.0,2377.0,59.11
+97,1656,Denmark,Municipal waste generated,2007,Tonnes,4313.0,2803.0,64.99
+98,1657,Denmark,Municipal waste generated,2008,Tonnes,4560.0,2725.0,59.76
+99,1658,Denmark,Municipal waste generated,2009,Tonnes,4206.0,3253.0,77.34
+100,1659,Denmark,Municipal waste generated,2010,Tonnes,4277.5,3104.0,72.57
+101,1660,Denmark,Municipal waste generated,2011,Tonnes,4349.0,3141.0,72.22
+102,1661,Denmark,Municipal waste generated,2012,Tonnes,4421.0,3329.0,75.3
+103,1662,Denmark,Municipal waste generated,2013,Tonnes,4437.0,3546.0,79.92
+104,1663,Denmark,Municipal waste generated,2014,Tonnes,4450.0,3519.0,79.08
+105,1664,Denmark,Municipal waste generated,2015,Tonnes,4485.0,3568.0,79.55
+106,1665,Denmark,Municipal waste generated,2016,Tonnes,4450.0,3618.0,81.3
+107,2136,Finland,Municipal waste generated,1994,Tonnes,2100.0,3757.0,178.9
+108,2137,Finland,Municipal waste generated,1995,Tonnes,2108.6,3990.0,189.23
+109,2138,Finland,Municipal waste generated,1996,Tonnes,2100.0,4021.0,191.48
+110,2139,Finland,Municipal waste generated,1997,Tonnes,2300.0,4313.0,187.52
+111,2140,Finland,Municipal waste generated,1998,Tonnes,2400.0,4560.0,190.0
+112,2141,Finland,Municipal waste generated,1999,Tonnes,2500.0,4206.0,168.24
+113,2142,Finland,Municipal waste generated,2000,Tonnes,2600.0,4277.0,164.5
+114,2143,Finland,Municipal waste generated,2001,Tonnes,2412.0,4348.0,180.27
+115,2144,Finland,Municipal waste generated,2002,Tonnes,2384.4,4421.0,185.41
+116,2145,Finland,Municipal waste generated,2003,Tonnes,2427.9,4437.0,182.75
+117,2146,Finland,Municipal waste generated,2004,Tonnes,2453.4,4450.0,181.38
+118,2147,Finland,Municipal waste generated,2005,Tonnes,2505.8,4485.0,178.98
+119,2148,Finland,Municipal waste generated,2006,Tonnes,2600.1,4450.0,171.15
+120,2149,Finland,Municipal waste generated,2007,Tonnes,2674.9,2320.0,86.73
+121,2150,Finland,Municipal waste generated,2008,Tonnes,2768.0,2074.67,74.95
+122,2151,Finland,Municipal waste generated,2009,Tonnes,2562.0,2110.79,82.39
+123,2152,Finland,Municipal waste generated,2010,Tonnes,2519.0,2330.0,92.5
+124,2153,Finland,Municipal waste generated,2011,Tonnes,2719.0,2463.62,90.61
+125,2154,Finland,Municipal waste generated,2012,Tonnes,2738.0,2482.23,90.66
+126,2155,Finland,Municipal waste generated,2013,Tonnes,2681.55,2723.83,101.58
+127,2156,Finland,Municipal waste generated,2014,Tonnes,2629.88,2498.65,95.01
+128,2157,Finland,Municipal waste generated,2015,Tonnes,2738.28,2502.69,91.4
+129,2158,Finland,Municipal waste generated,2016,Tonnes,2767.93,2517.29,90.94
+130,2543,France,Municipal waste generated,1992,Tonnes,27000.0,2532.47,9.38
+131,2544,France,Municipal waste generated,1993,Tonnes,27757.0,2546.68,9.17
+132,2545,France,Municipal waste generated,1995,Tonnes,28253.0,2600.1,9.2
+133,2546,France,Municipal waste generated,1996,Tonnes,28950.0,2674.92,9.24
+134,2547,France,Municipal waste generated,1997,Tonnes,29677.0,2832.48,9.54
+135,2548,France,Municipal waste generated,1998,Tonnes,30449.0,2562.43,8.42
+136,2549,France,Municipal waste generated,1999,Tonnes,30612.0,2519.0,8.23
+137,2550,France,Municipal waste generated,2000,Tonnes,31232.0,2718.0,8.7
+138,2551,France,Municipal waste generated,2001,Tonnes,32198.0,2738.0,8.5
+139,2552,France,Municipal waste generated,2002,Tonnes,32684.0,2681.54,8.2
+140,2553,France,Municipal waste generated,2003,Tonnes,31400.0,2629.88,8.38
+141,2554,France,Municipal waste generated,2004,Tonnes,32444.0,2738.28,8.44
+142,2555,France,Municipal waste generated,2005,Tonnes,33366.0,2767.93,8.3
+143,2556,France,Municipal waste generated,2006,Tonnes,33990.0,27758.0,81.67
+144,2557,France,Municipal waste generated,2007,Tonnes,34630.0,28253.0,81.59
+145,2558,France,Municipal waste generated,2008,Tonnes,34714.0,28950.0,83.4
+146,2559,France,Municipal waste generated,2009,Tonnes,34504.0,29677.0,86.01
+147,2560,France,Municipal waste generated,2010,Tonnes,34610.0,30449.0,87.98
+148,2561,France,Municipal waste generated,2011,Tonnes,34790.0,30612.0,87.99
+149,2562,France,Municipal waste generated,2012,Tonnes,34480.0,31232.0,90.58
+150,2563,France,Municipal waste generated,2013,Tonnes,34169.0,32198.0,94.23
+151,2564,France,Municipal waste generated,2014,Tonnes,34314.0,32684.0,95.25
+152,2565,France,Municipal waste generated,2015,Tonnes,34454.0,31400.0,91.14
+153,2566,France,Municipal waste generated,2016,Tonnes,34143.0,32444.0,95.02
+154,2983,Germany,Municipal waste generated,1990,Tonnes,49857.0,33366.0,66.92
+155,2984,Germany,Municipal waste generated,1995,Tonnes,50893.9,33990.0,66.79
+156,2985,Germany,Municipal waste generated,1996,Tonnes,52544.0,34629.0,65.9
+157,2986,Germany,Municipal waste generated,1997,Tonnes,53966.0,34714.0,64.33
+158,2987,Germany,Municipal waste generated,1998,Tonnes,53058.0,34504.0,65.03
+159,2988,Germany,Municipal waste generated,1999,Tonnes,52373.0,34610.0,66.08
+160,2989,Germany,Municipal waste generated,2000,Tonnes,52810.0,34790.0,65.88
+161,2990,Germany,Municipal waste generated,2001,Tonnes,52075.0,34480.0,66.21
+162,2991,Germany,Municipal waste generated,2002,Tonnes,52772.0,34169.0,64.75
+163,2992,Germany,Municipal waste generated,2003,Tonnes,49622.0,34314.0,69.15
+164,2993,Germany,Municipal waste generated,2004,Tonnes,48434.0,34454.0,71.14
+165,2994,Germany,Municipal waste generated,2005,Tonnes,46555.0,34143.0,73.34
+166,2995,Germany,Municipal waste generated,2006,Tonnes,46426.0,36976.0,79.65
+167,2996,Germany,Municipal waste generated,2007,Tonnes,47887.0,50893.9,106.28
+168,2997,Germany,Municipal waste generated,2008,Tonnes,48367.0,52544.0,108.64
+169,2998,Germany,Municipal waste generated,2009,Tonnes,48466.0,53966.0,111.35
+170,2999,Germany,Municipal waste generated,2010,Tonnes,49237.0,53058.0,107.76
+171,3000,Germany,Municipal waste generated,2011,Tonnes,50237.0,52373.0,104.25
+172,3001,Germany,Municipal waste generated,2012,Tonnes,49759.0,52810.0,106.13
+173,3002,Germany,Municipal waste generated,2013,Tonnes,49570.0,52075.0,105.05
+174,3003,Germany,Municipal waste generated,2014,Tonnes,51102.0,52771.0,103.27
+175,3004,Germany,Municipal waste generated,2015,Tonnes,51625.0,49622.0,96.12
+176,3005,Germany,Municipal waste generated,2016,Tonnes,51633.0,48434.0,93.8
+177,3436,Greece,Municipal waste generated,1990,Tonnes,3000.0,46555.0,1551.83
+178,3437,Greece,Municipal waste generated,1992,Tonnes,3200.0,46426.0,1450.81
+179,3438,Greece,Municipal waste generated,1995,Tonnes,3200.0,47887.0,1496.47
+180,3439,Greece,Municipal waste generated,1996,Tonnes,3600.0,48367.0,1343.53
+181,3440,Greece,Municipal waste generated,1997,Tonnes,3900.0,48466.0,1242.72
+182,3441,Greece,Municipal waste generated,1998,Tonnes,4082.0,49235.0,1206.15
+183,3442,Greece,Municipal waste generated,1999,Tonnes,4264.0,50237.0,1178.17
+184,3443,Greece,Municipal waste generated,2000,Tonnes,4447.0,49759.0,1118.93
+185,3444,Greece,Municipal waste generated,2001,Tonnes,4559.0,49570.0,1087.3
+186,3445,Greece,Municipal waste generated,2002,Tonnes,4640.1,51102.0,1101.31
+187,3446,Greece,Municipal waste generated,2003,Tonnes,4710.3,51626.0,1096.02
+188,3447,Greece,Municipal waste generated,2004,Tonnes,4781.5,51634.0,1079.87
+189,3448,Greece,Municipal waste generated,2005,Tonnes,4853.0,2999.7,61.81
+190,3449,Greece,Municipal waste generated,2006,Tonnes,4927.1,3195.9,64.86
+191,3450,Greece,Municipal waste generated,2007,Tonnes,5001.6,3490.34,69.78
+192,3451,Greece,Municipal waste generated,2008,Tonnes,5077.0,3666.77,72.22
+193,3452,Greece,Municipal waste generated,2009,Tonnes,5154.0,3899.6,75.66
+194,3453,Greece,Municipal waste generated,2010,Tonnes,5917.0,4082.0,68.99
+195,3454,Greece,Municipal waste generated,2011,Tonnes,5586.0,4264.0,76.33
+196,3455,Greece,Municipal waste generated,2012,Tonnes,5463.0,4447.0,81.4
+197,3456,Greece,Municipal waste generated,2013,Tonnes,5284.0,4559.0,86.28
+198,3457,Greece,Municipal waste generated,2014,Tonnes,5315.0,4640.0,87.3
+199,3458,Greece,Municipal waste generated,2015,Tonnes,5277.0,4710.25,89.26
+200,3459,Greece,Municipal waste generated,2016,Tonnes,5354.0,4781.47,89.31
+201,3812,Hungary,Municipal waste generated,1990,Tonnes,5500.0,4867.25,88.5
+202,3813,Hungary,Municipal waste generated,1995,Tonnes,4752.0,4927.14,103.69
+203,3814,Hungary,Municipal waste generated,1996,Tonnes,4834.0,5001.63,103.47
+204,3815,Hungary,Municipal waste generated,1997,Tonnes,5016.0,5077.92,101.23
+205,3816,Hungary,Municipal waste generated,1998,Tonnes,4976.0,5154.0,103.58
+206,3817,Hungary,Municipal waste generated,1999,Tonnes,4943.0,5917.0,119.7
+207,3818,Hungary,Municipal waste generated,2000,Tonnes,4552.0,5586.0,122.72
+208,3819,Hungary,Municipal waste generated,2001,Tonnes,4603.0,5463.0,118.68
+209,3820,Hungary,Municipal waste generated,2002,Tonnes,4646.0,5284.0,113.73
+210,3821,Hungary,Municipal waste generated,2003,Tonnes,4700.0,5315.0,113.09
+211,3822,Hungary,Municipal waste generated,2004,Tonnes,4591.6,5277.0,114.93
+212,3823,Hungary,Municipal waste generated,2005,Tonnes,4646.0,5354.0,115.24
+213,3824,Hungary,Municipal waste generated,2006,Tonnes,4711.0,4171.0,88.54
+214,3825,Hungary,Municipal waste generated,2007,Tonnes,4593.5,3688.0,80.29
+215,3826,Hungary,Municipal waste generated,2008,Tonnes,4553.0,3887.34,85.38
+216,3827,Hungary,Municipal waste generated,2009,Tonnes,4312.0,4100.66,95.1
+217,3828,Hungary,Municipal waste generated,2010,Tonnes,4033.0,4338.58,107.58
+218,3829,Hungary,Municipal waste generated,2011,Tonnes,3809.0,4371.94,114.78
+219,3830,Hungary,Municipal waste generated,2012,Tonnes,3988.0,4455.41,111.72
+220,3831,Hungary,Municipal waste generated,2013,Tonnes,3738.0,4157.13,111.21
+221,3832,Hungary,Municipal waste generated,2014,Tonnes,3795.0,4123.09,108.65
+222,3833,Hungary,Municipal waste generated,2015,Tonnes,3712.0,4243.17,114.31
+223,3834,Hungary,Municipal waste generated,2016,Tonnes,3721.0,4376.03,117.6
+224,4267,Iceland,Municipal waste generated,1995,Tonnes,114.0,4552.0,3992.98
+225,4268,Iceland,Municipal waste generated,1996,Tonnes,117.0,4606.0,3936.75
+226,4269,Iceland,Municipal waste generated,1997,Tonnes,120.0,4671.0,3892.5
+227,4270,Iceland,Municipal waste generated,1998,Tonnes,123.0,4365.0,3548.78
+228,4271,Iceland,Municipal waste generated,1999,Tonnes,126.0,4426.0,3512.7
+229,4272,Iceland,Municipal waste generated,2000,Tonnes,130.0,4284.0,3295.38
+230,4273,Iceland,Municipal waste generated,2001,Tonnes,133.0,4033.0,3032.33
+231,4274,Iceland,Municipal waste generated,2002,Tonnes,137.0,3809.0,2780.29
+232,4275,Iceland,Municipal waste generated,2003,Tonnes,140.0,3988.0,2848.57
+233,4276,Iceland,Municipal waste generated,2004,Tonnes,147.0,3738.0,2542.86
+234,4277,Iceland,Municipal waste generated,2005,Tonnes,153.0,3713.0,2426.8
+235,4278,Iceland,Municipal waste generated,2006,Tonnes,171.0,3710.0,2169.59
+236,4279,Iceland,Municipal waste generated,2007,Tonnes,174.0,3734.0,2145.98
+237,4280,Iceland,Municipal waste generated,2008,Tonnes,208.0,119.5,57.45
+238,4281,Iceland,Municipal waste generated,2009,Tonnes,132.0,118.75,89.96
+239,4282,Iceland,Municipal waste generated,2010,Tonnes,154.0,118.0,76.62
+240,4283,Iceland,Municipal waste generated,2011,Tonnes,158.0,122.25,77.37
+241,4284,Iceland,Municipal waste generated,2012,Tonnes,164.0,126.5,77.13
+242,4285,Iceland,Municipal waste generated,2013,Tonnes,167.0,134.5,80.54
+243,4286,Iceland,Municipal waste generated,2014,Tonnes,175.0,131.75,75.29
+244,4287,Iceland,Municipal waste generated,2015,Tonnes,194.6,134.75,69.24
+245,4288,Iceland,Municipal waste generated,2016,Tonnes,219.9,139.0,63.21
+246,4608,Ireland,Municipal waste generated,1995,Tonnes,1848.2,208.0,11.25
+247,4609,Ireland,Municipal waste generated,1996,Tonnes,1898.0,132.0,6.95
+248,4610,Ireland,Municipal waste generated,1997,Tonnes,2000.0,154.0,7.7
+249,4611,Ireland,Municipal waste generated,1998,Tonnes,2056.7,158.0,7.68
+250,4612,Ireland,Municipal waste generated,1999,Tonnes,2168.0,165.0,7.61
+251,4613,Ireland,Municipal waste generated,2000,Tonnes,2278.7,166.0,7.28
+252,4614,Ireland,Municipal waste generated,2001,Tonnes,2704.0,175.0,6.47
+253,4615,Ireland,Municipal waste generated,2002,Tonnes,2720.4,194.6,7.15
+254,4616,Ireland,Municipal waste generated,2003,Tonnes,2917.9,219.9,7.54
+255,4617,Ireland,Municipal waste generated,2004,Tonnes,3000.6,1550.0,51.66
+256,4618,Ireland,Municipal waste generated,2005,Tonnes,3040.7,1648.0,54.2
+257,4619,Ireland,Municipal waste generated,2006,Tonnes,3384.6,1753.55,51.81
+258,4620,Ireland,Municipal waste generated,2007,Tonnes,3397.7,1933.46,56.9
+259,4621,Ireland,Municipal waste generated,2008,Tonnes,3224.28,2135.0,66.22
+260,4622,Ireland,Municipal waste generated,2009,Tonnes,2952.98,2363.9,80.05
+261,4623,Ireland,Municipal waste generated,2010,Tonnes,2846.0,2376.07,83.49
+262,4624,Ireland,Municipal waste generated,2011,Tonnes,2823.0,2464.34,87.3
+263,4625,Ireland,Municipal waste generated,2012,Tonnes,2692.5,2594.4,96.36
+264,4626,Ireland,Municipal waste generated,2014,Tonnes,2619.02,2703.61,103.23
+265,4959,Italy,Municipal waste generated,1990,Tonnes,20000.0,2779.1,13.9
+266,4960,Italy,Municipal waste generated,1991,Tonnes,23200.0,3100.31,13.36
+267,4961,Italy,Municipal waste generated,1993,Tonnes,26100.0,3174.57,12.16
+268,4962,Italy,Municipal waste generated,1995,Tonnes,25780.0,3103.87,12.04
+269,4963,Italy,Municipal waste generated,1996,Tonnes,25960.0,2825.01,10.88
+270,4964,Italy,Municipal waste generated,1997,Tonnes,26605.0,2621.57,9.85
+271,4965,Italy,Municipal waste generated,1998,Tonnes,26846.0,2558.0,9.53
+272,4966,Italy,Municipal waste generated,1999,Tonnes,28364.0,2439.45,8.6
+273,4967,Italy,Municipal waste generated,2000,Tonnes,28959.0,2575.22,8.89
+274,4968,Italy,Municipal waste generated,2001,Tonnes,29409.0,26607.0,90.47
+275,4969,Italy,Municipal waste generated,2002,Tonnes,29864.0,24483.0,81.98
+276,4970,Italy,Municipal waste generated,2003,Tonnes,30035.0,25499.0,84.9
+277,4971,Italy,Municipal waste generated,2004,Tonnes,31150.0,25675.0,82.42
+278,4972,Italy,Municipal waste generated,2005,Tonnes,31668.0,27302.0,86.21
+279,4973,Italy,Municipal waste generated,2006,Tonnes,32516.0,28279.0,86.97
+280,4974,Italy,Municipal waste generated,2007,Tonnes,32536.0,27668.0,85.04
+281,4975,Italy,Municipal waste generated,2008,Tonnes,32461.0,25840.0,79.6
+282,4976,Italy,Municipal waste generated,2009,Tonnes,32107.0,25956.0,80.84
+283,4977,Italy,Municipal waste generated,2010,Tonnes,32440.0,26626.0,82.08
+284,4978,Italy,Municipal waste generated,2011,Tonnes,31386.0,26810.0,85.42
+285,4979,Italy,Municipal waste generated,2012,Tonnes,29994.0,27829.0,92.78
+286,4980,Italy,Municipal waste generated,2013,Tonnes,29573.0,29076.0,98.32
+287,4981,Italy,Municipal waste generated,2014,Tonnes,29652.0,28178.0,95.03
+288,4982,Italy,Municipal waste generated,2015,Tonnes,29524.0,29840.0,101.07
+289,4983,Italy,Municipal waste generated,2016,Tonnes,30117.0,30505.0,101.29
+290,5336,Japan,Municipal waste generated,1990,Tonnes,50256.625,29928.0,59.55
+291,5337,Japan,Municipal waste generated,1991,Tonnes,51132.0,28765.0,56.26
+292,5338,Japan,Municipal waste generated,1992,Tonnes,50902.94,28538.0,56.06
+293,5339,Japan,Municipal waste generated,1993,Tonnes,51267.9,27537.0,53.71
+294,5340,Japan,Municipal waste generated,1994,Tonnes,51800.0,26711.0,51.57
+295,5341,Japan,Municipal waste generated,1995,Tonnes,52224.0,26888.0,51.49
+296,5342,Japan,Municipal waste generated,1996,Tonnes,52908.0,50267.83,95.01
+297,5343,Japan,Municipal waste generated,1997,Tonnes,53098.0,51128.94,96.29
+298,5344,Japan,Municipal waste generated,1998,Tonnes,53605.0,50910.57,94.97
+299,5345,Japan,Municipal waste generated,1999,Tonnes,53699.0,51258.05,95.45
+300,5346,Japan,Municipal waste generated,2000,Tonnes,54833.0,51799.0,94.47
+301,5347,Japan,Municipal waste generated,2001,Tonnes,54681.0,52219.0,95.5
+302,5348,Japan,Municipal waste generated,2002,Tonnes,54199.0,52912.0,97.63
+303,5349,Japan,Municipal waste generated,2003,Tonnes,54271.0,53088.0,97.82
+304,5350,Japan,Municipal waste generated,2004,Tonnes,53376.0,53628.0,100.47
+305,5351,Japan,Municipal waste generated,2005,Tonnes,52720.0,53795.0,102.04
+306,5352,Japan,Municipal waste generated,2006,Tonnes,52024.0,54855.0,105.44
+307,5353,Japan,Municipal waste generated,2007,Tonnes,50816.0,54798.0,107.84
+308,5354,Japan,Municipal waste generated,2008,Tonnes,48106.0,54253.0,112.78
+309,5355,Japan,Municipal waste generated,2009,Tonnes,46252.0,54367.0,117.55
+310,5356,Japan,Municipal waste generated,2010,Tonnes,45359.0,53432.0,117.8
+311,5357,Japan,Municipal waste generated,2011,Tonnes,45430.0,52750.0,116.11
+312,5358,Japan,Municipal waste generated,2012,Tonnes,45234.0,52072.0,115.12
+313,5359,Japan,Municipal waste generated,2013,Tonnes,44874.0,50774.0,113.15
+314,5360,Japan,Municipal waste generated,2014,Tonnes,44317.0,50597.0,114.17
+315,5361,Japan,Municipal waste generated,2015,Tonnes,43981.0,50397.0,114.59
+316,5717,Korea,Municipal waste generated,1990,Tonnes,30646.1,49529.0,161.62
+317,5718,Korea,Municipal waste generated,1991,Tonnes,33669.8,45015.0,133.7
+318,5719,Korea,Municipal waste generated,1992,Tonnes,27410.0,45047.0,164.35
+319,5720,Korea,Municipal waste generated,1993,Tonnes,22973.1,44645.0,194.34
+320,5721,Korea,Municipal waste generated,1994,Tonnes,21213.1,43677.0,205.9
+321,5722,Korea,Municipal waste generated,1995,Tonnes,17438.0,43382.0,248.78
+322,5723,Korea,Municipal waste generated,1996,Tonnes,18222.6,30646.13,168.18
+323,5724,Korea,Municipal waste generated,1997,Tonnes,17481.7,33670.01,192.6
+324,5725,Korea,Municipal waste generated,1998,Tonnes,16272.8,27410.04,168.44
+325,5726,Korea,Municipal waste generated,1999,Tonnes,16649.1,22973.1,137.98
+326,5727,Korea,Municipal waste generated,2000,Tonnes,16949.9,21213.07,125.15
+327,5728,Korea,Municipal waste generated,2001,Tonnes,17702.1,17438.0,98.51
+328,5729,Korea,Municipal waste generated,2002,Tonnes,18214.2,18222.63,100.05
+329,5730,Korea,Municipal waste generated,2003,Tonnes,18518.9,17481.68,94.4
+330,5731,Korea,Municipal waste generated,2004,Tonnes,18252.0,16273.0,89.16
+331,5732,Korea,Municipal waste generated,2005,Tonnes,17665.0,16649.11,94.25
+332,5733,Korea,Municipal waste generated,2006,Tonnes,17828.0,16950.0,95.08
+333,5734,Korea,Municipal waste generated,2007,Tonnes,18376.0,17702.14,96.33
+334,5735,Korea,Municipal waste generated,2008,Tonnes,19006.0,18214.0,95.83
+335,5736,Korea,Municipal waste generated,2009,Tonnes,18581.0,18518.64,99.66
+336,5737,Korea,Municipal waste generated,2010,Tonnes,17943.0,18253.0,101.73
+337,5738,Korea,Municipal waste generated,2011,Tonnes,17861.0,17666.0,98.91
+338,5739,Korea,Municipal waste generated,2012,Tonnes,17881.0,19006.0,106.29
+339,5740,Korea,Municipal waste generated,2013,Tonnes,17786.0,18581.0,104.47
+340,5741,Korea,Municipal waste generated,2014,Tonnes,18219.0,17943.0,98.49
+341,5742,Korea,Municipal waste generated,2015,Tonnes,18705.0,17861.0,95.49
+342,6087,Luxembourg,Municipal waste generated,1990,Tonnes,223.6,17881.0,7996.87
+343,6088,Luxembourg,Municipal waste generated,1991,Tonnes,216.8,17786.0,8203.87
+344,6089,Luxembourg,Municipal waste generated,1992,Tonnes,195.52,18219.0,9318.23
+345,6090,Luxembourg,Municipal waste generated,1993,Tonnes,200.98,18705.0,9306.9
+346,6091,Luxembourg,Municipal waste generated,1994,Tonnes,196.1,240.04,122.41
+347,6092,Luxembourg,Municipal waste generated,1995,Tonnes,240.04,242.3,100.94
+348,6093,Luxembourg,Municipal waste generated,1996,Tonnes,242.3,253.19,104.49
+349,6094,Luxembourg,Municipal waste generated,1997,Tonnes,253.19,265.59,104.9
+350,6095,Luxembourg,Municipal waste generated,1998,Tonnes,265.59,277.89,104.63
+351,6096,Luxembourg,Municipal waste generated,1999,Tonnes,277.89,285.26,102.65
+352,6097,Luxembourg,Municipal waste generated,2000,Tonnes,285.26,285.21,99.98
+353,6098,Luxembourg,Municipal waste generated,2001,Tonnes,285.21,291.29,102.13
+354,6099,Luxembourg,Municipal waste generated,2002,Tonnes,291.29,306.43,105.2
+355,6100,Luxembourg,Municipal waste generated,2003,Tonnes,306.43,310.89,101.46
+356,6101,Luxembourg,Municipal waste generated,2004,Tonnes,310.89,312.76,100.6
+357,6102,Luxembourg,Municipal waste generated,2005,Tonnes,312.76,322.65,103.16
+358,6103,Luxembourg,Municipal waste generated,2006,Tonnes,322.65,333.37,103.32
+359,6104,Luxembourg,Municipal waste generated,2007,Tonnes,333.37,340.69,102.2
+360,6105,Luxembourg,Municipal waste generated,2008,Tonnes,340.69,338.14,99.25
+361,6106,Luxembourg,Municipal waste generated,2009,Tonnes,338.14,344.26,101.81
+362,6107,Luxembourg,Municipal waste generated,2010,Tonnes,344.26,345.33,100.31
+363,6108,Luxembourg,Municipal waste generated,2011,Tonnes,345.33,346.09,100.22
+364,6109,Luxembourg,Municipal waste generated,2012,Tonnes,346.09,334.72,96.71
+365,6110,Luxembourg,Municipal waste generated,2013,Tonnes,334.72,348.15,104.01
+366,6111,Luxembourg,Municipal waste generated,2014,Tonnes,348.15,345.95,99.37
+367,6112,Luxembourg,Municipal waste generated,2015,Tonnes,345.95,357.63,103.38
+368,6113,Luxembourg,Municipal waste generated,2016,Tonnes,357.63,21062.33,5889.42
+369,6531,Mexico,Municipal waste generated,1991,Tonnes,21062.33,21967.54,104.3
+370,6532,Mexico,Municipal waste generated,1992,Tonnes,21967.53,28089.59,127.87
+371,6533,Mexico,Municipal waste generated,1993,Tonnes,28089.5,29472.5,104.92
+372,6534,Mexico,Municipal waste generated,1994,Tonnes,29472.4,30509.6,103.52
+373,6535,Mexico,Municipal waste generated,1995,Tonnes,30509.6,31959.4,104.75
+374,6536,Mexico,Municipal waste generated,1996,Tonnes,31959.4,29272.37,91.59
+375,6537,Mexico,Municipal waste generated,1997,Tonnes,29272.4,30550.55,104.37
+376,6538,Mexico,Municipal waste generated,1998,Tonnes,30550.5,30952.0,101.31
+377,6539,Mexico,Municipal waste generated,1999,Tonnes,30952.0,30733.1,99.29
+378,6540,Mexico,Municipal waste generated,2000,Tonnes,30733.0,31488.59,102.46
+379,6541,Mexico,Municipal waste generated,2001,Tonnes,31488.6,32173.67,102.18
+380,6542,Mexico,Municipal waste generated,2002,Tonnes,32173.6,32915.6,102.31
+381,6543,Mexico,Municipal waste generated,2003,Tonnes,32915.7,34604.0,105.13
+382,6544,Mexico,Municipal waste generated,2004,Tonnes,34604.0,35405.0,102.31
+383,6545,Mexico,Municipal waste generated,2005,Tonnes,35404.9,36135.0,102.06
+384,6546,Mexico,Municipal waste generated,2006,Tonnes,36135.0,36865.0,102.02
+385,6547,Mexico,Municipal waste generated,2007,Tonnes,36865.0,37594.6,101.98
+386,6548,Mexico,Municipal waste generated,2008,Tonnes,37595.0,38325.0,101.94
+387,6549,Mexico,Municipal waste generated,2009,Tonnes,38325.0,40058.75,104.52
+388,6550,Mexico,Municipal waste generated,2010,Tonnes,40058.75,41062.5,102.51
+389,6551,Mexico,Municipal waste generated,2011,Tonnes,41062.5,42102.75,102.53
+390,6552,Mexico,Municipal waste generated,2012,Tonnes,42102.75,7163.0,17.01
+391,6553,Mexico,Municipal waste generated,2016,Tonnes,43898.8,7986.0,18.19
+392,6752,Netherlands,Municipal waste generated,1990,Tonnes,7430.0,8144.0,109.61
+393,6753,Netherlands,Municipal waste generated,1991,Tonnes,7470.0,7870.0,105.35
+394,6754,Netherlands,Municipal waste generated,1993,Tonnes,8377.0,7986.0,95.33
+395,6755,Netherlands,Municipal waste generated,1994,Tonnes,8501.0,8404.0,98.86
+396,6756,Netherlands,Municipal waste generated,1995,Tonnes,8337.0,7923.0,95.03
+397,6757,Netherlands,Municipal waste generated,1996,Tonnes,8565.0,7846.0,91.61
+398,6758,Netherlands,Municipal waste generated,1997,Tonnes,8986.0,8121.0,90.37
+399,6759,Netherlands,Municipal waste generated,1998,Tonnes,9069.0,8141.0,89.77
+400,6760,Netherlands,Municipal waste generated,1999,Tonnes,9205.0,8313.0,90.31
+401,6761,Netherlands,Municipal waste generated,2000,Tonnes,9529.0,7778.0,81.62
+402,6762,Netherlands,Municipal waste generated,2001,Tonnes,9550.0,8009.0,83.86
+403,6763,Netherlands,Municipal waste generated,2002,Tonnes,9684.0,8034.0,82.96
+404,6764,Netherlands,Municipal waste generated,2003,Tonnes,9504.0,8049.0,84.69
+405,6765,Netherlands,Municipal waste generated,2004,Tonnes,9746.0,8254.0,84.69
+406,6766,Netherlands,Municipal waste generated,2005,Tonnes,9769.0,9868.0,101.01
+407,6767,Netherlands,Municipal waste generated,2006,Tonnes,9761.0,9738.0,99.76
+408,6768,Netherlands,Municipal waste generated,2007,Tonnes,9922.0,9484.0,95.59
+409,6769,Netherlands,Municipal waste generated,2008,Tonnes,9868.0,9479.0,96.06
+410,6770,Netherlands,Municipal waste generated,2009,Tonnes,9738.0,9203.0,94.51
+411,6771,Netherlands,Municipal waste generated,2010,Tonnes,9484.0,8840.0,93.21
+412,6772,Netherlands,Municipal waste generated,2011,Tonnes,9479.0,8894.0,93.83
+413,6773,Netherlands,Municipal waste generated,2012,Tonnes,9203.0,8865.0,96.33
+414,6774,Netherlands,Municipal waste generated,2013,Tonnes,8840.0,8848.0,100.09
+415,6775,Netherlands,Municipal waste generated,2014,Tonnes,8894.0,2222.0,24.98
+416,6776,Netherlands,Municipal waste generated,2015,Tonnes,8865.0,2217.2,25.01
+417,6777,Netherlands,Municipal waste generated,2016,Tonnes,8848.0,2366.26,26.74
+418,7200,New Zealand,Municipal waste generated,1990,Tonnes,3330.0,2721.88,81.74
+419,7201,New Zealand,Municipal waste generated,1995,Tonnes,3180.0,2760.9,86.82
+420,7202,New Zealand,Municipal waste generated,2002,Tonnes,3022.0,2720.62,90.03
+421,7203,New Zealand,Municipal waste generated,2003,Tonnes,3075.0,2857.0,92.91
+422,7204,New Zealand,Municipal waste generated,2004,Tonnes,3186.0,2650.0,83.18
+423,7205,New Zealand,Municipal waste generated,2006,Tonnes,3156.0,2755.0,87.29
+424,7206,New Zealand,Municipal waste generated,2010,Tonnes,2532.0,1628.97,64.34
+425,7207,New Zealand,Municipal waste generated,2011,Tonnes,2512.0,1779.708,70.85
+426,7208,New Zealand,Municipal waste generated,2012,Tonnes,2514.0,1836.213,73.04
+427,7209,New Zealand,Municipal waste generated,2013,Tonnes,2684.0,1902.374,70.88
+428,7210,New Zealand,Municipal waste generated,2014,Tonnes,2931.0,1968.372,67.16
+429,7211,New Zealand,Municipal waste generated,2015,Tonnes,3221.0,2139.398,66.42
+430,7212,New Zealand,Municipal waste generated,2016,Tonnes,3405.0,2311.488,67.89
+431,7226,Norway,Municipal waste generated,1990,Tonnes,2000.0,2323.562,116.18
+432,7227,Norway,Municipal waste generated,1992,Tonnes,2222.8,2268.802,102.07
+433,7228,Norway,Municipal waste generated,1993,Tonnes,2217.0,2295.239,103.53
+434,7229,Norway,Municipal waste generated,1994,Tonnes,2366.0,2403.0,101.56
+435,7230,Norway,Municipal waste generated,1995,Tonnes,2722.2,2392.0,87.87
+436,7231,Norway,Municipal waste generated,1996,Tonnes,2761.2,2517.96,91.19
+437,7232,Norway,Municipal waste generated,1997,Tonnes,2720.7,2175.44,79.96
+438,7233,Norway,Municipal waste generated,1998,Tonnes,2858.2,2187.22,76.52
+439,7234,Norway,Municipal waste generated,1999,Tonnes,2650.0,3946.17,148.91
+440,7235,Norway,Municipal waste generated,2000,Tonnes,2755.0,10985.0,398.73
+441,7236,Norway,Municipal waste generated,2001,Tonnes,1629.0,11621.0,713.38
+442,7237,Norway,Municipal waste generated,2002,Tonnes,1780.0,12183.0,684.44
+443,7238,Norway,Municipal waste generated,2003,Tonnes,1836.0,11827.0,644.17
+444,7239,Norway,Municipal waste generated,2004,Tonnes,1903.0,12317.0,647.24
+445,7240,Norway,Municipal waste generated,2005,Tonnes,1968.0,12226.0,621.24
+446,7241,Norway,Municipal waste generated,2006,Tonnes,2140.0,11108.0,519.07
+447,7242,Norway,Municipal waste generated,2007,Tonnes,2312.0,10509.0,454.54
+448,7243,Norway,Municipal waste generated,2008,Tonnes,2324.0,9925.0,427.07
+449,7244,Norway,Municipal waste generated,2009,Tonnes,2269.0,9715.0,428.16
+450,7245,Norway,Municipal waste generated,2010,Tonnes,2295.0,9352.0,407.49
+451,7246,Norway,Municipal waste generated,2011,Tonnes,2403.0,9877.0,411.03
+452,7247,Norway,Municipal waste generated,2012,Tonnes,2392.0,10083.0,421.53
+453,7248,Norway,Municipal waste generated,2013,Tonnes,2517.96,10036.0,398.58
+454,7249,Norway,Municipal waste generated,2014,Tonnes,2175.44,10053.0,462.11
+455,7250,Norway,Municipal waste generated,2015,Tonnes,2187.22,10040.0,459.03
+456,7251,Norway,Municipal waste generated,2016,Tonnes,3946.17,9828.0,249.05
+457,7755,Poland,Municipal waste generated,1990,Tonnes,11098.0,9581.0,86.33
+458,7756,Poland,Municipal waste generated,1991,Tonnes,10638.0,9474.0,89.06
+459,7757,Poland,Municipal waste generated,1992,Tonnes,10621.0,10330.0,97.26
+460,7758,Poland,Municipal waste generated,1993,Tonnes,10645.0,10864.0,102.06
+461,7759,Poland,Municipal waste generated,1994,Tonnes,11015.0,11654.0,105.8
+462,7760,Poland,Municipal waste generated,1995,Tonnes,10985.0,3563.0,32.44
+463,7761,Poland,Municipal waste generated,1996,Tonnes,11621.0,3800.0,32.7
+464,7762,Poland,Municipal waste generated,1997,Tonnes,12183.0,3528.95,28.97
+465,7763,Poland,Municipal waste generated,1998,Tonnes,11827.0,3740.45,31.63
+466,7764,Poland,Municipal waste generated,1999,Tonnes,12317.0,4013.21,32.58
+467,7765,Poland,Municipal waste generated,2000,Tonnes,12226.0,4197.81,34.34
+468,7766,Poland,Municipal waste generated,2001,Tonnes,11109.0,4426.9,39.85
+469,7767,Poland,Municipal waste generated,2002,Tonnes,10509.0,4704.56,44.77
+470,7768,Poland,Municipal waste generated,2003,Tonnes,9925.0,4709.17,47.45
+471,7769,Poland,Municipal waste generated,2004,Tonnes,9759.0,4581.44,46.95
+472,7770,Poland,Municipal waste generated,2005,Tonnes,12169.0,4692.78,38.56
+473,7771,Poland,Municipal waste generated,2006,Tonnes,12235.0,4665.19,38.13
+474,7772,Poland,Municipal waste generated,2007,Tonnes,12264.0,4745.18,38.69
+475,7773,Poland,Municipal waste generated,2008,Tonnes,12194.0,4898.08,40.17
+476,7774,Poland,Municipal waste generated,2009,Tonnes,12053.0,4967.27,41.21
+477,7775,Poland,Municipal waste generated,2010,Tonnes,12032.0,5471.84,45.48
+478,7776,Poland,Municipal waste generated,2011,Tonnes,12129.0,5496.27,45.32
+479,7777,Poland,Municipal waste generated,2012,Tonnes,12084.0,5457.14,45.16
+480,7778,Poland,Municipal waste generated,2013,Tonnes,11295.0,5177.78,45.84
+481,7779,Poland,Municipal waste generated,2014,Tonnes,10330.0,4765.92,46.14
+482,7780,Poland,Municipal waste generated,2015,Tonnes,10863.0,4597.94,42.33
+483,7781,Poland,Municipal waste generated,2016,Tonnes,11654.0,4710.46,40.42
+484,8177,Portugal,Municipal waste generated,1990,Tonnes,3000.0,1775.77,59.19
+485,8178,Portugal,Municipal waste generated,1992,Tonnes,3270.0,1739.95,53.21
+486,8179,Portugal,Municipal waste generated,1993,Tonnes,3563.0,1731.1,48.59
+487,8180,Portugal,Municipal waste generated,1994,Tonnes,3800.0,1706.72,44.91
+488,8181,Portugal,Municipal waste generated,1995,Tonnes,3884.0,1449.11,37.31
+489,8182,Portugal,Municipal waste generated,1996,Tonnes,4003.0,1511.24,37.75
+490,8183,Portugal,Municipal waste generated,1997,Tonnes,4080.0,1400.03,34.31
+491,8184,Portugal,Municipal waste generated,1998,Tonnes,4275.0,1380.85,32.3
+492,8185,Portugal,Municipal waste generated,1999,Tonnes,4363.6,1440.76,33.02
+493,8186,Portugal,Municipal waste generated,2000,Tonnes,4531.2,1520.93,33.57
+494,8187,Portugal,Municipal waste generated,2001,Tonnes,4500.7,1593.79,35.41
+495,8188,Portugal,Municipal waste generated,2002,Tonnes,4595.15,1613.67,35.12
+496,8189,Portugal,Municipal waste generated,2003,Tonnes,4692.78,1709.64,36.43
+497,8190,Portugal,Municipal waste generated,2004,Tonnes,4665.19,1669.32,35.78
+498,8191,Portugal,Municipal waste generated,2005,Tonnes,4745.18,1655.25,34.88
+499,8192,Portugal,Municipal waste generated,2006,Tonnes,4898.08,1618.39,33.04
+500,8193,Portugal,Municipal waste generated,2007,Tonnes,4967.27,1702.43,34.27
+501,8194,Portugal,Municipal waste generated,2008,Tonnes,5471.84,1776.06,32.46
+502,8195,Portugal,Municipal waste generated,2009,Tonnes,5496.27,1874.81,34.11
+503,8196,Portugal,Municipal waste generated,2010,Tonnes,5457.14,25316.94,463.92
+504,8197,Portugal,Municipal waste generated,2011,Tonnes,5177.78,25107.98,484.92
+505,8198,Portugal,Municipal waste generated,2012,Tonnes,4765.92,23774.42,498.84
+506,8199,Portugal,Municipal waste generated,2013,Tonnes,4597.94,22672.41,493.1
+507,8200,Portugal,Municipal waste generated,2014,Tonnes,4710.46,21896.34,464.85
+508,8541,Slovak Republic,Municipal waste generated,1992,Tonnes,1600.0,21184.2,1324.01
+509,8542,Slovak Republic,Municipal waste generated,1993,Tonnes,1600.0,20836.4,1302.28
+510,8543,Slovak Republic,Municipal waste generated,1994,Tonnes,1600.0,21157.8,1322.36
+511,8544,Slovak Republic,Municipal waste generated,1995,Tonnes,1620.0,20584.6,1270.65
+512,8545,Slovak Republic,Municipal waste generated,1996,Tonnes,1685.964,3200.0,189.8
+513,8546,Slovak Republic,Municipal waste generated,1997,Tonnes,1775.767,3507.0,197.49
+514,8547,Slovak Republic,Municipal waste generated,1998,Tonnes,1739.975,3405.0,195.69
+515,8548,Slovak Republic,Municipal waste generated,1999,Tonnes,1731.099,3458.0,199.76
+516,8549,Slovak Republic,Municipal waste generated,2000,Tonnes,1706.7220000000002,3678.0,215.5
+517,8550,Slovak Republic,Municipal waste generated,2002,Tonnes,1449.114,3839.0,264.92
+518,8551,Slovak Republic,Municipal waste generated,2003,Tonnes,1511.241,3774.0,249.73
+519,8552,Slovak Republic,Municipal waste generated,2004,Tonnes,1400.0320000000004,3773.0,269.49
+520,8553,Slovak Republic,Municipal waste generated,2005,Tonnes,1467.766,3907.2,266.2
+521,8554,Slovak Republic,Municipal waste generated,2006,Tonnes,1523.9879999999996,4149.0,272.25
+522,8555,Slovak Republic,Municipal waste generated,2007,Tonnes,1579.061,4155.6,263.17
+523,8556,Slovak Republic,Municipal waste generated,2008,Tonnes,1685.533,4134.45,245.29
+524,8557,Slovak Republic,Municipal waste generated,2009,Tonnes,1654.3470000000002,4305.75,260.27
+525,8558,Slovak Republic,Municipal waste generated,2010,Tonnes,1719.01,4446.68,258.68
+526,8559,Slovak Republic,Municipal waste generated,2011,Tonnes,1678.92,4442.47,264.6
+527,8560,Slovak Republic,Municipal waste generated,2012,Tonnes,1656.57,4454.59,268.9
+528,8561,Slovak Republic,Municipal waste generated,2013,Tonnes,1644.64,4365.72,265.45
+529,8562,Slovak Republic,Municipal waste generated,2014,Tonnes,1732.99,4115.09,237.46
+530,8563,Slovak Republic,Municipal waste generated,2015,Tonnes,1784.18,4246.24,237.99
+531,8564,Slovak Republic,Municipal waste generated,2016,Tonnes,1889.53,4285.09,226.78
+532,8943,Spain,Municipal waste generated,1995,Tonnes,18731.763,4326.07,23.09
+533,8944,Spain,Municipal waste generated,1996,Tonnes,19710.711,4246.28,21.54
+534,8945,Spain,Municipal waste generated,1997,Tonnes,20689.286,4376.53,21.15
+535,8946,Spain,Municipal waste generated,1998,Tonnes,20921.613,4392.51,21.0
+536,8947,Spain,Municipal waste generated,1999,Tonnes,22831.552000000003,4100.6,17.96
+537,8948,Spain,Municipal waste generated,2000,Tonnes,24730.284,4051.2,16.38
+538,8949,Spain,Municipal waste generated,2001,Tonnes,24833.764,4096.7,16.5
+539,8950,Spain,Municipal waste generated,2002,Tonnes,26404.0,4140.2,15.68
+540,8951,Spain,Municipal waste generated,2003,Tonnes,27270.0,4161.5,15.26
+541,8952,Spain,Municipal waste generated,2004,Tonnes,25746.0,4240.4,16.47
+542,8953,Spain,Municipal waste generated,2005,Tonnes,25683.0,4276.4,16.65
+543,8954,Spain,Municipal waste generated,2006,Tonnes,26209.19,4324.4,16.5
+544,8955,Spain,Municipal waste generated,2007,Tonnes,26153.99,4369.4,16.71
+545,8956,Spain,Municipal waste generated,2008,Tonnes,25316.94,4555.2,17.99
+546,8957,Spain,Municipal waste generated,2009,Tonnes,25107.98,4731.0,18.84
+547,8958,Spain,Municipal waste generated,2010,Tonnes,23774.42,4794.0,20.16
+548,8959,Spain,Municipal waste generated,2011,Tonnes,22672.41,4936.0,21.77
+549,8960,Spain,Municipal waste generated,2012,Tonnes,21896.34,4916.0,22.45
+550,8961,Spain,Municipal waste generated,2013,Tonnes,21184.2,4899.0,23.13
+551,8962,Spain,Municipal waste generated,2014,Tonnes,20836.4,4940.0,23.71
+552,8963,Spain,Municipal waste generated,2015,Tonnes,21157.8,5330.0,25.19
+553,8964,Spain,Municipal waste generated,2016,Tonnes,20584.6,5465.0,26.55
+554,9126,Sweden,Municipal waste generated,1990,Tonnes,3200.0,5653.0,176.66
+555,9127,Sweden,Municipal waste generated,1994,Tonnes,3507.0,5461.0,155.72
+556,9128,Sweden,Municipal waste generated,1995,Tonnes,3405.0,5565.0,163.44
+557,9129,Sweden,Municipal waste generated,1996,Tonnes,3458.0,5478.0,158.42
+558,9130,Sweden,Municipal waste generated,1997,Tonnes,3678.0,5576.0,151.6
+559,9131,Sweden,Municipal waste generated,1998,Tonnes,3869.0,5708.0,147.53
+560,9132,Sweden,Municipal waste generated,1999,Tonnes,3794.0,6006.0,158.3
+561,9133,Sweden,Municipal waste generated,2000,Tonnes,3793.0,6030.0,158.98
+562,9134,Sweden,Municipal waste generated,2001,Tonnes,3907.2,6060.0,155.1
+563,9135,Sweden,Municipal waste generated,2002,Tonnes,4149.0,17757.0,427.98
+564,9136,Sweden,Municipal waste generated,2003,Tonnes,4155.6,20908.99,503.15
+565,9137,Sweden,Municipal waste generated,2004,Tonnes,4134.45,22480.3,543.73
+566,9138,Sweden,Municipal waste generated,2005,Tonnes,4305.75,24170.89,561.36
+567,9139,Sweden,Municipal waste generated,2006,Tonnes,4446.68,24929.52,560.63
+568,9140,Sweden,Municipal waste generated,2007,Tonnes,4442.47,24088.35,542.23
+569,9141,Sweden,Municipal waste generated,2008,Tonnes,4454.59,24696.07,554.4
+570,9142,Sweden,Municipal waste generated,2009,Tonnes,4365.72,25134.17,575.72
+571,9143,Sweden,Municipal waste generated,2010,Tonnes,4115.09,25373.76,616.6
+572,9144,Sweden,Municipal waste generated,2011,Tonnes,4246.24,26117.52,615.07
+573,9145,Sweden,Municipal waste generated,2012,Tonnes,4285.09,25015.26,583.77
+574,9146,Sweden,Municipal waste generated,2013,Tonnes,4326.07,26617.17,615.27
+575,9147,Sweden,Municipal waste generated,2014,Tonnes,4246.28,25280.6,595.36
+576,9148,Sweden,Municipal waste generated,2015,Tonnes,4376.53,26066.0,595.59
+577,9149,Sweden,Municipal waste generated,2016,Tonnes,4392.51,24360.74,554.6
+578,9528,Switzerland,Municipal waste generated,1990,Tonnes,4101.0,26218.0,639.31
+579,9529,Switzerland,Municipal waste generated,1991,Tonnes,4131.2,25276.0,611.83
+580,9530,Switzerland,Municipal waste generated,1992,Tonnes,4096.7,26780.0,653.7
+581,9531,Switzerland,Municipal waste generated,1993,Tonnes,4140.2,25845.0,624.25
+582,9532,Switzerland,Municipal waste generated,1994,Tonnes,4161.5,25563.0,614.27
+583,9533,Switzerland,Municipal waste generated,1995,Tonnes,4240.0,28010.0,660.61
+584,9534,Switzerland,Municipal waste generated,1996,Tonnes,4280.0,27584.0,644.49
+585,9535,Switzerland,Municipal waste generated,1997,Tonnes,4294.4,31584.0,735.47
+586,9536,Switzerland,Municipal waste generated,1998,Tonnes,4369.4,28910.0,661.65
+587,9537,Switzerland,Municipal waste generated,1999,Tonnes,4555.2,29909.0,656.59
+588,9538,Switzerland,Municipal waste generated,2000,Tonnes,4731.0,31193.0,659.33
+589,9539,Switzerland,Municipal waste generated,2001,Tonnes,4794.0,31825.0,663.85
+590,9540,Switzerland,Municipal waste generated,2002,Tonnes,4936.0,33498.0,678.65
+591,9541,Switzerland,Municipal waste generated,2003,Tonnes,4916.0,33954.0,690.68
+592,9542,Switzerland,Municipal waste generated,2004,Tonnes,4900.0,34942.0,713.1
+593,9543,Switzerland,Municipal waste generated,2005,Tonnes,4940.0,35534.0,719.31
+594,9544,Switzerland,Municipal waste generated,2006,Tonnes,5330.0,35244.59,661.25
+595,9545,Switzerland,Municipal waste generated,2007,Tonnes,5465.0,36090.11,660.39
+596,9546,Switzerland,Municipal waste generated,2008,Tonnes,5653.0,35097.0,620.86
+597,9547,Switzerland,Municipal waste generated,2009,Tonnes,5461.0,35370.0,647.68
+598,9548,Switzerland,Municipal waste generated,2010,Tonnes,5565.0,34626.0,622.21
+599,9549,Switzerland,Municipal waste generated,2011,Tonnes,5478.0,33215.0,606.33
+600,9550,Switzerland,Municipal waste generated,2012,Tonnes,5576.0,32507.75,582.99
+601,9551,Switzerland,Municipal waste generated,2013,Tonnes,5708.0,31954.77,559.82
+602,9552,Switzerland,Municipal waste generated,2014,Tonnes,6006.0,31066.09,517.25
+603,9553,Switzerland,Municipal waste generated,2015,Tonnes,6030.0,30472.52,505.35
+604,9554,Switzerland,Municipal waste generated,2016,Tonnes,6056.0,30940.77,510.91
+605,10085,Turkey,Municipal waste generated,1991,Tonnes,22315.0,31106.1,139.4
+606,10086,Turkey,Municipal waste generated,1994,Tonnes,23448.0,31427.13,134.03
+607,10087,Turkey,Municipal waste generated,1995,Tonnes,27234.13,31693.78,116.38
+608,10088,Turkey,Municipal waste generated,1996,Tonnes,29347.98,188940.0,643.79
+609,10089,Turkey,Municipal waste generated,1997,Tonnes,31943.77,188449.0,589.94
+610,10090,Turkey,Municipal waste generated,1998,Tonnes,32972.89,194991.0,591.37
+611,10091,Turkey,Municipal waste generated,1999,Tonnes,30470.03,197749.0,649.0
+612,10092,Turkey,Municipal waste generated,2000,Tonnes,30617.0,200742.93,655.66
+613,10093,Turkey,Municipal waste generated,2001,Tonnes,31030.87,197113.88,635.22
+614,10094,Turkey,Municipal waste generated,2002,Tonnes,30999.26,195943.0,632.09
+615,10095,Turkey,Municipal waste generated,2003,Tonnes,31081.37,202393.0,651.17
+616,10096,Turkey,Municipal waste generated,2004,Tonnes,29736.19,206039.0,692.89
+617,10097,Turkey,Municipal waste generated,2005,Tonnes,31351.87,213080.0,679.64
+618,10098,Turkey,Municipal waste generated,2006,Tonnes,30081.82,220854.0,734.18
+619,10099,Turkey,Municipal waste generated,2007,Tonnes,30365.59,218450.0,719.4
+620,10100,Turkey,Municipal waste generated,2008,Tonnes,28454.0,222560.12,782.18
+621,10101,Turkey,Municipal waste generated,2009,Tonnes,30196.0,223549.0,740.33
+622,10102,Turkey,Municipal waste generated,2010,Tonnes,29733.0,230533.0,775.34
+623,10103,Turkey,Municipal waste generated,2011,Tonnes,30862.0,230180.0,745.84
+624,10104,Turkey,Municipal waste generated,2012,Tonnes,30786.0,233237.0,757.61
+625,10105,Turkey,Municipal waste generated,2013,Tonnes,30920.0,232693.0,752.56
+626,10106,Turkey,Municipal waste generated,2014,Tonnes,31230.0,229201.0,733.91
+627,10107,Turkey,Municipal waste generated,2015,Tonnes,31283.0,222188.0,710.25
+628,10108,Turkey,Municipal waste generated,2016,Tonnes,33763.0,227749.0,674.55
+629,10406,United Kingdom,Municipal waste generated,1990,Tonnes,27100.0,227876.0,840.87
+630,10407,United Kingdom,Municipal waste generated,1995,Tonnes,28900.0,228466.0,790.54
+631,10408,United Kingdom,Municipal waste generated,1996,Tonnes,29750.0,231350.0,777.65
+632,10409,United Kingdom,Municipal waste generated,1997,Tonnes,31042.0,234471.0,755.33
+633,10410,United Kingdom,Municipal waste generated,1998,Tonnes,31697.0,57563.0,181.6
+634,10411,United Kingdom,Municipal waste generated,1999,Tonnes,33392.0,4520.3,13.54
+635,10412,United Kingdom,Municipal waste generated,2000,Tonnes,33954.0,4514.7,13.3
+636,10413,United Kingdom,Municipal waste generated,2001,Tonnes,34945.0,4647.1,13.3
+637,10414,United Kingdom,Municipal waste generated,2002,Tonnes,35532.0,4802.3,13.52
+638,10415,United Kingdom,Municipal waste generated,2003,Tonnes,35279.0,4964.1,14.07
+639,10416,United Kingdom,Municipal waste generated,2004,Tonnes,36121.0,5113.7,14.16
+640,10417,United Kingdom,Municipal waste generated,2005,Tonnes,35121.0,5310.9,15.12
+641,10418,United Kingdom,Municipal waste generated,2006,Tonnes,35479.0,5492.9,15.48
+642,10419,United Kingdom,Municipal waste generated,2007,Tonnes,34780.0,5608.0,16.12
+643,10420,United Kingdom,Municipal waste generated,2008,Tonnes,33424.0,5779.5,17.29
+644,10421,United Kingdom,Municipal waste generated,2009,Tonnes,32507.45,5935.7,18.26
+645,10422,United Kingdom,Municipal waste generated,2010,Tonnes,31954.51,6142.4,19.22
+646,10423,United Kingdom,Municipal waste generated,2011,Tonnes,31066.06,7242.19,23.31
+647,10424,United Kingdom,Municipal waste generated,2012,Tonnes,30412.98,7401.18,24.34
+648,10425,United Kingdom,Municipal waste generated,2013,Tonnes,30890.33,72550.0,234.86
+649,10426,United Kingdom,Municipal waste generated,2014,Tonnes,31131.03,78400.0,251.84
+650,10427,United Kingdom,Municipal waste generated,2015,Tonnes,31456.33,74040.0,235.37
+651,10428,United Kingdom,Municipal waste generated,2016,Tonnes,31682.99,75450.0,238.14
+652,10851,United States,Municipal waste generated,1990,Tonnes,188939.0,80890.0,42.81
+653,10852,United States,Municipal waste generated,1991,Tonnes,188449.0,80510.0,42.72
+654,10853,United States,Municipal waste generated,1992,Tonnes,194990.0,78730.0,40.38
+655,10854,United States,Municipal waste generated,1993,Tonnes,197748.0,94377.0,47.73
+656,10855,United States,Municipal waste generated,1994,Tonnes,200742.0,103066.0,51.34
+657,10856,United States,Municipal waste generated,1995,Tonnes,197113.0,112323.0,56.98
+658,10857,United States,Municipal waste generated,1996,Tonnes,195943.0,123178.0,62.86
+659,10858,United States,Municipal waste generated,1997,Tonnes,202393.0,130896.0,64.67
+660,10859,United States,Municipal waste generated,1998,Tonnes,206040.0,144895.0,70.32
+661,10860,United States,Municipal waste generated,1999,Tonnes,213080.0,532.0,0.25
+662,10861,United States,Municipal waste generated,2000,Tonnes,220854.0,565.0,0.26
+663,10862,United States,Municipal waste generated,2001,Tonnes,218450.0,593.0,0.27
+664,10863,United States,Municipal waste generated,2002,Tonnes,222560.0,557.16,0.25
+665,10864,United States,Municipal waste generated,2003,Tonnes,223548.0,568.69,0.25
+666,10865,United States,Municipal waste generated,2004,Tonnes,230534.0,615.51,0.27
+667,10866,United States,Municipal waste generated,2005,Tonnes,230180.0,429.82,0.19
+668,10867,United States,Municipal waste generated,2006,Tonnes,233237.0,434.28,0.19
+669,10868,United States,Municipal waste generated,2007,Tonnes,232693.0,456.22,0.2
+670,10869,United States,Municipal waste generated,2008,Tonnes,229200.0,533.62,0.23
+671,10870,United States,Municipal waste generated,2009,Tonnes,222188.0,502.47,0.23
+672,10871,United States,Municipal waste generated,2010,Tonnes,227749.0,467.39,0.21
+673,10872,United States,Municipal waste generated,2011,Tonnes,227876.0,530.85,0.23
+674,10873,United States,Municipal waste generated,2012,Tonnes,228465.0,439.52,0.19
+675,10874,United States,Municipal waste generated,2013,Tonnes,231350.0,382.58,0.17
+676,10875,United States,Municipal waste generated,2014,Tonnes,234471.0,340.28,0.15
+677,11242,Brazil,Municipal waste generated,2000,Tonnes,57563.0,339.5,0.59
+678,11243,Brazil,Municipal waste generated,2001,Tonnes,55677.0,284.25,0.51
+679,11244,Brazil,Municipal waste generated,2002,Tonnes,56524.0,355.66,0.63
+680,11245,Brazil,Municipal waste generated,2003,Tonnes,57587.0,426.74,0.74
+681,11246,Brazil,Municipal waste generated,2004,Tonnes,59214.0,434.25,0.73
+682,11247,Brazil,Municipal waste generated,2005,Tonnes,60142.0,452.52,0.75
+683,11248,Brazil,Municipal waste generated,2007,Tonnes,51432.0,3978.0,7.73
+684,11249,Brazil,Municipal waste generated,2009,Tonnes,53000.0,4086.0,7.71
+685,11250,Brazil,Municipal waste generated,2010,Tonnes,53000.0,4227.0,7.98
+686,11251,Brazil,Municipal waste generated,2011,Tonnes,53000.0,4304.0,8.12
+687,11252,Brazil,Municipal waste generated,2012,Tonnes,57900.0,4434.0,7.66
+688,11277,Chile,Municipal waste generated,2000,Tonnes,4520.3,4550.8,100.67
+689,11278,Chile,Municipal waste generated,2001,Tonnes,4514.7,4623.18,102.4
+690,11279,Chile,Municipal waste generated,2002,Tonnes,4647.1,4745.8,102.12
+691,11280,Chile,Municipal waste generated,2003,Tonnes,4802.3,4837.4,100.73
+692,11281,Chile,Municipal waste generated,2004,Tonnes,4964.1,4906.6,98.84
+693,11282,Chile,Municipal waste generated,2005,Tonnes,5113.7,4999.5,97.77
+694,11283,Chile,Municipal waste generated,2006,Tonnes,5310.9,5112.677,96.27
+695,11284,Chile,Municipal waste generated,2007,Tonnes,5492.9,5293.312,96.37
+696,11285,Chile,Municipal waste generated,2008,Tonnes,5608.0,932.77,16.63
+697,11286,Chile,Municipal waste generated,2009,Tonnes,5779.5,987.07,17.08
+698,11287,Chile,Municipal waste generated,2010,Tonnes,5935.7,1044.84,17.6
+699,11288,Chile,Municipal waste generated,2011,Tonnes,6142.4,1127.09,18.35
+700,11289,Chile,Municipal waste generated,2014,Tonnes,7242.19,969.16,13.38
+701,11290,Chile,Municipal waste generated,2015,Tonnes,7401.18,860.94,11.63
+702,11344,China (People's Republic of),Municipal waste generated,1990,Tonnes,67668.0,738.02,1.09
+703,11345,China (People's Republic of),Municipal waste generated,1991,Tonnes,76360.0,791.07,1.04
+704,11346,China (People's Republic of),Municipal waste generated,1992,Tonnes,82620.0,803.72,0.97
+705,11347,China (People's Republic of),Municipal waste generated,1993,Tonnes,87910.0,837.89,0.95
+706,11348,China (People's Republic of),Municipal waste generated,1994,Tonnes,99520.0,843.75,0.85
+707,11349,China (People's Republic of),Municipal waste generated,1995,Tonnes,106710.0,886.21,0.83
+708,11350,China (People's Republic of),Municipal waste generated,1996,Tonnes,108254.0,919.97,0.85
+709,11351,China (People's Republic of),Municipal waste generated,1997,Tonnes,109819.0,904.97,0.82
+710,11352,China (People's Republic of),Municipal waste generated,1998,Tonnes,113018.0,851.1,0.75
+711,11353,China (People's Republic of),Municipal waste generated,1999,Tonnes,114152.0,948.13,0.83
+712,11354,China (People's Republic of),Municipal waste generated,2000,Tonnes,118190.0,838.72,0.71
+713,11355,China (People's Republic of),Municipal waste generated,2001,Tonnes,134700.0,713.76,0.53
+714,11356,China (People's Republic of),Municipal waste generated,2002,Tonnes,136500.0,830.35,0.61
+715,11357,China (People's Republic of),Municipal waste generated,2003,Tonnes,148570.0,863.69,0.58
+716,11358,China (People's Republic of),Municipal waste generated,2004,Tonnes,155090.0,899.74,0.58
+717,11359,China (People's Republic of),Municipal waste generated,2005,Tonnes,155770.0,922.88,0.59
+718,11360,China (People's Republic of),Municipal waste generated,2006,Tonnes,148410.0,7567.05,5.1
+719,11361,China (People's Republic of),Municipal waste generated,2007,Tonnes,152150.0,7580.46,4.98
+720,11362,China (People's Republic of),Municipal waste generated,2008,Tonnes,154380.0,9191.97,5.95
+721,11363,China (People's Republic of),Municipal waste generated,2009,Tonnes,157340.0,11273.44,7.17
+722,11364,China (People's Republic of),Municipal waste generated,2010,Tonnes,158048.0,8980.2,5.68
+723,11365,China (People's Republic of),Municipal waste generated,2011,Tonnes,163953.0,9686.01,5.91
+724,11366,China (People's Republic of),Municipal waste generated,2012,Tonnes,170809.0,8974.0,5.25
+725,11496,Estonia,Municipal waste generated,1995,Tonnes,533.0,11189.69,2099.38
+726,11497,Estonia,Municipal waste generated,1996,Tonnes,565.0,456.79,80.85
+727,11498,Estonia,Municipal waste generated,1997,Tonnes,593.0,475.96,80.26
+728,11499,Estonia,Municipal waste generated,1998,Tonnes,557.0,506.3,90.9
+729,11500,Estonia,Municipal waste generated,1999,Tonnes,569.0,536.64,94.31
+730,11501,Estonia,Municipal waste generated,2000,Tonnes,633.0,566.98,89.57
+731,11502,Estonia,Municipal waste generated,2001,Tonnes,508.53,597.32,117.46
+732,11503,Estonia,Municipal waste generated,2002,Tonnes,553.24,640.0,115.68
+733,11504,Estonia,Municipal waste generated,2003,Tonnes,566.8,673.27,118.78
+734,11505,Estonia,Municipal waste generated,2004,Tonnes,606.2,605.79,99.93
+735,11506,Estonia,Municipal waste generated,2005,Tonnes,587.19,647.08,110.2
+736,11507,Estonia,Municipal waste generated,2006,Tonnes,536.0,595.56,111.11
+737,11508,Estonia,Municipal waste generated,2007,Tonnes,602.0,708.87,117.75
+738,11509,Estonia,Municipal waste generated,2008,Tonnes,524.0,781.99,149.23
+739,11510,Estonia,Municipal waste generated,2009,Tonnes,452.0,756.23,167.31
+740,11511,Estonia,Municipal waste generated,2010,Tonnes,406.0,752.96,185.46
+741,11512,Estonia,Municipal waste generated,2011,Tonnes,399.0,680.1,170.45
+742,11513,Estonia,Municipal waste generated,2012,Tonnes,371.0,601.21,162.05
+743,11514,Estonia,Municipal waste generated,2013,Tonnes,386.29,612.54,158.57
+744,11515,Estonia,Municipal waste generated,2014,Tonnes,469.55,703.0,149.72
+745,11516,Estonia,Municipal waste generated,2015,Tonnes,472.55,711.0,150.46
+746,11517,Estonia,Municipal waste generated,2016,Tonnes,494.36,723.0,146.25
+747,11940,Indonesia,Municipal waste generated,2001,Tonnes,4726.108,717.97,15.19
+748,11941,Indonesia,Municipal waste generated,2002,Tonnes,4859.61,915.0,18.83
+749,11942,Indonesia,Municipal waste generated,2003,Tonnes,5470.788000000001,1002.0,18.32
+750,11943,Indonesia,Municipal waste generated,2004,Tonnes,6044.45,1123.0,18.58
+751,11944,Indonesia,Municipal waste generated,2005,Tonnes,6044.45,1174.0,19.42
+752,11945,Indonesia,Municipal waste generated,2006,Tonnes,5256.52,1240.0,23.59
+753,11946,Indonesia,Municipal waste generated,2007,Tonnes,7576.772,1869.7,24.68
+754,11947,Indonesia,Municipal waste generated,2008,Tonnes,7576.772,1061.4,14.01
+755,11948,Indonesia,Municipal waste generated,2009,Tonnes,6866.198,1546.0,22.52
+756,11949,Indonesia,Municipal waste generated,2010,Tonnes,7245.246,1445.0,19.94
+757,11950,Indonesia,Municipal waste generated,2011,Tonnes,7742.343000000002,1510.0,19.5
+758,11951,Indonesia,Municipal waste generated,2012,Tonnes,7650.389,1578.0,20.63
+759,11952,Israel,Municipal waste generated,2000,Tonnes,3967.58,1236.0,31.15
+760,11953,Israel,Municipal waste generated,2001,Tonnes,3590.481,1209.0,33.67
+761,11954,Israel,Municipal waste generated,2002,Tonnes,3855.364,1169.0,30.32
+762,11955,Israel,Municipal waste generated,2003,Tonnes,3846.939,1119.0,29.09
+763,11956,Israel,Municipal waste generated,2004,Tonnes,3978.0,1136.0,28.56
+764,11957,Israel,Municipal waste generated,2005,Tonnes,4086.0,1176.52,28.79
+765,11958,Israel,Municipal waste generated,2006,Tonnes,4227.0,1198.22,28.35
+766,11959,Israel,Municipal waste generated,2007,Tonnes,4304.0,1236.69,28.73
+767,11960,Israel,Municipal waste generated,2008,Tonnes,4434.0,1346.87,30.38
+768,11961,Israel,Municipal waste generated,2009,Tonnes,4550.8,1352.53,29.72
+769,11962,Israel,Municipal waste generated,2010,Tonnes,4623.18,1195.59,25.86
+770,11963,Israel,Municipal waste generated,2011,Tonnes,4745.8,1142.5,24.07
+771,11964,Israel,Municipal waste generated,2012,Tonnes,4837.4,1308.51,27.05
+772,11965,Israel,Municipal waste generated,2013,Tonnes,4906.6,1283.02,26.15
+773,11966,Israel,Municipal waste generated,2014,Tonnes,4999.5,1245.92,24.92
+774,11967,Israel,Municipal waste generated,2015,Tonnes,5112.677,1247.29,24.4
+775,11968,Israel,Municipal waste generated,2016,Tonnes,5293.312,1282.13,24.22
+776,12037,Russia,Municipal waste generated,1999,Tonnes,50835.65,1211.02,2.38
+777,12038,Russia,Municipal waste generated,2000,Tonnes,51828.63,,
+778,12039,Russia,Municipal waste generated,2001,Tonnes,51115.2,,
+779,12040,Russia,Municipal waste generated,2002,Tonnes,54010.5,,
+780,12041,Russia,Municipal waste generated,2003,Tonnes,55068.43,,
+781,12042,Russia,Municipal waste generated,2004,Tonnes,57822.48,,
+782,12043,Russia,Municipal waste generated,2005,Tonnes,57695.05,,
+783,12044,Russia,Municipal waste generated,2006,Tonnes,60847.25,,
+784,12045,Russia,Municipal waste generated,2007,Tonnes,62868.18,,
+785,12046,Russia,Municipal waste generated,2008,Tonnes,64605.13,,
+786,12047,Russia,Municipal waste generated,2009,Tonnes,66871.68,,
+787,12048,Russia,Municipal waste generated,2010,Tonnes,69256.63,,
+788,12049,Russia,Municipal waste generated,2011,Tonnes,69198.28,,
+789,12050,Russia,Municipal waste generated,2012,Tonnes,80564.33,,
+790,12051,Slovenia,Municipal waste generated,1995,Tonnes,1185.93,,
+791,12052,Slovenia,Municipal waste generated,1996,Tonnes,1175.0,,
+792,12053,Slovenia,Municipal waste generated,1997,Tonnes,1170.0,,
+793,12054,Slovenia,Municipal waste generated,1998,Tonnes,1158.79,,
+794,12055,Slovenia,Municipal waste generated,1999,Tonnes,1090.0,,
+795,12056,Slovenia,Municipal waste generated,2000,Tonnes,1020.0,,
+796,12057,Slovenia,Municipal waste generated,2001,Tonnes,952.68,,
+797,12058,Slovenia,Municipal waste generated,2002,Tonnes,812.06,,
+798,12059,Slovenia,Municipal waste generated,2003,Tonnes,834.02,,
+799,12060,Slovenia,Municipal waste generated,2004,Tonnes,969.21,,
+800,12061,Slovenia,Municipal waste generated,2005,Tonnes,988.73,,
+801,12062,Slovenia,Municipal waste generated,2006,Tonnes,1036.47,,
+802,12063,Slovenia,Municipal waste generated,2007,Tonnes,1060.09,,
+803,12064,Slovenia,Municipal waste generated,2008,Tonnes,1094.76,,
+804,12065,Slovenia,Municipal waste generated,2009,Tonnes,1069.35,,
+805,12066,Slovenia,Municipal waste generated,2010,Tonnes,1003.9,,
+806,12067,Slovenia,Municipal waste generated,2011,Tonnes,852.12,,
+807,12068,Slovenia,Municipal waste generated,2012,Tonnes,744.01,,
+808,12069,Slovenia,Municipal waste generated,2013,Tonnes,853.39,,
+809,12070,Slovenia,Municipal waste generated,2014,Tonnes,891.71,,
+810,12071,Slovenia,Municipal waste generated,2015,Tonnes,925.94,,
+811,12072,Slovenia,Municipal waste generated,2016,Tonnes,963.07,,
+812,13509,OECD - Total,Municipal waste generated,1990,Tonnes,539061.75,,
+813,13510,OECD - Total,Municipal waste generated,1991,Tonnes,549121.875,,
+814,13511,OECD - Total,Municipal waste generated,1992,Tonnes,568487.813,,
+815,13512,OECD - Total,Municipal waste generated,1993,Tonnes,577670.875,,
+816,13513,OECD - Total,Municipal waste generated,1994,Tonnes,583030.0,,
+817,13514,OECD - Total,Municipal waste generated,1995,Tonnes,582618.875,,
+818,13515,OECD - Total,Municipal waste generated,1996,Tonnes,594110.25,,
+819,13516,OECD - Total,Municipal waste generated,1997,Tonnes,607898.5,,
+820,13517,OECD - Total,Municipal waste generated,1998,Tonnes,615059.125,,
+821,13518,OECD - Total,Municipal waste generated,1999,Tonnes,627501.938,,
+822,13519,OECD - Total,Municipal waste generated,2000,Tonnes,642692.25,,
+823,13520,OECD - Total,Municipal waste generated,2001,Tonnes,641136.125,,
+824,13521,OECD - Total,Municipal waste generated,2002,Tonnes,651147.375,,
+825,13522,OECD - Total,Municipal waste generated,2003,Tonnes,649921.938,,
+826,13523,OECD - Total,Municipal waste generated,2004,Tonnes,657831.125,,
+827,13524,OECD - Total,Municipal waste generated,2005,Tonnes,661225.063,,
+828,13525,OECD - Total,Municipal waste generated,2006,Tonnes,667931.0,,
+829,13526,OECD - Total,Municipal waste generated,2007,Tonnes,670666.813,,
+830,13527,OECD - Total,Municipal waste generated,2008,Tonnes,663637.25,,
+831,13528,OECD - Total,Municipal waste generated,2009,Tonnes,654010.75,,
+832,13529,OECD - Total,Municipal waste generated,2010,Tonnes,658841.0,,
+833,13530,OECD - Total,Municipal waste generated,2011,Tonnes,659346.0,,
+834,13531,OECD - Total,Municipal waste generated,2012,Tonnes,656660.5,,
+835,13532,OECD - Total,Municipal waste generated,2013,Tonnes,657614.938,,
+836,13533,OECD - Total,Municipal waste generated,2014,Tonnes,662857.188,,
+837,13534,OECD - Total,Municipal waste generated,2015,Tonnes,666650.875,,
+838,13535,OECD - Total,Municipal waste generated,2016,Tonnes,673199.938,,
+839,13572,OECD - Europe,Municipal waste generated,1990,Tonnes,224526.891,,
+840,13573,OECD - Europe,Municipal waste generated,1991,Tonnes,228271.875,,
+841,13574,OECD - Europe,Municipal waste generated,1992,Tonnes,231527.203,,
+842,13575,OECD - Europe,Municipal waste generated,1993,Tonnes,235876.219,,
+843,13576,OECD - Europe,Municipal waste generated,1994,Tonnes,238057.844,,
+844,13577,OECD - Europe,Municipal waste generated,1995,Tonnes,243558.766,,
+845,13578,OECD - Europe,Municipal waste generated,1996,Tonnes,252683.156,,
+846,13579,OECD - Europe,Municipal waste generated,1997,Tonnes,262625.125,,
+847,13580,OECD - Europe,Municipal waste generated,1998,Tonnes,264912.156,,
+848,13581,OECD - Europe,Municipal waste generated,1999,Tonnes,268776.375,,
+849,13582,OECD - Europe,Municipal waste generated,2000,Tonnes,274293.156,,
+850,13583,OECD - Europe,Municipal waste generated,2001,Tonnes,273852.594,,
+851,13584,OECD - Europe,Municipal waste generated,2002,Tonnes,278318.0,,
+852,13585,OECD - Europe,Municipal waste generated,2003,Tonnes,274432.344,,
+853,13586,OECD - Europe,Municipal waste generated,2004,Tonnes,274063.344,,
+854,13587,OECD - Europe,Municipal waste generated,2005,Tonnes,277640.438,,
+855,13588,OECD - Europe,Municipal waste generated,2006,Tonnes,280593.188,,
+856,13589,OECD - Europe,Municipal waste generated,2007,Tonnes,283534.563,,
+857,13590,OECD - Europe,Municipal waste generated,2008,Tonnes,280796.438,,
+858,13591,OECD - Europe,Municipal waste generated,2009,Tonnes,279125.188,,
+859,13592,OECD - Europe,Municipal waste generated,2010,Tonnes,277604.781,,
+860,13593,OECD - Europe,Municipal waste generated,2011,Tonnes,276566.406,,
+861,13594,OECD - Europe,Municipal waste generated,2012,Tonnes,271936.406,,
+862,13595,OECD - Europe,Municipal waste generated,2013,Tonnes,269531.031,,
+863,13596,OECD - Europe,Municipal waste generated,2014,Tonnes,270720.469,,
+864,13597,OECD - Europe,Municipal waste generated,2015,Tonnes,272779.75,,
+865,13598,OECD - Europe,Municipal waste generated,2016,Tonnes,278508.125,,
+866,13785,Colombia,Municipal waste generated,2003,Tonnes,5289.0,,
+867,13786,Colombia,Municipal waste generated,2004,Tonnes,6128.0,,
+868,13787,Colombia,Municipal waste generated,2005,Tonnes,7567.0,,
+869,13788,Colombia,Municipal waste generated,2006,Tonnes,7580.0,,
+870,13789,Colombia,Municipal waste generated,2007,Tonnes,9192.0,,
+871,13790,Colombia,Municipal waste generated,2008,Tonnes,11273.0,,
+872,13791,Colombia,Municipal waste generated,2009,Tonnes,8980.0,,
+873,13792,Colombia,Municipal waste generated,2010,Tonnes,9686.0,,
+874,13793,Colombia,Municipal waste generated,2011,Tonnes,8975.0,,
+875,13794,Colombia,Municipal waste generated,2015,Tonnes,11189.0,,
+876,13860,Latvia,Municipal waste generated,1995,Tonnes,657.0,,
+877,13861,Latvia,Municipal waste generated,1996,Tonnes,650.0,,
+878,13862,Latvia,Municipal waste generated,1997,Tonnes,621.0,,
+879,13863,Latvia,Municipal waste generated,1998,Tonnes,597.0,,
+880,13864,Latvia,Municipal waste generated,1999,Tonnes,613.0,,
+881,13865,Latvia,Municipal waste generated,2000,Tonnes,642.0,,
+882,13866,Latvia,Municipal waste generated,2001,Tonnes,713.0,,
+883,13867,Latvia,Municipal waste generated,2002,Tonnes,793.0,,
+884,13868,Latvia,Municipal waste generated,2003,Tonnes,695.0,,
+885,13869,Latvia,Municipal waste generated,2004,Tonnes,720.38,,
+886,13870,Latvia,Municipal waste generated,2005,Tonnes,716.0,,
+887,13871,Latvia,Municipal waste generated,2006,Tonnes,760.0,,
+888,13872,Latvia,Municipal waste generated,2007,Tonnes,860.92,,
+889,13873,Latvia,Municipal waste generated,2008,Tonnes,751.92,,
+890,13874,Latvia,Municipal waste generated,2009,Tonnes,752.96,,
+891,13875,Latvia,Municipal waste generated,2010,Tonnes,680.14,,
+892,13876,Latvia,Municipal waste generated,2011,Tonnes,720.64,,
+893,13877,Latvia,Municipal waste generated,2012,Tonnes,657.61,,
+894,13878,Latvia,Municipal waste generated,2013,Tonnes,704.0,,
+895,13879,Latvia,Municipal waste generated,2014,Tonnes,726.0,,
+896,13880,Latvia,Municipal waste generated,2015,Tonnes,798.06,,
+897,13881,Latvia,Municipal waste generated,2016,Tonnes,802.47,,
+898,14457,Costa Rica,Municipal waste generated,2010,Tonnes,1506.0,,
+899,14458,Costa Rica,Municipal waste generated,2011,Tonnes,1659.0,,
+900,14459,Costa Rica,Municipal waste generated,2012,Tonnes,1698.0,,
+901,14460,Costa Rica,Municipal waste generated,2013,Tonnes,1752.0,,
+902,14461,Costa Rica,Municipal waste generated,2014,Tonnes,1788.0,,
+903,14462,Costa Rica,Municipal waste generated,2015,Tonnes,1877.0,,
+904,14463,Costa Rica,Municipal waste generated,2016,Tonnes,1218.0,,
+905,14590,Lithuania,Municipal waste generated,1995,Tonnes,1546.0,,
+906,14591,Lithuania,Municipal waste generated,1996,Tonnes,1445.0,,
+907,14592,Lithuania,Municipal waste generated,1997,Tonnes,1510.0,,
+908,14593,Lithuania,Municipal waste generated,1998,Tonnes,1578.0,,
+909,14594,Lithuania,Municipal waste generated,1999,Tonnes,1236.0,,
+910,14595,Lithuania,Municipal waste generated,2000,Tonnes,1276.0,,
+911,14596,Lithuania,Municipal waste generated,2001,Tonnes,1313.0,,
+912,14597,Lithuania,Municipal waste generated,2002,Tonnes,1395.0,,
+913,14598,Lithuania,Municipal waste generated,2003,Tonnes,1328.0,,
+914,14599,Lithuania,Municipal waste generated,2004,Tonnes,1260.0,,
+915,14600,Lithuania,Municipal waste generated,2005,Tonnes,1287.0,,
+916,14601,Lithuania,Municipal waste generated,2006,Tonnes,1326.0,,
+917,14602,Lithuania,Municipal waste generated,2007,Tonnes,1624.332,,
+918,14603,Lithuania,Municipal waste generated,2008,Tonnes,1505.878,,
+919,14604,Lithuania,Municipal waste generated,2009,Tonnes,1314.0279999999998,,
+920,14605,Lithuania,Municipal waste generated,2010,Tonnes,1327.774,,
+921,14606,Lithuania,Municipal waste generated,2011,Tonnes,1366.066,,
+922,14607,Lithuania,Municipal waste generated,2012,Tonnes,1409.973,,
+923,14608,Lithuania,Municipal waste generated,2013,Tonnes,1318.45,,
+924,14609,Lithuania,Municipal waste generated,2014,Tonnes,1308.352,,
+925,14610,Lithuania,Municipal waste generated,2015,Tonnes,1326.529,,
+926,14611,Lithuania,Municipal waste generated,2016,Tonnes,1272.06,,
