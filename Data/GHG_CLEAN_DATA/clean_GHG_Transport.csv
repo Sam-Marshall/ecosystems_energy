@@ -1,0 +1,978 @@
+True,Country,POL,Variable,Year,Unit,Value
+0,Slovak Republic,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,6823.767
+1,Slovak Republic,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,5793.78
+2,Slovak Republic,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,5222.274
+3,Slovak Republic,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,4958.976
+4,Slovak Republic,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,4761.092000000001
+5,Slovak Republic,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,5495.291
+6,Slovak Republic,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,5724.395
+7,Slovak Republic,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,5809.312
+8,Slovak Republic,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,6109.3009999999995
+9,Slovak Republic,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,5961.803000000001
+10,Slovak Republic,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,5649.359
+11,Slovak Republic,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,6074.340999999999
+12,Slovak Republic,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,6009.257
+13,Slovak Republic,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,5999.857
+14,Slovak Republic,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,6714.946999999999
+15,Slovak Republic,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,7587.977
+16,Slovak Republic,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,6756.316
+17,Slovak Republic,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,7492.656
+18,Slovak Republic,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,7845.779
+19,Slovak Republic,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,6961.161
+20,Slovak Republic,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,7376.829000000001
+21,Slovak Republic,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,6995.826
+22,Slovak Republic,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,6873.098000000001
+23,Slovak Republic,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,6743.0380000000005
+24,Slovak Republic,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,6493.456
+25,Slovak Republic,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,6704.749
+26,Canada,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,126321.58099999999
+27,Canada,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,121586.823
+28,Canada,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,124659.26199999999
+29,Canada,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,127186.224
+30,Canada,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,133992.322
+31,Canada,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,136055.872
+32,Canada,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,138010.274
+33,Canada,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,142810.47699999998
+34,Canada,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,149241.811
+35,Canada,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,153565.208
+36,Canada,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,154044.112
+37,Canada,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,155222.77599999998
+38,Canada,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,156667.927
+39,Canada,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,159622.14
+40,Canada,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,163448.465
+41,Canada,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,168692.858
+42,Canada,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,168856.147
+43,Canada,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,171460.88100000002
+44,Canada,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,170411.98899999997
+45,Canada,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,164398.736
+46,Canada,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,171357.42
+47,Canada,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,171272.92899999997
+48,Canada,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,173261.586
+49,Canada,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,177408.457
+50,Canada,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,174920.504
+51,Canada,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,174979.09600000002
+52,Luxembourg,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,2584.67
+53,Luxembourg,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,3172.447
+54,Luxembourg,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,3448.4770000000003
+55,Luxembourg,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,3498.074
+56,Luxembourg,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,3553.591
+57,Luxembourg,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,3313.4509999999996
+58,Luxembourg,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,3422.95
+59,Luxembourg,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,3683.244
+60,Luxembourg,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,3860.991
+61,Luxembourg,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,4183.977
+62,Luxembourg,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,4817.63
+63,Luxembourg,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,5062.832
+64,Luxembourg,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,5250.275
+65,Luxembourg,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,5799.7390000000005
+66,Luxembourg,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,6755.536999999999
+67,Luxembourg,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,7134.018
+68,Luxembourg,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,6816.705
+69,Luxembourg,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,6540.339
+70,Luxembourg,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,6649.125
+71,Luxembourg,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,6126.164000000001
+72,Luxembourg,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,6485.625
+73,Luxembourg,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,6872.654
+74,Luxembourg,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,6554.979
+75,Luxembourg,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,6417.17
+76,Luxembourg,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,6118.369000000001
+77,Luxembourg,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,5692.834
+78,Switzerland,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,14659.847
+79,Switzerland,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,15150.366000000002
+80,Switzerland,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,15470.891000000001
+81,Switzerland,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,14400.048
+82,Switzerland,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,14583.639
+83,Switzerland,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,14266.13
+84,Switzerland,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,14324.526000000002
+85,Switzerland,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,14879.302
+86,Switzerland,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,15087.885
+87,Switzerland,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,15696.098
+88,Switzerland,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,15930.111
+89,Switzerland,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,15630.723999999998
+90,Switzerland,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,15554.635
+91,Switzerland,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,15722.17
+92,Switzerland,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,15800.441
+93,Switzerland,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,15860.043
+94,Switzerland,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,15975.443000000001
+95,Switzerland,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,16299.096000000001
+96,Switzerland,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,16649.956000000002
+97,Switzerland,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,16445.724
+98,Switzerland,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,16335.503999999999
+99,Switzerland,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,16155.208999999999
+100,Switzerland,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,16272.595
+101,Switzerland,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,16183.577
+102,Switzerland,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,16075.468
+103,Switzerland,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,15337.917
+104,Denmark,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,10937.631000000001
+105,Denmark,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,11357.355
+106,Denmark,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,11571.923
+107,Denmark,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,11659.798999999999
+108,Denmark,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,12127.97
+109,Denmark,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,12282.502
+110,Denmark,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,12538.273000000001
+111,Denmark,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,12724.715
+112,Denmark,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,12673.162
+113,Denmark,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,12695.517
+114,Denmark,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,12493.292
+115,Denmark,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,12465.041000000001
+116,Denmark,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,12557.594
+117,Denmark,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,13013.855
+118,Denmark,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,13349.167
+119,Denmark,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,13463.909
+120,Denmark,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,13837.427
+121,Denmark,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,14460.433
+122,Denmark,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,14166.768
+123,Denmark,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,13423.896999999999
+124,Denmark,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,13361.571000000002
+125,Denmark,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,13028.872
+126,Denmark,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,12387.319
+127,Denmark,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,12179.663
+128,Denmark,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,12359.723999999998
+129,Denmark,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,12563.286
+130,Ireland,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,5135.478
+131,Ireland,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,5314.705
+132,Ireland,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,5744.794
+133,Ireland,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,5721.605
+134,Ireland,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,5974.943
+135,Ireland,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,6271.710999999999
+136,Ireland,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,7321.986
+137,Ireland,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,7702.13
+138,Ireland,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,9048.155999999999
+139,Ireland,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,9749.216999999999
+140,Ireland,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,10788.975
+141,Ireland,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,11311.989
+142,Ireland,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,11506.561000000002
+143,Ireland,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,11709.931999999999
+144,Ireland,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,12430.284
+145,Ireland,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,13121.296999999999
+146,Ireland,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,13801.502
+147,Ireland,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,14388.105
+148,Ireland,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,13660.614
+149,Ireland,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,12441.374
+150,Ireland,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,11528.462
+151,Ireland,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,11219.542
+152,Ireland,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,10835.821000000002
+153,Ireland,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,11065.556
+154,Ireland,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,11347.382
+155,Ireland,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,11827.35
+156,Estonia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,2477.1910000000003
+157,Estonia,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,2255.942
+158,Estonia,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,1167.098
+159,Estonia,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,1290.9189999999999
+160,Estonia,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,1617.8210000000001
+161,Estonia,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,1584.361
+162,Estonia,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,1652.4460000000001
+163,Estonia,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,1758.6789999999999
+164,Estonia,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,1812.892
+165,Estonia,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,1695.2120000000002
+166,Estonia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,1682.109
+167,Estonia,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,2009.172
+168,Estonia,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,2141.895
+169,Estonia,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,2034.422
+170,Estonia,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,2078.968
+171,Estonia,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,2150.88
+172,Estonia,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,2311.234
+173,Estonia,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,2434.0660000000003
+174,Estonia,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,2312.324
+175,Estonia,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,2134.209
+176,Estonia,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,2261.028
+177,Estonia,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,2269.4120000000003
+178,Estonia,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,2294.762
+179,Estonia,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,2240.156
+180,Estonia,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,2264.428
+181,Estonia,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,2323.8160000000003
+182,Austria,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,13975.923999999999
+183,Austria,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,15456.964
+184,Austria,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,15426.801000000001
+185,Austria,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,15558.39
+186,Austria,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,15606.46
+187,Austria,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,15886.81
+188,Austria,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,17440.396
+189,Austria,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,16452.793999999998
+190,Austria,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,18561.299
+191,Austria,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,18022.502
+192,Austria,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,18818.299
+193,Austria,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,20309.153000000002
+194,Austria,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,22221.799
+195,Austria,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,24074.484
+196,Austria,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,24590.141
+197,Austria,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,24933.734
+198,Austria,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,23626.465
+199,Austria,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,23829.462000000003
+200,Austria,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,22406.975
+201,Austria,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,21726.21
+202,Austria,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,22529.356
+203,Austria,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,21875.659
+204,Austria,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,21660.86
+205,Austria,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,22820.211
+206,Austria,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,22179.36
+207,Austria,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,22587.472999999998
+208,Belgium,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,20657.449
+209,Belgium,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,20853.186999999998
+210,Belgium,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,21614.569
+211,Belgium,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,22119.342999999997
+212,Belgium,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,22610.022
+213,Belgium,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,22691.249
+214,Belgium,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,23105.812
+215,Belgium,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,23301.605
+216,Belgium,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,23941.545
+217,Belgium,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,24249.227000000003
+218,Belgium,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,24647.584
+219,Belgium,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,25202.702
+220,Belgium,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,25511.177000000003
+221,Belgium,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,26089.415
+222,Belgium,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,27159.652000000002
+223,Belgium,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,26362.884
+224,Belgium,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,26955.463
+225,Belgium,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,27790.63
+226,Belgium,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,27878.721
+227,Belgium,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,27077.283
+228,Belgium,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,26237.376
+229,Belgium,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,25854.97
+230,Belgium,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,25045.303
+231,Belgium,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,24563.015
+232,Belgium,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,24788.074
+233,Belgium,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,26487.808999999997
+234,Russia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,320140.832
+235,Russia,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,311404.226
+236,Russia,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,256250.28600000002
+237,Russia,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,241020.392
+238,Russia,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,223676.542
+239,Russia,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,211453.37
+240,Russia,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,202357.35199999998
+241,Russia,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,184442.747
+242,Russia,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,192067.90300000002
+243,Russia,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,186448.956
+244,Russia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,174136.926
+245,Russia,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,178251.384
+246,Russia,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,185529.553
+247,Russia,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,194137.931
+248,Russia,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,205496.704
+249,Russia,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,207822.027
+250,Russia,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,214905.74899999998
+251,Russia,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,221514.50600000002
+252,Russia,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,227478.134
+253,Russia,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,212898.62699999998
+254,Russia,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,229571.431
+255,Russia,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,244968.849
+256,Russia,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,243484.609
+257,Russia,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,252636.15399999998
+258,Russia,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,251439.582
+259,Russia,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,267478.386
+260,Turkey,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,26968.905
+261,Turkey,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,25673.327999999998
+262,Turkey,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,26365.686
+263,Turkey,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,32142.837000000003
+264,Turkey,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,30639.865
+265,Turkey,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,34112.989
+266,Turkey,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,36271.47
+267,Turkey,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,34689.82
+268,Turkey,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,32781.981
+269,Turkey,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,34617.15
+270,Turkey,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,36464.867999999995
+271,Turkey,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,36454.765
+272,Turkey,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,36233.996
+273,Turkey,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,37824.807
+274,Turkey,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,42048.054000000004
+275,Turkey,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,42041.16
+276,Turkey,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,45423.901
+277,Turkey,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,52098.693
+278,Turkey,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,48166.328
+279,Turkey,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,47906.780999999995
+280,Turkey,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,45391.992999999995
+281,Turkey,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,47385.833
+282,Turkey,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,62524.977999999996
+283,Turkey,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,68864.918
+284,Turkey,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,73559.268
+285,Turkey,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,75788.98
+286,Latvia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,3030.8520000000003
+287,Latvia,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,2840.492
+288,Latvia,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,2532.603
+289,Latvia,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,2324.236
+290,Latvia,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,2203.951
+291,Latvia,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,2099.765
+292,Latvia,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,2065.052
+293,Latvia,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,2056.857
+294,Latvia,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,2029.375
+295,Latvia,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,1993.421
+296,Latvia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,2206.448
+297,Latvia,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,2604.0229999999997
+298,Latvia,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,2683.2740000000003
+299,Latvia,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,2831.578
+300,Latvia,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,2972.458
+301,Latvia,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,3100.2659999999996
+302,Latvia,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,3411.613
+303,Latvia,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,3853.551
+304,Latvia,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,3637.3309999999997
+305,Latvia,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,3186.7459999999996
+306,Latvia,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,3253.903
+307,Latvia,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,2895.676
+308,Latvia,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,2794.362
+309,Latvia,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,2831.2929999999997
+310,Latvia,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,2952.777
+311,Latvia,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,3131.5040000000004
+312,Portugal,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,10075.308
+313,Portugal,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,10718.466999999999
+314,Portugal,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,11607.73
+315,Portugal,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,12100.38
+316,Portugal,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,12774.832
+317,Portugal,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,13475.472
+318,Portugal,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,14191.357
+319,Portugal,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,14978.203000000001
+320,Portugal,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,16758.338
+321,Portugal,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,17603.886000000002
+322,Portugal,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,19163.355
+323,Portugal,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,19472.341
+324,Portugal,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,19961.952
+325,Portugal,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,19849.633
+326,Portugal,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,19818.297
+327,Portugal,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,19598.206000000002
+328,Portugal,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,19662.054
+329,Portugal,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,19273.058
+330,Portugal,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,19000.967
+331,Portugal,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,18968.047
+332,Portugal,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,18749.464
+333,Portugal,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,17418.674
+334,Portugal,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,16040.773000000001
+335,Portugal,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,15678.681
+336,Portugal,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,16014.408000000001
+337,Portugal,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,16193.252
+338,Greece,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,14506.982
+339,Greece,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,15324.562
+340,Greece,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,15717.987
+341,Greece,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,15919.786
+342,Greece,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,16234.931
+343,Greece,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,16584.24
+344,Greece,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,17029.688000000002
+345,Greece,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,17765.404
+346,Greece,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,19607.978
+347,Greece,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,19939.656000000003
+348,Greece,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,18859.959
+349,Greece,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,19765.096999999998
+350,Greece,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,20085.178
+351,Greece,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,21156.569
+352,Greece,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,21605.135
+353,Greece,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,21894.01
+354,Greece,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,22600.5
+355,Greece,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,23212.395
+356,Greece,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,22498.043999999998
+357,Greece,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,25293.752999999997
+358,Greece,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,22476.849
+359,Greece,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,20117.748
+360,Greece,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,16737.323
+361,Greece,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,16513.738
+362,Greece,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,16547.602
+363,Greece,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,17098.093999999997
+364,Germany,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,164403.872
+365,Germany,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,167387.036
+366,Germany,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,173361.979
+367,Germany,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,177789.04100000003
+368,Germany,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,173904.973
+369,Germany,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,177864.738
+370,Germany,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,177823.62300000002
+371,Germany,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,178264.61399999997
+372,Germany,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,181657.651
+373,Germany,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,186781.701
+374,Germany,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,182766.947
+375,Germany,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,178962.425
+376,Germany,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,176681.91199999998
+377,Germany,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,170163.21899999998
+378,Germany,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,169638.723
+379,Germany,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,161381.846
+380,Germany,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,157360.154
+381,Germany,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,154159.02800000002
+382,Germany,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,154021.981
+383,Germany,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,153329.913
+384,Germany,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,154209.812
+385,Germany,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,156367.369
+386,Germany,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,154861.221
+387,Germany,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,159229.576
+388,Germany,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,160124.984
+389,Germany,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,160806.916
+390,Netherlands,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,28139.98
+391,Netherlands,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,28608.342
+392,Netherlands,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,30062.376
+393,Netherlands,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,30851.652000000002
+394,Netherlands,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,30227.182999999997
+395,Netherlands,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,30681.034
+396,Netherlands,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,32079.872000000003
+397,Netherlands,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,31891.741
+398,Netherlands,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,32555.549
+399,Netherlands,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,33052.949
+400,Netherlands,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,33076.248999999996
+401,Netherlands,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,33426.341
+402,Netherlands,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,34149.869
+403,Netherlands,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,34701.572
+404,Netherlands,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,35280.734
+405,Netherlands,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,35490.7
+406,Netherlands,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,36425.797999999995
+407,Netherlands,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,35850.503
+408,Netherlands,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,36165.417
+409,Netherlands,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,34719.733
+410,Netherlands,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,35381.645
+411,Netherlands,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,35427.518
+412,Netherlands,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,33786.472
+413,Netherlands,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,33064.218
+414,Netherlands,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,30677.898999999998
+415,Netherlands,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,31159.835
+416,Iceland,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,617.058
+417,Iceland,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,628.9680000000001
+418,Iceland,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,639.526
+419,Iceland,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,639.975
+420,Iceland,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,642.7
+421,Iceland,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,621.626
+422,Iceland,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,612.404
+423,Iceland,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,627.452
+424,Iceland,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,630.956
+425,Iceland,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,657.529
+426,Iceland,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,659.7389999999999
+427,Iceland,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,670.7330000000001
+428,Iceland,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,674.6139999999999
+429,Iceland,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,769.862
+430,Iceland,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,822.868
+431,Iceland,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,831.51
+432,Iceland,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,975.835
+433,Iceland,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,1011.2460000000001
+434,Iceland,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,955.7719999999999
+435,Iceland,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,928.988
+436,Iceland,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,884.058
+437,Iceland,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,848.008
+438,Iceland,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,837.9760000000001
+439,Iceland,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,853.158
+440,Iceland,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,855.2230000000001
+441,Iceland,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,886.4069999999999
+442,Czech Republic,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,7284.026999999999
+443,Czech Republic,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,6390.384
+444,Czech Republic,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,7973.363
+445,Czech Republic,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,8076.049
+446,Czech Republic,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,8811.87
+447,Czech Republic,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,9354.551
+448,Czech Republic,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,10365.508
+449,Czech Republic,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,10601.72
+450,Czech Republic,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,10747.385
+451,Czech Republic,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,11985.93
+452,Czech Republic,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,11932.415
+453,Czech Republic,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,12662.479
+454,Czech Republic,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,13243.722
+455,Czech Republic,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,15018.184
+456,Czech Republic,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,15773.216999999999
+457,Czech Republic,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,17106.646
+458,Czech Republic,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,17764.573
+459,Czech Republic,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,18691.031000000003
+460,Czech Republic,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,18563.576
+461,Czech Republic,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,18018.707
+462,Czech Republic,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,17007.859
+463,Czech Republic,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,16823.466
+464,Czech Republic,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,16551.958
+465,Czech Republic,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,16429.646
+466,Czech Republic,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,16966.799
+467,Czech Republic,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,17747.548
+468,Slovenia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,2733.525
+469,Slovenia,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,2580.423
+470,Slovenia,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,2655.5840000000003
+471,Slovenia,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,3098.635
+472,Slovenia,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,3448.9320000000002
+473,Slovenia,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,3823.591
+474,Slovenia,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,4459.452
+475,Slovenia,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,4526.709
+476,Slovenia,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,3901.282
+477,Slovenia,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,3708.8109999999997
+478,Slovenia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,3857.719
+479,Slovenia,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,3980.1059999999998
+480,Slovenia,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,3865.047
+481,Slovenia,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,4004.02
+482,Slovenia,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,4153.705
+483,Slovenia,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,4428.747
+484,Slovenia,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,4647.847
+485,Slovenia,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,5229.026
+486,Slovenia,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,6157.826
+487,Slovenia,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,5325.889
+488,Slovenia,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,5265.5109999999995
+489,Slovenia,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,5699.406999999999
+490,Slovenia,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,5773.398
+491,Slovenia,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,5459.848000000001
+492,Slovenia,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,5385.0019999999995
+493,Slovenia,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,5358.943
+494,France,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,121583.42
+495,France,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,124235.713
+496,France,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,128788.9
+497,France,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,128788.03199999999
+498,France,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,129942.38
+499,France,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,131819.447
+500,France,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,133642.76
+501,France,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,136126.505
+502,France,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,138333.448
+503,France,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,140681.093
+504,France,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,140284.04
+505,France,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,143027.469
+506,France,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,143996.519
+507,France,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,143496.126
+508,France,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,144098.668
+509,France,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,141905.911
+510,France,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,141234.845
+511,France,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,139826.81699999998
+512,France,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,133434.042
+513,France,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,131917.991
+514,France,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,134897.171
+515,France,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,134934.77
+516,France,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,133427.814
+517,France,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,132646.311
+518,France,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,132665.275
+519,France,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,133748.831
+520,Australia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,61394.558
+521,Australia,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,60799.765
+522,Australia,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,61812.43
+523,Australia,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,63393.805
+524,Australia,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,64920.612
+525,Australia,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,68268.835
+526,Australia,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,70152.429
+527,Australia,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,71456.343
+528,Australia,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,71657.77900000001
+529,Australia,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,72512.875
+530,Australia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,74139.39
+531,Australia,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,74100.63799999999
+532,Australia,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,75602.022
+533,Australia,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,77359.789
+534,Australia,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,80394.433
+535,Australia,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,81632.815
+536,Australia,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,82268.62700000001
+537,Australia,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,84907.674
+538,Australia,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,86907.159
+539,Australia,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,87313.216
+540,Australia,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,88888.31
+541,Australia,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,91163.772
+542,Australia,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,92004.48
+543,Australia,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,92141.65699999999
+544,Australia,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,93043.795
+545,Australia,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,95221.939
+546,Japan,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,204245.55
+547,Japan,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,216852.263
+548,Japan,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,223184.7
+549,Japan,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,226789.17899999997
+550,Japan,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,235912.259
+551,Japan,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,244866.288
+552,Japan,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,251417.28
+553,Japan,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,252839.77399999998
+554,Japan,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,250862.15600000002
+555,Japan,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,254667.637
+556,Japan,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,253322.94
+557,Japan,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,257175.225
+558,Japan,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,252579.738
+559,Japan,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,248046.677
+560,Japan,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,241899.94
+561,Japan,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,235791.69100000002
+562,Japan,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,232532.715
+563,Japan,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,229440.918
+564,Japan,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,220741.693
+565,Japan,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,217137.13
+566,Japan,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,217696.135
+567,Japan,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,214769.72
+568,Japan,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,219470.93600000002
+569,Japan,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,217760.258
+570,Japan,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,210396.458
+571,Japan,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,206810.42899999997
+572,Poland,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,20514.791
+573,Poland,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,21555.764
+574,Poland,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,21886.25
+575,Poland,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,21176.897
+576,Poland,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,22487.48
+577,Poland,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,23258.98
+578,Poland,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,26031.738999999998
+579,Poland,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,27517.213
+580,Poland,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,28935.212000000003
+581,Poland,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,31469.487
+582,Poland,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,27699.89
+583,Poland,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,27441.897999999997
+584,Poland,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,26439.7
+585,Poland,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,28895.562
+586,Poland,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,32688.487
+587,Poland,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,35162.371
+588,Poland,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,38905.899
+589,Poland,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,42911.630999999994
+590,Poland,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,44822.831
+591,Poland,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,45224.55
+592,Poland,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,47617.468
+593,Poland,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,48163.924000000006
+594,Poland,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,46310.528
+595,Poland,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,43520.733
+596,Poland,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,43623.549000000006
+597,Poland,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,45863.703
+598,United States,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,1491608.6909999999
+599,United States,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,1449728.0580000002
+600,United States,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,1508964.451
+601,United States,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,1548445.517
+602,United States,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,1598918.968
+603,United States,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,1634203.745
+604,United States,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,1679002.6609999998
+605,United States,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,1696057.812
+606,United States,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,1731997.071
+607,United States,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,1784593.126
+608,United States,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,1828466.626
+609,United States,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,1809029.666
+610,United States,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,1848800.054
+611,United States,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,1835692.739
+612,United States,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,1876946.654
+613,United States,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,1897779.2969999998
+614,United States,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,1894299.2130000002
+615,United States,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,1891956.531
+616,United States,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,1795512.1030000001
+617,United States,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,1721713.7959999999
+618,United States,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,1732783.695
+619,United States,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,1713921.3830000001
+620,United States,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,1700138.834
+621,United States,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,1716701.2659999998
+622,United States,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,1739647.6840000001
+623,United States,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,1732508.586
+624,Spain,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,58966.573
+625,Spain,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,62280.081
+626,Spain,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,66386.609
+627,Spain,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,65768.87599999999
+628,Spain,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,69285.954
+629,Spain,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,70034.148
+630,Spain,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,74928.304
+631,Spain,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,74738.6
+632,Spain,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,81417.542
+633,Spain,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,85334.60699999999
+634,Spain,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,86859.98599999999
+635,Spain,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,90360.82
+636,Spain,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,91949.286
+637,Spain,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,96320.135
+638,Spain,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,99993.005
+639,Spain,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,102902.207
+640,Spain,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,106038.425
+641,Spain,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,108271.995
+642,Spain,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,102252.224
+643,Spain,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,94889.31199999999
+644,Spain,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,91412.22
+645,Spain,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,85690.502
+646,Spain,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,80161.576
+647,Spain,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,79922.578
+648,Spain,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,80241.187
+649,Spain,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,83385.714
+650,Sweden,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,19332.909
+651,Sweden,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,19063.267
+652,Sweden,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,19943.463
+653,Sweden,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,19040.546000000002
+654,Sweden,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,19557.784
+655,Sweden,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,19643.549
+656,Sweden,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,19331.933
+657,Sweden,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,19461.074
+658,Sweden,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,19623.135
+659,Sweden,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,19967.953999999998
+660,Sweden,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,19754.479
+661,Sweden,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,19907.037
+662,Sweden,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,20338.728
+663,Sweden,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,20593.407
+664,Sweden,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,20910.156000000003
+665,Sweden,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,21073.166
+666,Sweden,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,20929.539
+667,Sweden,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,21173.549
+668,Sweden,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,20661.041
+669,Sweden,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,20271.131999999998
+670,Sweden,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,20448.488999999998
+671,Sweden,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,20034.509
+672,Sweden,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,18843.215
+673,Sweden,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,18354.926
+674,Sweden,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,18148.995
+675,Sweden,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,18168.038
+676,Hungary,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,8878.167
+677,Hungary,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,7785.879
+678,Hungary,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,7513.924
+679,Hungary,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,7499.396
+680,Hungary,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,7312.196
+681,Hungary,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,7465.7080000000005
+682,Hungary,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,7437.831
+683,Hungary,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,7852.073
+684,Hungary,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,8670.351
+685,Hungary,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,9177.408000000001
+686,Hungary,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,9083.625
+687,Hungary,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,9571.764000000001
+688,Hungary,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,10180.2
+689,Hungary,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,10652.52
+690,Hungary,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,11089.17
+691,Hungary,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,12010.187
+692,Hungary,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,12770.041000000001
+693,Hungary,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,13091.085
+694,Hungary,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,13027.531
+695,Hungary,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,12983.336000000001
+696,Hungary,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,11663.048
+697,Hungary,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,11081.923
+698,Hungary,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,10752.537
+699,Hungary,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,10027.609
+700,Hungary,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,11186.553
+701,Hungary,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,12202.64
+702,New Zealand,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,8764.914
+703,New Zealand,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,8761.025
+704,New Zealand,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,9138.674
+705,New Zealand,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,9603.497
+706,New Zealand,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,10279.472
+707,New Zealand,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,10959.28
+708,New Zealand,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,11103.478000000001
+709,New Zealand,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,11339.311000000002
+710,New Zealand,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,11559.42
+711,New Zealand,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,11859.438999999998
+712,New Zealand,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,12423.309
+713,New Zealand,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,12491.377
+714,New Zealand,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,12959.062
+715,New Zealand,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,13511.385
+716,New Zealand,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,13819.641000000001
+717,New Zealand,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,13901.514
+718,New Zealand,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,14032.77
+719,New Zealand,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,14147.435
+720,New Zealand,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,14169.882
+721,New Zealand,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,13988.42
+722,New Zealand,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,14150.112
+723,New Zealand,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,14149.893
+724,New Zealand,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,13909.761
+725,New Zealand,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,14122.295
+726,New Zealand,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,14184.195
+727,New Zealand,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,14761.855
+728,Lithuania,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,5835.061
+729,Lithuania,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,6430.876
+730,Lithuania,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,4237.195
+731,Lithuania,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,3241.592
+732,Lithuania,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,2567.2129999999997
+733,Lithuania,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,3133.435
+734,Lithuania,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,3447.768
+735,Lithuania,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,3830.8259999999996
+736,Lithuania,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,4012.755
+737,Lithuania,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,3580.7529999999997
+738,Lithuania,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,3206.2
+739,Lithuania,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,3439.7009999999996
+740,Lithuania,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,3565.615
+741,Lithuania,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,3627.38
+742,Lithuania,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,3963.933
+743,Lithuania,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,4208.2029999999995
+744,Lithuania,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,4477.845
+745,Lithuania,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,5236.247
+746,Lithuania,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,5206.309
+747,Lithuania,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,4301.455
+748,Lithuania,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,4418.646
+749,Lithuania,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,4380.008
+750,Lithuania,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,4392.107
+751,Lithuania,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,4383.2390000000005
+752,Lithuania,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,4857.192
+753,Lithuania,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,5113.748
+754,Finland,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,12101.3
+755,Finland,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,11725.55
+756,Finland,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,11638.68
+757,Finland,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,11183.633999999998
+758,Finland,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,11539.079
+759,Finland,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,11337.911
+760,Finland,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,11338.791000000001
+761,Finland,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,11901.278999999999
+762,Finland,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,12033.764
+763,Finland,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,12242.173
+764,Finland,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,12127.528
+765,Finland,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,12244.673999999999
+766,Finland,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,12427.229
+767,Finland,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,12626.464
+768,Finland,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,12958.546
+769,Finland,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,12936.062
+770,Finland,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,13094.162
+771,Finland,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,13435.017
+772,Finland,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,12784.472
+773,Finland,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,12212.82
+774,Finland,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,12717.747
+775,Finland,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,12525.676000000001
+776,Finland,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,12213.163999999999
+777,Finland,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,12192.143
+778,Finland,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,11052.972
+779,Finland,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,11110.947
+780,Italy,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,102702.305
+781,Italy,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,105361.823
+782,Italy,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,110537.192
+783,Italy,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,112231.989
+784,Italy,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,112011.24699999999
+785,Italy,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,114773.076
+786,Italy,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,116466.52
+787,Italy,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,118395.341
+788,Italy,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,122804.34800000001
+789,Italy,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,124222.745
+790,Italy,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,124066.14199999999
+791,Italy,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,125771.365
+792,Italy,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,127845.98599999999
+793,Italy,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,127903.457
+794,Italy,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,129544.385
+795,Italy,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,128006.34
+796,Italy,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,129206.95300000001
+797,Italy,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,129220.207
+798,Italy,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,122183.334
+799,Italy,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,116515.49
+800,Italy,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,115091.729
+801,Italy,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,114060.09
+802,Italy,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,106501.623
+803,Italy,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,103829.18699999999
+804,Italy,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,108674.295
+805,Italy,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,105990.418
+806,Norway,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,10267.695
+807,Norway,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,10165.559000000001
+808,Norway,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,10442.27
+809,Norway,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,11091.841
+810,Norway,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,10820.831
+811,Norway,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,11103.36
+812,Norway,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,11468.469
+813,Norway,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,11733.375
+814,Norway,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,12156.356000000002
+815,Norway,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,12474.816
+816,Norway,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,11847.655
+817,Norway,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,12056.261999999999
+818,Norway,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,11914.913
+819,Norway,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,12157.121000000001
+820,Norway,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,12518.51
+821,Norway,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,12652.108
+822,Norway,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,13085.148000000001
+823,Norway,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,13563.854
+824,Norway,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,13203.464
+825,Norway,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,13086.428999999998
+826,Norway,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,13477.903999999999
+827,Norway,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,13430.113000000001
+828,Norway,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,13406.739
+829,Norway,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,13227.726999999999
+830,Norway,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,13158.503
+831,Norway,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,13230.052
+832,United Kingdom,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,116891.291
+833,United Kingdom,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,116084.92800000001
+834,United Kingdom,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,117529.261
+835,United Kingdom,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,118735.614
+836,United Kingdom,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,119267.739
+837,United Kingdom,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,118518.4
+838,United Kingdom,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,122920.64199999999
+839,United Kingdom,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,124371.773
+840,United Kingdom,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,123876.308
+841,United Kingdom,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,124897.86
+842,United Kingdom,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,124104.144
+843,United Kingdom,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,124080.088
+844,United Kingdom,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,126404.15400000001
+845,United Kingdom,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,126037.079
+846,United Kingdom,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,127426.479
+847,United Kingdom,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,128518.631
+848,United Kingdom,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,128339.211
+849,United Kingdom,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,129499.329
+850,United Kingdom,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,123967.161
+851,United Kingdom,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,119357.77900000001
+852,United Kingdom,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,117810.04
+853,United Kingdom,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,116236.151
+854,United Kingdom,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,115764.155
+855,United Kingdom,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,114854.69
+856,United Kingdom,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,116337.13900000001
+857,United Kingdom,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,118604.88699999999
+858,Korea,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,35492.0
+859,Korea,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,38595.0
+860,Korea,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,43960.0
+861,Korea,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,55552.0
+862,Korea,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,57566.0
+863,Korea,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,64727.0
+864,Korea,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,68803.0
+865,Korea,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,74193.0
+866,Korea,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,57543.0
+867,Korea,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,62564.0
+868,Korea,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,69910.0
+869,Korea,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,73063.0
+870,Korea,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,78042.0
+871,Korea,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,80844.0
+872,Korea,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,80997.0
+873,Korea,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,81814.0
+874,Korea,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,82622.0
+875,Korea,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,85027.0
+876,Korea,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,82853.0
+877,Korea,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,83723.0
+878,Korea,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,85448.0
+879,Korea,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,85114.0
+880,Korea,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,86480.0
+881,Korea,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,88405.0
+882,Korea,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,88713.0
+883,Chile,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,9249.319
+884,Chile,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,9653.496
+885,Chile,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,10471.381
+886,Chile,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,11615.157
+887,Chile,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,12555.524
+888,Chile,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,13891.559
+889,Chile,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,15113.453000000001
+890,Chile,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,16033.42
+891,Chile,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,16904.586
+892,Chile,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,17091.516
+893,Chile,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,17348.92
+894,Chile,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,16402.863999999998
+895,Chile,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,16940.367
+896,Chile,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,16714.011000000002
+897,Chile,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,17335.999
+898,Chile,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,19095.013
+899,Chile,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,18705.883
+900,Chile,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,20272.456000000002
+901,Chile,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,21227.838
+902,Chile,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,21229.077
+903,Chile,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,20952.455
+904,Chile,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,21861.571
+905,Chile,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,22555.339
+906,Chile,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,24545.671000000002
+907,OECD - Europe,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,803220.067
+908,OECD - Europe,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,814924.82
+909,OECD - Europe,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,842717.608
+910,OECD - Europe,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,855342.334
+911,OECD - Europe,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,859745.512
+912,OECD - Europe,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,876264.324
+913,OECD - Europe,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,901931.147
+914,OECD - Europe,GHG,1A3 - Transport,1997,Tonnes of CO2 equivalent,911754.676
+915,OECD - Europe,GHG,1A3 - Transport,1998,Tonnes of CO2 equivalent,937586.814
+916,OECD - Europe,GHG,1A3 - Transport,1999,Tonnes of CO2 equivalent,961069.306
+917,OECD - Europe,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,957436.099
+918,OECD - Europe,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,967921.618
+919,OECD - Europe,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,977146.199
+920,OECD - Europe,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,986613.6109999999
+921,OECD - Europe,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,1009247.28
+922,OECD - Europe,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,1008554.548
+923,OECD - Europe,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,1018545.441
+924,OECD - Europe,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,1033753.25
+925,OECD - Europe,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,1003436.2729999999
+926,OECD - Europe,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,977286.6740000001
+927,OECD - Europe,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,970618.7559999999
+928,OECD - Europe,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,960517.825
+929,OECD - Europe,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,946420.186
+930,OECD - Europe,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,946882.074
+931,OECD - Europe,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,956845.9140000001
+932,OECD - Europe,GHG,1A3 - Transport,2015,Tonnes of CO2 equivalent,970870.439
+933,China (People's Republic of),GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,165567.0
+934,China (People's Republic of),GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,430786.0
+935,Colombia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,18478.97
+936,Colombia,GHG,1A3 - Transport,1995,Tonnes of CO2 equivalent,22891.993
+937,Colombia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,20881.598
+938,Colombia,GHG,1A3 - Transport,2001,Tonnes of CO2 equivalent,19573.755
+939,Colombia,GHG,1A3 - Transport,2002,Tonnes of CO2 equivalent,19167.541
+940,Colombia,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,20079.602
+941,Colombia,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,21434.005
+942,Colombia,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,22007.376
+943,Colombia,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,23706.356
+944,Colombia,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,24463.122000000003
+945,Colombia,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,24967.93
+946,Colombia,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,25115.107999999997
+947,Colombia,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,25475.845
+948,Colombia,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,27117.101000000002
+949,Colombia,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,27978.477000000003
+950,Costa Rica,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,3922.36
+951,Costa Rica,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,4754.26
+952,Costa Rica,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,4955.55
+953,India,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,80286.0
+954,India,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,98104.5
+955,Indonesia,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,34808.6
+956,Indonesia,GHG,1A3 - Transport,1991,Tonnes of CO2 equivalent,37816.8
+957,Indonesia,GHG,1A3 - Transport,1992,Tonnes of CO2 equivalent,40133.7
+958,Indonesia,GHG,1A3 - Transport,1993,Tonnes of CO2 equivalent,42271.6
+959,Indonesia,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,47340.9
+960,Indonesia,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,56820.8
+961,South Africa,GHG,1A3 - Transport,1990,Tonnes of CO2 equivalent,31544.0
+962,South Africa,GHG,1A3 - Transport,1994,Tonnes of CO2 equivalent,43521.7
+963,Israel,GHG,1A3 - Transport,1996,Tonnes of CO2 equivalent,11112.367
+964,Israel,GHG,1A3 - Transport,2000,Tonnes of CO2 equivalent,14108.722
+965,Israel,GHG,1A3 - Transport,2003,Tonnes of CO2 equivalent,14718.896999999999
+966,Israel,GHG,1A3 - Transport,2004,Tonnes of CO2 equivalent,14411.983
+967,Israel,GHG,1A3 - Transport,2005,Tonnes of CO2 equivalent,14207.923
+968,Israel,GHG,1A3 - Transport,2006,Tonnes of CO2 equivalent,14643.216999999999
+969,Israel,GHG,1A3 - Transport,2007,Tonnes of CO2 equivalent,15296.495
+970,Israel,GHG,1A3 - Transport,2008,Tonnes of CO2 equivalent,15446.663999999999
+971,Israel,GHG,1A3 - Transport,2009,Tonnes of CO2 equivalent,15652.241000000002
+972,Israel,GHG,1A3 - Transport,2010,Tonnes of CO2 equivalent,16292.883999999998
+973,Israel,GHG,1A3 - Transport,2011,Tonnes of CO2 equivalent,16184.986
+974,Israel,GHG,1A3 - Transport,2012,Tonnes of CO2 equivalent,16487.292
+975,Israel,GHG,1A3 - Transport,2013,Tonnes of CO2 equivalent,16770.224
+976,Israel,GHG,1A3 - Transport,2014,Tonnes of CO2 equivalent,16804.811999999998

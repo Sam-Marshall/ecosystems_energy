@@ -1,0 +1,140 @@
+True,Country,Variable,Year,Unit,Value
+0,Australia,Public water supply,2005,Cubic metres,10331.400024414
+1,Australia,Public water supply,2009,Cubic metres,8873.0
+2,Australia,Public water supply,2010,Cubic metres,8604.0
+3,Australia,Public water supply,2011,Cubic metres,7106.0
+4,Austria,Public water supply,2010,Cubic metres,587.0
+5,Belgium,Public water supply,2005,Cubic metres,720.0
+6,Belgium,Public water supply,2006,Cubic metres,712.0
+7,Belgium,Public water supply,2007,Cubic metres,708.0
+8,Belgium,Public water supply,2008,Cubic metres,695.0
+9,Belgium,Public water supply,2009,Cubic metres,700.0
+10,Czech Republic,Public water supply,2005,Cubic metres,532.0
+11,Czech Republic,Public water supply,2006,Cubic metres,527.0
+12,Czech Republic,Public water supply,2007,Cubic metres,531.0
+13,Czech Republic,Public water supply,2008,Cubic metres,520.0
+14,Czech Republic,Public water supply,2009,Cubic metres,512.0
+15,Czech Republic,Public water supply,2010,Cubic metres,500.0
+16,Czech Republic,Public water supply,2011,Cubic metres,492.0
+17,Czech Republic,Public water supply,2012,Cubic metres,491.0
+18,Czech Republic,Public water supply,2013,Cubic metres,478.0
+19,Denmark,Public water supply,2005,Cubic metres,421.0
+20,Denmark,Public water supply,2006,Cubic metres,404.0
+21,Denmark,Public water supply,2007,Cubic metres,410.0
+22,Denmark,Public water supply,2008,Cubic metres,407.0
+23,Denmark,Public water supply,2009,Cubic metres,386.0
+24,Finland,Public water supply,2011,Cubic metres,340.0
+25,France,Public water supply,2008,Cubic metres,4089.0
+26,France,Public water supply,2011,Cubic metres,3872.0
+27,Germany,Public water supply,2007,Cubic metres,4030.0
+28,Germany,Public water supply,2010,Cubic metres,3959.0
+29,Greece,Public water supply,2005,Cubic metres,644.0
+30,Greece,Public water supply,2006,Cubic metres,643.0
+31,Greece,Public water supply,2007,Cubic metres,626.0
+32,Hungary,Public water supply,2005,Cubic metres,513.0
+33,Hungary,Public water supply,2006,Cubic metres,514.0
+34,Hungary,Public water supply,2007,Cubic metres,492.0
+35,Hungary,Public water supply,2008,Cubic metres,482.0
+36,Hungary,Public water supply,2009,Cubic metres,455.0
+37,Hungary,Public water supply,2010,Cubic metres,455.0
+38,Hungary,Public water supply,2011,Cubic metres,454.0
+39,Hungary,Public water supply,2012,Cubic metres,452.0
+40,Hungary,Public water supply,2013,Cubic metres,437.0
+41,Iceland,Public water supply,2005,Cubic metres,67.0
+42,Ireland,Public water supply,2007,Cubic metres,609.0
+43,Ireland,Public water supply,2011,Cubic metres,669.0
+44,Italy,Public water supply,2005,Cubic metres,5369.17
+45,Italy,Public water supply,2008,Cubic metres,5533.38
+46,Italy,Public water supply,2012,Cubic metres,5232.23
+47,Japan,Public water supply,2005,Cubic metres,83427.0
+48,Japan,Public water supply,2006,Cubic metres,83106.0
+49,Japan,Public water supply,2007,Cubic metres,82980.0
+50,Japan,Public water supply,2008,Cubic metres,82400.0
+51,Japan,Public water supply,2009,Cubic metres,81455.0
+52,Mexico,Public water supply,2005,Cubic metres,10703.49351
+53,Mexico,Public water supply,2006,Cubic metres,10741.41665
+54,Mexico,Public water supply,2007,Cubic metres,11158.00667
+55,Mexico,Public water supply,2008,Cubic metres,11197.472440000001
+56,Mexico,Public water supply,2009,Cubic metres,11395.38616
+57,Mexico,Public water supply,2010,Cubic metres,11443.132590000001
+58,Mexico,Public water supply,2011,Cubic metres,12179.52592
+59,Mexico,Public water supply,2012,Cubic metres,11981.32692684
+60,Mexico,Public water supply,2013,Cubic metres,11961.50364775
+61,Netherlands,Public water supply,2005,Cubic metres,1082.0
+62,Netherlands,Public water supply,2006,Cubic metres,1093.0
+63,Netherlands,Public water supply,2007,Cubic metres,1083.0
+64,Netherlands,Public water supply,2008,Cubic metres,1085.0
+65,Netherlands,Public water supply,2009,Cubic metres,1090.0
+66,Netherlands,Public water supply,2010,Cubic metres,1085.0
+67,Netherlands,Public water supply,2011,Cubic metres,1078.0
+68,Netherlands,Public water supply,2012,Cubic metres,1067.0
+69,Poland,Public water supply,2005,Cubic metres,1587.0
+70,Poland,Public water supply,2006,Cubic metres,1604.0
+71,Poland,Public water supply,2007,Cubic metres,1573.0
+72,Poland,Public water supply,2008,Cubic metres,1581.0
+73,Poland,Public water supply,2009,Cubic metres,1544.0
+74,Poland,Public water supply,2010,Cubic metres,1541.0
+75,Poland,Public water supply,2011,Cubic metres,1545.0
+76,Poland,Public water supply,2012,Cubic metres,1539.0
+77,Poland,Public water supply,2013,Cubic metres,1522.0
+78,Portugal,Public water supply,2005,Cubic metres,549.0
+79,Portugal,Public water supply,2006,Cubic metres,577.0
+80,Portugal,Public water supply,2007,Cubic metres,661.0
+81,Portugal,Public water supply,2008,Cubic metres,671.0
+82,Portugal,Public water supply,2009,Cubic metres,718.0
+83,Spain,Public water supply,2005,Cubic metres,3864.0
+84,Spain,Public water supply,2006,Cubic metres,3783.0
+85,Spain,Public water supply,2007,Cubic metres,4053.0
+86,Spain,Public water supply,2008,Cubic metres,3963.0
+87,Spain,Public water supply,2009,Cubic metres,3861.0
+88,Spain,Public water supply,2010,Cubic metres,3697.0
+89,Spain,Public water supply,2011,Cubic metres,3555.0
+90,Spain,Public water supply,2012,Cubic metres,3576.0
+91,Sweden,Public water supply,2005,Cubic metres,737.0
+92,Sweden,Public water supply,2006,Cubic metres,737.0
+93,Sweden,Public water supply,2007,Cubic metres,737.0
+94,Sweden,Public water supply,2010,Cubic metres,691.0
+95,Switzerland,Public water supply,2005,Cubic metres,1004.0
+96,Switzerland,Public water supply,2006,Cubic metres,981.0
+97,Switzerland,Public water supply,2007,Cubic metres,960.0
+98,Switzerland,Public water supply,2008,Cubic metres,980.0
+99,Switzerland,Public water supply,2009,Cubic metres,967.0
+100,Switzerland,Public water supply,2010,Cubic metres,941.0
+101,Switzerland,Public water supply,2011,Cubic metres,954.0
+102,Switzerland,Public water supply,2012,Cubic metres,721.0
+103,Turkey,Public water supply,2006,Cubic metres,2375.0
+104,Turkey,Public water supply,2008,Cubic metres,2762.0
+105,Turkey,Public water supply,2010,Cubic metres,2987.0
+106,Turkey,Public water supply,2012,Cubic metres,3287.0
+107,United Kingdom,Public water supply,2005,Cubic metres,6230.0
+108,United Kingdom,Public water supply,2006,Cubic metres,6221.0
+109,United Kingdom,Public water supply,2007,Cubic metres,6109.0
+110,United Kingdom,Public water supply,2011,Cubic metres,4167.0
+111,Chile,Public water supply,2005,Cubic metres,934.690002441
+112,Chile,Public water supply,2006,Cubic metres,972.489990234
+113,Chile,Public water supply,2007,Cubic metres,971.2199707030001
+114,Chile,Public water supply,2008,Cubic metres,979.950500488
+115,Chile,Public water supply,2009,Cubic metres,987.9299926760001
+116,Chile,Public water supply,2010,Cubic metres,1009.655883789
+117,Chile,Public water supply,2011,Cubic metres,1064.390014648
+118,Estonia,Public water supply,2007,Cubic metres,44.0
+119,Estonia,Public water supply,2008,Cubic metres,40.0
+120,Estonia,Public water supply,2009,Cubic metres,47.0
+121,Estonia,Public water supply,2011,Cubic metres,48.0
+122,Israel,Public water supply,2005,Cubic metres,1961.0
+123,Israel,Public water supply,2006,Cubic metres,2152.776663303
+124,Israel,Public water supply,2007,Cubic metres,2279.630002441
+125,Israel,Public water supply,2008,Cubic metres,2204.629998264
+126,Israel,Public water supply,2009,Cubic metres,1811.0
+127,Israel,Public water supply,2010,Cubic metres,1919.0
+128,Israel,Public water supply,2011,Cubic metres,1831.0
+129,Israel,Public water supply,2012,Cubic metres,1902.0
+130,Slovenia,Public water supply,2005,Cubic metres,119.0
+131,Slovenia,Public water supply,2006,Cubic metres,121.0
+132,Slovenia,Public water supply,2007,Cubic metres,114.0
+133,Slovenia,Public water supply,2008,Cubic metres,113.0
+134,Slovenia,Public water supply,2009,Cubic metres,117.0
+135,Slovenia,Public water supply,2010,Cubic metres,115.0
+136,Slovenia,Public water supply,2011,Cubic metres,116.0
+137,Slovenia,Public water supply,2012,Cubic metres,116.0
+138,Slovenia,Public water supply,2013,Cubic metres,108.0
