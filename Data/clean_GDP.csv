@@ -1,0 +1,2588 @@
+True,Country,Variable,Year,Unit,Value
+0,Australia,Real GDP per capita,1990,US Dollar,28772.28
+1,Australia,Real GDP per capita,1995,US Dollar,31788.12
+2,Australia,Real GDP per capita,2000,US Dollar,36461.33
+3,Australia,Real GDP per capita,2001,US Dollar,37521.98
+4,Australia,Real GDP per capita,2002,US Dollar,38232.24
+5,Australia,Real GDP per capita,2003,US Dollar,39314.25
+6,Australia,Real GDP per capita,2004,US Dollar,40057.12
+7,Australia,Real GDP per capita,2005,US Dollar,40601.23
+8,Australia,Real GDP per capita,2006,US Dollar,41449.39
+9,Australia,Real GDP per capita,2007,US Dollar,42200.3
+10,Australia,Real GDP per capita,2008,US Dollar,42213.99
+11,Australia,Real GDP per capita,2009,US Dollar,42294.77
+12,Australia,Real GDP per capita,2010,US Dollar,42585.06
+13,Australia,Real GDP per capita,2011,US Dollar,43534.45
+14,Australia,Real GDP per capita,2012,US Dollar,44013.83
+15,Australia,Real GDP per capita,2013,US Dollar,44498.6
+16,Australia,Real GDP per capita,2014,US Dollar,44916.32
+17,Australia,Real GDP per capita,2015,US Dollar,45555.75
+18,Australia,Real GDP per capita,2016,US Dollar,45819.36
+19,Australia,Real GDP per capita,2017,US Dollar,46240.15
+57,Austria,Real GDP per capita,1990,US Dollar,30228.05
+58,Austria,Real GDP per capita,1995,US Dollar,32614.87
+59,Austria,Real GDP per capita,2000,US Dollar,37419.32
+60,Austria,Real GDP per capita,2001,US Dollar,37760.25
+61,Austria,Real GDP per capita,2002,US Dollar,38210.87
+62,Austria,Real GDP per capita,2003,US Dollar,38375.12
+63,Austria,Real GDP per capita,2004,US Dollar,39228.23
+64,Austria,Real GDP per capita,2005,US Dollar,39929.48
+65,Austria,Real GDP per capita,2006,US Dollar,41153.68
+66,Austria,Real GDP per capita,2007,US Dollar,42548.73
+67,Austria,Real GDP per capita,2008,US Dollar,43032.05
+68,Austria,Real GDP per capita,2009,US Dollar,41255.8
+69,Austria,Real GDP per capita,2010,US Dollar,41814.32
+70,Austria,Real GDP per capita,2011,US Dollar,42782.54
+71,Austria,Real GDP per capita,2012,US Dollar,42781.95
+72,Austria,Real GDP per capita,2013,US Dollar,42492.36
+73,Austria,Real GDP per capita,2014,US Dollar,42569.39
+74,Austria,Real GDP per capita,2015,US Dollar,42808.88
+75,Austria,Real GDP per capita,2016,US Dollar,43263.1
+76,Austria,Real GDP per capita,2017,US Dollar,44412.6
+114,Belgium,Real GDP per capita,1990,US Dollar,29788.62
+115,Belgium,Real GDP per capita,1995,US Dollar,31669.04
+116,Belgium,Real GDP per capita,2000,US Dollar,36179.46
+117,Belgium,Real GDP per capita,2001,US Dollar,36342.35
+118,Belgium,Real GDP per capita,2002,US Dollar,36825.74
+119,Belgium,Real GDP per capita,2003,US Dollar,36918.06
+120,Belgium,Real GDP per capita,2004,US Dollar,38036.97
+121,Belgium,Real GDP per capita,2005,US Dollar,38587.73
+122,Belgium,Real GDP per capita,2006,US Dollar,39284.07
+123,Belgium,Real GDP per capita,2007,US Dollar,40341.65
+124,Belgium,Real GDP per capita,2008,US Dollar,40350.8
+125,Belgium,Real GDP per capita,2009,US Dollar,39147.03
+126,Belgium,Real GDP per capita,2010,US Dollar,39932.85
+127,Belgium,Real GDP per capita,2011,US Dollar,40376.55
+128,Belgium,Real GDP per capita,2012,US Dollar,40214.05
+129,Belgium,Real GDP per capita,2013,US Dollar,40049.16
+130,Belgium,Real GDP per capita,2014,US Dollar,40345.65
+131,Belgium,Real GDP per capita,2015,US Dollar,40663.02
+132,Belgium,Real GDP per capita,2016,US Dollar,41003.27
+133,Belgium,Real GDP per capita,2017,US Dollar,41435.94
+169,Canada,Real GDP per capita,1990,US Dollar,30892.04
+170,Canada,Real GDP per capita,1995,US Dollar,31719.88
+171,Canada,Real GDP per capita,2000,US Dollar,36854.38
+172,Canada,Real GDP per capita,2001,US Dollar,37157.67
+173,Canada,Real GDP per capita,2002,US Dollar,37914.2
+174,Canada,Real GDP per capita,2003,US Dollar,38222.96
+175,Canada,Real GDP per capita,2004,US Dollar,39005.87
+176,Canada,Real GDP per capita,2005,US Dollar,39832.5
+177,Canada,Real GDP per capita,2006,US Dollar,40429.82
+178,Canada,Real GDP per capita,2007,US Dollar,40795.85
+179,Canada,Real GDP per capita,2008,US Dollar,40729.54
+180,Canada,Real GDP per capita,2009,US Dollar,39077.47
+181,Canada,Real GDP per capita,2010,US Dollar,39835.81
+182,Canada,Real GDP per capita,2011,US Dollar,40647.04
+183,Canada,Real GDP per capita,2012,US Dollar,40927.46
+184,Canada,Real GDP per capita,2013,US Dollar,41518.36
+185,Canada,Real GDP per capita,2014,US Dollar,42285.15
+186,Canada,Real GDP per capita,2015,US Dollar,42298.53
+187,Canada,Real GDP per capita,2016,US Dollar,42494.65
+188,Canada,Real GDP per capita,2017,US Dollar,43370.15
+226,Czech Republic,Real GDP per capita,1990,US Dollar,19543.29
+227,Czech Republic,Real GDP per capita,1995,US Dollar,18766.4
+228,Czech Republic,Real GDP per capita,2000,US Dollar,20632.16
+229,Czech Republic,Real GDP per capita,2001,US Dollar,21270.32
+230,Czech Republic,Real GDP per capita,2002,US Dollar,21661.38
+231,Czech Republic,Real GDP per capita,2003,US Dollar,22470.69
+232,Czech Republic,Real GDP per capita,2004,US Dollar,23572.63
+233,Czech Republic,Real GDP per capita,2005,US Dollar,25067.11
+234,Czech Republic,Real GDP per capita,2006,US Dollar,26680.76
+235,Czech Republic,Real GDP per capita,2007,US Dollar,28016.98
+236,Czech Republic,Real GDP per capita,2008,US Dollar,28582.99
+237,Czech Republic,Real GDP per capita,2009,US Dollar,27046.68
+238,Czech Republic,Real GDP per capita,2010,US Dollar,27531.76
+239,Czech Republic,Real GDP per capita,2011,US Dollar,27935.25
+240,Czech Republic,Real GDP per capita,2012,US Dollar,27664.59
+241,Czech Republic,Real GDP per capita,2013,US Dollar,27510.71
+242,Czech Republic,Real GDP per capita,2014,US Dollar,28246.87
+243,Czech Republic,Real GDP per capita,2015,US Dollar,29731.88
+244,Czech Republic,Real GDP per capita,2016,US Dollar,30482.27
+245,Czech Republic,Real GDP per capita,2017,US Dollar,31767.65
+282,Denmark,Real GDP per capita,1990,US Dollar,33049.73
+283,Denmark,Real GDP per capita,1995,US Dollar,36432.52
+284,Denmark,Real GDP per capita,2000,US Dollar,41404.7
+285,Denmark,Real GDP per capita,2001,US Dollar,41614.1
+286,Denmark,Real GDP per capita,2002,US Dollar,41693.48
+287,Denmark,Real GDP per capita,2003,US Dollar,41746.04
+288,Denmark,Real GDP per capita,2004,US Dollar,42734.61
+289,Denmark,Real GDP per capita,2005,US Dollar,43580.4
+290,Denmark,Real GDP per capita,2006,US Dollar,45097.69
+291,Denmark,Real GDP per capita,2007,US Dollar,45294.32
+292,Denmark,Real GDP per capita,2008,US Dollar,44834.22
+293,Denmark,Real GDP per capita,2009,US Dollar,42413.38
+294,Denmark,Real GDP per capita,2010,US Dollar,42986.05
+295,Denmark,Real GDP per capita,2011,US Dollar,43341.98
+296,Denmark,Real GDP per capita,2012,US Dollar,43225.0
+297,Denmark,Real GDP per capita,2013,US Dollar,43418.29
+298,Denmark,Real GDP per capita,2014,US Dollar,43918.09
+299,Denmark,Real GDP per capita,2015,US Dollar,44429.3
+300,Denmark,Real GDP per capita,2016,US Dollar,45118.12
+301,Denmark,Real GDP per capita,2017,US Dollar,45954.4
+339,Finland,Real GDP per capita,1990,US Dollar,28072.13
+340,Finland,Real GDP per capita,1995,US Dollar,26794.51
+341,Finland,Real GDP per capita,2000,US Dollar,33870.94
+342,Finland,Real GDP per capita,2001,US Dollar,34661.4
+343,Finland,Real GDP per capita,2002,US Dollar,35156.66
+344,Finland,Real GDP per capita,2003,US Dollar,35763.49
+345,Finland,Real GDP per capita,2004,US Dollar,37060.65
+346,Finland,Real GDP per capita,2005,US Dollar,37969.66
+347,Finland,Real GDP per capita,2006,US Dollar,39369.84
+348,Finland,Real GDP per capita,2007,US Dollar,41251.29
+349,Finland,Real GDP per capita,2008,US Dollar,41377.63
+350,Finland,Real GDP per capita,2009,US Dollar,37794.51
+351,Finland,Real GDP per capita,2010,US Dollar,38757.61
+352,Finland,Real GDP per capita,2011,US Dollar,39580.95
+353,Finland,Real GDP per capita,2012,US Dollar,38845.34
+354,Finland,Real GDP per capita,2013,US Dollar,38383.28
+355,Finland,Real GDP per capita,2014,US Dollar,37979.43
+356,Finland,Real GDP per capita,2015,US Dollar,37876.38
+357,Finland,Real GDP per capita,2016,US Dollar,38536.39
+358,Finland,Real GDP per capita,2017,US Dollar,39407.61
+396,France,Real GDP per capita,1990,US Dollar,29608.81
+397,France,Real GDP per capita,1995,US Dollar,30867.83
+398,France,Real GDP per capita,2000,US Dollar,34809.17
+399,France,Real GDP per capita,2001,US Dollar,35309.98
+400,France,Real GDP per capita,2002,US Dollar,35518.86
+401,France,Real GDP per capita,2003,US Dollar,35617.72
+402,France,Real GDP per capita,2004,US Dollar,36407.85
+403,France,Real GDP per capita,2005,US Dollar,36783.37
+404,France,Real GDP per capita,2006,US Dollar,37437.48
+405,France,Real GDP per capita,2007,US Dollar,38093.92
+406,France,Real GDP per capita,2008,US Dollar,37942.59
+407,France,Real GDP per capita,2009,US Dollar,36616.29
+408,France,Real GDP per capita,2010,US Dollar,37135.09
+409,France,Real GDP per capita,2011,US Dollar,37717.6
+410,France,Real GDP per capita,2012,US Dollar,37610.59
+411,France,Real GDP per capita,2013,US Dollar,37661.58
+412,France,Real GDP per capita,2014,US Dollar,37858.11
+413,France,Real GDP per capita,2015,US Dollar,38104.01
+414,France,Real GDP per capita,2016,US Dollar,38399.57
+415,France,Real GDP per capita,2017,US Dollar,38942.46
+453,Germany,Real GDP per capita,1990,US Dollar,30476.74
+454,Germany,Real GDP per capita,1995,US Dollar,32827.46
+455,Germany,Real GDP per capita,2000,US Dollar,35987.3
+456,Germany,Real GDP per capita,2001,US Dollar,36575.87
+457,Germany,Real GDP per capita,2002,US Dollar,36541.8
+458,Germany,Real GDP per capita,2003,US Dollar,36249.24
+459,Germany,Real GDP per capita,2004,US Dollar,36660.26
+460,Germany,Real GDP per capita,2005,US Dollar,36939.42
+461,Germany,Real GDP per capita,2006,US Dollar,38367.72
+462,Germany,Real GDP per capita,2007,US Dollar,39714.13
+463,Germany,Real GDP per capita,2008,US Dollar,40249.61
+464,Germany,Real GDP per capita,2009,US Dollar,38065.61
+465,Germany,Real GDP per capita,2010,US Dollar,39653.35
+466,Germany,Real GDP per capita,2011,US Dollar,41084.76
+467,Germany,Real GDP per capita,2012,US Dollar,41219.54
+468,Germany,Real GDP per capita,2013,US Dollar,41319.95
+469,Germany,Real GDP per capita,2014,US Dollar,42001.26
+470,Germany,Real GDP per capita,2015,US Dollar,42619.34
+471,Germany,Real GDP per capita,2016,US Dollar,43337.98
+472,Germany,Real GDP per capita,2017,US Dollar,44193.64
+510,Greece,Real GDP per capita,1990,US Dollar,20187.36
+511,Greece,Real GDP per capita,1995,US Dollar,20401.08
+512,Greece,Real GDP per capita,2000,US Dollar,23627.81
+513,Greece,Real GDP per capita,2001,US Dollar,24511.01
+514,Greece,Real GDP per capita,2002,US Dollar,25398.97
+515,Greece,Real GDP per capita,2003,US Dollar,26806.74
+516,Greece,Real GDP per capita,2004,US Dollar,28096.21
+517,Greece,Real GDP per capita,2005,US Dollar,28187.7
+518,Greece,Real GDP per capita,2006,US Dollar,29682.32
+519,Greece,Real GDP per capita,2007,US Dollar,30540.58
+520,Greece,Real GDP per capita,2008,US Dollar,30334.93
+521,Greece,Real GDP per capita,2009,US Dollar,28968.96
+522,Greece,Real GDP per capita,2010,US Dollar,27376.65
+523,Greece,Real GDP per capita,2011,US Dollar,24927.01
+524,Greece,Real GDP per capita,2012,US Dollar,23197.68
+525,Greece,Real GDP per capita,2013,US Dollar,22558.67
+526,Greece,Real GDP per capita,2014,US Dollar,22839.69
+527,Greece,Real GDP per capita,2015,US Dollar,22868.51
+528,Greece,Real GDP per capita,2016,US Dollar,22882.16
+529,Greece,Real GDP per capita,2017,US Dollar,23241.13
+567,Hungary,Real GDP per capita,1990,US Dollar,15106.7
+568,Hungary,Real GDP per capita,1995,US Dollar,14709.46
+569,Hungary,Real GDP per capita,2000,US Dollar,17254.93
+570,Hungary,Real GDP per capita,2001,US Dollar,17965.14
+571,Hungary,Real GDP per capita,2002,US Dollar,18826.9
+572,Hungary,Real GDP per capita,2003,US Dollar,19601.44
+573,Hungary,Real GDP per capita,2004,US Dollar,20637.16
+574,Hungary,Real GDP per capita,2005,US Dollar,21603.88
+575,Hungary,Real GDP per capita,2006,US Dollar,22504.08
+576,Hungary,Real GDP per capita,2007,US Dollar,22674.1
+577,Hungary,Real GDP per capita,2008,US Dollar,22942.89
+578,Hungary,Real GDP per capita,2009,US Dollar,21498.08
+579,Hungary,Real GDP per capita,2010,US Dollar,21712.59
+580,Hungary,Real GDP per capita,2011,US Dollar,22139.52
+581,Hungary,Real GDP per capita,2012,US Dollar,21838.52
+582,Hungary,Real GDP per capita,2013,US Dollar,22359.71
+583,Hungary,Real GDP per capita,2014,US Dollar,23372.37
+584,Hungary,Real GDP per capita,2015,US Dollar,24231.98
+585,Hungary,Real GDP per capita,2016,US Dollar,24846.09
+586,Hungary,Real GDP per capita,2017,US Dollar,25921.44
+624,Iceland,Real GDP per capita,1990,US Dollar,28093.84
+625,Iceland,Real GDP per capita,1995,US Dollar,27125.89
+626,Iceland,Real GDP per capita,2000,US Dollar,33750.41
+627,Iceland,Real GDP per capita,2001,US Dollar,34769.48
+628,Iceland,Real GDP per capita,2002,US Dollar,34664.13
+629,Iceland,Real GDP per capita,2003,US Dollar,35157.86
+630,Iceland,Real GDP per capita,2004,US Dollar,37585.19
+631,Iceland,Real GDP per capita,2005,US Dollar,39461.79
+632,Iceland,Real GDP per capita,2006,US Dollar,40785.05
+633,Iceland,Real GDP per capita,2007,US Dollar,43830.18
+634,Iceland,Real GDP per capita,2008,US Dollar,43742.63
+635,Iceland,Real GDP per capita,2009,US Dollar,40224.0
+636,Iceland,Real GDP per capita,2010,US Dollar,38260.2
+637,Iceland,Real GDP per capita,2011,US Dollar,38638.54
+638,Iceland,Real GDP per capita,2012,US Dollar,38894.77
+639,Iceland,Real GDP per capita,2013,US Dollar,40383.95
+640,Iceland,Real GDP per capita,2014,US Dollar,41092.84
+641,Iceland,Real GDP per capita,2015,US Dollar,42632.93
+642,Iceland,Real GDP per capita,2016,US Dollar,45515.02
+643,Iceland,Real GDP per capita,2017,US Dollar,46813.59
+681,Ireland,Real GDP per capita,1990,US Dollar,20769.97
+682,Ireland,Real GDP per capita,1995,US Dollar,25463.04
+683,Ireland,Real GDP per capita,2000,US Dollar,37771.45
+684,Ireland,Real GDP per capita,2001,US Dollar,39344.91
+685,Ireland,Real GDP per capita,2002,US Dollar,41122.55
+686,Ireland,Real GDP per capita,2003,US Dollar,41638.23
+687,Ireland,Real GDP per capita,2004,US Dollar,43568.06
+688,Ireland,Real GDP per capita,2005,US Dollar,45261.56
+689,Ireland,Real GDP per capita,2006,US Dollar,46757.52
+690,Ireland,Real GDP per capita,2007,US Dollar,48133.75
+691,Ireland,Real GDP per capita,2008,US Dollar,45296.7
+692,Ireland,Real GDP per capita,2009,US Dollar,42458.77
+693,Ireland,Real GDP per capita,2010,US Dollar,42673.83
+694,Ireland,Real GDP per capita,2011,US Dollar,43611.61
+695,Ireland,Real GDP per capita,2012,US Dollar,43482.91
+696,Ireland,Real GDP per capita,2013,US Dollar,44159.18
+697,Ireland,Real GDP per capita,2014,US Dollar,47792.21
+698,Ireland,Real GDP per capita,2015,US Dollar,59830.93
+699,Ireland,Real GDP per capita,2016,US Dollar,62561.38
+700,Ireland,Real GDP per capita,2017,US Dollar,66938.77
+738,Italy,Real GDP per capita,1990,US Dollar,29929.68
+739,Italy,Real GDP per capita,1995,US Dollar,31860.39
+740,Italy,Real GDP per capita,2000,US Dollar,35149.09
+741,Italy,Real GDP per capita,2001,US Dollar,35639.73
+742,Italy,Real GDP per capita,2002,US Dollar,35545.72
+743,Italy,Real GDP per capita,2003,US Dollar,35388.12
+744,Italy,Real GDP per capita,2004,US Dollar,35734.28
+745,Italy,Real GDP per capita,2005,US Dollar,35881.16
+746,Italy,Real GDP per capita,2006,US Dollar,36433.02
+747,Italy,Real GDP per capita,2007,US Dollar,36824.36
+748,Italy,Real GDP per capita,2008,US Dollar,36321.89
+749,Italy,Real GDP per capita,2009,US Dollar,34250.44
+750,Italy,Real GDP per capita,2010,US Dollar,34776.79
+751,Italy,Real GDP per capita,2011,US Dollar,34959.69
+752,Italy,Real GDP per capita,2012,US Dollar,33989.01
+753,Italy,Real GDP per capita,2013,US Dollar,33438.48
+754,Italy,Real GDP per capita,2014,US Dollar,33522.75
+755,Italy,Real GDP per capita,2015,US Dollar,33888.2
+756,Italy,Real GDP per capita,2016,US Dollar,34221.76
+757,Italy,Real GDP per capita,2017,US Dollar,34776.86
+795,Japan,Real GDP per capita,1990,US Dollar,29706.01
+796,Japan,Real GDP per capita,1995,US Dollar,31510.25
+797,Japan,Real GDP per capita,2000,US Dollar,32982.13
+798,Japan,Real GDP per capita,2001,US Dollar,33067.0
+799,Japan,Real GDP per capita,2002,US Dollar,33059.66
+800,Japan,Real GDP per capita,2003,US Dollar,33521.59
+801,Japan,Real GDP per capita,2004,US Dollar,34221.66
+802,Japan,Real GDP per capita,2005,US Dollar,34757.55
+803,Japan,Real GDP per capita,2006,US Dollar,35224.42
+804,Japan,Real GDP per capita,2007,US Dollar,35786.96
+805,Japan,Real GDP per capita,2008,US Dollar,35383.16
+806,Japan,Real GDP per capita,2009,US Dollar,33462.46
+807,Japan,Real GDP per capita,2010,US Dollar,34869.12
+808,Japan,Real GDP per capita,2011,US Dollar,34841.47
+809,Japan,Real GDP per capita,2012,US Dollar,35384.14
+810,Japan,Real GDP per capita,2013,US Dollar,36123.83
+811,Japan,Real GDP per capita,2014,US Dollar,36301.64
+812,Japan,Real GDP per capita,2015,US Dollar,36847.13
+813,Japan,Real GDP per capita,2016,US Dollar,37258.76
+814,Japan,Real GDP per capita,2017,US Dollar,37975.34
+852,Korea,Real GDP per capita,1990,US Dollar,11627.49
+853,Korea,Real GDP per capita,1995,US Dollar,16504.67
+854,Korea,Real GDP per capita,2000,US Dollar,20607.92
+855,Korea,Real GDP per capita,2001,US Dollar,21393.1
+856,Korea,Real GDP per capita,2002,US Dollar,22843.33
+857,Korea,Real GDP per capita,2003,US Dollar,23386.59
+858,Korea,Real GDP per capita,2004,US Dollar,24414.61
+859,Korea,Real GDP per capita,2005,US Dollar,25262.95
+860,Korea,Real GDP per capita,2006,US Dollar,26468.79
+861,Korea,Real GDP per capita,2007,US Dollar,27820.1
+862,Korea,Real GDP per capita,2008,US Dollar,28516.2
+863,Korea,Real GDP per capita,2009,US Dollar,28624.78
+864,Korea,Real GDP per capita,2010,US Dollar,30377.64
+865,Korea,Real GDP per capita,2011,US Dollar,31374.61
+866,Korea,Real GDP per capita,2012,US Dollar,31960.47
+867,Korea,Real GDP per capita,2013,US Dollar,32743.87
+868,Korea,Real GDP per capita,2014,US Dollar,33692.71
+869,Korea,Real GDP per capita,2015,US Dollar,34490.37
+870,Korea,Real GDP per capita,2016,US Dollar,35362.13
+871,Korea,Real GDP per capita,2017,US Dollar,36309.15
+909,Luxembourg,Real GDP per capita,1990,US Dollar,51581.81
+910,Luxembourg,Real GDP per capita,1995,US Dollar,61121.35
+911,Luxembourg,Real GDP per capita,2000,US Dollar,76340.56
+912,Luxembourg,Real GDP per capita,2001,US Dollar,77545.34
+913,Luxembourg,Real GDP per capita,2002,US Dollar,79867.05
+914,Luxembourg,Real GDP per capita,2003,US Dollar,80515.8
+915,Luxembourg,Real GDP per capita,2004,US Dollar,82593.86
+916,Luxembourg,Real GDP per capita,2005,US Dollar,84093.09
+917,Luxembourg,Real GDP per capita,2006,US Dollar,86982.68
+918,Luxembourg,Real GDP per capita,2007,US Dollar,92429.51
+919,Luxembourg,Real GDP per capita,2008,US Dollar,89293.78
+920,Luxembourg,Real GDP per capita,2009,US Dollar,83478.95
+921,Luxembourg,Real GDP per capita,2010,US Dollar,85539.06
+922,Luxembourg,Real GDP per capita,2011,US Dollar,85678.0
+923,Luxembourg,Real GDP per capita,2012,US Dollar,83380.07
+924,Luxembourg,Real GDP per capita,2013,US Dollar,84470.14
+925,Luxembourg,Real GDP per capita,2014,US Dollar,87483.5
+926,Luxembourg,Real GDP per capita,2015,US Dollar,88331.7
+927,Luxembourg,Real GDP per capita,2016,US Dollar,89630.36
+928,Luxembourg,Real GDP per capita,2017,US Dollar,90478.7
+964,Mexico,Real GDP per capita,1990,US Dollar,12417.91
+965,Mexico,Real GDP per capita,1995,US Dollar,12396.13
+966,Mexico,Real GDP per capita,2000,US Dollar,14827.19
+967,Mexico,Real GDP per capita,2001,US Dollar,14574.18
+968,Mexico,Real GDP per capita,2002,US Dollar,14388.49
+969,Mexico,Real GDP per capita,2003,US Dollar,14419.07
+970,Mexico,Real GDP per capita,2004,US Dollar,14794.6
+971,Mexico,Real GDP per capita,2005,US Dollar,14929.98
+972,Mexico,Real GDP per capita,2006,US Dollar,15371.51
+973,Mexico,Real GDP per capita,2007,US Dollar,15478.54
+974,Mexico,Real GDP per capita,2008,US Dollar,15404.11
+975,Mexico,Real GDP per capita,2009,US Dollar,14357.04
+976,Mexico,Real GDP per capita,2010,US Dollar,14858.54
+977,Mexico,Real GDP per capita,2011,US Dollar,15173.74
+978,Mexico,Real GDP per capita,2012,US Dollar,15500.17
+979,Mexico,Real GDP per capita,2013,US Dollar,15491.12
+980,Mexico,Real GDP per capita,2014,US Dollar,15715.7
+981,Mexico,Real GDP per capita,2015,US Dollar,16014.47
+982,Mexico,Real GDP per capita,2016,US Dollar,16267.87
+983,Mexico,Real GDP per capita,2017,US Dollar,16390.63
+1021,Netherlands,Real GDP per capita,1990,US Dollar,31368.88
+1022,Netherlands,Real GDP per capita,1995,US Dollar,33993.7
+1023,Netherlands,Real GDP per capita,2000,US Dollar,40820.16
+1024,Netherlands,Real GDP per capita,2001,US Dollar,41448.04
+1025,Netherlands,Real GDP per capita,2002,US Dollar,41253.43
+1026,Netherlands,Real GDP per capita,2003,US Dollar,41139.22
+1027,Netherlands,Real GDP per capita,2004,US Dollar,41752.41
+1028,Netherlands,Real GDP per capita,2005,US Dollar,42445.99
+1029,Netherlands,Real GDP per capita,2006,US Dollar,43744.23
+1030,Netherlands,Real GDP per capita,2007,US Dollar,45178.44
+1031,Netherlands,Real GDP per capita,2008,US Dollar,45775.01
+1032,Netherlands,Real GDP per capita,2009,US Dollar,43896.23
+1033,Netherlands,Real GDP per capita,2010,US Dollar,44362.55
+1034,Netherlands,Real GDP per capita,2011,US Dollar,44954.84
+1035,Netherlands,Real GDP per capita,2012,US Dollar,44341.64
+1036,Netherlands,Real GDP per capita,2013,US Dollar,44124.25
+1037,Netherlands,Real GDP per capita,2014,US Dollar,44619.1
+1038,Netherlands,Real GDP per capita,2015,US Dollar,45495.45
+1039,Netherlands,Real GDP per capita,2016,US Dollar,46367.2
+1040,Netherlands,Real GDP per capita,2017,US Dollar,47696.95
+1078,New Zealand,Real GDP per capita,1990,US Dollar,22745.47
+1079,New Zealand,Real GDP per capita,1995,US Dollar,24556.56
+1080,New Zealand,Real GDP per capita,2000,US Dollar,27076.06
+1081,New Zealand,Real GDP per capita,2001,US Dollar,27752.4
+1082,New Zealand,Real GDP per capita,2002,US Dollar,28750.2
+1083,New Zealand,Real GDP per capita,2003,US Dollar,29615.67
+1084,New Zealand,Real GDP per capita,2004,US Dollar,30146.5
+1085,New Zealand,Real GDP per capita,2005,US Dollar,30733.41
+1086,New Zealand,Real GDP per capita,2006,US Dollar,31143.37
+1087,New Zealand,Real GDP per capita,2007,US Dollar,31953.92
+1088,New Zealand,Real GDP per capita,2008,US Dollar,31127.89
+1089,New Zealand,Real GDP per capita,2009,US Dollar,31392.97
+1090,New Zealand,Real GDP per capita,2010,US Dollar,31357.19
+1091,New Zealand,Real GDP per capita,2011,US Dollar,31850.46
+1092,New Zealand,Real GDP per capita,2012,US Dollar,32285.72
+1093,New Zealand,Real GDP per capita,2013,US Dollar,32574.28
+1094,New Zealand,Real GDP per capita,2014,US Dollar,33365.85
+1095,New Zealand,Real GDP per capita,2015,US Dollar,34484.2
+1096,New Zealand,Real GDP per capita,2016,US Dollar,35326.84
+1097,New Zealand,Real GDP per capita,2017,US Dollar,36048.84
+1135,Norway,Real GDP per capita,1990,US Dollar,39787.1
+1136,Norway,Real GDP per capita,1995,US Dollar,46493.95
+1137,Norway,Real GDP per capita,2000,US Dollar,53914.72
+1138,Norway,Real GDP per capita,2001,US Dollar,54749.68
+1139,Norway,Real GDP per capita,2002,US Dollar,55257.38
+1140,Norway,Real GDP per capita,2003,US Dollar,55471.75
+1141,Norway,Real GDP per capita,2004,US Dollar,57315.38
+1142,Norway,Real GDP per capita,2005,US Dollar,58386.13
+1143,Norway,Real GDP per capita,2006,US Dollar,59263.76
+1144,Norway,Real GDP per capita,2007,US Dollar,60430.49
+1145,Norway,Real GDP per capita,2008,US Dollar,60062.32
+1146,Norway,Real GDP per capita,2009,US Dollar,58364.45
+1147,Norway,Real GDP per capita,2010,US Dollar,58062.1
+1148,Norway,Real GDP per capita,2011,US Dollar,57895.11
+1149,Norway,Real GDP per capita,2012,US Dollar,58706.51
+1150,Norway,Real GDP per capita,2013,US Dollar,58559.09
+1151,Norway,Real GDP per capita,2014,US Dollar,58981.38
+1152,Norway,Real GDP per capita,2015,US Dollar,59454.89
+1153,Norway,Real GDP per capita,2016,US Dollar,59476.34
+1154,Norway,Real GDP per capita,2017,US Dollar,59976.41
+1192,Poland,Real GDP per capita,1990,US Dollar,9986.292
+1193,Poland,Real GDP per capita,1995,US Dollar,10976.55
+1194,Poland,Real GDP per capita,2000,US Dollar,14149.68
+1195,Poland,Real GDP per capita,2001,US Dollar,14336.09
+1196,Poland,Real GDP per capita,2002,US Dollar,14643.82
+1197,Poland,Real GDP per capita,2003,US Dollar,15183.49
+1198,Poland,Real GDP per capita,2004,US Dollar,15981.03
+1199,Poland,Real GDP per capita,2005,US Dollar,16553.76
+1200,Poland,Real GDP per capita,2006,US Dollar,17586.63
+1201,Poland,Real GDP per capita,2007,US Dollar,18829.43
+1202,Poland,Real GDP per capita,2008,US Dollar,19631.62
+1203,Poland,Real GDP per capita,2009,US Dollar,20185.7
+1204,Poland,Real GDP per capita,2010,US Dollar,20914.58
+1205,Poland,Real GDP per capita,2011,US Dollar,21965.34
+1206,Poland,Real GDP per capita,2012,US Dollar,22320.59
+1207,Poland,Real GDP per capita,2013,US Dollar,22635.96
+1208,Poland,Real GDP per capita,2014,US Dollar,23389.14
+1209,Poland,Real GDP per capita,2015,US Dollar,24306.02
+1210,Poland,Real GDP per capita,2016,US Dollar,25054.55
+1211,Poland,Real GDP per capita,2017,US Dollar,26256.36
+1248,Portugal,Real GDP per capita,1990,US Dollar,20299.04
+1249,Portugal,Real GDP per capita,1995,US Dollar,21661.09
+1250,Portugal,Real GDP per capita,2000,US Dollar,25927.13
+1251,Portugal,Real GDP per capita,2001,US Dollar,26318.65
+1252,Portugal,Real GDP per capita,2002,US Dollar,26408.34
+1253,Portugal,Real GDP per capita,2003,US Dollar,26053.26
+1254,Portugal,Real GDP per capita,2004,US Dollar,26421.55
+1255,Portugal,Real GDP per capita,2005,US Dollar,26529.76
+1256,Portugal,Real GDP per capita,2006,US Dollar,26854.79
+1257,Portugal,Real GDP per capita,2007,US Dollar,27445.89
+1258,Portugal,Real GDP per capita,2008,US Dollar,27443.84
+1259,Portugal,Real GDP per capita,2009,US Dollar,26605.26
+1260,Portugal,Real GDP per capita,2010,US Dollar,27131.53
+1261,Portugal,Real GDP per capita,2011,US Dollar,26703.54
+1262,Portugal,Real GDP per capita,2012,US Dollar,25733.22
+1263,Portugal,Real GDP per capita,2013,US Dollar,25573.25
+1264,Portugal,Real GDP per capita,2014,US Dollar,25940.9
+1265,Portugal,Real GDP per capita,2015,US Dollar,26547.16
+1266,Portugal,Real GDP per capita,2016,US Dollar,27098.92
+1267,Portugal,Real GDP per capita,2017,US Dollar,27936.19
+1305,Slovak Republic,Real GDP per capita,1990,US Dollar,14138.16
+1306,Slovak Republic,Real GDP per capita,1995,US Dollar,13060.39
+1307,Slovak Republic,Real GDP per capita,2000,US Dollar,15468.11
+1308,Slovak Republic,Real GDP per capita,2001,US Dollar,15978.75
+1309,Slovak Republic,Real GDP per capita,2002,US Dollar,16700.98
+1310,Slovak Republic,Real GDP per capita,2003,US Dollar,17606.83
+1311,Slovak Republic,Real GDP per capita,2004,US Dollar,18534.35
+1312,Slovak Republic,Real GDP per capita,2005,US Dollar,19787.27
+1313,Slovak Republic,Real GDP per capita,2006,US Dollar,21461.54
+1314,Slovak Republic,Real GDP per capita,2007,US Dollar,23780.24
+1315,Slovak Republic,Real GDP per capita,2008,US Dollar,25116.55
+1316,Slovak Republic,Real GDP per capita,2009,US Dollar,23746.4
+1317,Slovak Republic,Real GDP per capita,2010,US Dollar,24927.13
+1318,Slovak Republic,Real GDP per capita,2011,US Dollar,25603.54
+1319,Slovak Republic,Real GDP per capita,2012,US Dollar,25993.13
+1320,Slovak Republic,Real GDP per capita,2013,US Dollar,26341.4
+1321,Slovak Republic,Real GDP per capita,2014,US Dollar,27027.46
+1322,Slovak Republic,Real GDP per capita,2015,US Dollar,28034.62
+1323,Slovak Republic,Real GDP per capita,2016,US Dollar,28940.62
+1324,Slovak Republic,Real GDP per capita,2017,US Dollar,29905.72
+1360,Spain,Real GDP per capita,1990,US Dollar,23093.95
+1361,Spain,Real GDP per capita,1995,US Dollar,24522.43
+1362,Spain,Real GDP per capita,2000,US Dollar,29215.61
+1363,Spain,Real GDP per capita,2001,US Dollar,30026.04
+1364,Spain,Real GDP per capita,2002,US Dollar,30454.14
+1365,Spain,Real GDP per capita,2003,US Dollar,30932.83
+1366,Spain,Real GDP per capita,2004,US Dollar,31398.38
+1367,Spain,Real GDP per capita,2005,US Dollar,32056.41
+1368,Spain,Real GDP per capita,2006,US Dollar,32884.59
+1369,Spain,Real GDP per capita,2007,US Dollar,33621.61
+1370,Spain,Real GDP per capita,2008,US Dollar,33551.01
+1371,Spain,Real GDP per capita,2009,US Dollar,32019.06
+1372,Spain,Real GDP per capita,2010,US Dollar,31809.64
+1373,Spain,Real GDP per capita,2011,US Dollar,31411.04
+1374,Spain,Real GDP per capita,2012,US Dollar,30525.06
+1375,Spain,Real GDP per capita,2013,US Dollar,30107.1
+1376,Spain,Real GDP per capita,2014,US Dollar,30637.87
+1377,Spain,Real GDP per capita,2015,US Dollar,31774.24
+1378,Spain,Real GDP per capita,2016,US Dollar,32850.15
+1379,Spain,Real GDP per capita,2017,US Dollar,33847.71
+1417,Sweden,Real GDP per capita,1990,US Dollar,29956.75
+1418,Sweden,Real GDP per capita,1995,US Dollar,30093.23
+1419,Sweden,Real GDP per capita,2000,US Dollar,35688.3
+1420,Sweden,Real GDP per capita,2001,US Dollar,36180.46
+1421,Sweden,Real GDP per capita,2002,US Dollar,36835.88
+1422,Sweden,Real GDP per capita,2003,US Dollar,37585.22
+1423,Sweden,Real GDP per capita,2004,US Dollar,39038.07
+1424,Sweden,Real GDP per capita,2005,US Dollar,39925.21
+1425,Sweden,Real GDP per capita,2006,US Dollar,41532.1
+1426,Sweden,Real GDP per capita,2007,US Dollar,42632.33
+1427,Sweden,Real GDP per capita,2008,US Dollar,42056.82
+1428,Sweden,Real GDP per capita,2009,US Dollar,39548.41
+1429,Sweden,Real GDP per capita,2010,US Dollar,41574.59
+1430,Sweden,Real GDP per capita,2011,US Dollar,42340.86
+1431,Sweden,Real GDP per capita,2012,US Dollar,41887.68
+1432,Sweden,Real GDP per capita,2013,US Dollar,42079.72
+1433,Sweden,Real GDP per capita,2014,US Dollar,42845.3
+1434,Sweden,Real GDP per capita,2015,US Dollar,44442.46
+1435,Sweden,Real GDP per capita,2016,US Dollar,45535.18
+1436,Sweden,Real GDP per capita,2017,US Dollar,46285.53
+1474,Switzerland,Real GDP per capita,1990,US Dollar,46091.54
+1475,Switzerland,Real GDP per capita,1995,US Dollar,44121.42
+1476,Switzerland,Real GDP per capita,2000,US Dollar,48393.86
+1477,Switzerland,Real GDP per capita,2001,US Dollar,48787.79
+1478,Switzerland,Real GDP per capita,2002,US Dollar,48589.0
+1479,Switzerland,Real GDP per capita,2003,US Dollar,48288.39
+1480,Switzerland,Real GDP per capita,2004,US Dollar,49255.08
+1481,Switzerland,Real GDP per capita,2005,US Dollar,50357.29
+1482,Switzerland,Real GDP per capita,2006,US Dollar,51868.2
+1483,Switzerland,Real GDP per capita,2007,US Dollar,53437.03
+1484,Switzerland,Real GDP per capita,2008,US Dollar,53976.21
+1485,Switzerland,Real GDP per capita,2009,US Dollar,52155.74
+1486,Switzerland,Real GDP per capita,2010,US Dollar,53071.49
+1487,Switzerland,Real GDP per capita,2011,US Dollar,53299.9
+1488,Switzerland,Real GDP per capita,2012,US Dollar,53157.44
+1489,Switzerland,Real GDP per capita,2013,US Dollar,53469.52
+1490,Switzerland,Real GDP per capita,2014,US Dollar,54133.74
+1491,Switzerland,Real GDP per capita,2015,US Dollar,54203.92
+1492,Switzerland,Real GDP per capita,2016,US Dollar,54413.6
+1493,Switzerland,Real GDP per capita,2017,US Dollar,54500.5
+1531,Turkey,Real GDP per capita,1990,US Dollar,11031.94
+1532,Turkey,Real GDP per capita,1995,US Dollar,11912.27
+1533,Turkey,Real GDP per capita,2000,US Dollar,13463.46
+1534,Turkey,Real GDP per capita,2001,US Dollar,12473.09
+1535,Turkey,Real GDP per capita,2002,US Dollar,13081.23
+1536,Turkey,Real GDP per capita,2003,US Dollar,13617.78
+1537,Turkey,Real GDP per capita,2004,US Dollar,14725.67
+1538,Turkey,Real GDP per capita,2005,US Dollar,15840.71
+1539,Turkey,Real GDP per capita,2006,US Dollar,16754.75
+1540,Turkey,Real GDP per capita,2007,US Dollar,17386.74
+1541,Turkey,Real GDP per capita,2008,US Dollar,17323.93
+1542,Turkey,Real GDP per capita,2009,US Dollar,16300.85
+1543,Turkey,Real GDP per capita,2010,US Dollar,17442.86
+1544,Turkey,Real GDP per capita,2011,US Dollar,19095.56
+1545,Turkey,Real GDP per capita,2012,US Dollar,19698.84
+1546,Turkey,Real GDP per capita,2013,US Dollar,21028.21
+1547,Turkey,Real GDP per capita,2014,US Dollar,21757.74
+1548,Turkey,Real GDP per capita,2015,US Dollar,22715.97
+1549,Turkey,Real GDP per capita,2016,US Dollar,23073.39
+1550,Turkey,Real GDP per capita,2017,US Dollar,24406.77
+1588,United Kingdom,Real GDP per capita,1990,US Dollar,26494.98
+1589,United Kingdom,Real GDP per capita,1995,US Dollar,28314.55
+1590,United Kingdom,Real GDP per capita,2000,US Dollar,32784.03
+1591,United Kingdom,Real GDP per capita,2001,US Dollar,33505.28
+1592,United Kingdom,Real GDP per capita,2002,US Dollar,34213.34
+1593,United Kingdom,Real GDP per capita,2003,US Dollar,35214.03
+1594,United Kingdom,Real GDP per capita,2004,US Dollar,35863.71
+1595,United Kingdom,Real GDP per capita,2005,US Dollar,36727.16
+1596,United Kingdom,Real GDP per capita,2006,US Dollar,37309.8
+1597,United Kingdom,Real GDP per capita,2007,US Dollar,37808.61
+1598,United Kingdom,Real GDP per capita,2008,US Dollar,37228.92
+1599,United Kingdom,Real GDP per capita,2009,US Dollar,35302.27
+1600,United Kingdom,Real GDP per capita,2010,US Dollar,35569.17
+1601,United Kingdom,Real GDP per capita,2011,US Dollar,35800.26
+1602,United Kingdom,Real GDP per capita,2012,US Dollar,36082.66
+1603,United Kingdom,Real GDP per capita,2013,US Dollar,36600.6
+1604,United Kingdom,Real GDP per capita,2014,US Dollar,37501.17
+1605,United Kingdom,Real GDP per capita,2015,US Dollar,38157.09
+1606,United Kingdom,Real GDP per capita,2016,US Dollar,38664.27
+1607,United Kingdom,Real GDP per capita,2017,US Dollar,39121.55
+1645,United States,Real GDP per capita,1990,US Dollar,35894.41
+1646,United States,Real GDP per capita,1995,US Dollar,38767.86
+1647,United States,Real GDP per capita,2000,US Dollar,45084.52
+1648,United States,Real GDP per capita,2001,US Dollar,45065.92
+1649,United States,Real GDP per capita,2002,US Dollar,45447.35
+1650,United States,Real GDP per capita,2003,US Dollar,46316.86
+1651,United States,Real GDP per capita,2004,US Dollar,47657.57
+1652,United States,Real GDP per capita,2005,US Dollar,48819.57
+1653,United States,Real GDP per capita,2006,US Dollar,49667.38
+1654,United States,Real GDP per capita,2007,US Dollar,50085.29
+1655,United States,Real GDP per capita,2008,US Dollar,49481.79
+1656,United States,Real GDP per capita,2009,US Dollar,47683.66
+1657,United States,Real GDP per capita,2010,US Dollar,48484.66
+1658,United States,Real GDP per capita,2011,US Dollar,48879.45
+1659,United States,Real GDP per capita,2012,US Dollar,49602.31
+1660,United States,Real GDP per capita,2013,US Dollar,50082.46
+1661,United States,Real GDP per capita,2014,US Dollar,51016.38
+1662,United States,Real GDP per capita,2015,US Dollar,52113.7
+1663,United States,Real GDP per capita,2016,US Dollar,52518.31
+1664,United States,Real GDP per capita,2017,US Dollar,53334.81
+1702,Brazil,Real GDP per capita,1990,US Dollar,10834.08
+1703,Brazil,Real GDP per capita,1995,US Dollar,10729.67
+1704,Brazil,Real GDP per capita,2000,US Dollar,11176.41
+1705,Brazil,Real GDP per capita,2001,US Dollar,11162.17
+1706,Brazil,Real GDP per capita,2002,US Dollar,11352.25
+1707,Brazil,Real GDP per capita,2003,US Dollar,11344.35
+1708,Brazil,Real GDP per capita,2004,US Dollar,11840.02
+1709,Brazil,Real GDP per capita,2005,US Dollar,12070.51
+1710,Brazil,Real GDP per capita,2006,US Dollar,12414.22
+1711,Brazil,Real GDP per capita,2007,US Dollar,13021.06
+1712,Brazil,Real GDP per capita,2008,US Dollar,13536.11
+1713,Brazil,Real GDP per capita,2009,US Dollar,13371.55
+1714,Brazil,Real GDP per capita,2010,US Dollar,14244.98
+1715,Brazil,Real GDP per capita,2011,US Dollar,14661.89
+1716,Brazil,Real GDP per capita,2012,US Dollar,14804.9
+1717,Brazil,Real GDP per capita,2013,US Dollar,15111.16
+1718,Brazil,Real GDP per capita,2014,US Dollar,15053.16
+1719,Brazil,Real GDP per capita,2015,US Dollar,14362.31
+1720,Brazil,Real GDP per capita,2016,US Dollar,13732.15
+1721,Brazil,Real GDP per capita,2017,US Dollar,13725.29
+1759,Chile,Real GDP per capita,1990,US Dollar,8093.925
+1760,Chile,Real GDP per capita,1995,US Dollar,11370.54
+1761,Chile,Real GDP per capita,2000,US Dollar,13449.0
+1762,Chile,Real GDP per capita,2001,US Dollar,13729.32
+1763,Chile,Real GDP per capita,2002,US Dollar,13994.01
+1764,Chile,Real GDP per capita,2003,US Dollar,14404.33
+1765,Chile,Real GDP per capita,2004,US Dollar,15274.37
+1766,Chile,Real GDP per capita,2005,US Dollar,15978.22
+1767,Chile,Real GDP per capita,2006,US Dollar,16807.79
+1768,Chile,Real GDP per capita,2007,US Dollar,17448.49
+1769,Chile,Real GDP per capita,2008,US Dollar,17879.75
+1770,Chile,Real GDP per capita,2009,US Dollar,17424.9
+1771,Chile,Real GDP per capita,2010,US Dollar,18265.34
+1772,Chile,Real GDP per capita,2011,US Dollar,19200.73
+1773,Chile,Real GDP per capita,2012,US Dollar,20039.25
+1774,Chile,Real GDP per capita,2013,US Dollar,20666.89
+1775,Chile,Real GDP per capita,2014,US Dollar,20851.93
+1776,Chile,Real GDP per capita,2015,US Dollar,21153.82
+1777,Chile,Real GDP per capita,2016,US Dollar,21245.69
+1778,Chile,Real GDP per capita,2017,US Dollar,21389.09
+1816,China (People's Republic of),Real GDP per capita,1990,US Dollar,1448.246
+1817,China (People's Republic of),Real GDP per capita,1995,US Dollar,2441.125
+1818,China (People's Republic of),Real GDP per capita,2000,US Dollar,3567.857
+1819,China (People's Republic of),Real GDP per capita,2001,US Dollar,3842.094
+1820,China (People's Republic of),Real GDP per capita,2002,US Dollar,4168.125
+1821,China (People's Republic of),Real GDP per capita,2003,US Dollar,4559.499
+1822,China (People's Republic of),Real GDP per capita,2004,US Dollar,4991.347
+1823,China (People's Republic of),Real GDP per capita,2005,US Dollar,5528.05
+1824,China (People's Republic of),Real GDP per capita,2006,US Dollar,6195.71
+1825,China (People's Republic of),Real GDP per capita,2007,US Dollar,7037.222
+1826,China (People's Republic of),Real GDP per capita,2008,US Dollar,7672.656
+1827,China (People's Republic of),Real GDP per capita,2009,US Dollar,8346.278
+1828,China (People's Republic of),Real GDP per capita,2010,US Dollar,9181.776
+1829,China (People's Republic of),Real GDP per capita,2011,US Dollar,10000.82
+1830,China (People's Republic of),Real GDP per capita,2012,US Dollar,10726.02
+1831,China (People's Republic of),Real GDP per capita,2013,US Dollar,11494.71
+1832,China (People's Republic of),Real GDP per capita,2014,US Dollar,12268.32
+1833,China (People's Republic of),Real GDP per capita,2015,US Dollar,13051.8
+1834,China (People's Republic of),Real GDP per capita,2016,US Dollar,13834.13
+1835,China (People's Republic of),Real GDP per capita,2017,US Dollar,14678.99
+1854,Colombia,Real GDP per capita,1990,US Dollar,7352.915
+1855,Colombia,Real GDP per capita,1995,US Dollar,8369.049
+1856,Colombia,Real GDP per capita,2000,US Dollar,8140.16
+1857,Colombia,Real GDP per capita,2001,US Dollar,8158.625
+1858,Colombia,Real GDP per capita,2002,US Dollar,8245.521
+1859,Colombia,Real GDP per capita,2003,US Dollar,8450.77
+1860,Colombia,Real GDP per capita,2004,US Dollar,8782.273000000001
+1861,Colombia,Real GDP per capita,2005,US Dollar,9076.339
+1862,Colombia,Real GDP per capita,2006,US Dollar,9562.701
+1863,Colombia,Real GDP per capita,2007,US Dollar,10098.45
+1864,Colombia,Real GDP per capita,2008,US Dollar,10333.91
+1865,Colombia,Real GDP per capita,2009,US Dollar,10385.54
+1866,Colombia,Real GDP per capita,2010,US Dollar,10680.0
+1867,Colombia,Real GDP per capita,2011,US Dollar,11263.92
+1868,Colombia,Real GDP per capita,2012,US Dollar,11600.73
+1869,Colombia,Real GDP per capita,2013,US Dollar,12047.56
+1870,Colombia,Real GDP per capita,2014,US Dollar,12458.74
+1871,Colombia,Real GDP per capita,2015,US Dollar,12722.71
+1872,Colombia,Real GDP per capita,2016,US Dollar,12869.31
+1873,Colombia,Real GDP per capita,2017,US Dollar,12982.35
+1892,Estonia,Real GDP per capita,1990,US Dollar,14290.63
+1893,Estonia,Real GDP per capita,1995,US Dollar,10820.35
+1894,Estonia,Real GDP per capita,2000,US Dollar,14894.38
+1895,Estonia,Real GDP per capita,2001,US Dollar,15921.02
+1896,Estonia,Real GDP per capita,2002,US Dollar,16998.33
+1897,Estonia,Real GDP per capita,2003,US Dollar,18389.59
+1898,Estonia,Real GDP per capita,2004,US Dollar,19681.12
+1899,Estonia,Real GDP per capita,2005,US Dollar,21651.69
+1900,Estonia,Real GDP per capita,2006,US Dollar,23988.1
+1901,Estonia,Real GDP per capita,2007,US Dollar,25947.22
+1902,Estonia,Real GDP per capita,2008,US Dollar,24620.89
+1903,Estonia,Real GDP per capita,2009,US Dollar,21056.63
+1904,Estonia,Real GDP per capita,2010,US Dollar,21592.57
+1905,Estonia,Real GDP per capita,2011,US Dollar,23296.91
+1906,Estonia,Real GDP per capita,2012,US Dollar,24364.84
+1907,Estonia,Real GDP per capita,2013,US Dollar,24900.08
+1908,Estonia,Real GDP per capita,2014,US Dollar,25682.08
+1909,Estonia,Real GDP per capita,2015,US Dollar,26172.38
+1910,Estonia,Real GDP per capita,2016,US Dollar,26770.98
+1911,Estonia,Real GDP per capita,2017,US Dollar,28130.71
+1947,India,Real GDP per capita,1990,US Dollar,1643.43
+1948,India,Real GDP per capita,1995,US Dollar,1860.3270000000002
+1949,India,Real GDP per capita,2000,US Dollar,2609.243
+1950,India,Real GDP per capita,2001,US Dollar,2665.697
+1951,India,Real GDP per capita,2002,US Dollar,2754.143
+1952,India,Real GDP per capita,2003,US Dollar,2809.0170000000003
+1953,India,Real GDP per capita,2004,US Dollar,2986.032
+1954,India,Real GDP per capita,2005,US Dollar,3211.223
+1955,India,Real GDP per capita,2006,US Dollar,3454.776
+1956,India,Real GDP per capita,2007,US Dollar,3736.866
+1957,India,Real GDP per capita,2008,US Dollar,3793.895
+1958,India,Real GDP per capita,2009,US Dollar,4137.816
+1959,India,Real GDP per capita,2010,US Dollar,4480.302
+1960,India,Real GDP per capita,2011,US Dollar,4706.121
+1961,India,Real GDP per capita,2012,US Dollar,4894.029
+1962,India,Real GDP per capita,2013,US Dollar,5134.004
+1963,India,Real GDP per capita,2014,US Dollar,5440.4580000000005
+1964,India,Real GDP per capita,2015,US Dollar,5791.651
+1965,India,Real GDP per capita,2016,US Dollar,6118.638000000001
+1966,India,Real GDP per capita,2017,US Dollar,6440.316999999999
+1985,Indonesia,Real GDP per capita,1990,US Dollar,4519.396
+1986,Indonesia,Real GDP per capita,1995,US Dollar,5878.58
+1987,Indonesia,Real GDP per capita,2000,US Dollar,5676.188
+1988,Indonesia,Real GDP per capita,2001,US Dollar,5801.651
+1989,Indonesia,Real GDP per capita,2002,US Dollar,5979.031
+1990,Indonesia,Real GDP per capita,2003,US Dollar,6178.576999999999
+1991,Indonesia,Real GDP per capita,2004,US Dollar,6400.3369999999995
+1992,Indonesia,Real GDP per capita,2005,US Dollar,6672.2390000000005
+1993,Indonesia,Real GDP per capita,2006,US Dollar,6943.552
+1994,Indonesia,Real GDP per capita,2007,US Dollar,7284.26
+1995,Indonesia,Real GDP per capita,2008,US Dollar,7618.651
+1996,Indonesia,Real GDP per capita,2009,US Dollar,7870.838000000001
+1997,Indonesia,Real GDP per capita,2010,US Dollar,8262.899
+1998,Indonesia,Real GDP per capita,2011,US Dollar,8659.043
+1999,Indonesia,Real GDP per capita,2012,US Dollar,9064.038
+2000,Indonesia,Real GDP per capita,2013,US Dollar,9448.205
+2001,Indonesia,Real GDP per capita,2014,US Dollar,9800.74
+2002,Indonesia,Real GDP per capita,2015,US Dollar,10157.98
+2003,Indonesia,Real GDP per capita,2016,US Dollar,10548.58
+2004,Indonesia,Real GDP per capita,2017,US Dollar,10962.41
+2023,Israel,Real GDP per capita,1990,US Dollar,19955.47
+2024,Israel,Real GDP per capita,1995,US Dollar,23306.25
+2025,Israel,Real GDP per capita,2000,US Dollar,26751.51
+2026,Israel,Real GDP per capita,2001,US Dollar,26270.46
+2027,Israel,Real GDP per capita,2002,US Dollar,25764.54
+2028,Israel,Real GDP per capita,2003,US Dollar,25600.64
+2029,Israel,Real GDP per capita,2004,US Dollar,26386.74
+2030,Israel,Real GDP per capita,2005,US Dollar,26911.18
+2031,Israel,Real GDP per capita,2006,US Dollar,27809.41
+2032,Israel,Real GDP per capita,2007,US Dollar,28814.16
+2033,Israel,Real GDP per capita,2008,US Dollar,28935.21
+2034,Israel,Real GDP per capita,2009,US Dollar,28668.17
+2035,Israel,Real GDP per capita,2010,US Dollar,29595.58
+2036,Israel,Real GDP per capita,2011,US Dollar,30551.76
+2037,Israel,Real GDP per capita,2012,US Dollar,30694.17
+2038,Israel,Real GDP per capita,2013,US Dollar,31485.57
+2039,Israel,Real GDP per capita,2014,US Dollar,32087.39
+2040,Israel,Real GDP per capita,2015,US Dollar,32427.53
+2041,Israel,Real GDP per capita,2016,US Dollar,33188.31
+2042,Israel,Real GDP per capita,2017,US Dollar,33759.32
+2080,Latvia,Real GDP per capita,1990,US Dollar,11625.8
+2081,Latvia,Real GDP per capita,1995,US Dollar,7902.52
+2082,Latvia,Real GDP per capita,2000,US Dollar,10686.2
+2083,Latvia,Real GDP per capita,2001,US Dollar,11499.6
+2084,Latvia,Real GDP per capita,2002,US Dollar,12454.69
+2085,Latvia,Real GDP per capita,2003,US Dollar,13661.18
+2086,Latvia,Real GDP per capita,2004,US Dollar,14974.74
+2087,Latvia,Real GDP per capita,2005,US Dollar,16774.4
+2088,Latvia,Real GDP per capita,2006,US Dollar,18994.48
+2089,Latvia,Real GDP per capita,2007,US Dollar,21143.74
+2090,Latvia,Real GDP per capita,2008,US Dollar,20643.75
+2091,Latvia,Real GDP per capita,2009,US Dollar,17889.57
+2092,Latvia,Real GDP per capita,2010,US Dollar,17399.21
+2093,Latvia,Real GDP per capita,2011,US Dollar,18742.59
+2094,Latvia,Real GDP per capita,2012,US Dollar,19745.24
+2095,Latvia,Real GDP per capita,2013,US Dollar,20478.63
+2096,Latvia,Real GDP per capita,2014,US Dollar,21114.3
+2097,Latvia,Real GDP per capita,2015,US Dollar,21997.75
+2098,Latvia,Real GDP per capita,2016,US Dollar,22736.18
+2099,Latvia,Real GDP per capita,2017,US Dollar,24024.85
+2117,Russia,Real GDP per capita,1990,US Dollar,19832.3
+2118,Russia,Real GDP per capita,1995,US Dollar,12259.5
+2119,Russia,Real GDP per capita,2000,US Dollar,13443.39
+2120,Russia,Real GDP per capita,2001,US Dollar,14184.16
+2121,Russia,Real GDP per capita,2002,US Dollar,14920.47
+2122,Russia,Real GDP per capita,2003,US Dollar,16076.61
+2123,Russia,Real GDP per capita,2004,US Dollar,17294.86
+2124,Russia,Real GDP per capita,2005,US Dollar,18452.23
+2125,Russia,Real GDP per capita,2006,US Dollar,19997.84
+2126,Russia,Real GDP per capita,2007,US Dollar,21730.87
+2127,Russia,Real GDP per capita,2008,US Dollar,22882.0
+2128,Russia,Real GDP per capita,2009,US Dollar,21091.01
+2129,Russia,Real GDP per capita,2010,US Dollar,22031.48
+2130,Russia,Real GDP per capita,2011,US Dollar,22953.29
+2131,Russia,Real GDP per capita,2012,US Dollar,23766.46
+2132,Russia,Real GDP per capita,2013,US Dollar,24161.02
+2133,Russia,Real GDP per capita,2014,US Dollar,24311.68
+2134,Russia,Real GDP per capita,2015,US Dollar,23603.29
+2135,Russia,Real GDP per capita,2016,US Dollar,23537.69
+2136,Russia,Real GDP per capita,2017,US Dollar,23968.13
+2154,Slovenia,Real GDP per capita,1990,US Dollar,18221.77
+2155,Slovenia,Real GDP per capita,1995,US Dollar,17830.61
+2156,Slovenia,Real GDP per capita,2000,US Dollar,22005.46
+2157,Slovenia,Real GDP per capita,2001,US Dollar,22656.19
+2158,Slovenia,Real GDP per capita,2002,US Dollar,23526.35
+2159,Slovenia,Real GDP per capita,2003,US Dollar,24186.46
+2160,Slovenia,Real GDP per capita,2004,US Dollar,25207.77
+2161,Slovenia,Real GDP per capita,2005,US Dollar,26153.13
+2162,Slovenia,Real GDP per capita,2006,US Dollar,27528.79
+2163,Slovenia,Real GDP per capita,2007,US Dollar,29297.21
+2164,Slovenia,Real GDP per capita,2008,US Dollar,30099.64
+2165,Slovenia,Real GDP per capita,2009,US Dollar,27604.26
+2166,Slovenia,Real GDP per capita,2010,US Dollar,27812.79
+2167,Slovenia,Real GDP per capita,2011,US Dollar,27880.68
+2168,Slovenia,Real GDP per capita,2012,US Dollar,27044.8
+2169,Slovenia,Real GDP per capita,2013,US Dollar,26664.49
+2170,Slovenia,Real GDP per capita,2014,US Dollar,27396.21
+2171,Slovenia,Real GDP per capita,2015,US Dollar,27961.82
+2172,Slovenia,Real GDP per capita,2016,US Dollar,28799.49
+2173,Slovenia,Real GDP per capita,2017,US Dollar,30208.96
+2209,South Africa,Real GDP per capita,1990,US Dollar,9500.238000000001
+2210,South Africa,Real GDP per capita,1995,US Dollar,8850.178
+2211,South Africa,Real GDP per capita,2000,US Dollar,9346.008
+2212,South Africa,Real GDP per capita,2001,US Dollar,9465.729
+2213,South Africa,Real GDP per capita,2002,US Dollar,9679.125
+2214,South Africa,Real GDP per capita,2003,US Dollar,9834.378
+2215,South Africa,Real GDP per capita,2004,US Dollar,10154.7
+2216,South Africa,Real GDP per capita,2005,US Dollar,10565.06
+2217,South Africa,Real GDP per capita,2006,US Dollar,11034.14
+2218,South Africa,Real GDP per capita,2007,US Dollar,11503.84
+2219,South Africa,Real GDP per capita,2008,US Dollar,11747.32
+2220,South Africa,Real GDP per capita,2009,US Dollar,11439.85
+2221,South Africa,Real GDP per capita,2010,US Dollar,11647.33
+2222,South Africa,Real GDP per capita,2011,US Dollar,11873.59
+2223,South Africa,Real GDP per capita,2012,US Dollar,11968.15
+2224,South Africa,Real GDP per capita,2013,US Dollar,12090.12
+2225,South Africa,Real GDP per capita,2014,US Dollar,12139.09
+2226,South Africa,Real GDP per capita,2015,US Dollar,12127.27
+2227,South Africa,Real GDP per capita,2016,US Dollar,12038.15
+2228,South Africa,Real GDP per capita,2017,US Dollar,12046.17
+2265,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,1990,US Dollar,3458.85
+2266,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,1995,US Dollar,3601.135
+2267,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2000,US Dollar,4418.6320000000005
+2268,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2001,US Dollar,4598.789000000001
+2269,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2002,US Dollar,4828.727
+2270,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2003,US Dollar,5081.871
+2271,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2004,US Dollar,5433.141
+2272,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2005,US Dollar,5831.986
+2273,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2006,US Dollar,6317.978
+2274,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2007,US Dollar,6920.257
+2275,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2008,US Dollar,7311.406999999999
+2276,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2009,US Dollar,7637.831
+2277,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2010,US Dollar,8236.853000000001
+2278,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2011,US Dollar,8755.265
+2279,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2012,US Dollar,9195.731
+2280,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2013,US Dollar,9663.985999999999
+2281,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2014,US Dollar,10122.4
+2282,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2015,US Dollar,10524.94
+2283,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2016,US Dollar,10948.93
+2284,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Real GDP per capita,2017,US Dollar,11457.66
+2302,OECD - Total,Real GDP per capita,1990,US Dollar,26223.72
+2303,OECD - Total,Real GDP per capita,1995,US Dollar,28133.26
+2304,OECD - Total,Real GDP per capita,2000,US Dollar,32124.31
+2305,OECD - Total,Real GDP per capita,2001,US Dollar,32334.3
+2306,OECD - Total,Real GDP per capita,2002,US Dollar,32646.95
+2307,OECD - Total,Real GDP per capita,2003,US Dollar,33099.0
+2308,OECD - Total,Real GDP per capita,2004,US Dollar,33959.02
+2309,OECD - Total,Real GDP per capita,2005,US Dollar,34671.29
+2310,OECD - Total,Real GDP per capita,2006,US Dollar,35495.51
+2311,OECD - Total,Real GDP per capita,2007,US Dollar,36150.16
+2312,OECD - Total,Real GDP per capita,2008,US Dollar,35971.3
+2313,OECD - Total,Real GDP per capita,2009,US Dollar,34472.16
+2314,OECD - Total,Real GDP per capita,2010,US Dollar,35261.47
+2315,OECD - Total,Real GDP per capita,2011,US Dollar,35752.21
+2316,OECD - Total,Real GDP per capita,2012,US Dollar,36004.26
+2317,OECD - Total,Real GDP per capita,2013,US Dollar,36338.41
+2318,OECD - Total,Real GDP per capita,2014,US Dollar,36929.59
+2319,OECD - Total,Real GDP per capita,2015,US Dollar,37671.23
+2320,OECD - Total,Real GDP per capita,2016,US Dollar,38135.57
+2321,OECD - Total,Real GDP per capita,2017,US Dollar,38877.53
+2357,OECD - Europe,Real GDP per capita,1990,US Dollar,24514.95
+2358,OECD - Europe,Real GDP per capita,1995,US Dollar,25915.33
+2359,OECD - Europe,Real GDP per capita,2000,US Dollar,29543.66
+2360,OECD - Europe,Real GDP per capita,2001,US Dollar,29908.97
+2361,OECD - Europe,Real GDP per capita,2002,US Dollar,30222.76
+2362,OECD - Europe,Real GDP per capita,2003,US Dollar,30514.87
+2363,OECD - Europe,Real GDP per capita,2004,US Dollar,31250.11
+2364,OECD - Europe,Real GDP per capita,2005,US Dollar,31872.19
+2365,OECD - Europe,Real GDP per capita,2006,US Dollar,32835.86
+2366,OECD - Europe,Real GDP per capita,2007,US Dollar,33713.13
+2367,OECD - Europe,Real GDP per capita,2008,US Dollar,33705.64
+2368,OECD - Europe,Real GDP per capita,2009,US Dollar,32134.04
+2369,OECD - Europe,Real GDP per capita,2010,US Dollar,32789.48
+2370,OECD - Europe,Real GDP per capita,2011,US Dollar,33407.29
+2371,OECD - Europe,Real GDP per capita,2012,US Dollar,33272.28
+2372,OECD - Europe,Real GDP per capita,2013,US Dollar,33447.62
+2373,OECD - Europe,Real GDP per capita,2014,US Dollar,34014.58
+2374,OECD - Europe,Real GDP per capita,2015,US Dollar,34777.69
+2375,OECD - Europe,Real GDP per capita,2016,US Dollar,35345.46
+2376,OECD - Europe,Real GDP per capita,2017,US Dollar,36214.96
+2412,OECD America,Real GDP per capita,1990,US Dollar,29267.12
+2413,OECD America,Real GDP per capita,1995,US Dollar,31135.04
+2414,OECD America,Real GDP per capita,2000,US Dollar,36209.58
+2415,OECD America,Real GDP per capita,2001,US Dollar,36152.16
+2416,OECD America,Real GDP per capita,2002,US Dollar,36403.45
+2417,OECD America,Real GDP per capita,2003,US Dollar,36996.31
+2418,OECD America,Real GDP per capita,2004,US Dollar,38025.63
+2419,OECD America,Real GDP per capita,2005,US Dollar,38872.27
+2420,OECD America,Real GDP per capita,2006,US Dollar,39569.56
+2421,OECD America,Real GDP per capita,2007,US Dollar,39877.83
+2422,OECD America,Real GDP per capita,2008,US Dollar,39436.35
+2423,OECD America,Real GDP per capita,2009,US Dollar,37837.35
+2424,OECD America,Real GDP per capita,2010,US Dollar,38520.7
+2425,OECD America,Real GDP per capita,2011,US Dollar,38902.06
+2426,OECD America,Real GDP per capita,2012,US Dollar,39455.82
+2427,OECD America,Real GDP per capita,2013,US Dollar,39784.2
+2428,OECD America,Real GDP per capita,2014,US Dollar,40459.59
+2429,OECD America,Real GDP per capita,2015,US Dollar,41208.8
+2430,OECD America,Real GDP per capita,2016,US Dollar,41510.13
+2431,OECD America,Real GDP per capita,2017,US Dollar,42094.34
+2469,OECD Asia Oceania,Real GDP per capita,1990,US Dollar,25238.6
+2470,OECD Asia Oceania,Real GDP per capita,1995,US Dollar,27766.92
+2471,OECD Asia Oceania,Real GDP per capita,2000,US Dollar,30135.57
+2472,OECD Asia Oceania,Real GDP per capita,2001,US Dollar,30460.88
+2473,OECD Asia Oceania,Real GDP per capita,2002,US Dollar,30859.64
+2474,OECD Asia Oceania,Real GDP per capita,2003,US Dollar,31384.62
+2475,OECD Asia Oceania,Real GDP per capita,2004,US Dollar,32163.23
+2476,OECD Asia Oceania,Real GDP per capita,2005,US Dollar,32773.87
+2477,OECD Asia Oceania,Real GDP per capita,2006,US Dollar,33466.09
+2478,OECD Asia Oceania,Real GDP per capita,2007,US Dollar,34255.83
+2479,OECD Asia Oceania,Real GDP per capita,2008,US Dollar,34166.14
+2480,OECD Asia Oceania,Real GDP per capita,2009,US Dollar,33033.32
+2481,OECD Asia Oceania,Real GDP per capita,2010,US Dollar,34367.3
+2482,OECD Asia Oceania,Real GDP per capita,2011,US Dollar,34734.64
+2483,OECD Asia Oceania,Real GDP per capita,2012,US Dollar,35271.54
+2484,OECD Asia Oceania,Real GDP per capita,2013,US Dollar,35992.97
+2485,OECD Asia Oceania,Real GDP per capita,2014,US Dollar,36413.05
+2486,OECD Asia Oceania,Real GDP per capita,2015,US Dollar,37040.01
+2487,OECD Asia Oceania,Real GDP per capita,2016,US Dollar,37573.58
+2488,OECD Asia Oceania,Real GDP per capita,2017,US Dollar,38313.32
+2526,Saudi Arabia,Real GDP per capita,1990,US Dollar,33824.15
+2527,Saudi Arabia,Real GDP per capita,1995,US Dollar,33947.75
+2528,Saudi Arabia,Real GDP per capita,2000,US Dollar,34772.86
+2529,Saudi Arabia,Real GDP per capita,2001,US Dollar,34078.21
+2530,Saudi Arabia,Real GDP per capita,2002,US Dollar,33182.95
+2531,Saudi Arabia,Real GDP per capita,2003,US Dollar,34694.86
+2532,Saudi Arabia,Real GDP per capita,2004,US Dollar,36808.23
+2533,Saudi Arabia,Real GDP per capita,2005,US Dollar,38361.43
+2534,Saudi Arabia,Real GDP per capita,2006,US Dollar,39392.34
+2535,Saudi Arabia,Real GDP per capita,2007,US Dollar,40638.0
+2536,Saudi Arabia,Real GDP per capita,2008,US Dollar,42893.66
+2537,Saudi Arabia,Real GDP per capita,2009,US Dollar,42497.54
+2538,Saudi Arabia,Real GDP per capita,2010,US Dollar,44384.82
+2539,Saudi Arabia,Real GDP per capita,2011,US Dollar,47401.06
+2540,Saudi Arabia,Real GDP per capita,2012,US Dollar,48496.41
+2541,Saudi Arabia,Real GDP per capita,2013,US Dollar,48364.35
+2542,Saudi Arabia,Real GDP per capita,2014,US Dollar,48947.84
+2543,Saudi Arabia,Real GDP per capita,2015,US Dollar,49697.63
+2544,Saudi Arabia,Real GDP per capita,2016,US Dollar,49437.46
+2545,Costa Rica,Real GDP per capita,1990,US Dollar,7529.988
+2546,Costa Rica,Real GDP per capita,1995,US Dollar,8771.015
+2547,Costa Rica,Real GDP per capita,2000,US Dollar,9678.464
+2548,Costa Rica,Real GDP per capita,2001,US Dollar,9837.466999999999
+2549,Costa Rica,Real GDP per capita,2002,US Dollar,9995.224
+2550,Costa Rica,Real GDP per capita,2003,US Dollar,10262.04
+2551,Costa Rica,Real GDP per capita,2004,US Dollar,10550.9
+2552,Costa Rica,Real GDP per capita,2005,US Dollar,10802.45
+2553,Costa Rica,Real GDP per capita,2006,US Dollar,11420.43
+2554,Costa Rica,Real GDP per capita,2007,US Dollar,12181.69
+2555,Costa Rica,Real GDP per capita,2008,US Dollar,12575.3
+2556,Costa Rica,Real GDP per capita,2009,US Dollar,12290.23
+2557,Costa Rica,Real GDP per capita,2010,US Dollar,12737.02
+2558,Costa Rica,Real GDP per capita,2011,US Dollar,13126.22
+2559,Costa Rica,Real GDP per capita,2012,US Dollar,13597.31
+2560,Costa Rica,Real GDP per capita,2013,US Dollar,13751.37
+2561,Costa Rica,Real GDP per capita,2014,US Dollar,14081.67
+2562,Costa Rica,Real GDP per capita,2015,US Dollar,14440.46
+2563,Costa Rica,Real GDP per capita,2016,US Dollar,14887.63
+2564,Costa Rica,Real GDP per capita,2017,US Dollar,15379.98
+2618,Argentina,Real GDP per capita,1990,US Dollar,12231.46
+2619,Argentina,Real GDP per capita,1995,US Dollar,15533.58
+2620,Argentina,Real GDP per capita,2000,US Dollar,16215.6
+2621,Argentina,Real GDP per capita,2001,US Dollar,15909.39
+2622,Argentina,Real GDP per capita,2002,US Dollar,15024.49
+2623,Argentina,Real GDP per capita,2003,US Dollar,13145.71
+2624,Argentina,Real GDP per capita,2004,US Dollar,14118.66
+2625,Argentina,Real GDP per capita,2005,US Dollar,15204.76
+2626,Argentina,Real GDP per capita,2006,US Dollar,16256.63
+2627,Argentina,Real GDP per capita,2007,US Dollar,17538.61
+2628,Argentina,Real GDP per capita,2008,US Dollar,18063.91
+2629,Argentina,Real GDP per capita,2009,US Dollar,16821.09
+2630,Argentina,Real GDP per capita,2010,US Dollar,18333.55
+2631,Argentina,Real GDP per capita,2011,US Dollar,19232.28
+2632,Argentina,Real GDP per capita,2012,US Dollar,18835.99
+2633,Argentina,Real GDP per capita,2013,US Dollar,19088.1
+2634,Argentina,Real GDP per capita,2014,US Dollar,18417.3
+2635,Argentina,Real GDP per capita,2015,US Dollar,18730.2
+2636,Argentina,Real GDP per capita,2016,US Dollar,18208.64
+2637,Argentina,Real GDP per capita,2017,US Dollar,18550.91
+2693,Lithuania,Real GDP per capita,1990,US Dollar,17197.16
+2694,Lithuania,Real GDP per capita,1995,US Dollar,8937.101
+2695,Lithuania,Real GDP per capita,2000,US Dollar,11626.82
+2696,Lithuania,Real GDP per capita,2001,US Dollar,12486.02
+2697,Lithuania,Real GDP per capita,2002,US Dollar,13441.86
+2698,Lithuania,Real GDP per capita,2003,US Dollar,14990.74
+2699,Lithuania,Real GDP per capita,2004,US Dollar,16129.65
+2700,Lithuania,Real GDP per capita,2005,US Dollar,17567.6
+2701,Lithuania,Real GDP per capita,2006,US Dollar,19100.51
+2702,Lithuania,Real GDP per capita,2007,US Dollar,21501.81
+2703,Lithuania,Real GDP per capita,2008,US Dollar,22378.99
+2704,Lithuania,Real GDP per capita,2009,US Dollar,19339.6
+2705,Lithuania,Real GDP per capita,2010,US Dollar,19939.7
+2706,Lithuania,Real GDP per capita,2011,US Dollar,21446.23
+2707,Lithuania,Real GDP per capita,2012,US Dollar,22579.53
+2708,Lithuania,Real GDP per capita,2013,US Dollar,23680.68
+2709,Lithuania,Real GDP per capita,2014,US Dollar,24812.18
+2710,Lithuania,Real GDP per capita,2015,US Dollar,25575.38
+2711,Lithuania,Real GDP per capita,2016,US Dollar,26388.19
+2712,Lithuania,Real GDP per capita,2017,US Dollar,27568.75
+2771,Turkmenistan,Real GDP per capita,1990,US Dollar,8148.521
+2772,Turkmenistan,Real GDP per capita,1995,US Dollar,4507.879
+2773,Turkmenistan,Real GDP per capita,2000,US Dollar,5225.208
+2774,Turkmenistan,Real GDP per capita,2001,US Dollar,5394.904
+2775,Turkmenistan,Real GDP per capita,2002,US Dollar,5354.899
+2776,Turkmenistan,Real GDP per capita,2003,US Dollar,5475.6140000000005
+2777,Turkmenistan,Real GDP per capita,2004,US Dollar,5691.161999999999
+2778,Turkmenistan,Real GDP per capita,2005,US Dollar,6363.976
+2779,Turkmenistan,Real GDP per capita,2006,US Dollar,6980.49
+2780,Turkmenistan,Real GDP per capita,2007,US Dollar,7656.920999999999
+2781,Turkmenistan,Real GDP per capita,2008,US Dollar,8665.719000000001
+2782,Turkmenistan,Real GDP per capita,2009,US Dollar,9061.794
+2783,Turkmenistan,Real GDP per capita,2010,US Dollar,9741.306
+2784,Turkmenistan,Real GDP per capita,2011,US Dollar,10985.72
+2785,Turkmenistan,Real GDP per capita,2012,US Dollar,11987.87
+2786,Turkmenistan,Real GDP per capita,2013,US Dollar,12968.29
+2787,Turkmenistan,Real GDP per capita,2014,US Dollar,14042.44
+2788,Turkmenistan,Real GDP per capita,2015,US Dollar,14689.05
+2789,Turkmenistan,Real GDP per capita,2016,US Dollar,15331.83
+2947,Haiti,Real GDP per capita,1990,US Dollar,6831.391
+2948,Haiti,Real GDP per capita,1995,US Dollar,1645.441
+2949,Haiti,Real GDP per capita,2000,US Dollar,1704.207
+2950,Haiti,Real GDP per capita,2001,US Dollar,1658.595
+2951,Haiti,Real GDP per capita,2002,US Dollar,1627.8010000000002
+2952,Haiti,Real GDP per capita,2003,US Dollar,1607.912
+2953,Haiti,Real GDP per capita,2004,US Dollar,1527.005
+2954,Haiti,Real GDP per capita,2005,US Dollar,1530.364
+2955,Haiti,Real GDP per capita,2006,US Dollar,1540.497
+2956,Haiti,Real GDP per capita,2007,US Dollar,1567.441
+2957,Haiti,Real GDP per capita,2008,US Dollar,1556.5410000000002
+2958,Haiti,Real GDP per capita,2009,US Dollar,1580.457
+2959,Haiti,Real GDP per capita,2010,US Dollar,1471.649
+2960,Haiti,Real GDP per capita,2011,US Dollar,1530.6760000000002
+2961,Haiti,Real GDP per capita,2012,US Dollar,1552.773
+2962,Haiti,Real GDP per capita,2013,US Dollar,1596.399
+2963,Haiti,Real GDP per capita,2014,US Dollar,1619.42
+2964,Haiti,Real GDP per capita,2015,US Dollar,1617.8270000000002
+2965,Haiti,Real GDP per capita,2016,US Dollar,1620.505
+2986,Paraguay,Real GDP per capita,1990,US Dollar,5914.363
+2987,Paraguay,Real GDP per capita,1995,US Dollar,6504.3369999999995
+2988,Paraguay,Real GDP per capita,2000,US Dollar,5961.704000000001
+2989,Paraguay,Real GDP per capita,2001,US Dollar,5798.342
+2990,Paraguay,Real GDP per capita,2002,US Dollar,5689.773
+2991,Paraguay,Real GDP per capita,2003,US Dollar,5830.471
+2992,Paraguay,Real GDP per capita,2004,US Dollar,5965.146
+2993,Paraguay,Real GDP per capita,2005,US Dollar,5995.956999999999
+2994,Paraguay,Real GDP per capita,2006,US Dollar,6190.931
+2995,Paraguay,Real GDP per capita,2007,US Dollar,6435.3859999999995
+2996,Paraguay,Real GDP per capita,2008,US Dollar,6752.985
+2997,Paraguay,Real GDP per capita,2009,US Dollar,6399.755999999999
+2998,Paraguay,Real GDP per capita,2010,US Dollar,7142.057
+2999,Paraguay,Real GDP per capita,2011,US Dollar,7352.845
+3000,Paraguay,Real GDP per capita,2012,US Dollar,7164.49
+3001,Paraguay,Real GDP per capita,2013,US Dollar,8060.789000000001
+3002,Paraguay,Real GDP per capita,2014,US Dollar,8329.568000000001
+3003,Paraguay,Real GDP per capita,2015,US Dollar,8464.525
+3004,Paraguay,Real GDP per capita,2016,US Dollar,8691.924
+3025,Iraq,Real GDP per capita,1990,US Dollar,11288.66
+3026,Iraq,Real GDP per capita,1995,US Dollar,6428.026999999999
+3027,Iraq,Real GDP per capita,2000,US Dollar,11930.5
+3028,Iraq,Real GDP per capita,2001,US Dollar,11860.16
+3029,Iraq,Real GDP per capita,2002,US Dollar,10737.33
+3030,Iraq,Real GDP per capita,2003,US Dollar,6990.251
+3031,Iraq,Real GDP per capita,2004,US Dollar,10493.9
+3032,Iraq,Real GDP per capita,2005,US Dollar,10675.06
+3033,Iraq,Real GDP per capita,2006,US Dollar,11466.73
+3034,Iraq,Real GDP per capita,2007,US Dollar,11341.14
+3035,Iraq,Real GDP per capita,2008,US Dollar,11970.31
+3036,Iraq,Real GDP per capita,2009,US Dollar,12050.6
+3037,Iraq,Real GDP per capita,2010,US Dollar,12460.34
+3038,Iraq,Real GDP per capita,2011,US Dollar,12993.34
+3039,Iraq,Real GDP per capita,2012,US Dollar,14330.11
+3040,Iraq,Real GDP per capita,2013,US Dollar,14773.15
+3041,Iraq,Real GDP per capita,2014,US Dollar,14399.35
+3042,Iraq,Real GDP per capita,2015,US Dollar,14626.9
+3043,Iraq,Real GDP per capita,2016,US Dollar,15761.5
+3232,Nicaragua,Real GDP per capita,1990,US Dollar,2942.762
+3233,Nicaragua,Real GDP per capita,1995,US Dollar,2888.46
+3234,Nicaragua,Real GDP per capita,2000,US Dollar,3386.17
+3235,Nicaragua,Real GDP per capita,2001,US Dollar,3435.881
+3236,Nicaragua,Real GDP per capita,2002,US Dollar,3414.2709999999997
+3237,Nicaragua,Real GDP per capita,2003,US Dollar,3454.1540000000005
+3238,Nicaragua,Real GDP per capita,2004,US Dollar,3590.494
+3239,Nicaragua,Real GDP per capita,2005,US Dollar,3695.7909999999997
+3240,Nicaragua,Real GDP per capita,2006,US Dollar,3786.5159999999996
+3241,Nicaragua,Real GDP per capita,2007,US Dollar,3926.9320000000002
+3242,Nicaragua,Real GDP per capita,2008,US Dollar,4009.285
+3243,Nicaragua,Real GDP per capita,2009,US Dollar,3827.9570000000003
+3244,Nicaragua,Real GDP per capita,2010,US Dollar,3947.217
+3245,Nicaragua,Real GDP per capita,2011,US Dollar,4145.9
+3246,Nicaragua,Real GDP per capita,2012,US Dollar,4363.17
+3247,Nicaragua,Real GDP per capita,2013,US Dollar,4525.295999999999
+3248,Nicaragua,Real GDP per capita,2014,US Dollar,4688.04
+3249,Nicaragua,Real GDP per capita,2015,US Dollar,4860.56
+3250,Nicaragua,Real GDP per capita,2016,US Dollar,5032.93
+3308,Lebanon,Real GDP per capita,1990,US Dollar,7698.772
+3309,Lebanon,Real GDP per capita,1995,US Dollar,12197.52
+3310,Lebanon,Real GDP per capita,2000,US Dollar,12278.32
+3311,Lebanon,Real GDP per capita,2001,US Dollar,12281.08
+3312,Lebanon,Real GDP per capita,2002,US Dollar,12112.93
+3313,Lebanon,Real GDP per capita,2003,US Dollar,11899.88
+3314,Lebanon,Real GDP per capita,2004,US Dollar,12075.74
+3315,Lebanon,Real GDP per capita,2005,US Dollar,12021.13
+3316,Lebanon,Real GDP per capita,2006,US Dollar,11996.11
+3317,Lebanon,Real GDP per capita,2007,US Dollar,13024.23
+3318,Lebanon,Real GDP per capita,2008,US Dollar,14302.34
+3319,Lebanon,Real GDP per capita,2009,US Dollar,15469.03
+3320,Lebanon,Real GDP per capita,2010,US Dollar,16118.96
+3321,Lebanon,Real GDP per capita,2011,US Dollar,15376.22
+3322,Lebanon,Real GDP per capita,2012,US Dollar,14752.7
+3323,Lebanon,Real GDP per capita,2013,US Dollar,14109.34
+3324,Lebanon,Real GDP per capita,2014,US Dollar,13551.59
+3325,Lebanon,Real GDP per capita,2015,US Dollar,13082.6
+3326,Lebanon,Real GDP per capita,2016,US Dollar,12999.5
+3384,El Salvador,Real GDP per capita,1990,US Dollar,4438.156
+3385,El Salvador,Real GDP per capita,1995,US Dollar,5609.058000000001
+3386,El Salvador,Real GDP per capita,2000,US Dollar,6235.071999999999
+3387,El Salvador,Real GDP per capita,2001,US Dollar,6300.460999999999
+3388,El Salvador,Real GDP per capita,2002,US Dollar,6410.668000000001
+3389,El Salvador,Real GDP per capita,2003,US Dollar,6523.816
+3390,El Salvador,Real GDP per capita,2004,US Dollar,6612.164000000001
+3391,El Salvador,Real GDP per capita,2005,US Dollar,6815.73
+3392,El Salvador,Real GDP per capita,2006,US Dollar,7050.18
+3393,El Salvador,Real GDP per capita,2007,US Dollar,7288.401999999999
+3394,El Salvador,Real GDP per capita,2008,US Dollar,7348.844
+3395,El Salvador,Real GDP per capita,2009,US Dollar,7087.312
+3396,El Salvador,Real GDP per capita,2010,US Dollar,7152.205
+3397,El Salvador,Real GDP per capita,2011,US Dollar,7277.771
+3398,El Salvador,Real GDP per capita,2012,US Dollar,7380.482
+3399,El Salvador,Real GDP per capita,2013,US Dollar,7481.2609999999995
+3400,El Salvador,Real GDP per capita,2014,US Dollar,7551.166
+3401,El Salvador,Real GDP per capita,2015,US Dollar,7686.46
+3402,El Salvador,Real GDP per capita,2016,US Dollar,7828.371
+3679,Azerbaijan,Real GDP per capita,1990,US Dollar,8244.625
+3680,Azerbaijan,Real GDP per capita,1995,US Dollar,3214.7859999999996
+3681,Azerbaijan,Real GDP per capita,2000,US Dollar,4328.923
+3682,Azerbaijan,Real GDP per capita,2001,US Dollar,4714.226
+3683,Azerbaijan,Real GDP per capita,2002,US Dollar,5163.706
+3684,Azerbaijan,Real GDP per capita,2003,US Dollar,5684.119000000001
+3685,Azerbaijan,Real GDP per capita,2004,US Dollar,6199.01
+3686,Azerbaijan,Real GDP per capita,2005,US Dollar,7753.213000000001
+3687,Azerbaijan,Real GDP per capita,2006,US Dollar,10317.4
+3688,Azerbaijan,Real GDP per capita,2007,US Dollar,12762.64
+3689,Azerbaijan,Real GDP per capita,2008,US Dollar,13981.07
+3690,Azerbaijan,Real GDP per capita,2009,US Dollar,15121.09
+3691,Azerbaijan,Real GDP per capita,2010,US Dollar,15665.45
+3692,Azerbaijan,Real GDP per capita,2011,US Dollar,15480.53
+3693,Azerbaijan,Real GDP per capita,2012,US Dollar,15618.69
+3694,Azerbaijan,Real GDP per capita,2013,US Dollar,16312.11
+3695,Azerbaijan,Real GDP per capita,2014,US Dollar,16430.93
+3696,Azerbaijan,Real GDP per capita,2015,US Dollar,16415.26
+3697,Azerbaijan,Real GDP per capita,2016,US Dollar,15729.93
+3726,Thailand,Real GDP per capita,1990,US Dollar,6515.911
+3727,Thailand,Real GDP per capita,1995,US Dollar,9191.259
+3728,Thailand,Real GDP per capita,2000,US Dollar,9003.18
+3729,Thailand,Real GDP per capita,2001,US Dollar,9227.485
+3730,Thailand,Real GDP per capita,2002,US Dollar,9713.876
+3731,Thailand,Real GDP per capita,2003,US Dollar,10334.53
+3732,Thailand,Real GDP per capita,2004,US Dollar,10908.91
+3733,Thailand,Real GDP per capita,2005,US Dollar,11292.24
+3734,Thailand,Real GDP per capita,2006,US Dollar,11781.43
+3735,Thailand,Real GDP per capita,2007,US Dollar,12352.06
+3736,Thailand,Real GDP per capita,2008,US Dollar,12499.1
+3737,Thailand,Real GDP per capita,2009,US Dollar,12350.38
+3738,Thailand,Real GDP per capita,2010,US Dollar,13213.75
+3739,Thailand,Real GDP per capita,2011,US Dollar,13261.34
+3740,Thailand,Real GDP per capita,2012,US Dollar,14156.06
+3741,Thailand,Real GDP per capita,2013,US Dollar,14479.04
+3742,Thailand,Real GDP per capita,2014,US Dollar,14553.0
+3743,Thailand,Real GDP per capita,2015,US Dollar,14928.49
+3744,Thailand,Real GDP per capita,2016,US Dollar,15365.79
+3898,Philippines,Real GDP per capita,1990,US Dollar,3929.0820000000003
+3899,Philippines,Real GDP per capita,1995,US Dollar,3879.5679999999998
+3900,Philippines,Real GDP per capita,2000,US Dollar,4138.665
+3901,Philippines,Real GDP per capita,2001,US Dollar,4168.969
+3902,Philippines,Real GDP per capita,2002,US Dollar,4231.375
+3903,Philippines,Real GDP per capita,2003,US Dollar,4351.826
+3904,Philippines,Real GDP per capita,2004,US Dollar,4553.008
+3905,Philippines,Real GDP per capita,2005,US Dollar,4682.299
+3906,Philippines,Real GDP per capita,2006,US Dollar,4841.637
+3907,Philippines,Real GDP per capita,2007,US Dollar,5076.1990000000005
+3908,Philippines,Real GDP per capita,2008,US Dollar,5202.039000000001
+3909,Philippines,Real GDP per capita,2009,US Dollar,5177.959
+3910,Philippines,Real GDP per capita,2010,US Dollar,5483.621
+3911,Philippines,Real GDP per capita,2011,US Dollar,5591.755
+3912,Philippines,Real GDP per capita,2012,US Dollar,5867.659000000001
+3913,Philippines,Real GDP per capita,2013,US Dollar,6179.168000000001
+3914,Philippines,Real GDP per capita,2014,US Dollar,6452.672
+3915,Philippines,Real GDP per capita,2015,US Dollar,6735.519
+3916,Philippines,Real GDP per capita,2016,US Dollar,7090.0830000000005
+4169,Moldova,Real GDP per capita,1990,US Dollar,6309.4490000000005
+4170,Moldova,Real GDP per capita,1995,US Dollar,2162.1
+4171,Moldova,Real GDP per capita,2000,US Dollar,1970.135
+4172,Moldova,Real GDP per capita,2001,US Dollar,2098.096
+4173,Moldova,Real GDP per capita,2002,US Dollar,2266.561
+4174,Moldova,Real GDP per capita,2003,US Dollar,2419.033
+4175,Moldova,Real GDP per capita,2004,US Dollar,2601.3520000000003
+4176,Moldova,Real GDP per capita,2005,US Dollar,2802.262
+4177,Moldova,Real GDP per capita,2006,US Dollar,2945.961
+4178,Moldova,Real GDP per capita,2007,US Dollar,3046.158
+4179,Moldova,Real GDP per capita,2008,US Dollar,3297.5029999999997
+4180,Moldova,Real GDP per capita,2009,US Dollar,3111.3070000000002
+4181,Moldova,Real GDP per capita,2010,US Dollar,3341.64
+4182,Moldova,Real GDP per capita,2011,US Dollar,3575.098
+4183,Moldova,Real GDP per capita,2012,US Dollar,3553.265
+4184,Moldova,Real GDP per capita,2013,US Dollar,3888.9320000000002
+4185,Moldova,Real GDP per capita,2014,US Dollar,4077.6290000000004
+4186,Moldova,Real GDP per capita,2015,US Dollar,4065.2729999999997
+4187,Moldova,Real GDP per capita,2016,US Dollar,4238.590999999999
+4548,Oman,Real GDP per capita,1990,US Dollar,34332.95
+4549,Oman,Real GDP per capita,1995,US Dollar,37541.08
+4550,Oman,Real GDP per capita,2000,US Dollar,43076.19
+4551,Oman,Real GDP per capita,2001,US Dollar,44481.52
+4552,Oman,Real GDP per capita,2002,US Dollar,43247.59
+4553,Oman,Real GDP per capita,2003,US Dollar,41193.84
+4554,Oman,Real GDP per capita,2004,US Dollar,40710.66
+4555,Oman,Real GDP per capita,2005,US Dollar,40619.34
+4556,Oman,Real GDP per capita,2006,US Dollar,41612.97
+4557,Oman,Real GDP per capita,2007,US Dollar,42163.73
+4558,Oman,Real GDP per capita,2008,US Dollar,44029.47
+4559,Oman,Real GDP per capita,2009,US Dollar,44712.39
+4560,Oman,Real GDP per capita,2010,US Dollar,44417.77
+4561,Oman,Real GDP per capita,2011,US Dollar,41269.21
+4562,Oman,Real GDP per capita,2012,US Dollar,42159.14
+4563,Oman,Real GDP per capita,2013,US Dollar,41076.43
+4564,Oman,Real GDP per capita,2014,US Dollar,39467.82
+4565,Oman,Real GDP per capita,2015,US Dollar,39327.0
+4566,Oman,Real GDP per capita,2016,US Dollar,37191.05
+4624,Honduras,Real GDP per capita,1990,US Dollar,3107.512
+4625,Honduras,Real GDP per capita,1995,US Dollar,3209.447
+4626,Honduras,Real GDP per capita,2000,US Dollar,3261.179
+4627,Honduras,Real GDP per capita,2001,US Dollar,3265.511
+4628,Honduras,Real GDP per capita,2002,US Dollar,3304.139
+4629,Honduras,Real GDP per capita,2003,US Dollar,3370.5640000000003
+4630,Honduras,Real GDP per capita,2004,US Dollar,3495.969
+4631,Honduras,Real GDP per capita,2005,US Dollar,3622.381
+4632,Honduras,Real GDP per capita,2006,US Dollar,3774.289
+4633,Honduras,Real GDP per capita,2007,US Dollar,3921.2459999999996
+4634,Honduras,Real GDP per capita,2008,US Dollar,4001.679
+4635,Honduras,Real GDP per capita,2009,US Dollar,3825.478
+4636,Honduras,Real GDP per capita,2010,US Dollar,3890.8509999999997
+4637,Honduras,Real GDP per capita,2011,US Dollar,3964.23
+4638,Honduras,Real GDP per capita,2012,US Dollar,4053.139
+4639,Honduras,Real GDP per capita,2013,US Dollar,4093.073
+4640,Honduras,Real GDP per capita,2014,US Dollar,4145.731
+4641,Honduras,Real GDP per capita,2015,US Dollar,4223.965999999999
+4642,Honduras,Real GDP per capita,2016,US Dollar,4303.417
+4700,Uzbekistan,Real GDP per capita,1990,US Dollar,3015.89
+4701,Uzbekistan,Real GDP per capita,1995,US Dollar,2189.187
+4702,Uzbekistan,Real GDP per capita,2000,US Dollar,2433.415
+4703,Uzbekistan,Real GDP per capita,2001,US Dollar,2501.431
+4704,Uzbekistan,Real GDP per capita,2002,US Dollar,2568.516
+4705,Uzbekistan,Real GDP per capita,2003,US Dollar,2643.364
+4706,Uzbekistan,Real GDP per capita,2004,US Dollar,2811.026
+4707,Uzbekistan,Real GDP per capita,2005,US Dollar,2967.88
+4708,Uzbekistan,Real GDP per capita,2006,US Dollar,3139.761
+4709,Uzbekistan,Real GDP per capita,2007,US Dollar,3400.4120000000003
+4710,Uzbekistan,Real GDP per capita,2008,US Dollar,3649.821
+4711,Uzbekistan,Real GDP per capita,2009,US Dollar,3883.8709999999996
+4712,Uzbekistan,Real GDP per capita,2010,US Dollar,4147.565
+4713,Uzbekistan,Real GDP per capita,2011,US Dollar,4420.432
+4714,Uzbekistan,Real GDP per capita,2012,US Dollar,4706.391
+4715,Uzbekistan,Real GDP per capita,2013,US Dollar,5001.813
+4716,Uzbekistan,Real GDP per capita,2014,US Dollar,5306.749
+4717,Uzbekistan,Real GDP per capita,2015,US Dollar,5643.143
+4718,Uzbekistan,Real GDP per capita,2016,US Dollar,5992.238
+4756,Bahrain,Real GDP per capita,1990,US Dollar,34403.04
+4757,Bahrain,Real GDP per capita,1995,US Dollar,42028.97
+4758,Bahrain,Real GDP per capita,2000,US Dollar,44033.25
+4759,Bahrain,Real GDP per capita,2001,US Dollar,42999.3
+4760,Bahrain,Real GDP per capita,2002,US Dollar,42274.68
+4761,Bahrain,Real GDP per capita,2003,US Dollar,42313.88
+4762,Bahrain,Real GDP per capita,2004,US Dollar,42478.29
+4763,Bahrain,Real GDP per capita,2005,US Dollar,42327.89
+4764,Bahrain,Real GDP per capita,2006,US Dollar,41809.86
+4765,Bahrain,Real GDP per capita,2007,US Dollar,41890.54
+4766,Bahrain,Real GDP per capita,2008,US Dollar,41364.13
+4767,Bahrain,Real GDP per capita,2009,US Dollar,39893.52
+4768,Bahrain,Real GDP per capita,2010,US Dollar,39749.85
+4769,Bahrain,Real GDP per capita,2011,US Dollar,39352.11
+4770,Bahrain,Real GDP per capita,2012,US Dollar,40131.76
+4771,Bahrain,Real GDP per capita,2013,US Dollar,41816.84
+4772,Bahrain,Real GDP per capita,2014,US Dollar,42950.57
+4773,Bahrain,Real GDP per capita,2015,US Dollar,43037.9
+4774,Bahrain,Real GDP per capita,2016,US Dollar,42764.95
+5036,Djibouti,Real GDP per capita,1990,US Dollar,3038.927
+5037,Djibouti,Real GDP per capita,1995,US Dollar,2431.827
+5038,Djibouti,Real GDP per capita,2000,US Dollar,2088.15
+5039,Djibouti,Real GDP per capita,2001,US Dollar,2086.917
+5040,Djibouti,Real GDP per capita,2002,US Dollar,2102.792
+5041,Djibouti,Real GDP per capita,2003,US Dollar,2134.627
+5042,Djibouti,Real GDP per capita,2004,US Dollar,2181.408
+5043,Djibouti,Real GDP per capita,2005,US Dollar,2214.627
+5044,Djibouti,Real GDP per capita,2006,US Dollar,2283.166
+5045,Djibouti,Real GDP per capita,2007,US Dollar,2360.493
+5046,Djibouti,Real GDP per capita,2008,US Dollar,2456.334
+5047,Djibouti,Real GDP per capita,2009,US Dollar,2537.08
+5048,Djibouti,Real GDP per capita,2010,US Dollar,2581.417
+5049,Djibouti,Real GDP per capita,2011,US Dollar,2650.679
+5050,Djibouti,Real GDP per capita,2012,US Dollar,2730.946
+5051,Djibouti,Real GDP per capita,2013,US Dollar,2817.915
+5052,Djibouti,Real GDP per capita,2014,US Dollar,2936.317
+5053,Djibouti,Real GDP per capita,2015,US Dollar,3075.77
+5124,Malaysia,Real GDP per capita,1990,US Dollar,10338.13
+5125,Malaysia,Real GDP per capita,1995,US Dollar,14305.61
+5126,Malaysia,Real GDP per capita,2000,US Dollar,15980.04
+5127,Malaysia,Real GDP per capita,2001,US Dollar,15714.86
+5128,Malaysia,Real GDP per capita,2002,US Dollar,16219.9
+5129,Malaysia,Real GDP per capita,2003,US Dollar,16818.31
+5130,Malaysia,Real GDP per capita,2004,US Dollar,17612.89
+5131,Malaysia,Real GDP per capita,2005,US Dollar,18201.16
+5132,Malaysia,Real GDP per capita,2006,US Dollar,18861.76
+5133,Malaysia,Real GDP per capita,2007,US Dollar,20266.13
+5134,Malaysia,Real GDP per capita,2008,US Dollar,20564.13
+5135,Malaysia,Real GDP per capita,2009,US Dollar,19685.79
+5136,Malaysia,Real GDP per capita,2010,US Dollar,20680.3
+5137,Malaysia,Real GDP per capita,2011,US Dollar,21377.51
+5138,Malaysia,Real GDP per capita,2012,US Dollar,22133.81
+5139,Malaysia,Real GDP per capita,2013,US Dollar,22754.4
+5140,Malaysia,Real GDP per capita,2014,US Dollar,23705.21
+5141,Malaysia,Real GDP per capita,2015,US Dollar,24495.87
+5142,Malaysia,Real GDP per capita,2016,US Dollar,25149.64
+5331,Croatia,Real GDP per capita,1990,US Dollar,24501.18
+5332,Croatia,Real GDP per capita,1995,US Dollar,12175.22
+5333,Croatia,Real GDP per capita,2000,US Dollar,15007.95
+5334,Croatia,Real GDP per capita,2001,US Dollar,15593.79
+5335,Croatia,Real GDP per capita,2002,US Dollar,16457.69
+5336,Croatia,Real GDP per capita,2003,US Dollar,17399.6
+5337,Croatia,Real GDP per capita,2004,US Dollar,18130.76
+5338,Croatia,Real GDP per capita,2005,US Dollar,18910.96
+5339,Croatia,Real GDP per capita,2006,US Dollar,19849.26
+5340,Croatia,Real GDP per capita,2007,US Dollar,20911.84
+5341,Croatia,Real GDP per capita,2008,US Dollar,21389.47
+5342,Croatia,Real GDP per capita,2009,US Dollar,19861.89
+5343,Croatia,Real GDP per capita,2010,US Dollar,19638.26
+5344,Croatia,Real GDP per capita,2011,US Dollar,19641.33
+5345,Croatia,Real GDP per capita,2012,US Dollar,19275.72
+5346,Croatia,Real GDP per capita,2013,US Dollar,19234.61
+5347,Croatia,Real GDP per capita,2014,US Dollar,19307.61
+5348,Croatia,Real GDP per capita,2015,US Dollar,19861.21
+5349,Croatia,Real GDP per capita,2016,US Dollar,20600.54
+5350,Croatia,Real GDP per capita,2017,US Dollar,21293.73
+5596,Brunei Darussalam,Real GDP per capita,1990,US Dollar,82959.58
+5597,Brunei Darussalam,Real GDP per capita,1995,US Dollar,84374.02
+5598,Brunei Darussalam,Real GDP per capita,2000,US Dollar,80389.83
+5599,Brunei Darussalam,Real GDP per capita,2001,US Dollar,80925.95
+5600,Brunei Darussalam,Real GDP per capita,2002,US Dollar,82423.7
+5601,Brunei Darussalam,Real GDP per capita,2003,US Dollar,83251.89
+5602,Brunei Darussalam,Real GDP per capita,2004,US Dollar,82244.18
+5603,Brunei Darussalam,Real GDP per capita,2005,US Dollar,81288.8
+5604,Brunei Darussalam,Real GDP per capita,2006,US Dollar,83696.54
+5605,Brunei Darussalam,Real GDP per capita,2007,US Dollar,82794.14
+5606,Brunei Darussalam,Real GDP per capita,2008,US Dollar,80248.82
+5607,Brunei Darussalam,Real GDP per capita,2009,US Dollar,77904.32
+5608,Brunei Darussalam,Real GDP per capita,2010,US Dollar,78923.4
+5609,Brunei Darussalam,Real GDP per capita,2011,US Dollar,80767.34
+5610,Brunei Darussalam,Real GDP per capita,2012,US Dollar,80335.31
+5611,Brunei Darussalam,Real GDP per capita,2013,US Dollar,77470.76
+5612,Brunei Darussalam,Real GDP per capita,2014,US Dollar,74550.1
+5613,Brunei Darussalam,Real GDP per capita,2015,US Dollar,73091.1
+5614,Brunei Darussalam,Real GDP per capita,2016,US Dollar,70336.59
+5615,Venezuela,Real GDP per capita,1990,US Dollar,14158.37
+5616,Venezuela,Real GDP per capita,1995,US Dollar,15013.53
+5617,Venezuela,Real GDP per capita,2000,US Dollar,14121.51
+5618,Venezuela,Real GDP per capita,2001,US Dollar,14331.53
+5619,Venezuela,Real GDP per capita,2002,US Dollar,12825.79
+5620,Venezuela,Real GDP per capita,2003,US Dollar,11620.81
+5621,Venezuela,Real GDP per capita,2004,US Dollar,13506.36
+5622,Venezuela,Real GDP per capita,2005,US Dollar,14645.75
+5623,Venezuela,Real GDP per capita,2006,US Dollar,15822.8
+5624,Venezuela,Real GDP per capita,2007,US Dollar,16926.49
+5625,Venezuela,Real GDP per capita,2008,US Dollar,17535.06
+5626,Venezuela,Real GDP per capita,2009,US Dollar,16708.96
+5627,Venezuela,Real GDP per capita,2010,US Dollar,16210.29
+5628,Venezuela,Real GDP per capita,2011,US Dollar,16637.83
+5629,Venezuela,Real GDP per capita,2012,US Dollar,17321.19
+5630,Venezuela,Real GDP per capita,2013,US Dollar,17307.9
+5631,Venezuela,Real GDP per capita,2014,US Dollar,16406.29
+5899,Kyrgyzstan,Real GDP per capita,1990,US Dollar,3418.635
+5900,Kyrgyzstan,Real GDP per capita,1995,US Dollar,1659.9779999999998
+5901,Kyrgyzstan,Real GDP per capita,2000,US Dollar,2023.3220000000001
+5902,Kyrgyzstan,Real GDP per capita,2001,US Dollar,2113.014
+5903,Kyrgyzstan,Real GDP per capita,2002,US Dollar,2100.754
+5904,Kyrgyzstan,Real GDP per capita,2003,US Dollar,2238.762
+5905,Kyrgyzstan,Real GDP per capita,2004,US Dollar,2383.8720000000003
+5906,Kyrgyzstan,Real GDP per capita,2005,US Dollar,2362.1279999999997
+5907,Kyrgyzstan,Real GDP per capita,2006,US Dollar,2411.029
+5908,Kyrgyzstan,Real GDP per capita,2007,US Dollar,2585.236
+5909,Kyrgyzstan,Real GDP per capita,2008,US Dollar,2763.789
+5910,Kyrgyzstan,Real GDP per capita,2009,US Dollar,2801.7709999999997
+5911,Kyrgyzstan,Real GDP per capita,2010,US Dollar,2746.617
+5912,Kyrgyzstan,Real GDP per capita,2011,US Dollar,2865.68
+5913,Kyrgyzstan,Real GDP per capita,2012,US Dollar,2818.367
+5914,Kyrgyzstan,Real GDP per capita,2013,US Dollar,3076.671
+5915,Kyrgyzstan,Real GDP per capita,2014,US Dollar,3150.176
+5916,Kyrgyzstan,Real GDP per capita,2015,US Dollar,3221.595
+5917,Kyrgyzstan,Real GDP per capita,2016,US Dollar,3294.136
+6227,Jordan,Real GDP per capita,1990,US Dollar,6156.154
+6228,Jordan,Real GDP per capita,1995,US Dollar,6755.726
+6229,Jordan,Real GDP per capita,2000,US Dollar,7088.611
+6230,Jordan,Real GDP per capita,2001,US Dollar,7332.264
+6231,Jordan,Real GDP per capita,2002,US Dollar,7618.496
+6232,Jordan,Real GDP per capita,2003,US Dollar,7774.81
+6233,Jordan,Real GDP per capita,2004,US Dollar,8229.221
+6234,Jordan,Real GDP per capita,2005,US Dollar,8621.586
+6235,Jordan,Real GDP per capita,2006,US Dollar,8973.674
+6236,Jordan,Real GDP per capita,2007,US Dollar,9301.437
+6237,Jordan,Real GDP per capita,2008,US Dollar,9518.266
+6238,Jordan,Real GDP per capita,2009,US Dollar,9551.933
+6239,Jordan,Real GDP per capita,2010,US Dollar,9281.146999999999
+6240,Jordan,Real GDP per capita,2011,US Dollar,9027.815
+6241,Jordan,Real GDP per capita,2012,US Dollar,8782.929
+6242,Jordan,Real GDP per capita,2013,US Dollar,8579.575
+6243,Jordan,Real GDP per capita,2014,US Dollar,8447.771
+6244,Jordan,Real GDP per capita,2015,US Dollar,8319.289
+6245,Jordan,Real GDP per capita,2016,US Dollar,8219.895
+6485,Iran,Real GDP per capita,1990,US Dollar,10792.07
+6486,Iran,Real GDP per capita,1995,US Dollar,11567.85
+6487,Iran,Real GDP per capita,2000,US Dollar,12587.23
+6488,Iran,Real GDP per capita,2001,US Dollar,12703.05
+6489,Iran,Real GDP per capita,2002,US Dollar,13550.2
+6490,Iran,Real GDP per capita,2003,US Dollar,14543.42
+6491,Iran,Real GDP per capita,2004,US Dollar,14998.79
+6492,Iran,Real GDP per capita,2005,US Dollar,15300.36
+6493,Iran,Real GDP per capita,2006,US Dollar,15883.54
+6494,Iran,Real GDP per capita,2007,US Dollar,16987.4
+6495,Iran,Real GDP per capita,2008,US Dollar,16839.61
+6496,Iran,Real GDP per capita,2009,US Dollar,16814.89
+6497,Iran,Real GDP per capita,2010,US Dollar,17579.88
+6498,Iran,Real GDP per capita,2011,US Dollar,17824.11
+6499,Iran,Real GDP per capita,2012,US Dollar,16289.6
+6500,Iran,Real GDP per capita,2013,US Dollar,16051.85
+6501,Iran,Real GDP per capita,2014,US Dollar,16581.85
+6502,Iran,Real GDP per capita,2015,US Dollar,16167.11
+6503,Iran,Real GDP per capita,2016,US Dollar,18123.49
+6717,Morocco,Real GDP per capita,1990,US Dollar,3866.342
+6718,Morocco,Real GDP per capita,1995,US Dollar,3872.236
+6719,Morocco,Real GDP per capita,2000,US Dollar,4440.94
+6720,Morocco,Real GDP per capita,2001,US Dollar,4711.758
+6721,Morocco,Real GDP per capita,2002,US Dollar,4804.415
+6722,Morocco,Real GDP per capita,2003,US Dollar,5034.254
+6723,Morocco,Real GDP per capita,2004,US Dollar,5217.125
+6724,Morocco,Real GDP per capita,2005,US Dollar,5328.507
+6725,Morocco,Real GDP per capita,2006,US Dollar,5667.451
+6726,Morocco,Real GDP per capita,2007,US Dollar,5800.606
+6727,Morocco,Real GDP per capita,2008,US Dollar,6072.055
+6728,Morocco,Real GDP per capita,2009,US Dollar,6251.968000000001
+6729,Morocco,Real GDP per capita,2010,US Dollar,6406.465
+6730,Morocco,Real GDP per capita,2011,US Dollar,6650.358
+6731,Morocco,Real GDP per capita,2012,US Dollar,6752.919
+6732,Morocco,Real GDP per capita,2013,US Dollar,6956.726
+6733,Morocco,Real GDP per capita,2014,US Dollar,7039.765
+6734,Morocco,Real GDP per capita,2015,US Dollar,7257.423000000001
+6735,Morocco,Real GDP per capita,2016,US Dollar,7247.545
+6973,Bolivia,Real GDP per capita,1990,US Dollar,3632.252
+6974,Bolivia,Real GDP per capita,1995,US Dollar,4023.107
+6975,Bolivia,Real GDP per capita,2000,US Dollar,4323.002
+6976,Bolivia,Real GDP per capita,2001,US Dollar,4314.6359999999995
+6977,Bolivia,Real GDP per capita,2002,US Dollar,4341.667
+6978,Bolivia,Real GDP per capita,2003,US Dollar,4379.880999999999
+6979,Bolivia,Real GDP per capita,2004,US Dollar,4482.623
+6980,Bolivia,Real GDP per capita,2005,US Dollar,4599.945
+6981,Bolivia,Real GDP per capita,2006,US Dollar,4738.599
+6982,Bolivia,Real GDP per capita,2007,US Dollar,4871.905
+6983,Bolivia,Real GDP per capita,2008,US Dollar,5086.122
+6984,Bolivia,Real GDP per capita,2009,US Dollar,5171.271
+6985,Bolivia,Real GDP per capita,2010,US Dollar,5298.084
+6986,Bolivia,Real GDP per capita,2011,US Dollar,5485.259
+6987,Bolivia,Real GDP per capita,2012,US Dollar,5675.75
+6988,Bolivia,Real GDP per capita,2013,US Dollar,5967.49
+6989,Bolivia,Real GDP per capita,2014,US Dollar,6196.884
+6990,Bolivia,Real GDP per capita,2015,US Dollar,6399.396
+6991,Bolivia,Real GDP per capita,2016,US Dollar,6572.263000000001
+6992,Ukraine,Real GDP per capita,1990,US Dollar,10337.48
+6993,Ukraine,Real GDP per capita,1995,US Dollar,5016.545999999999
+6994,Ukraine,Real GDP per capita,2000,US Dollar,4732.651
+6995,Ukraine,Real GDP per capita,2001,US Dollar,5214.734
+6996,Ukraine,Real GDP per capita,2002,US Dollar,5534.298000000001
+6997,Ukraine,Real GDP per capita,2003,US Dollar,6105.299
+6998,Ukraine,Real GDP per capita,2004,US Dollar,6896.889
+6999,Ukraine,Real GDP per capita,2005,US Dollar,7132.015
+7000,Ukraine,Real GDP per capita,2006,US Dollar,7697.924
+7001,Ukraine,Real GDP per capita,2007,US Dollar,8347.25
+7002,Ukraine,Real GDP per capita,2008,US Dollar,8576.201
+7003,Ukraine,Real GDP per capita,2009,US Dollar,7337.49
+7004,Ukraine,Real GDP per capita,2010,US Dollar,7679.312
+7005,Ukraine,Real GDP per capita,2011,US Dollar,8137.444
+7006,Ukraine,Real GDP per capita,2012,US Dollar,8197.693000000001
+7007,Ukraine,Real GDP per capita,2013,US Dollar,8237.927
+7008,Ukraine,Real GDP per capita,2014,US Dollar,7737.979
+7009,Ukraine,Real GDP per capita,2015,US Dollar,7017.0380000000005
+7010,Ukraine,Real GDP per capita,2016,US Dollar,7214.354
+7065,Dominican Republic,Real GDP per capita,1990,US Dollar,5160.556
+7066,Dominican Republic,Real GDP per capita,1995,US Dollar,6063.57
+7067,Dominican Republic,Real GDP per capita,2000,US Dollar,7802.61
+7068,Dominican Republic,Real GDP per capita,2001,US Dollar,7820.924
+7069,Dominican Republic,Real GDP per capita,2002,US Dollar,8147.005999999999
+7070,Dominican Republic,Real GDP per capita,2003,US Dollar,8003.602
+7071,Dominican Republic,Real GDP per capita,2004,US Dollar,7988.141
+7072,Dominican Republic,Real GDP per capita,2005,US Dollar,8600.916
+7073,Dominican Republic,Real GDP per capita,2006,US Dollar,9382.856
+7074,Dominican Republic,Real GDP per capita,2007,US Dollar,10057.39
+7075,Dominican Republic,Real GDP per capita,2008,US Dollar,10237.82
+7076,Dominican Republic,Real GDP per capita,2009,US Dollar,10195.83
+7077,Dominican Republic,Real GDP per capita,2010,US Dollar,10898.52
+7078,Dominican Republic,Real GDP per capita,2011,US Dollar,11091.9
+7079,Dominican Republic,Real GDP per capita,2012,US Dollar,11258.24
+7080,Dominican Republic,Real GDP per capita,2013,US Dollar,11647.2
+7081,Dominican Republic,Real GDP per capita,2014,US Dollar,12383.42
+7082,Dominican Republic,Real GDP per capita,2015,US Dollar,13101.04
+7083,Dominican Republic,Real GDP per capita,2016,US Dollar,13813.67
+7690,Uruguay,Real GDP per capita,1990,US Dollar,9641.655999999999
+7691,Uruguay,Real GDP per capita,1995,US Dollar,11278.24
+7692,Uruguay,Real GDP per capita,2000,US Dollar,12614.33
+7693,Uruguay,Real GDP per capita,2001,US Dollar,12108.06
+7694,Uruguay,Real GDP per capita,2002,US Dollar,11169.61
+7695,Uruguay,Real GDP per capita,2003,US Dollar,11266.79
+7696,Uruguay,Real GDP per capita,2004,US Dollar,11836.09
+7697,Uruguay,Real GDP per capita,2005,US Dollar,12713.27
+7698,Uruguay,Real GDP per capita,2006,US Dollar,13212.76
+7699,Uruguay,Real GDP per capita,2007,US Dollar,14040.41
+7700,Uruguay,Real GDP per capita,2008,US Dollar,14998.2
+7701,Uruguay,Real GDP per capita,2009,US Dollar,15579.18
+7702,Uruguay,Real GDP per capita,2010,US Dollar,16736.85
+7703,Uruguay,Real GDP per capita,2011,US Dollar,17542.56
+7704,Uruguay,Real GDP per capita,2012,US Dollar,18103.61
+7705,Uruguay,Real GDP per capita,2013,US Dollar,18880.76
+7706,Uruguay,Real GDP per capita,2014,US Dollar,19426.48
+7707,Uruguay,Real GDP per capita,2015,US Dollar,19430.29
+7708,Uruguay,Real GDP per capita,2016,US Dollar,19641.4
+7801,Egypt,Real GDP per capita,1990,US Dollar,5789.6269999999995
+7802,Egypt,Real GDP per capita,1995,US Dollar,6165.37
+7803,Egypt,Real GDP per capita,2000,US Dollar,7238.901
+7804,Egypt,Real GDP per capita,2001,US Dollar,7355.816999999999
+7805,Egypt,Real GDP per capita,2002,US Dollar,7388.774
+7806,Egypt,Real GDP per capita,2003,US Dollar,7481.201999999999
+7807,Egypt,Real GDP per capita,2004,US Dollar,7642.559
+7808,Egypt,Real GDP per capita,2005,US Dollar,7839.656999999999
+7809,Egypt,Real GDP per capita,2006,US Dollar,8228.978000000001
+7810,Egypt,Real GDP per capita,2007,US Dollar,8659.733
+7811,Egypt,Real GDP per capita,2008,US Dollar,9117.18
+7812,Egypt,Real GDP per capita,2009,US Dollar,9368.426
+7813,Egypt,Real GDP per capita,2010,US Dollar,9658.064
+7814,Egypt,Real GDP per capita,2011,US Dollar,9625.103000000001
+7815,Egypt,Real GDP per capita,2012,US Dollar,9623.726999999999
+7816,Egypt,Real GDP per capita,2013,US Dollar,9615.685
+7817,Egypt,Real GDP per capita,2014,US Dollar,9679.945
+7818,Egypt,Real GDP per capita,2015,US Dollar,9891.391
+7819,Egypt,Real GDP per capita,2016,US Dollar,10110.51
+8072,Qatar,Real GDP per capita,1990,US Dollar,69165.56
+8073,Qatar,Real GDP per capita,1995,US Dollar,72002.63
+8074,Qatar,Real GDP per capita,2000,US Dollar,106132.6
+8075,Qatar,Real GDP per capita,2001,US Dollar,105869.2
+8076,Qatar,Real GDP per capita,2002,US Dollar,108416.1
+8077,Qatar,Real GDP per capita,2003,US Dollar,105439.0
+8078,Qatar,Real GDP per capita,2004,US Dollar,114063.2
+8079,Qatar,Real GDP per capita,2005,US Dollar,107581.2
+8080,Qatar,Real GDP per capita,2006,US Dollar,116186.3
+8081,Qatar,Real GDP per capita,2007,US Dollar,116427.9
+8082,Qatar,Real GDP per capita,2008,US Dollar,117301.3
+8083,Qatar,Real GDP per capita,2009,US Dollar,114696.8
+8084,Qatar,Real GDP per capita,2010,US Dollar,122609.4
+8085,Qatar,Real GDP per capita,2011,US Dollar,126733.3
+8086,Qatar,Real GDP per capita,2012,US Dollar,122767.4
+8087,Qatar,Real GDP per capita,2013,US Dollar,120156.1
+8088,Qatar,Real GDP per capita,2014,US Dollar,118415.2
+8089,Qatar,Real GDP per capita,2015,US Dollar,117327.1
+8090,Qatar,Real GDP per capita,2016,US Dollar,115816.0
+8376,Tunisia,Real GDP per capita,1990,US Dollar,5501.355
+8377,Tunisia,Real GDP per capita,1995,US Dollar,6007.271
+8378,Tunisia,Real GDP per capita,2000,US Dollar,7420.719
+8379,Tunisia,Real GDP per capita,2001,US Dollar,7634.335
+8380,Tunisia,Real GDP per capita,2002,US Dollar,7673.647
+8381,Tunisia,Real GDP per capita,2003,US Dollar,7973.5869999999995
+8382,Tunisia,Real GDP per capita,2004,US Dollar,8404.912
+8383,Tunisia,Real GDP per capita,2005,US Dollar,8624.871
+8384,Tunisia,Real GDP per capita,2006,US Dollar,8993.801
+8385,Tunisia,Real GDP per capita,2007,US Dollar,9502.237
+8386,Tunisia,Real GDP per capita,2008,US Dollar,9800.946
+8387,Tunisia,Real GDP per capita,2009,US Dollar,9989.334
+8388,Tunisia,Real GDP per capita,2010,US Dollar,10225.25
+8389,Tunisia,Real GDP per capita,2011,US Dollar,9915.949
+8390,Tunisia,Real GDP per capita,2012,US Dollar,10193.76
+8391,Tunisia,Real GDP per capita,2013,US Dollar,10365.04
+8392,Tunisia,Real GDP per capita,2014,US Dollar,10533.96
+8393,Tunisia,Real GDP per capita,2015,US Dollar,10532.4
+8394,Tunisia,Real GDP per capita,2016,US Dollar,10534.52
+8575,Yemen,Real GDP per capita,1990,US Dollar,3259.8
+8576,Yemen,Real GDP per capita,1995,US Dollar,3460.6940000000004
+8577,Yemen,Real GDP per capita,2000,US Dollar,3815.0559999999996
+8578,Yemen,Real GDP per capita,2001,US Dollar,3849.178
+8579,Yemen,Real GDP per capita,2002,US Dollar,3888.78
+8580,Yemen,Real GDP per capita,2003,US Dollar,3921.9629999999997
+8581,Yemen,Real GDP per capita,2004,US Dollar,3964.7129999999997
+8582,Yemen,Real GDP per capita,2005,US Dollar,4071.3179999999998
+8583,Yemen,Real GDP per capita,2006,US Dollar,4085.74
+8584,Yemen,Real GDP per capita,2007,US Dollar,4107.407999999999
+8585,Yemen,Real GDP per capita,2008,US Dollar,4142.063
+8586,Yemen,Real GDP per capita,2009,US Dollar,4186.378
+8587,Yemen,Real GDP per capita,2010,US Dollar,4388.145
+8588,Yemen,Real GDP per capita,2011,US Dollar,3728.263
+8589,Yemen,Real GDP per capita,2012,US Dollar,3716.677
+8590,Yemen,Real GDP per capita,2013,US Dollar,3794.449
+8591,Yemen,Real GDP per capita,2014,US Dollar,3690.6079999999997
+8592,Yemen,Real GDP per capita,2015,US Dollar,2587.621
+8593,Yemen,Real GDP per capita,2016,US Dollar,2278.0370000000003
+8651,Georgia,Real GDP per capita,1990,US Dollar,6962.459
+8652,Georgia,Real GDP per capita,1995,US Dollar,2120.236
+8653,Georgia,Real GDP per capita,2000,US Dollar,2992.1259999999997
+8654,Georgia,Real GDP per capita,2001,US Dollar,3169.402
+8655,Georgia,Real GDP per capita,2002,US Dollar,3377.066
+8656,Georgia,Real GDP per capita,2003,US Dollar,3788.0159999999996
+8657,Georgia,Real GDP per capita,2004,US Dollar,4050.363
+8658,Georgia,Real GDP per capita,2005,US Dollar,4485.471
+8659,Georgia,Real GDP per capita,2006,US Dollar,4959.024
+8660,Georgia,Real GDP per capita,2007,US Dollar,5632.531999999999
+8661,Georgia,Real GDP per capita,2008,US Dollar,5829.284000000001
+8662,Georgia,Real GDP per capita,2009,US Dollar,5685.696
+8663,Georgia,Real GDP per capita,2010,US Dollar,6121.013000000001
+8664,Georgia,Real GDP per capita,2011,US Dollar,6658.085
+8665,Georgia,Real GDP per capita,2012,US Dollar,7190.43
+8666,Georgia,Real GDP per capita,2013,US Dollar,7547.5419999999995
+8667,Georgia,Real GDP per capita,2014,US Dollar,8002.434
+8668,Georgia,Real GDP per capita,2015,US Dollar,8317.982
+8669,Georgia,Real GDP per capita,2016,US Dollar,8611.883
+8746,Myanmar,Real GDP per capita,1990,US Dollar,727.9417
+8747,Myanmar,Real GDP per capita,1995,US Dollar,908.2731
+8748,Myanmar,Real GDP per capita,2000,US Dollar,1280.016
+8749,Myanmar,Real GDP per capita,2001,US Dollar,1408.943
+8750,Myanmar,Real GDP per capita,2002,US Dollar,1561.225
+8751,Myanmar,Real GDP per capita,2003,US Dollar,1759.273
+8752,Myanmar,Real GDP per capita,2004,US Dollar,1979.26
+8753,Myanmar,Real GDP per capita,2005,US Dollar,2228.867
+8754,Myanmar,Real GDP per capita,2006,US Dollar,2501.542
+8755,Myanmar,Real GDP per capita,2007,US Dollar,2782.99
+8756,Myanmar,Real GDP per capita,2008,US Dollar,3049.283
+8757,Myanmar,Real GDP per capita,2009,US Dollar,3349.259
+8758,Myanmar,Real GDP per capita,2010,US Dollar,3645.937
+8759,Myanmar,Real GDP per capita,2011,US Dollar,3819.555
+8760,Myanmar,Real GDP per capita,2012,US Dollar,4064.776
+8761,Myanmar,Real GDP per capita,2013,US Dollar,4367.724
+8762,Myanmar,Real GDP per capita,2014,US Dollar,4673.521
+8763,Myanmar,Real GDP per capita,2015,US Dollar,4954.566
+8764,Myanmar,Real GDP per capita,2016,US Dollar,5197.733
+8996,Romania,Real GDP per capita,1990,US Dollar,12284.5
+8997,Romania,Real GDP per capita,1995,US Dollar,10054.5
+8998,Romania,Real GDP per capita,2000,US Dollar,10301.68
+8999,Romania,Real GDP per capita,2001,US Dollar,10949.0
+9000,Romania,Real GDP per capita,2002,US Dollar,11584.83
+9001,Romania,Real GDP per capita,2003,US Dollar,12295.56
+9002,Romania,Real GDP per capita,2004,US Dollar,13408.31
+9003,Romania,Real GDP per capita,2005,US Dollar,14072.07
+9004,Romania,Real GDP per capita,2006,US Dollar,15339.57
+9005,Romania,Real GDP per capita,2007,US Dollar,16554.37
+9006,Romania,Real GDP per capita,2008,US Dollar,18106.83
+9007,Romania,Real GDP per capita,2009,US Dollar,17204.49
+9008,Romania,Real GDP per capita,2010,US Dollar,16866.06
+9009,Romania,Real GDP per capita,2011,US Dollar,17333.38
+9010,Romania,Real GDP per capita,2012,US Dollar,17653.89
+9011,Romania,Real GDP per capita,2013,US Dollar,18371.21
+9012,Romania,Real GDP per capita,2014,US Dollar,19026.88
+9013,Romania,Real GDP per capita,2015,US Dollar,19878.63
+9014,Romania,Real GDP per capita,2016,US Dollar,20940.75
+9015,Romania,Real GDP per capita,2017,US Dollar,22507.93
+9055,Kuwait,Real GDP per capita,1990,US Dollar,36920.45
+9056,Kuwait,Real GDP per capita,1995,US Dollar,79378.25
+9057,Kuwait,Real GDP per capita,2000,US Dollar,68505.79
+9058,Kuwait,Real GDP per capita,2001,US Dollar,67087.72
+9059,Kuwait,Real GDP per capita,2002,US Dollar,67989.05
+9060,Kuwait,Real GDP per capita,2003,US Dollar,78834.95
+9061,Kuwait,Real GDP per capita,2004,US Dollar,85784.03
+9062,Kuwait,Real GDP per capita,2005,US Dollar,91578.78
+9063,Kuwait,Real GDP per capita,2006,US Dollar,94297.44
+9064,Kuwait,Real GDP per capita,2007,US Dollar,94910.87
+9065,Kuwait,Real GDP per capita,2008,US Dollar,91803.06
+9066,Kuwait,Real GDP per capita,2009,US Dollar,80265.36
+9067,Kuwait,Real GDP per capita,2010,US Dollar,73682.87
+9068,Kuwait,Real GDP per capita,2011,US Dollar,75892.64
+9069,Kuwait,Real GDP per capita,2012,US Dollar,76047.89
+9070,Kuwait,Real GDP per capita,2013,US Dollar,72585.89
+9071,Kuwait,Real GDP per capita,2014,US Dollar,69398.99
+9072,Kuwait,Real GDP per capita,2015,US Dollar,67091.14
+9073,Kuwait,Real GDP per capita,2016,US Dollar,67468.81
+9148,Guatemala,Real GDP per capita,1990,US Dollar,4997.597
+9149,Guatemala,Real GDP per capita,1995,US Dollar,5484.8769999999995
+9150,Guatemala,Real GDP per capita,2000,US Dollar,5947.9169999999995
+9151,Guatemala,Real GDP per capita,2001,US Dollar,5946.7
+9152,Guatemala,Real GDP per capita,2002,US Dollar,6033.007
+9153,Guatemala,Real GDP per capita,2003,US Dollar,6041.38
+9154,Guatemala,Real GDP per capita,2004,US Dollar,6087.446
+9155,Guatemala,Real GDP per capita,2005,US Dollar,6142.339
+9156,Guatemala,Real GDP per capita,2006,US Dollar,6327.3640000000005
+9157,Guatemala,Real GDP per capita,2007,US Dollar,6577.348000000001
+9158,Guatemala,Real GDP per capita,2008,US Dollar,6644.710999999999
+9159,Guatemala,Real GDP per capita,2009,US Dollar,6535.075
+9160,Guatemala,Real GDP per capita,2010,US Dollar,6578.246999999999
+9161,Guatemala,Real GDP per capita,2011,US Dollar,6706.0419999999995
+9162,Guatemala,Real GDP per capita,2012,US Dollar,6759.549
+9163,Guatemala,Real GDP per capita,2013,US Dollar,6863.3240000000005
+9164,Guatemala,Real GDP per capita,2014,US Dollar,7002.846
+9165,Guatemala,Real GDP per capita,2015,US Dollar,7145.196
+9166,Guatemala,Real GDP per capita,2016,US Dollar,7217.749
+9546,Cambodia,Real GDP per capita,1995,US Dollar,1080.609
+9547,Cambodia,Real GDP per capita,2000,US Dollar,1348.135
+9548,Cambodia,Real GDP per capita,2001,US Dollar,1428.5839999999998
+9549,Cambodia,Real GDP per capita,2002,US Dollar,1494.5810000000001
+9550,Cambodia,Real GDP per capita,2003,US Dollar,1594.1529999999998
+9551,Cambodia,Real GDP per capita,2004,US Dollar,1730.6860000000001
+9552,Cambodia,Real GDP per capita,2005,US Dollar,1929.455
+9553,Cambodia,Real GDP per capita,2006,US Dollar,2104.875
+9554,Cambodia,Real GDP per capita,2007,US Dollar,2285.5389999999998
+9555,Cambodia,Real GDP per capita,2008,US Dollar,2402.672
+9556,Cambodia,Real GDP per capita,2009,US Dollar,2368.966
+9557,Cambodia,Real GDP per capita,2010,US Dollar,2471.891
+9558,Cambodia,Real GDP per capita,2011,US Dollar,2604.927
+9559,Cambodia,Real GDP per capita,2012,US Dollar,2750.225
+9560,Cambodia,Real GDP per capita,2013,US Dollar,2906.163
+9561,Cambodia,Real GDP per capita,2014,US Dollar,3061.119
+9562,Cambodia,Real GDP per capita,2015,US Dollar,3224.381
+9563,Cambodia,Real GDP per capita,2016,US Dollar,3395.031
+9583,Peru,Real GDP per capita,1990,US Dollar,6076.562
+9584,Peru,Real GDP per capita,1995,US Dollar,6242.523
+9585,Peru,Real GDP per capita,2000,US Dollar,6849.576
+9586,Peru,Real GDP per capita,2001,US Dollar,6938.914000000001
+9587,Peru,Real GDP per capita,2002,US Dollar,6892.395
+9588,Peru,Real GDP per capita,2003,US Dollar,7167.774
+9589,Peru,Real GDP per capita,2004,US Dollar,7368.504
+9590,Peru,Real GDP per capita,2005,US Dollar,7630.731
+9591,Peru,Real GDP per capita,2006,US Dollar,7997.512
+9592,Peru,Real GDP per capita,2007,US Dollar,8474.119
+9593,Peru,Real GDP per capita,2008,US Dollar,9134.752
+9594,Peru,Real GDP per capita,2009,US Dollar,9120.369
+9595,Peru,Real GDP per capita,2010,US Dollar,9755.146
+9596,Peru,Real GDP per capita,2011,US Dollar,10237.72
+9597,Peru,Real GDP per capita,2012,US Dollar,10722.53
+9598,Peru,Real GDP per capita,2013,US Dollar,11199.03
+9599,Peru,Real GDP per capita,2014,US Dollar,11311.84
+9600,Peru,Real GDP per capita,2015,US Dollar,11523.7
+9601,Peru,Real GDP per capita,2016,US Dollar,11813.11
+9679,Libya,Real GDP per capita,1990,US Dollar,23909.55
+9680,Libya,Real GDP per capita,1995,US Dollar,20729.02
+9681,Libya,Real GDP per capita,2000,US Dollar,21478.11
+9682,Libya,Real GDP per capita,2001,US Dollar,20770.55
+9683,Libya,Real GDP per capita,2002,US Dollar,20247.8
+9684,Libya,Real GDP per capita,2003,US Dollar,22522.9
+9685,Libya,Real GDP per capita,2004,US Dollar,23161.53
+9686,Libya,Real GDP per capita,2005,US Dollar,25517.66
+9687,Libya,Real GDP per capita,2006,US Dollar,26766.37
+9688,Libya,Real GDP per capita,2007,US Dollar,28042.65
+9689,Libya,Real GDP per capita,2008,US Dollar,28397.22
+9690,Libya,Real GDP per capita,2009,US Dollar,27859.98
+9691,Libya,Real GDP per capita,2010,US Dollar,29030.84
+9692,Libya,Real GDP per capita,2011,US Dollar,10966.38
+9693,Libya,Real GDP per capita,2012,US Dollar,22103.94
+9694,Libya,Real GDP per capita,2013,US Dollar,19161.44
+9695,Libya,Real GDP per capita,2014,US Dollar,14578.99
+9696,Libya,Real GDP per capita,2015,US Dollar,13051.36
+9931,Lao People's Democratic Republic,Real GDP per capita,1990,US Dollar,1673.483
+9932,Lao People's Democratic Republic,Real GDP per capita,1995,US Dollar,1982.672
+9933,Lao People's Democratic Republic,Real GDP per capita,2000,US Dollar,2434.756
+9934,Lao People's Democratic Republic,Real GDP per capita,2001,US Dollar,2534.244
+9935,Lao People's Democratic Republic,Real GDP per capita,2002,US Dollar,2643.855
+9936,Lao People's Democratic Republic,Real GDP per capita,2003,US Dollar,2762.8540000000003
+9937,Lao People's Democratic Republic,Real GDP per capita,2004,US Dollar,2894.44
+9938,Lao People's Democratic Republic,Real GDP per capita,2005,US Dollar,3051.986
+9939,Lao People's Democratic Republic,Real GDP per capita,2006,US Dollar,3261.018
+9940,Lao People's Democratic Republic,Real GDP per capita,2007,US Dollar,3449.525
+9941,Lao People's Democratic Republic,Real GDP per capita,2008,US Dollar,3656.514
+9942,Lao People's Democratic Republic,Real GDP per capita,2009,US Dollar,3867.0209999999997
+9943,Lao People's Democratic Republic,Real GDP per capita,2010,US Dollar,4133.442
+9944,Lao People's Democratic Republic,Real GDP per capita,2011,US Dollar,4404.221
+9945,Lao People's Democratic Republic,Real GDP per capita,2012,US Dollar,4697.13
+9946,Lao People's Democratic Republic,Real GDP per capita,2013,US Dollar,5012.111
+9947,Lao People's Democratic Republic,Real GDP per capita,2014,US Dollar,5326.51
+9948,Lao People's Democratic Republic,Real GDP per capita,2015,US Dollar,5638.643
+9949,Lao People's Democratic Republic,Real GDP per capita,2016,US Dollar,5950.37
+10178,Algeria,Real GDP per capita,1990,US Dollar,10029.76
+10179,Algeria,Real GDP per capita,1995,US Dollar,9107.386999999999
+10180,Algeria,Real GDP per capita,2000,US Dollar,10004.45
+10181,Algeria,Real GDP per capita,2001,US Dollar,10172.17
+10182,Algeria,Real GDP per capita,2002,US Dollar,10607.48
+10183,Algeria,Real GDP per capita,2003,US Dollar,11228.08
+10184,Algeria,Real GDP per capita,2004,US Dollar,11558.54
+10185,Algeria,Real GDP per capita,2005,US Dollar,12073.22
+10186,Algeria,Real GDP per capita,2006,US Dollar,12098.69
+10187,Algeria,Real GDP per capita,2007,US Dollar,12316.37
+10188,Algeria,Real GDP per capita,2008,US Dollar,12404.3
+10189,Algeria,Real GDP per capita,2009,US Dollar,12391.7
+10190,Algeria,Real GDP per capita,2010,US Dollar,12610.25
+10191,Algeria,Real GDP per capita,2011,US Dollar,12727.57
+10192,Algeria,Real GDP per capita,2012,US Dollar,12895.71
+10193,Algeria,Real GDP per capita,2013,US Dollar,12985.51
+10194,Algeria,Real GDP per capita,2014,US Dollar,13210.59
+10195,Algeria,Real GDP per capita,2015,US Dollar,13447.09
+10196,Algeria,Real GDP per capita,2016,US Dollar,13639.57
+10427,Jamaica,Real GDP per capita,1990,US Dollar,7138.366
+10428,Jamaica,Real GDP per capita,1995,US Dollar,8276.549
+10429,Jamaica,Real GDP per capita,2000,US Dollar,7770.82
+10430,Jamaica,Real GDP per capita,2001,US Dollar,7816.063
+10431,Jamaica,Real GDP per capita,2002,US Dollar,7917.647
+10432,Jamaica,Real GDP per capita,2003,US Dollar,8156.295
+10433,Jamaica,Real GDP per capita,2004,US Dollar,8215.0
+10434,Jamaica,Real GDP per capita,2005,US Dollar,8240.423
+10435,Jamaica,Real GDP per capita,2006,US Dollar,8431.383
+10436,Jamaica,Real GDP per capita,2007,US Dollar,8505.315999999999
+10437,Jamaica,Real GDP per capita,2008,US Dollar,8391.965
+10438,Jamaica,Real GDP per capita,2009,US Dollar,7988.078
+10439,Jamaica,Real GDP per capita,2010,US Dollar,7834.271
+10440,Jamaica,Real GDP per capita,2011,US Dollar,7935.321
+10441,Jamaica,Real GDP per capita,2012,US Dollar,7853.889
+10442,Jamaica,Real GDP per capita,2013,US Dollar,7863.1269999999995
+10443,Jamaica,Real GDP per capita,2014,US Dollar,7888.378000000001
+10444,Jamaica,Real GDP per capita,2015,US Dollar,7931.505
+10445,Jamaica,Real GDP per capita,2016,US Dollar,8014.156999999999
+10774,Puerto Rico,Real GDP per capita,1990,US Dollar,21895.32
+10775,Puerto Rico,Real GDP per capita,1995,US Dollar,25455.54
+10776,Puerto Rico,Real GDP per capita,2000,US Dollar,30487.01
+10777,Puerto Rico,Real GDP per capita,2001,US Dollar,32386.8
+10778,Puerto Rico,Real GDP per capita,2002,US Dollar,32717.01
+10779,Puerto Rico,Real GDP per capita,2003,US Dollar,32810.2
+10780,Puerto Rico,Real GDP per capita,2004,US Dollar,35783.74
+10781,Puerto Rico,Real GDP per capita,2005,US Dollar,35174.77
+10782,Puerto Rico,Real GDP per capita,2006,US Dollar,34773.94
+10783,Puerto Rico,Real GDP per capita,2007,US Dollar,34460.19
+10784,Puerto Rico,Real GDP per capita,2008,US Dollar,33910.39
+10785,Puerto Rico,Real GDP per capita,2009,US Dollar,33332.7
+10786,Puerto Rico,Real GDP per capita,2010,US Dollar,33281.03
+10787,Puerto Rico,Real GDP per capita,2011,US Dollar,33248.57
+10788,Puerto Rico,Real GDP per capita,2012,US Dollar,33342.92
+10789,Puerto Rico,Real GDP per capita,2013,US Dollar,33320.39
+10790,Puerto Rico,Real GDP per capita,2014,US Dollar,32995.39
+10791,Puerto Rico,Real GDP per capita,2015,US Dollar,32690.31
+10792,Puerto Rico,Real GDP per capita,2016,US Dollar,31888.92
+10926,Armenia,Real GDP per capita,1990,US Dollar,3666.7329999999997
+10927,Armenia,Real GDP per capita,1995,US Dollar,2129.3979999999997
+10928,Armenia,Real GDP per capita,2000,US Dollar,2865.5840000000003
+10929,Armenia,Real GDP per capita,2001,US Dollar,3158.921
+10930,Armenia,Real GDP per capita,2002,US Dollar,3595.216
+10931,Armenia,Real GDP per capita,2003,US Dollar,4121.874
+10932,Armenia,Real GDP per capita,2004,US Dollar,4579.436
+10933,Armenia,Real GDP per capita,2005,US Dollar,5248.257
+10934,Armenia,Real GDP per capita,2006,US Dollar,5986.625
+10935,Armenia,Real GDP per capita,2007,US Dollar,6868.812
+10936,Armenia,Real GDP per capita,2008,US Dollar,7405.465
+10937,Armenia,Real GDP per capita,2009,US Dollar,6400.812
+10938,Armenia,Real GDP per capita,2010,US Dollar,6567.258000000001
+10939,Armenia,Real GDP per capita,2011,US Dollar,6880.057
+10940,Armenia,Real GDP per capita,2012,US Dollar,7359.191999999999
+10941,Armenia,Real GDP per capita,2013,US Dollar,7571.603
+10942,Armenia,Real GDP per capita,2014,US Dollar,7809.8730000000005
+10943,Armenia,Real GDP per capita,2015,US Dollar,8030.141
+10944,Armenia,Real GDP per capita,2016,US Dollar,8024.562
+11003,Tajikistan,Real GDP per capita,1990,US Dollar,3570.94
+11004,Tajikistan,Real GDP per capita,1995,US Dollar,1244.241
+11005,Tajikistan,Real GDP per capita,2000,US Dollar,1156.002
+11006,Tajikistan,Real GDP per capita,2001,US Dollar,1251.5810000000001
+11007,Tajikistan,Real GDP per capita,2002,US Dollar,1360.8210000000001
+11008,Tajikistan,Real GDP per capita,2003,US Dollar,1480.8410000000001
+11009,Tajikistan,Real GDP per capita,2004,US Dollar,1600.285
+11010,Tajikistan,Real GDP per capita,2005,US Dollar,1672.295
+11011,Tajikistan,Real GDP per capita,2006,US Dollar,1751.94
+11012,Tajikistan,Real GDP per capita,2007,US Dollar,1848.501
+11013,Tajikistan,Real GDP per capita,2008,US Dollar,1951.6
+11014,Tajikistan,Real GDP per capita,2009,US Dollar,1981.549
+11015,Tajikistan,Real GDP per capita,2010,US Dollar,2063.73
+11016,Tajikistan,Real GDP per capita,2011,US Dollar,2167.013
+11017,Tajikistan,Real GDP per capita,2012,US Dollar,2277.351
+11018,Tajikistan,Real GDP per capita,2013,US Dollar,2391.217
+11019,Tajikistan,Real GDP per capita,2014,US Dollar,2494.988
+11020,Tajikistan,Real GDP per capita,2015,US Dollar,2587.174
+11021,Tajikistan,Real GDP per capita,2016,US Dollar,2706.702
+11270,Cuba,Real GDP per capita,1990,US Dollar,13417.02
+11271,Cuba,Real GDP per capita,1995,US Dollar,9029.856
+11272,Cuba,Real GDP per capita,2000,US Dollar,11027.07
+11273,Cuba,Real GDP per capita,2001,US Dollar,11342.2
+11274,Cuba,Real GDP per capita,2002,US Dollar,11471.74
+11275,Cuba,Real GDP per capita,2003,US Dollar,11878.29
+11276,Cuba,Real GDP per capita,2004,US Dollar,12539.34
+11277,Cuba,Real GDP per capita,2005,US Dollar,13922.06
+11278,Cuba,Real GDP per capita,2006,US Dollar,15585.73
+11279,Cuba,Real GDP per capita,2007,US Dollar,16706.05
+11280,Cuba,Real GDP per capita,2008,US Dollar,17384.99
+11281,Cuba,Real GDP per capita,2009,US Dollar,17623.2
+11282,Cuba,Real GDP per capita,2010,US Dollar,18021.63
+11283,Cuba,Real GDP per capita,2011,US Dollar,18491.1
+11284,Cuba,Real GDP per capita,2012,US Dollar,19002.57
+11285,Cuba,Real GDP per capita,2013,US Dollar,19473.08
+11286,Cuba,Real GDP per capita,2014,US Dollar,19629.77
+11287,Cuba,Real GDP per capita,2015,US Dollar,20462.54
+11449,Kazakhstan,Real GDP per capita,1990,US Dollar,12637.87
+11450,Kazakhstan,Real GDP per capita,1995,US Dollar,8004.39
+11451,Kazakhstan,Real GDP per capita,2000,US Dollar,9637.755
+11452,Kazakhstan,Real GDP per capita,2001,US Dollar,10951.5
+11453,Kazakhstan,Real GDP per capita,2002,US Dollar,11972.47
+11454,Kazakhstan,Real GDP per capita,2003,US Dollar,12977.08
+11455,Kazakhstan,Real GDP per capita,2004,US Dollar,14080.9
+11456,Kazakhstan,Real GDP per capita,2005,US Dollar,15292.15
+11457,Kazakhstan,Real GDP per capita,2006,US Dollar,16767.22
+11458,Kazakhstan,Real GDP per capita,2007,US Dollar,18086.04
+11459,Kazakhstan,Real GDP per capita,2008,US Dollar,18496.28
+11460,Kazakhstan,Real GDP per capita,2009,US Dollar,18506.59
+11461,Kazakhstan,Real GDP per capita,2010,US Dollar,19597.45
+11462,Kazakhstan,Real GDP per capita,2011,US Dollar,20733.6
+11463,Kazakhstan,Real GDP per capita,2012,US Dollar,21377.22
+11464,Kazakhstan,Real GDP per capita,2013,US Dollar,22283.13
+11465,Kazakhstan,Real GDP per capita,2014,US Dollar,22846.56
+11466,Kazakhstan,Real GDP per capita,2015,US Dollar,22779.61
+11467,Kazakhstan,Real GDP per capita,2016,US Dollar,22725.36
+11622,Viet Nam,Real GDP per capita,1990,US Dollar,1423.4879999999998
+11623,Viet Nam,Real GDP per capita,1995,US Dollar,1915.234
+11624,Viet Nam,Real GDP per capita,2000,US Dollar,2510.277
+11625,Viet Nam,Real GDP per capita,2001,US Dollar,2637.667
+11626,Viet Nam,Real GDP per capita,2002,US Dollar,2776.448
+11627,Viet Nam,Real GDP per capita,2003,US Dollar,2939.619
+11628,Viet Nam,Real GDP per capita,2004,US Dollar,3131.64
+11629,Viet Nam,Real GDP per capita,2005,US Dollar,3336.7870000000003
+11630,Viet Nam,Real GDP per capita,2006,US Dollar,3536.664
+11631,Viet Nam,Real GDP per capita,2007,US Dollar,3753.742
+11632,Viet Nam,Real GDP per capita,2008,US Dollar,3928.843
+11633,Viet Nam,Real GDP per capita,2009,US Dollar,4100.363
+11634,Viet Nam,Real GDP per capita,2010,US Dollar,4318.998
+11635,Viet Nam,Real GDP per capita,2011,US Dollar,4539.052
+11636,Viet Nam,Real GDP per capita,2012,US Dollar,4723.612
+11637,Viet Nam,Real GDP per capita,2013,US Dollar,4922.8009999999995
+11638,Viet Nam,Real GDP per capita,2014,US Dollar,5158.3279999999995
+11639,Viet Nam,Real GDP per capita,2015,US Dollar,5442.49
+11640,Viet Nam,Real GDP per capita,2016,US Dollar,5719.541
+11670,Belarus,Real GDP per capita,1990,US Dollar,8162.611
+11671,Belarus,Real GDP per capita,1995,US Dollar,5368.774
+11672,Belarus,Real GDP per capita,2000,US Dollar,7444.210999999999
+11673,Belarus,Real GDP per capita,2001,US Dollar,7843.861999999999
+11674,Belarus,Real GDP per capita,2002,US Dollar,8294.914
+11675,Belarus,Real GDP per capita,2003,US Dollar,8940.289
+11676,Belarus,Real GDP per capita,2004,US Dollar,10028.95
+11677,Belarus,Real GDP per capita,2005,US Dollar,11034.8
+11678,Belarus,Real GDP per capita,2006,US Dollar,12197.23
+11679,Belarus,Real GDP per capita,2007,US Dollar,13299.22
+11680,Belarus,Real GDP per capita,2008,US Dollar,14701.27
+11681,Belarus,Real GDP per capita,2009,US Dollar,14763.42
+11682,Belarus,Real GDP per capita,2010,US Dollar,15936.16
+11683,Belarus,Real GDP per capita,2011,US Dollar,16827.73
+11684,Belarus,Real GDP per capita,2012,US Dollar,17113.25
+11685,Belarus,Real GDP per capita,2013,US Dollar,17275.41
+11686,Belarus,Real GDP per capita,2014,US Dollar,17562.06
+11687,Belarus,Real GDP per capita,2015,US Dollar,16887.86
+11688,Belarus,Real GDP per capita,2016,US Dollar,16450.44
+11880,Trinidad and Tobago,Real GDP per capita,1990,US Dollar,12007.5
+11881,Trinidad and Tobago,Real GDP per capita,1995,US Dollar,12611.09
+11882,Trinidad and Tobago,Real GDP per capita,2000,US Dollar,17953.29
+11883,Trinidad and Tobago,Real GDP per capita,2001,US Dollar,18637.07
+11884,Trinidad and Tobago,Real GDP per capita,2002,US Dollar,20030.33
+11885,Trinidad and Tobago,Real GDP per capita,2003,US Dollar,22812.04
+11886,Trinidad and Tobago,Real GDP per capita,2004,US Dollar,24501.8
+11887,Trinidad and Tobago,Real GDP per capita,2005,US Dollar,25894.72
+11888,Trinidad and Tobago,Real GDP per capita,2006,US Dollar,29175.21
+11889,Trinidad and Tobago,Real GDP per capita,2007,US Dollar,30419.49
+11890,Trinidad and Tobago,Real GDP per capita,2008,US Dollar,31304.7
+11891,Trinidad and Tobago,Real GDP per capita,2009,US Dollar,29788.78
+11892,Trinidad and Tobago,Real GDP per capita,2010,US Dollar,30628.54
+11893,Trinidad and Tobago,Real GDP per capita,2011,US Dollar,30385.37
+11894,Trinidad and Tobago,Real GDP per capita,2012,US Dollar,30622.55
+11895,Trinidad and Tobago,Real GDP per capita,2013,US Dollar,31279.96
+11896,Trinidad and Tobago,Real GDP per capita,2014,US Dollar,30956.42
+11897,Trinidad and Tobago,Real GDP per capita,2015,US Dollar,30650.64
+11898,Trinidad and Tobago,Real GDP per capita,2016,US Dollar,29848.5
+12013,Ecuador,Real GDP per capita,1990,US Dollar,7320.876
+12014,Ecuador,Real GDP per capita,1995,US Dollar,7569.901
+12015,Ecuador,Real GDP per capita,2000,US Dollar,7238.175
+12016,Ecuador,Real GDP per capita,2001,US Dollar,7397.526
+12017,Ecuador,Real GDP per capita,2002,US Dollar,7571.397
+12018,Ecuador,Real GDP per capita,2003,US Dollar,7650.244000000001
+12019,Ecuador,Real GDP per capita,2004,US Dollar,8143.566999999999
+12020,Ecuador,Real GDP per capita,2005,US Dollar,8433.643
+12021,Ecuador,Real GDP per capita,2006,US Dollar,8658.612
+12022,Ecuador,Real GDP per capita,2007,US Dollar,8700.015
+12023,Ecuador,Real GDP per capita,2008,US Dollar,9098.025
+12024,Ecuador,Real GDP per capita,2009,US Dollar,8997.783000000001
+12025,Ecuador,Real GDP per capita,2010,US Dollar,9163.158000000001
+12026,Ecuador,Real GDP per capita,2011,US Dollar,9726.096
+12027,Ecuador,Real GDP per capita,2012,US Dollar,10113.38
+12028,Ecuador,Real GDP per capita,2013,US Dollar,10449.72
+12029,Ecuador,Real GDP per capita,2014,US Dollar,10680.9
+12030,Ecuador,Real GDP per capita,2015,US Dollar,10531.69
+12031,Ecuador,Real GDP per capita,2016,US Dollar,10213.4
+12032,United Arab Emirates,Real GDP per capita,1990,US Dollar,108820.0
+12033,United Arab Emirates,Real GDP per capita,1995,US Dollar,99502.58
+12034,United Arab Emirates,Real GDP per capita,2000,US Dollar,101136.3
+12035,United Arab Emirates,Real GDP per capita,2001,US Dollar,97275.6
+12036,United Arab Emirates,Real GDP per capita,2002,US Dollar,94494.74
+12037,United Arab Emirates,Real GDP per capita,2003,US Dollar,96362.34
+12038,United Arab Emirates,Real GDP per capita,2004,US Dollar,96644.51
+12039,United Arab Emirates,Real GDP per capita,2005,US Dollar,90457.91
+12040,United Arab Emirates,Real GDP per capita,2006,US Dollar,86800.2
+12041,United Arab Emirates,Real GDP per capita,2007,US Dollar,77679.27
+12042,United Arab Emirates,Real GDP per capita,2008,US Dollar,70273.4
+12043,United Arab Emirates,Real GDP per capita,2009,US Dollar,59882.56
+12044,United Arab Emirates,Real GDP per capita,2010,US Dollar,56415.08
+12045,United Arab Emirates,Real GDP per capita,2011,US Dollar,57222.58
+12046,United Arab Emirates,Real GDP per capita,2012,US Dollar,58603.08
+12047,United Arab Emirates,Real GDP per capita,2013,US Dollar,61267.79
+12048,United Arab Emirates,Real GDP per capita,2014,US Dollar,62829.7
+12049,United Arab Emirates,Real GDP per capita,2015,US Dollar,64640.79
+12050,United Arab Emirates,Real GDP per capita,2016,US Dollar,65775.05
+12051,Singapore,Real GDP per capita,1990,US Dollar,34026.73
+12052,Singapore,Real GDP per capita,1995,US Dollar,44584.71
+12053,Singapore,Real GDP per capita,2000,US Dollar,52127.57
+12054,Singapore,Real GDP per capita,2001,US Dollar,50284.5
+12055,Singapore,Real GDP per capita,2002,US Dollar,50976.23
+12056,Singapore,Real GDP per capita,2003,US Dollar,51757.73
+12057,Singapore,Real GDP per capita,2004,US Dollar,55133.53
+12058,Singapore,Real GDP per capita,2005,US Dollar,57665.86
+12059,Singapore,Real GDP per capita,2006,US Dollar,61130.09
+12060,Singapore,Real GDP per capita,2007,US Dollar,64999.87
+12061,Singapore,Real GDP per capita,2008,US Dollar,64544.55
+12062,Singapore,Real GDP per capita,2009,US Dollar,62676.92
+12063,Singapore,Real GDP per capita,2010,US Dollar,70681.35
+12064,Singapore,Real GDP per capita,2011,US Dollar,73604.7
+12065,Singapore,Real GDP per capita,2012,US Dollar,75077.17
+12066,Singapore,Real GDP per capita,2013,US Dollar,77510.24
+12067,Singapore,Real GDP per capita,2014,US Dollar,78989.76
+12068,Singapore,Real GDP per capita,2015,US Dollar,79251.99
+12069,Singapore,Real GDP per capita,2016,US Dollar,79580.54
+12089,Malta,Real GDP per capita,1990,US Dollar,17748.92
+12090,Malta,Real GDP per capita,1995,US Dollar,22044.54
+12091,Malta,Real GDP per capita,2000,US Dollar,23764.32
+12092,Malta,Real GDP per capita,2001,US Dollar,23759.9
+12093,Malta,Real GDP per capita,2002,US Dollar,24337.54
+12094,Malta,Real GDP per capita,2003,US Dollar,24838.64
+12095,Malta,Real GDP per capita,2004,US Dollar,24837.8
+12096,Malta,Real GDP per capita,2005,US Dollar,25665.18
+12097,Malta,Real GDP per capita,2006,US Dollar,26020.63
+12098,Malta,Real GDP per capita,2007,US Dollar,26941.82
+12099,Malta,Real GDP per capita,2008,US Dollar,27721.56
+12100,Malta,Real GDP per capita,2009,US Dollar,26913.78
+12101,Malta,Real GDP per capita,2010,US Dollar,27729.08
+12102,Malta,Real GDP per capita,2011,US Dollar,27945.27
+12103,Malta,Real GDP per capita,2012,US Dollar,28527.62
+12104,Malta,Real GDP per capita,2013,US Dollar,29687.98
+12105,Malta,Real GDP per capita,2014,US Dollar,31924.64
+12106,Malta,Real GDP per capita,2015,US Dollar,34913.89
+12107,Malta,Real GDP per capita,2016,US Dollar,36680.25
+12108,Malta,Real GDP per capita,2017,US Dollar,38957.73
+12128,Bulgaria,Real GDP per capita,1990,US Dollar,10186.94
+12129,Bulgaria,Real GDP per capita,1995,US Dollar,8217.503
+12130,Bulgaria,Real GDP per capita,2000,US Dollar,8826.27
+12131,Bulgaria,Real GDP per capita,2001,US Dollar,9236.698
+12132,Bulgaria,Real GDP per capita,2002,US Dollar,9865.326
+12133,Bulgaria,Real GDP per capita,2003,US Dollar,10456.69
+12134,Bulgaria,Real GDP per capita,2004,US Dollar,11216.75
+12135,Bulgaria,Real GDP per capita,2005,US Dollar,12108.82
+12136,Bulgaria,Real GDP per capita,2006,US Dollar,13041.02
+12137,Bulgaria,Real GDP per capita,2007,US Dollar,14106.13
+12138,Bulgaria,Real GDP per capita,2008,US Dollar,15068.32
+12139,Bulgaria,Real GDP per capita,2009,US Dollar,14633.77
+12140,Bulgaria,Real GDP per capita,2010,US Dollar,14930.52
+12141,Bulgaria,Real GDP per capita,2011,US Dollar,15316.52
+12142,Bulgaria,Real GDP per capita,2012,US Dollar,15417.31
+12143,Bulgaria,Real GDP per capita,2013,US Dollar,15644.9
+12144,Bulgaria,Real GDP per capita,2014,US Dollar,15949.37
+12145,Bulgaria,Real GDP per capita,2015,US Dollar,16629.36
+12146,Bulgaria,Real GDP per capita,2016,US Dollar,17396.0
+12257,Panama,Real GDP per capita,1990,US Dollar,7657.5830000000005
+12258,Panama,Real GDP per capita,1995,US Dollar,9024.055
+12259,Panama,Real GDP per capita,2000,US Dollar,10357.72
+12260,Panama,Real GDP per capita,2001,US Dollar,10217.14
+12261,Panama,Real GDP per capita,2002,US Dollar,10247.29
+12262,Panama,Real GDP per capita,2003,US Dollar,10478.9
+12263,Panama,Real GDP per capita,2004,US Dollar,11059.1
+12264,Panama,Real GDP per capita,2005,US Dollar,11637.54
+12265,Panama,Real GDP per capita,2006,US Dollar,12415.43
+12266,Panama,Real GDP per capita,2007,US Dollar,13654.11
+12267,Panama,Real GDP per capita,2008,US Dollar,14566.52
+12268,Panama,Real GDP per capita,2009,US Dollar,14538.39
+12269,Panama,Real GDP per capita,2010,US Dollar,15107.43
+12270,Panama,Real GDP per capita,2011,US Dollar,16597.21
+12271,Panama,Real GDP per capita,2012,US Dollar,17816.05
+12272,Panama,Real GDP per capita,2013,US Dollar,18671.94
+12273,Panama,Real GDP per capita,2014,US Dollar,19469.86
+12274,Panama,Real GDP per capita,2015,US Dollar,20256.09
+12275,Panama,Real GDP per capita,2016,US Dollar,20903.37
+12333,Cameroon,Real GDP per capita,1990,US Dollar,2959.3920000000003
+12334,Cameroon,Real GDP per capita,1995,US Dollar,2335.528
+12335,Cameroon,Real GDP per capita,2000,US Dollar,2551.101
+12336,Cameroon,Real GDP per capita,2001,US Dollar,2594.97
+12337,Cameroon,Real GDP per capita,2002,US Dollar,2635.4790000000003
+12338,Cameroon,Real GDP per capita,2003,US Dollar,2684.265
+12339,Cameroon,Real GDP per capita,2004,US Dollar,2791.03
+12340,Cameroon,Real GDP per capita,2005,US Dollar,2771.96
+12341,Cameroon,Real GDP per capita,2006,US Dollar,2791.099
+12342,Cameroon,Real GDP per capita,2007,US Dollar,2849.005
+12343,Cameroon,Real GDP per capita,2008,US Dollar,2868.618
+12344,Cameroon,Real GDP per capita,2009,US Dollar,2852.405
+12345,Cameroon,Real GDP per capita,2010,US Dollar,2870.563
+12346,Cameroon,Real GDP per capita,2011,US Dollar,2908.988
+12347,Cameroon,Real GDP per capita,2012,US Dollar,2960.091
+12348,Cameroon,Real GDP per capita,2013,US Dollar,3037.4590000000003
+12349,Cameroon,Real GDP per capita,2014,US Dollar,3131.703
+12350,Cameroon,Real GDP per capita,2015,US Dollar,3222.531
+12351,Cameroon,Real GDP per capita,2016,US Dollar,3279.116
+12461,Senegal,Real GDP per capita,1990,US Dollar,1807.549
+12462,Senegal,Real GDP per capita,1995,US Dollar,1730.102
+12463,Senegal,Real GDP per capita,2000,US Dollar,1871.888
+12464,Senegal,Real GDP per capita,2001,US Dollar,1909.26
+12465,Senegal,Real GDP per capita,2002,US Dollar,1873.266
+12466,Senegal,Real GDP per capita,2003,US Dollar,1947.122
+12467,Senegal,Real GDP per capita,2004,US Dollar,2007.817
+12468,Senegal,Real GDP per capita,2005,US Dollar,2065.045
+12469,Senegal,Real GDP per capita,2006,US Dollar,2059.945
+12470,Senegal,Real GDP per capita,2007,US Dollar,2104.0
+12471,Senegal,Real GDP per capita,2008,US Dollar,2122.4210000000003
+12472,Senegal,Real GDP per capita,2009,US Dollar,2113.757
+12473,Senegal,Real GDP per capita,2010,US Dollar,2139.8160000000003
+12474,Senegal,Real GDP per capita,2011,US Dollar,2114.524
+12475,Senegal,Real GDP per capita,2012,US Dollar,2142.935
+12476,Senegal,Real GDP per capita,2013,US Dollar,2151.542
+12477,Senegal,Real GDP per capita,2014,US Dollar,2173.674
+12478,Senegal,Real GDP per capita,2015,US Dollar,2247.452
+12479,Senegal,Real GDP per capita,2016,US Dollar,2331.3179999999998
+12480,Syrian Arab Republic,Real GDP per capita,1990,US Dollar,4291.28
+12481,Syrian Arab Republic,Real GDP per capita,1995,US Dollar,5578.755999999999
+12482,Syrian Arab Republic,Real GDP per capita,2000,US Dollar,5195.344
+12483,Syrian Arab Republic,Real GDP per capita,2001,US Dollar,5272.293000000001
+12484,Syrian Arab Republic,Real GDP per capita,2002,US Dollar,5478.145
+12485,Syrian Arab Republic,Real GDP per capita,2003,US Dollar,5265.495
+12486,Syrian Arab Republic,Real GDP per capita,2004,US Dollar,5505.25
+12487,Syrian Arab Republic,Real GDP per capita,2005,US Dollar,5691.293000000001
+12488,Syrian Arab Republic,Real GDP per capita,2006,US Dollar,5782.719
+12489,Syrian Arab Republic,Real GDP per capita,2007,US Dollar,5887.594
+12490,Syrian Arab Republic,Real GDP per capita,2008,US Dollar,5941.321999999999
+12491,Syrian Arab Republic,Real GDP per capita,2009,US Dollar,6141.688
+12492,Syrian Arab Republic,Real GDP per capita,2010,US Dollar,6294.355
+12493,Syrian Arab Republic,Real GDP per capita,2011,US Dollar,5284.224
+12494,Syrian Arab Republic,Real GDP per capita,2012,US Dollar,4568.893
+12495,Syrian Arab Republic,Real GDP per capita,2013,US Dollar,3598.3390000000004
+12496,Syrian Arab Republic,Real GDP per capita,2014,US Dollar,2719.3540000000003
+12497,Syrian Arab Republic,Real GDP per capita,2015,US Dollar,2004.271
+12572,Côte d'Ivoire,Real GDP per capita,1990,US Dollar,3129.153
+12573,Côte d'Ivoire,Real GDP per capita,1995,US Dollar,2839.77
+12574,Côte d'Ivoire,Real GDP per capita,2000,US Dollar,2887.98
+12575,Côte d'Ivoire,Real GDP per capita,2001,US Dollar,2831.486
+12576,Côte d'Ivoire,Real GDP per capita,2002,US Dollar,2731.9429999999998
+12577,Côte d'Ivoire,Real GDP per capita,2003,US Dollar,2647.116
+12578,Côte d'Ivoire,Real GDP per capita,2004,US Dollar,2632.3179999999998
+12579,Côte d'Ivoire,Real GDP per capita,2005,US Dollar,2628.187
+12580,Côte d'Ivoire,Real GDP per capita,2006,US Dollar,2616.214
+12581,Côte d'Ivoire,Real GDP per capita,2007,US Dollar,2608.476
+12582,Côte d'Ivoire,Real GDP per capita,2008,US Dollar,2618.279
+12583,Côte d'Ivoire,Real GDP per capita,2009,US Dollar,2643.967
+12584,Côte d'Ivoire,Real GDP per capita,2010,US Dollar,2635.8379999999997
+12585,Côte d'Ivoire,Real GDP per capita,2011,US Dollar,2460.617
+12586,Côte d'Ivoire,Real GDP per capita,2012,US Dollar,2657.51
+12587,Côte d'Ivoire,Real GDP per capita,2013,US Dollar,2821.595
+12588,Côte d'Ivoire,Real GDP per capita,2014,US Dollar,2992.7459999999996
+12589,Côte d'Ivoire,Real GDP per capita,2015,US Dollar,3176.039
+12590,Côte d'Ivoire,Real GDP per capita,2016,US Dollar,3355.486
+12608,World,Real GDP per capita,1990,US Dollar,8579.138
+12609,World,Real GDP per capita,1995,US Dollar,8862.521
+12610,World,Real GDP per capita,2000,US Dollar,9951.533000000001
+12611,World,Real GDP per capita,2001,US Dollar,10066.11
+12612,World,Real GDP per capita,2002,US Dollar,10219.74
+12613,World,Real GDP per capita,2003,US Dollar,10469.59
+12614,World,Real GDP per capita,2004,US Dollar,10899.36
+12615,World,Real GDP per capita,2005,US Dollar,11279.27
+12616,World,Real GDP per capita,2006,US Dollar,11746.61
+12617,World,Real GDP per capita,2007,US Dollar,12238.91
+12618,World,Real GDP per capita,2008,US Dollar,12434.53
+12619,World,Real GDP per capita,2009,US Dollar,12250.46
+12620,World,Real GDP per capita,2010,US Dollar,12740.76
+12621,World,Real GDP per capita,2011,US Dollar,13091.17
+12622,World,Real GDP per capita,2012,US Dollar,13367.06
+12623,World,Real GDP per capita,2013,US Dollar,13645.85
+12624,World,Real GDP per capita,2014,US Dollar,13944.5
+12625,World,Real GDP per capita,2015,US Dollar,14226.61
+12644,Rwanda,Real GDP per capita,1990,US Dollar,847.3862
+12645,Rwanda,Real GDP per capita,1995,US Dollar,659.959
+12646,Rwanda,Real GDP per capita,2000,US Dollar,769.5934
+12647,Rwanda,Real GDP per capita,2001,US Dollar,804.6418
+12648,Rwanda,Real GDP per capita,2002,US Dollar,888.6804
+12649,Rwanda,Real GDP per capita,2003,US Dollar,893.2263
+12650,Rwanda,Real GDP per capita,2004,US Dollar,944.4366
+12651,Rwanda,Real GDP per capita,2005,US Dollar,1013.195
+12652,Rwanda,Real GDP per capita,2006,US Dollar,1080.905
+12653,Rwanda,Real GDP per capita,2007,US Dollar,1134.379
+12654,Rwanda,Real GDP per capita,2008,US Dollar,1227.0919999999999
+12655,Rwanda,Real GDP per capita,2009,US Dollar,1269.05
+12656,Rwanda,Real GDP per capita,2010,US Dollar,1325.7820000000002
+12657,Rwanda,Real GDP per capita,2011,US Dollar,1392.4370000000001
+12658,Rwanda,Real GDP per capita,2012,US Dollar,1477.211
+12659,Rwanda,Real GDP per capita,2013,US Dollar,1508.021
+12660,Rwanda,Real GDP per capita,2014,US Dollar,1582.844
+12661,Rwanda,Real GDP per capita,2015,US Dollar,1681.1770000000001
+12662,Rwanda,Real GDP per capita,2016,US Dollar,1737.87
+12761,G20,Real GDP per capita,1990,US Dollar,9953.287
+12762,G20,Real GDP per capita,1995,US Dollar,11142.93
+12763,G20,Real GDP per capita,2000,US Dollar,12735.37
+12764,G20,Real GDP per capita,2001,US Dollar,12903.13
+12765,G20,Real GDP per capita,2002,US Dollar,13117.92
+12766,G20,Real GDP per capita,2003,US Dollar,13386.6
+12767,G20,Real GDP per capita,2004,US Dollar,13872.22
+12768,G20,Real GDP per capita,2005,US Dollar,14347.17
+12769,G20,Real GDP per capita,2006,US Dollar,14934.05
+12770,G20,Real GDP per capita,2007,US Dollar,15558.7
+12771,G20,Real GDP per capita,2008,US Dollar,15802.54
+12772,G20,Real GDP per capita,2009,US Dollar,15556.4
+12773,G20,Real GDP per capita,2010,US Dollar,16219.04
+12774,G20,Real GDP per capita,2011,US Dollar,16747.68
+12775,G20,Real GDP per capita,2012,US Dollar,17111.52
+12776,G20,Real GDP per capita,2013,US Dollar,17517.01
+12777,G20,Real GDP per capita,2014,US Dollar,17991.84
+12778,G20,Real GDP per capita,2015,US Dollar,18479.68
+12779,G20,Real GDP per capita,2016,US Dollar,18898.68
+12857,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,1990,US Dollar,14272.02
+12858,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,1995,US Dollar,8447.716
+12859,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2000,US Dollar,9207.382
+12860,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2001,US Dollar,9778.583
+12861,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2002,US Dollar,10302.82
+12862,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2003,US Dollar,11103.95
+12863,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2004,US Dollar,11999.64
+12864,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2005,US Dollar,12809.79
+12865,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2006,US Dollar,13926.98
+12866,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2007,US Dollar,15153.47
+12867,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2008,US Dollar,15926.47
+12868,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2009,US Dollar,14843.79
+12869,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2010,US Dollar,15531.13
+12870,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2011,US Dollar,16215.21
+12871,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2012,US Dollar,16732.81
+12872,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2013,US Dollar,17072.7
+12873,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2014,US Dollar,17168.71
+12874,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2015,US Dollar,16716.23
+12875,"Eastern Europe, Caucasus and Central Asia",Real GDP per capita,2016,US Dollar,16717.97
+13015,G7,Real GDP per capita,1990,US Dollar,31965.42
+13016,G7,Real GDP per capita,1995,US Dollar,34229.68
+13017,G7,Real GDP per capita,2000,US Dollar,38713.19
+13018,G7,Real GDP per capita,2001,US Dollar,38965.76
+13019,G7,Real GDP per capita,2002,US Dollar,39235.0
+13020,G7,Real GDP per capita,2003,US Dollar,39747.96
+13021,G7,Real GDP per capita,2004,US Dollar,40670.71
+13022,G7,Real GDP per capita,2005,US Dollar,41446.53
+13023,G7,Real GDP per capita,2006,US Dollar,42236.61
+13024,G7,Real GDP per capita,2007,US Dollar,42826.09
+13025,G7,Real GDP per capita,2008,US Dollar,42476.2
+13026,G7,Real GDP per capita,2009,US Dollar,40645.11
+13027,G7,Real GDP per capita,2010,US Dollar,41560.88
+13028,G7,Real GDP per capita,2011,US Dollar,42015.55
+13029,G7,Real GDP per capita,2012,US Dollar,42393.99
+13030,G7,Real GDP per capita,2013,US Dollar,42784.0
+13031,G7,Real GDP per capita,2014,US Dollar,43438.11
+13032,G7,Real GDP per capita,2015,US Dollar,44188.89
+13033,G7,Real GDP per capita,2016,US Dollar,44632.89
+13034,G7,Real GDP per capita,2017,US Dollar,45385.39
+14534,Belize,Real GDP per capita,1990,US Dollar,5060.37
+14535,Belize,Real GDP per capita,1995,US Dollar,6081.76
+14536,Belize,Real GDP per capita,2000,US Dollar,6818.526
+14537,Belize,Real GDP per capita,2001,US Dollar,6945.158
+14538,Belize,Real GDP per capita,2002,US Dollar,7099.566999999999
+14539,Belize,Real GDP per capita,2003,US Dollar,7562.023
+14540,Belize,Real GDP per capita,2004,US Dollar,7714.221
+14541,Belize,Real GDP per capita,2005,US Dollar,7712.359
+14542,Belize,Real GDP per capita,2006,US Dollar,7858.554
+14543,Belize,Real GDP per capita,2007,US Dollar,7741.382
+14544,Belize,Real GDP per capita,2008,US Dollar,7788.818
+14545,Belize,Real GDP per capita,2009,US Dollar,7650.359
+14546,Belize,Real GDP per capita,2010,US Dollar,7715.95
+14547,Belize,Real GDP per capita,2011,US Dollar,7696.7880000000005
+14548,Belize,Real GDP per capita,2012,US Dollar,7812.954000000001
+14549,Belize,Real GDP per capita,2013,US Dollar,7743.594
+14550,Belize,Real GDP per capita,2014,US Dollar,7843.544
+14551,Belize,Real GDP per capita,2015,US Dollar,7898.262
+14552,Belize,Real GDP per capita,2016,US Dollar,7687.3009999999995
+14590,Mozambique,Real GDP per capita,1990,US Dollar,370.87699999999995
+14591,Mozambique,Real GDP per capita,1995,US Dollar,365.8812
+14592,Mozambique,Real GDP per capita,2000,US Dollar,550.2521
+14593,Mozambique,Real GDP per capita,2001,US Dollar,602.8629
+14594,Mozambique,Real GDP per capita,2002,US Dollar,637.0007
+14595,Mozambique,Real GDP per capita,2003,US Dollar,658.5583
+14596,Mozambique,Real GDP per capita,2004,US Dollar,689.1636
+14597,Mozambique,Real GDP per capita,2005,US Dollar,727.4058
+14598,Mozambique,Real GDP per capita,2006,US Dollar,775.908
+14599,Mozambique,Real GDP per capita,2007,US Dollar,809.4506
+14600,Mozambique,Real GDP per capita,2008,US Dollar,840.1804
+14601,Mozambique,Real GDP per capita,2009,US Dollar,867.817
+14602,Mozambique,Real GDP per capita,2010,US Dollar,899.1987
+14603,Mozambique,Real GDP per capita,2011,US Dollar,935.4848
+14604,Mozambique,Real GDP per capita,2012,US Dollar,974.0152
+14605,Mozambique,Real GDP per capita,2013,US Dollar,1013.6610000000001
+14606,Mozambique,Real GDP per capita,2014,US Dollar,1057.978
+14607,Mozambique,Real GDP per capita,2015,US Dollar,1095.6
+14608,Mozambique,Real GDP per capita,2016,US Dollar,1105.4560000000001
+14944,Togo,Real GDP per capita,1990,US Dollar,1322.8220000000001
+14945,Togo,Real GDP per capita,1995,US Dollar,1176.589
+14946,Togo,Real GDP per capita,2000,US Dollar,1251.1589999999999
+14947,Togo,Real GDP per capita,2001,US Dollar,1196.758
+14948,Togo,Real GDP per capita,2002,US Dollar,1154.1789999999999
+14949,Togo,Real GDP per capita,2003,US Dollar,1179.922
+14950,Togo,Real GDP per capita,2004,US Dollar,1173.75
+14951,Togo,Real GDP per capita,2005,US Dollar,1156.538
+14952,Togo,Real GDP per capita,2006,US Dollar,1171.552
+14953,Togo,Real GDP per capita,2007,US Dollar,1166.496
+14954,Togo,Real GDP per capita,2008,US Dollar,1160.639
+14955,Togo,Real GDP per capita,2009,US Dollar,1169.37
+14956,Togo,Real GDP per capita,2010,US Dollar,1183.839
+14957,Togo,Real GDP per capita,2011,US Dollar,1208.876
+14958,Togo,Real GDP per capita,2012,US Dollar,1233.86
+14959,Togo,Real GDP per capita,2013,US Dollar,1249.4
+14960,Togo,Real GDP per capita,2014,US Dollar,1288.733
+14961,Togo,Real GDP per capita,2015,US Dollar,1322.076
+14962,Togo,Real GDP per capita,2016,US Dollar,1354.152
+14963,Middle East and North Africa,Real GDP per capita,1995,US Dollar,11286.92
+14964,Middle East and North Africa,Real GDP per capita,2000,US Dollar,12680.83
+14965,Middle East and North Africa,Real GDP per capita,2001,US Dollar,12721.77
+14966,Middle East and North Africa,Real GDP per capita,2002,US Dollar,12829.15
+14967,Middle East and North Africa,Real GDP per capita,2003,US Dollar,13120.31
+14968,Middle East and North Africa,Real GDP per capita,2004,US Dollar,13933.41
+14969,Middle East and North Africa,Real GDP per capita,2005,US Dollar,14380.72
+14970,Middle East and North Africa,Real GDP per capita,2006,US Dollar,14983.44
+14971,Middle East and North Africa,Real GDP per capita,2007,US Dollar,15554.48
+14972,Middle East and North Africa,Real GDP per capita,2008,US Dollar,15962.82
+14973,Middle East and North Africa,Real GDP per capita,2009,US Dollar,15893.16
+14974,Middle East and North Africa,Real GDP per capita,2010,US Dollar,16411.62
+14975,Middle East and North Africa,Real GDP per capita,2011,US Dollar,16499.3
+15046,Zambia,Real GDP per capita,1990,US Dollar,2538.3070000000002
+15047,Zambia,Real GDP per capita,1995,US Dollar,2113.5
+15048,Zambia,Real GDP per capita,2000,US Dollar,2160.652
+15049,Zambia,Real GDP per capita,2001,US Dollar,2182.556
+15050,Zambia,Real GDP per capita,2002,US Dollar,2234.4570000000003
+15051,Zambia,Real GDP per capita,2003,US Dollar,2271.343
+15052,Zambia,Real GDP per capita,2004,US Dollar,2359.8520000000003
+15053,Zambia,Real GDP per capita,2005,US Dollar,2453.229
+15054,Zambia,Real GDP per capita,2006,US Dollar,2554.3920000000003
+15055,Zambia,Real GDP per capita,2007,US Dollar,2693.2540000000004
+15056,Zambia,Real GDP per capita,2008,US Dollar,2823.5170000000003
+15057,Zambia,Real GDP per capita,2009,US Dollar,2998.165
+15058,Zambia,Real GDP per capita,2010,US Dollar,3212.942
+15059,Zambia,Real GDP per capita,2011,US Dollar,3293.1220000000003
+15060,Zambia,Real GDP per capita,2012,US Dollar,3438.423
+15061,Zambia,Real GDP per capita,2013,US Dollar,3504.329
+15062,Zambia,Real GDP per capita,2014,US Dollar,3559.025
+15063,Zambia,Real GDP per capita,2015,US Dollar,3553.829
+15064,Zambia,Real GDP per capita,2016,US Dollar,3570.995
+15195,Mauritius,Real GDP per capita,1990,US Dollar,7257.325
+15196,Mauritius,Real GDP per capita,1995,US Dollar,8618.48
+15197,Mauritius,Real GDP per capita,2000,US Dollar,10868.9
+15198,Mauritius,Real GDP per capita,2001,US Dollar,11066.7
+15199,Mauritius,Real GDP per capita,2002,US Dollar,11226.34
+15200,Mauritius,Real GDP per capita,2003,US Dollar,11567.74
+15201,Mauritius,Real GDP per capita,2004,US Dollar,12165.15
+15202,Mauritius,Real GDP per capita,2005,US Dollar,12252.41
+15203,Mauritius,Real GDP per capita,2006,US Dollar,13232.56
+15204,Mauritius,Real GDP per capita,2007,US Dollar,13924.48
+15205,Mauritius,Real GDP per capita,2008,US Dollar,14610.85
+15206,Mauritius,Real GDP per capita,2009,US Dollar,15037.81
+15207,Mauritius,Real GDP per capita,2010,US Dollar,15646.6
+15208,Mauritius,Real GDP per capita,2011,US Dollar,16244.66
+15209,Mauritius,Real GDP per capita,2012,US Dollar,16781.1
+15210,Mauritius,Real GDP per capita,2013,US Dollar,17318.49
+15211,Mauritius,Real GDP per capita,2014,US Dollar,17939.43
+15212,Mauritius,Real GDP per capita,2015,US Dollar,18528.72
+15213,Mauritius,Real GDP per capita,2016,US Dollar,19192.04
+15214,Serbia,Real GDP per capita,1990,US Dollar,16358.66
+15215,Serbia,Real GDP per capita,1995,US Dollar,5433.404
+15216,Serbia,Real GDP per capita,2000,US Dollar,6026.156999999999
+15217,Serbia,Real GDP per capita,2001,US Dollar,6376.896
+15218,Serbia,Real GDP per capita,2002,US Dollar,6875.004
+15219,Serbia,Real GDP per capita,2003,US Dollar,7217.019
+15220,Serbia,Real GDP per capita,2004,US Dollar,7907.755999999999
+15221,Serbia,Real GDP per capita,2005,US Dollar,8385.146999999999
+15222,Serbia,Real GDP per capita,2006,US Dollar,8836.368
+15223,Serbia,Real GDP per capita,2007,US Dollar,9395.72
+15224,Serbia,Real GDP per capita,2008,US Dollar,9938.757
+15225,Serbia,Real GDP per capita,2009,US Dollar,9666.03
+15226,Serbia,Real GDP per capita,2010,US Dollar,9760.255
+15227,Serbia,Real GDP per capita,2011,US Dollar,9936.623
+15228,Serbia,Real GDP per capita,2012,US Dollar,9876.107
+15229,Serbia,Real GDP per capita,2013,US Dollar,10171.85
+15230,Serbia,Real GDP per capita,2014,US Dollar,10025.48
+15231,Serbia,Real GDP per capita,2015,US Dollar,10139.59
+15232,Serbia,Real GDP per capita,2016,US Dollar,10460.1
+15244,Nigeria,Real GDP per capita,1990,US Dollar,2979.9840000000004
+15245,Nigeria,Real GDP per capita,1995,US Dollar,2694.441
+15246,Nigeria,Real GDP per capita,2000,US Dollar,2790.5359999999996
+15247,Nigeria,Real GDP per capita,2001,US Dollar,2841.3720000000003
+15248,Nigeria,Real GDP per capita,2002,US Dollar,2875.493
+15249,Nigeria,Real GDP per capita,2003,US Dollar,3093.74
+15250,Nigeria,Real GDP per capita,2004,US Dollar,4032.893
+15251,Nigeria,Real GDP per capita,2005,US Dollar,4065.344
+15252,Nigeria,Real GDP per capita,2006,US Dollar,4285.799
+15253,Nigeria,Real GDP per capita,2007,US Dollar,4459.532
+15254,Nigeria,Real GDP per capita,2008,US Dollar,4615.267
+15255,Nigeria,Real GDP per capita,2009,US Dollar,4805.701
+15256,Nigeria,Real GDP per capita,2010,US Dollar,5045.979
+15257,Nigeria,Real GDP per capita,2011,US Dollar,5152.907999999999
+15258,Nigeria,Real GDP per capita,2012,US Dollar,5231.442
+15259,Nigeria,Real GDP per capita,2013,US Dollar,5368.225
+15260,Nigeria,Real GDP per capita,2014,US Dollar,5557.166
+15261,Nigeria,Real GDP per capita,2015,US Dollar,5555.93
+15262,Nigeria,Real GDP per capita,2016,US Dollar,5324.797
+15465,Tanzania,Real GDP per capita,1990,US Dollar,1402.7910000000002
+15466,Tanzania,Real GDP per capita,1995,US Dollar,1302.9360000000001
+15467,Tanzania,Real GDP per capita,2000,US Dollar,1410.375
+15468,Tanzania,Real GDP per capita,2001,US Dollar,1454.993
+15469,Tanzania,Real GDP per capita,2002,US Dollar,1516.5220000000002
+15470,Tanzania,Real GDP per capita,2003,US Dollar,1575.431
+15471,Tanzania,Real GDP per capita,2004,US Dollar,1649.8670000000002
+15472,Tanzania,Real GDP per capita,2005,US Dollar,1732.16
+15473,Tanzania,Real GDP per capita,2006,US Dollar,1758.263
+15474,Tanzania,Real GDP per capita,2007,US Dollar,1848.464
+15475,Tanzania,Real GDP per capita,2008,US Dollar,1890.64
+15476,Tanzania,Real GDP per capita,2009,US Dollar,1930.213
+15477,Tanzania,Real GDP per capita,2010,US Dollar,1989.075
+15478,Tanzania,Real GDP per capita,2011,US Dollar,2079.874
+15479,Tanzania,Real GDP per capita,2012,US Dollar,2119.4320000000002
+15480,Tanzania,Real GDP per capita,2013,US Dollar,2203.618
+15481,Tanzania,Real GDP per capita,2014,US Dollar,2284.98
+15482,Tanzania,Real GDP per capita,2015,US Dollar,2369.379
+15483,Tanzania,Real GDP per capita,2016,US Dollar,2457.36
+15519,Cyprus,Real GDP per capita,1990,US Dollar,17582.74
+15520,Cyprus,Real GDP per capita,1995,US Dollar,19735.29
+15521,Cyprus,Real GDP per capita,2000,US Dollar,21693.46
+15522,Cyprus,Real GDP per capita,2001,US Dollar,22076.91
+15523,Cyprus,Real GDP per capita,2002,US Dollar,22437.48
+15524,Cyprus,Real GDP per capita,2003,US Dollar,22608.87
+15525,Cyprus,Real GDP per capita,2004,US Dollar,23248.01
+15526,Cyprus,Real GDP per capita,2005,US Dollar,23709.04
+15527,Cyprus,Real GDP per capita,2006,US Dollar,24355.34
+15528,Cyprus,Real GDP per capita,2007,US Dollar,25092.6
+15529,Cyprus,Real GDP per capita,2008,US Dollar,25632.01
+15530,Cyprus,Real GDP per capita,2009,US Dollar,24798.96
+15531,Cyprus,Real GDP per capita,2010,US Dollar,24797.66
+15532,Cyprus,Real GDP per capita,2011,US Dollar,24606.87
+15533,Cyprus,Real GDP per capita,2012,US Dollar,23639.38
+15534,Cyprus,Real GDP per capita,2013,US Dollar,22064.96
+15535,Cyprus,Real GDP per capita,2014,US Dollar,21596.35
+15536,Cyprus,Real GDP per capita,2015,US Dollar,21859.18
+15537,Cyprus,Real GDP per capita,2016,US Dollar,22425.19
+15538,Cyprus,Real GDP per capita,2017,US Dollar,23108.99
+16046,Niger,Real GDP per capita,1990,US Dollar,876.1618
+16047,Niger,Real GDP per capita,1995,US Dollar,768.4868
+16048,Niger,Real GDP per capita,2000,US Dollar,737.9498
+16049,Niger,Real GDP per capita,2001,US Dollar,762.2442
+16050,Niger,Real GDP per capita,2002,US Dollar,757.1877
+16051,Niger,Real GDP per capita,2003,US Dollar,768.9163
+16052,Niger,Real GDP per capita,2004,US Dollar,742.1191
+16053,Niger,Real GDP per capita,2005,US Dollar,747.5291
+16054,Niger,Real GDP per capita,2006,US Dollar,762.1418
+16055,Niger,Real GDP per capita,2007,US Dollar,757.3826
+16056,Niger,Real GDP per capita,2008,US Dollar,799.4661
+16057,Niger,Real GDP per capita,2009,US Dollar,764.3854
+16058,Niger,Real GDP per capita,2010,US Dollar,797.5118
+16059,Niger,Real GDP per capita,2011,US Dollar,785.3889
+16060,Niger,Real GDP per capita,2012,US Dollar,845.1385
+16061,Niger,Real GDP per capita,2013,US Dollar,856.1203
+16062,Niger,Real GDP per capita,2014,US Dollar,885.8739999999999
+16063,Niger,Real GDP per capita,2015,US Dollar,886.2814
+16064,Niger,Real GDP per capita,2016,US Dollar,895.9688
+16065,Bahamas,Real GDP per capita,1990,US Dollar,23790.17
+16066,Bahamas,Real GDP per capita,1995,US Dollar,21663.85
+16067,Bahamas,Real GDP per capita,2000,US Dollar,25324.49
+16068,Bahamas,Real GDP per capita,2001,US Dollar,25539.73
+16069,Bahamas,Real GDP per capita,2002,US Dollar,25719.55
+16070,Bahamas,Real GDP per capita,2003,US Dollar,24864.33
+16071,Bahamas,Real GDP per capita,2004,US Dollar,24556.56
+16072,Bahamas,Real GDP per capita,2005,US Dollar,24871.88
+16073,Bahamas,Real GDP per capita,2006,US Dollar,24998.21
+16074,Bahamas,Real GDP per capita,2007,US Dollar,24878.43
+16075,Bahamas,Real GDP per capita,2008,US Dollar,23857.81
+16076,Bahamas,Real GDP per capita,2009,US Dollar,22462.21
+16077,Bahamas,Real GDP per capita,2010,US Dollar,22431.93
+16078,Bahamas,Real GDP per capita,2011,US Dollar,22216.05
+16079,Bahamas,Real GDP per capita,2012,US Dollar,22563.57
+16080,Bahamas,Real GDP per capita,2013,US Dollar,22126.28
+16081,Bahamas,Real GDP per capita,2014,US Dollar,21569.43
+16082,Bahamas,Real GDP per capita,2015,US Dollar,20654.67
+16083,Bahamas,Real GDP per capita,2016,US Dollar,20456.52
+16103,Pakistan,Real GDP per capita,1990,US Dollar,2993.156
+16104,Pakistan,Real GDP per capita,1995,US Dollar,3289.866
+16105,Pakistan,Real GDP per capita,2000,US Dollar,3424.2140000000004
+16106,Pakistan,Real GDP per capita,2001,US Dollar,3416.188
+16107,Pakistan,Real GDP per capita,2002,US Dollar,3451.921
+16108,Pakistan,Real GDP per capita,2003,US Dollar,3544.4959999999996
+16109,Pakistan,Real GDP per capita,2004,US Dollar,3728.014
+16110,Pakistan,Real GDP per capita,2005,US Dollar,3932.241
+16111,Pakistan,Real GDP per capita,2006,US Dollar,4090.525
+16112,Pakistan,Real GDP per capita,2007,US Dollar,4201.584
+16113,Pakistan,Real GDP per capita,2008,US Dollar,4186.597
+16114,Pakistan,Real GDP per capita,2009,US Dollar,4217.396
+16115,Pakistan,Real GDP per capita,2010,US Dollar,4196.956
+16116,Pakistan,Real GDP per capita,2011,US Dollar,4222.583
+16117,Pakistan,Real GDP per capita,2012,US Dollar,4279.104
+16118,Pakistan,Real GDP per capita,2013,US Dollar,4373.788
+16119,Pakistan,Real GDP per capita,2014,US Dollar,4483.656
+16120,Pakistan,Real GDP per capita,2015,US Dollar,4600.712
+16121,Pakistan,Real GDP per capita,2016,US Dollar,4756.43
+16122,Benin,Real GDP per capita,1990,US Dollar,1433.09
+16123,Benin,Real GDP per capita,1995,US Dollar,1484.42
+16124,Benin,Real GDP per capita,2000,US Dollar,1632.757
+16125,Benin,Real GDP per capita,2001,US Dollar,1668.565
+16126,Benin,Real GDP per capita,2002,US Dollar,1693.7279999999998
+16127,Benin,Real GDP per capita,2003,US Dollar,1699.605
+16128,Benin,Real GDP per capita,2004,US Dollar,1722.3429999999998
+16129,Benin,Real GDP per capita,2005,US Dollar,1700.858
+16130,Benin,Real GDP per capita,2006,US Dollar,1717.4979999999998
+16131,Benin,Real GDP per capita,2007,US Dollar,1769.0970000000002
+16132,Benin,Real GDP per capita,2008,US Dollar,1804.004
+16133,Benin,Real GDP per capita,2009,US Dollar,1794.7079999999999
+16134,Benin,Real GDP per capita,2010,US Dollar,1781.987
+16135,Benin,Real GDP per capita,2011,US Dollar,1784.0610000000001
+16136,Benin,Real GDP per capita,2012,US Dollar,1818.3020000000001
+16137,Benin,Real GDP per capita,2013,US Dollar,1895.4620000000002
+16138,Benin,Real GDP per capita,2014,US Dollar,1960.649
+16139,Benin,Real GDP per capita,2015,US Dollar,1946.969
+16140,Benin,Real GDP per capita,2016,US Dollar,1969.3029999999999
+16316,Zimbabwe,Real GDP per capita,1990,US Dollar,2553.083
+16317,Zimbabwe,Real GDP per capita,1995,US Dollar,2437.9629999999997
+16318,Zimbabwe,Real GDP per capita,2000,US Dollar,2531.23
+16319,Zimbabwe,Real GDP per capita,2001,US Dollar,2537.7889999999998
+16320,Zimbabwe,Real GDP per capita,2002,US Dollar,2287.226
+16321,Zimbabwe,Real GDP per capita,2003,US Dollar,1878.4679999999998
+16322,Zimbabwe,Real GDP per capita,2004,US Dollar,1749.489
+16323,Zimbabwe,Real GDP per capita,2005,US Dollar,1628.856
+16324,Zimbabwe,Real GDP per capita,2006,US Dollar,1550.399
+16325,Zimbabwe,Real GDP per capita,2007,US Dollar,1470.714
+16326,Zimbabwe,Real GDP per capita,2008,US Dollar,1190.442
+16327,Zimbabwe,Real GDP per capita,2009,US Dollar,1309.183
+16328,Zimbabwe,Real GDP per capita,2010,US Dollar,1445.0420000000001
+16329,Zimbabwe,Real GDP per capita,2011,US Dollar,1633.414
+16330,Zimbabwe,Real GDP per capita,2012,US Dollar,1833.511
+16331,Zimbabwe,Real GDP per capita,2013,US Dollar,1890.7279999999998
+16332,Zimbabwe,Real GDP per capita,2014,US Dollar,1886.1960000000001
+16333,Zimbabwe,Real GDP per capita,2015,US Dollar,1873.5970000000002
+16334,Zimbabwe,Real GDP per capita,2016,US Dollar,1841.606
+16391,Uganda,Real GDP per capita,1990,US Dollar,753.8876
+16392,Uganda,Real GDP per capita,1995,US Dollar,897.7106
+16393,Uganda,Real GDP per capita,2000,US Dollar,1028.5430000000001
+16394,Uganda,Real GDP per capita,2001,US Dollar,1046.358
+16395,Uganda,Real GDP per capita,2002,US Dollar,1099.548
+16396,Uganda,Real GDP per capita,2003,US Dollar,1130.853
+16397,Uganda,Real GDP per capita,2004,US Dollar,1166.491
+16398,Uganda,Real GDP per capita,2005,US Dollar,1197.97
+16399,Uganda,Real GDP per capita,2006,US Dollar,1281.954
+16400,Uganda,Real GDP per capita,2007,US Dollar,1342.556
+16401,Uganda,Real GDP per capita,2008,US Dollar,1409.999
+16402,Uganda,Real GDP per capita,2009,US Dollar,1454.987
+16403,Uganda,Real GDP per capita,2010,US Dollar,1485.203
+16404,Uganda,Real GDP per capita,2011,US Dollar,1570.128
+16405,Uganda,Real GDP per capita,2012,US Dollar,1575.9029999999998
+16406,Uganda,Real GDP per capita,2013,US Dollar,1578.226
+16407,Uganda,Real GDP per capita,2014,US Dollar,1604.155
+16408,Uganda,Real GDP per capita,2015,US Dollar,1632.25
+16409,Uganda,Real GDP per capita,2016,US Dollar,1652.955
+16471,Cabo Verde,Real GDP per capita,1990,US Dollar,1623.39
+16472,Cabo Verde,Real GDP per capita,1995,US Dollar,2374.269
+16473,Cabo Verde,Real GDP per capita,2000,US Dollar,3757.657
+16474,Cabo Verde,Real GDP per capita,2001,US Dollar,3766.74
+16475,Cabo Verde,Real GDP per capita,2002,US Dollar,3890.955
+16476,Cabo Verde,Real GDP per capita,2003,US Dollar,3982.618
+16477,Cabo Verde,Real GDP per capita,2004,US Dollar,4318.186
+16478,Cabo Verde,Real GDP per capita,2005,US Dollar,4549.524
+16479,Cabo Verde,Real GDP per capita,2006,US Dollar,4849.11
+16480,Cabo Verde,Real GDP per capita,2007,US Dollar,5519.967
+16481,Cabo Verde,Real GDP per capita,2008,US Dollar,5823.8
+16482,Cabo Verde,Real GDP per capita,2009,US Dollar,5689.186
+16483,Cabo Verde,Real GDP per capita,2010,US Dollar,5710.344
+16484,Cabo Verde,Real GDP per capita,2011,US Dollar,5870.573
+16485,Cabo Verde,Real GDP per capita,2012,US Dollar,5865.831999999999
+16486,Cabo Verde,Real GDP per capita,2013,US Dollar,5843.266
+16487,Cabo Verde,Real GDP per capita,2014,US Dollar,5808.28
+16488,Cabo Verde,Real GDP per capita,2015,US Dollar,5798.863
+16489,Cabo Verde,Real GDP per capita,2016,US Dollar,5951.871

@@ -1,0 +1,778 @@
+True,Country,Variable,Year,Unit,Value
+15,Australia,Municipal waste treated,2003,Tonnes,8903.0
+16,Australia,Municipal waste treated,2007,Tonnes,12798.666000000001
+17,Australia,Municipal waste treated,2008,Tonnes,13027.542
+18,Australia,Municipal waste treated,2009,Tonnes,13256.419
+19,Australia,Municipal waste treated,2010,Tonnes,13515.591999999999
+20,Australia,Municipal waste treated,2011,Tonnes,13462.518999999998
+21,Australia,Municipal waste treated,2012,Tonnes,13344.891000000001
+22,Australia,Municipal waste treated,2013,Tonnes,13227.263
+23,Australia,Municipal waste treated,2014,Tonnes,13109.635
+24,Australia,Municipal waste treated,2015,Tonnes,13344.538999999999
+184,Austria,Municipal waste treated,1990,Tonnes,3513.0
+185,Austria,Municipal waste treated,1991,Tonnes,2770.0
+186,Austria,Municipal waste treated,1992,Tonnes,2823.0
+187,Austria,Municipal waste treated,1993,Tonnes,2890.0
+188,Austria,Municipal waste treated,1994,Tonnes,2923.0
+189,Austria,Municipal waste treated,1995,Tonnes,3835.0
+190,Austria,Municipal waste treated,1996,Tonnes,4297.0
+191,Austria,Municipal waste treated,1997,Tonnes,4407.0
+192,Austria,Municipal waste treated,1998,Tonnes,4411.0
+193,Austria,Municipal waste treated,1999,Tonnes,4620.0
+194,Austria,Municipal waste treated,2000,Tonnes,4744.0
+195,Austria,Municipal waste treated,2001,Tonnes,4749.0
+196,Austria,Municipal waste treated,2002,Tonnes,4821.0
+197,Austria,Municipal waste treated,2003,Tonnes,4950.0
+198,Austria,Municipal waste treated,2004,Tonnes,4625.0
+199,Austria,Municipal waste treated,2005,Tonnes,4601.3
+200,Austria,Municipal waste treated,2006,Tonnes,4834.2
+201,Austria,Municipal waste treated,2007,Tonnes,4859.4
+202,Austria,Municipal waste treated,2008,Tonnes,4888.7
+203,Austria,Municipal waste treated,2009,Tonnes,4787.6
+204,Austria,Municipal waste treated,2010,Tonnes,4581.7
+205,Austria,Municipal waste treated,2011,Tonnes,4631.7
+206,Austria,Municipal waste treated,2012,Tonnes,4718.2
+207,Austria,Municipal waste treated,2013,Tonnes,4743.5
+208,Austria,Municipal waste treated,2014,Tonnes,4673.2
+209,Austria,Municipal waste treated,2015,Tonnes,4727.8
+210,Austria,Municipal waste treated,2016,Tonnes,4825.2
+690,Belgium,Municipal waste treated,1990,Tonnes,3961.0
+691,Belgium,Municipal waste treated,1991,Tonnes,4107.0
+692,Belgium,Municipal waste treated,1992,Tonnes,4238.0
+693,Belgium,Municipal waste treated,1993,Tonnes,4438.0
+694,Belgium,Municipal waste treated,1994,Tonnes,4600.0
+695,Belgium,Municipal waste treated,1995,Tonnes,4516.0
+696,Belgium,Municipal waste treated,1996,Tonnes,4414.0
+697,Belgium,Municipal waste treated,1997,Tonnes,4604.0
+698,Belgium,Municipal waste treated,1998,Tonnes,4568.0
+699,Belgium,Municipal waste treated,1999,Tonnes,4554.0
+700,Belgium,Municipal waste treated,2000,Tonnes,4895.0
+701,Belgium,Municipal waste treated,2001,Tonnes,4644.0
+702,Belgium,Municipal waste treated,2002,Tonnes,4798.0
+703,Belgium,Municipal waste treated,2003,Tonnes,4800.0
+704,Belgium,Municipal waste treated,2004,Tonnes,5004.0
+705,Belgium,Municipal waste treated,2005,Tonnes,5188.0
+706,Belgium,Municipal waste treated,2006,Tonnes,4990.0
+707,Belgium,Municipal waste treated,2007,Tonnes,5454.0
+708,Belgium,Municipal waste treated,2008,Tonnes,4936.0
+709,Belgium,Municipal waste treated,2009,Tonnes,4827.0
+710,Belgium,Municipal waste treated,2010,Tonnes,4791.0
+711,Belgium,Municipal waste treated,2011,Tonnes,4824.0
+712,Belgium,Municipal waste treated,2012,Tonnes,4717.0
+713,Belgium,Municipal waste treated,2013,Tonnes,4757.0
+714,Belgium,Municipal waste treated,2014,Tonnes,4696.0
+715,Belgium,Municipal waste treated,2015,Tonnes,4579.0
+716,Belgium,Municipal waste treated,2016,Tonnes,4707.0
+1132,Canada,Municipal waste treated,1996,Tonnes,17095.345
+1133,Canada,Municipal waste treated,1998,Tonnes,23827.1
+1134,Canada,Municipal waste treated,2000,Tonnes,29307.41
+1135,Canada,Municipal waste treated,2002,Tonnes,30722.92
+1136,Canada,Municipal waste treated,2004,Tonnes,32339.5
+1137,Canada,Municipal waste treated,2006,Tonnes,34043.693999999996
+1138,Canada,Municipal waste treated,2008,Tonnes,34237.047
+1139,Canada,Municipal waste treated,2010,Tonnes,33048.534
+1140,Canada,Municipal waste treated,2012,Tonnes,33146.119
+1141,Canada,Municipal waste treated,2014,Tonnes,34160.211
+1309,Czech Republic,Municipal waste treated,1995,Tonnes,3120.0
+1310,Czech Republic,Municipal waste treated,1996,Tonnes,3200.0
+1311,Czech Republic,Municipal waste treated,1997,Tonnes,3280.0
+1312,Czech Republic,Municipal waste treated,1998,Tonnes,2997.0
+1313,Czech Republic,Municipal waste treated,1999,Tonnes,3186.0
+1314,Czech Republic,Municipal waste treated,2000,Tonnes,3250.0
+1315,Czech Republic,Municipal waste treated,2001,Tonnes,2582.0
+1316,Czech Republic,Municipal waste treated,2002,Tonnes,2523.0
+1317,Czech Republic,Municipal waste treated,2003,Tonnes,2475.0
+1318,Czech Republic,Municipal waste treated,2004,Tonnes,2396.0
+1319,Czech Republic,Municipal waste treated,2005,Tonnes,2495.0
+1320,Czech Republic,Municipal waste treated,2006,Tonnes,2659.22
+1321,Czech Republic,Municipal waste treated,2007,Tonnes,2817.37
+1322,Czech Republic,Municipal waste treated,2008,Tonnes,2756.66
+1323,Czech Republic,Municipal waste treated,2009,Tonnes,2894.47
+1324,Czech Republic,Municipal waste treated,2010,Tonnes,3186.39
+1325,Czech Republic,Municipal waste treated,2011,Tonnes,3346.34
+1326,Czech Republic,Municipal waste treated,2012,Tonnes,3232.64
+1327,Czech Republic,Municipal waste treated,2013,Tonnes,3228.23
+1328,Czech Republic,Municipal waste treated,2014,Tonnes,3260.58
+1329,Czech Republic,Municipal waste treated,2015,Tonnes,3337.34
+1330,Czech Republic,Municipal waste treated,2016,Tonnes,3579.61
+1712,Denmark,Municipal waste treated,1993,Tonnes,2377.0
+1713,Denmark,Municipal waste treated,1994,Tonnes,2803.0
+1714,Denmark,Municipal waste treated,1995,Tonnes,2725.0
+1715,Denmark,Municipal waste treated,1996,Tonnes,3253.0
+1716,Denmark,Municipal waste treated,1997,Tonnes,3104.0
+1717,Denmark,Municipal waste treated,1998,Tonnes,3141.0
+1718,Denmark,Municipal waste treated,1999,Tonnes,3329.0
+1719,Denmark,Municipal waste treated,2000,Tonnes,3546.0
+1720,Denmark,Municipal waste treated,2001,Tonnes,3519.0
+1721,Denmark,Municipal waste treated,2002,Tonnes,3568.0
+1722,Denmark,Municipal waste treated,2003,Tonnes,3618.0
+1723,Denmark,Municipal waste treated,2004,Tonnes,3757.0
+1724,Denmark,Municipal waste treated,2005,Tonnes,3990.0
+1725,Denmark,Municipal waste treated,2006,Tonnes,4021.0
+1726,Denmark,Municipal waste treated,2007,Tonnes,4313.0
+1727,Denmark,Municipal waste treated,2008,Tonnes,4560.0
+1728,Denmark,Municipal waste treated,2009,Tonnes,4206.0
+1729,Denmark,Municipal waste treated,2010,Tonnes,4277.0
+1730,Denmark,Municipal waste treated,2011,Tonnes,4348.0
+1731,Denmark,Municipal waste treated,2012,Tonnes,4421.0
+1732,Denmark,Municipal waste treated,2013,Tonnes,4437.0
+1733,Denmark,Municipal waste treated,2014,Tonnes,4450.0
+1734,Denmark,Municipal waste treated,2015,Tonnes,4485.0
+1735,Denmark,Municipal waste treated,2016,Tonnes,4450.0
+2199,Finland,Municipal waste treated,1994,Tonnes,2320.0
+2200,Finland,Municipal waste treated,1995,Tonnes,2074.67
+2201,Finland,Municipal waste treated,1996,Tonnes,2110.79
+2202,Finland,Municipal waste treated,1997,Tonnes,2330.0
+2203,Finland,Municipal waste treated,1998,Tonnes,2463.62
+2204,Finland,Municipal waste treated,1999,Tonnes,2482.23
+2205,Finland,Municipal waste treated,2000,Tonnes,2723.83
+2206,Finland,Municipal waste treated,2001,Tonnes,2498.65
+2207,Finland,Municipal waste treated,2002,Tonnes,2502.69
+2208,Finland,Municipal waste treated,2003,Tonnes,2517.29
+2209,Finland,Municipal waste treated,2004,Tonnes,2532.47
+2210,Finland,Municipal waste treated,2005,Tonnes,2546.68
+2211,Finland,Municipal waste treated,2006,Tonnes,2600.1
+2212,Finland,Municipal waste treated,2007,Tonnes,2674.92
+2213,Finland,Municipal waste treated,2008,Tonnes,2832.48
+2214,Finland,Municipal waste treated,2009,Tonnes,2562.43
+2215,Finland,Municipal waste treated,2010,Tonnes,2519.0
+2216,Finland,Municipal waste treated,2011,Tonnes,2718.0
+2217,Finland,Municipal waste treated,2012,Tonnes,2738.0
+2218,Finland,Municipal waste treated,2013,Tonnes,2681.54
+2219,Finland,Municipal waste treated,2014,Tonnes,2629.88
+2220,Finland,Municipal waste treated,2015,Tonnes,2738.28
+2221,Finland,Municipal waste treated,2016,Tonnes,2767.93
+2615,France,Municipal waste treated,1993,Tonnes,27758.0
+2616,France,Municipal waste treated,1995,Tonnes,28253.0
+2617,France,Municipal waste treated,1996,Tonnes,28950.0
+2618,France,Municipal waste treated,1997,Tonnes,29677.0
+2619,France,Municipal waste treated,1998,Tonnes,30449.0
+2620,France,Municipal waste treated,1999,Tonnes,30612.0
+2621,France,Municipal waste treated,2000,Tonnes,31232.0
+2622,France,Municipal waste treated,2001,Tonnes,32198.0
+2623,France,Municipal waste treated,2002,Tonnes,32684.0
+2624,France,Municipal waste treated,2003,Tonnes,31400.0
+2625,France,Municipal waste treated,2004,Tonnes,32444.0
+2626,France,Municipal waste treated,2005,Tonnes,33366.0
+2627,France,Municipal waste treated,2006,Tonnes,33990.0
+2628,France,Municipal waste treated,2007,Tonnes,34629.0
+2629,France,Municipal waste treated,2008,Tonnes,34714.0
+2630,France,Municipal waste treated,2009,Tonnes,34504.0
+2631,France,Municipal waste treated,2010,Tonnes,34610.0
+2632,France,Municipal waste treated,2011,Tonnes,34790.0
+2633,France,Municipal waste treated,2012,Tonnes,34480.0
+2634,France,Municipal waste treated,2013,Tonnes,34169.0
+2635,France,Municipal waste treated,2014,Tonnes,34314.0
+2636,France,Municipal waste treated,2015,Tonnes,34454.0
+2637,France,Municipal waste treated,2016,Tonnes,34143.0
+3049,Germany,Municipal waste treated,1993,Tonnes,36976.0
+3050,Germany,Municipal waste treated,1995,Tonnes,50893.9
+3051,Germany,Municipal waste treated,1996,Tonnes,52544.0
+3052,Germany,Municipal waste treated,1997,Tonnes,53966.0
+3053,Germany,Municipal waste treated,1998,Tonnes,53058.0
+3054,Germany,Municipal waste treated,1999,Tonnes,52373.0
+3055,Germany,Municipal waste treated,2000,Tonnes,52810.0
+3056,Germany,Municipal waste treated,2001,Tonnes,52075.0
+3057,Germany,Municipal waste treated,2002,Tonnes,52771.0
+3058,Germany,Municipal waste treated,2003,Tonnes,49622.0
+3059,Germany,Municipal waste treated,2004,Tonnes,48434.0
+3060,Germany,Municipal waste treated,2005,Tonnes,46555.0
+3061,Germany,Municipal waste treated,2006,Tonnes,46426.0
+3062,Germany,Municipal waste treated,2007,Tonnes,47887.0
+3063,Germany,Municipal waste treated,2008,Tonnes,48367.0
+3064,Germany,Municipal waste treated,2009,Tonnes,48466.0
+3065,Germany,Municipal waste treated,2010,Tonnes,49235.0
+3066,Germany,Municipal waste treated,2011,Tonnes,50237.0
+3067,Germany,Municipal waste treated,2012,Tonnes,49759.0
+3068,Germany,Municipal waste treated,2013,Tonnes,49570.0
+3069,Germany,Municipal waste treated,2014,Tonnes,51102.0
+3070,Germany,Municipal waste treated,2015,Tonnes,51626.0
+3071,Germany,Municipal waste treated,2016,Tonnes,51634.0
+3460,Greece,Municipal waste treated,1990,Tonnes,2999.7
+3461,Greece,Municipal waste treated,1992,Tonnes,3195.9
+3462,Greece,Municipal waste treated,1995,Tonnes,3490.34
+3463,Greece,Municipal waste treated,1996,Tonnes,3666.77
+3464,Greece,Municipal waste treated,1997,Tonnes,3899.6
+3465,Greece,Municipal waste treated,1998,Tonnes,4082.0
+3466,Greece,Municipal waste treated,1999,Tonnes,4264.0
+3467,Greece,Municipal waste treated,2000,Tonnes,4447.0
+3468,Greece,Municipal waste treated,2001,Tonnes,4559.0
+3469,Greece,Municipal waste treated,2002,Tonnes,4640.0
+3470,Greece,Municipal waste treated,2003,Tonnes,4710.25
+3471,Greece,Municipal waste treated,2004,Tonnes,4781.47
+3472,Greece,Municipal waste treated,2005,Tonnes,4867.25
+3473,Greece,Municipal waste treated,2006,Tonnes,4927.14
+3474,Greece,Municipal waste treated,2007,Tonnes,5001.63
+3475,Greece,Municipal waste treated,2008,Tonnes,5077.92
+3476,Greece,Municipal waste treated,2009,Tonnes,5154.0
+3477,Greece,Municipal waste treated,2010,Tonnes,5917.0
+3478,Greece,Municipal waste treated,2011,Tonnes,5586.0
+3479,Greece,Municipal waste treated,2012,Tonnes,5463.0
+3480,Greece,Municipal waste treated,2013,Tonnes,5284.0
+3481,Greece,Municipal waste treated,2014,Tonnes,5315.0
+3482,Greece,Municipal waste treated,2015,Tonnes,5277.0
+3483,Greece,Municipal waste treated,2016,Tonnes,5354.0
+3882,Hungary,Municipal waste treated,1990,Tonnes,4171.0
+3883,Hungary,Municipal waste treated,1994,Tonnes,3688.0
+3884,Hungary,Municipal waste treated,1995,Tonnes,3887.34
+3885,Hungary,Municipal waste treated,1996,Tonnes,4100.66
+3886,Hungary,Municipal waste treated,1997,Tonnes,4338.58
+3887,Hungary,Municipal waste treated,1998,Tonnes,4371.94
+3888,Hungary,Municipal waste treated,1999,Tonnes,4455.41
+3889,Hungary,Municipal waste treated,2000,Tonnes,4157.13
+3890,Hungary,Municipal waste treated,2001,Tonnes,4123.09
+3891,Hungary,Municipal waste treated,2002,Tonnes,4243.17
+3892,Hungary,Municipal waste treated,2003,Tonnes,4376.03
+3893,Hungary,Municipal waste treated,2004,Tonnes,4552.0
+3894,Hungary,Municipal waste treated,2005,Tonnes,4606.0
+3895,Hungary,Municipal waste treated,2006,Tonnes,4671.0
+3896,Hungary,Municipal waste treated,2007,Tonnes,4365.0
+3897,Hungary,Municipal waste treated,2008,Tonnes,4426.0
+3898,Hungary,Municipal waste treated,2009,Tonnes,4284.0
+3899,Hungary,Municipal waste treated,2010,Tonnes,4033.0
+3900,Hungary,Municipal waste treated,2011,Tonnes,3809.0
+3901,Hungary,Municipal waste treated,2012,Tonnes,3988.0
+3902,Hungary,Municipal waste treated,2013,Tonnes,3738.0
+3903,Hungary,Municipal waste treated,2014,Tonnes,3713.0
+3904,Hungary,Municipal waste treated,2015,Tonnes,3710.0
+3905,Hungary,Municipal waste treated,2016,Tonnes,3734.0
+4289,Iceland,Municipal waste treated,1995,Tonnes,119.5
+4290,Iceland,Municipal waste treated,1996,Tonnes,118.75
+4291,Iceland,Municipal waste treated,1997,Tonnes,118.0
+4292,Iceland,Municipal waste treated,1998,Tonnes,122.25
+4293,Iceland,Municipal waste treated,1999,Tonnes,126.5
+4294,Iceland,Municipal waste treated,2000,Tonnes,134.5
+4295,Iceland,Municipal waste treated,2001,Tonnes,131.75
+4296,Iceland,Municipal waste treated,2002,Tonnes,134.75
+4297,Iceland,Municipal waste treated,2003,Tonnes,139.0
+4298,Iceland,Municipal waste treated,2008,Tonnes,208.0
+4299,Iceland,Municipal waste treated,2009,Tonnes,132.0
+4300,Iceland,Municipal waste treated,2010,Tonnes,154.0
+4301,Iceland,Municipal waste treated,2011,Tonnes,158.0
+4302,Iceland,Municipal waste treated,2012,Tonnes,165.0
+4303,Iceland,Municipal waste treated,2013,Tonnes,166.0
+4304,Iceland,Municipal waste treated,2014,Tonnes,175.0
+4305,Iceland,Municipal waste treated,2015,Tonnes,194.6
+4306,Iceland,Municipal waste treated,2016,Tonnes,219.9
+4662,Ireland,Municipal waste treated,1995,Tonnes,1550.0
+4663,Ireland,Municipal waste treated,1996,Tonnes,1648.0
+4664,Ireland,Municipal waste treated,1997,Tonnes,1753.55
+4665,Ireland,Municipal waste treated,1998,Tonnes,1933.46
+4666,Ireland,Municipal waste treated,1999,Tonnes,2135.0
+4667,Ireland,Municipal waste treated,2000,Tonnes,2363.9
+4668,Ireland,Municipal waste treated,2001,Tonnes,2376.07
+4669,Ireland,Municipal waste treated,2002,Tonnes,2464.34
+4670,Ireland,Municipal waste treated,2003,Tonnes,2594.4
+4671,Ireland,Municipal waste treated,2004,Tonnes,2703.61
+4672,Ireland,Municipal waste treated,2005,Tonnes,2779.1
+4673,Ireland,Municipal waste treated,2006,Tonnes,3100.31
+4674,Ireland,Municipal waste treated,2007,Tonnes,3174.57
+4675,Ireland,Municipal waste treated,2008,Tonnes,3103.87
+4676,Ireland,Municipal waste treated,2009,Tonnes,2825.01
+4677,Ireland,Municipal waste treated,2010,Tonnes,2621.57
+4678,Ireland,Municipal waste treated,2011,Tonnes,2558.0
+4679,Ireland,Municipal waste treated,2012,Tonnes,2439.45
+4680,Ireland,Municipal waste treated,2014,Tonnes,2575.22
+4984,Italy,Municipal waste treated,1995,Tonnes,26607.0
+4985,Italy,Municipal waste treated,1996,Tonnes,24483.0
+4986,Italy,Municipal waste treated,1997,Tonnes,25499.0
+4987,Italy,Municipal waste treated,1998,Tonnes,25675.0
+4988,Italy,Municipal waste treated,1999,Tonnes,27302.0
+4989,Italy,Municipal waste treated,2000,Tonnes,28279.0
+4990,Italy,Municipal waste treated,2001,Tonnes,27668.0
+4991,Italy,Municipal waste treated,2002,Tonnes,25840.0
+4992,Italy,Municipal waste treated,2003,Tonnes,25956.0
+4993,Italy,Municipal waste treated,2004,Tonnes,26626.0
+4994,Italy,Municipal waste treated,2005,Tonnes,26810.0
+4995,Italy,Municipal waste treated,2006,Tonnes,27829.0
+4996,Italy,Municipal waste treated,2007,Tonnes,29076.0
+4997,Italy,Municipal waste treated,2008,Tonnes,28178.0
+4998,Italy,Municipal waste treated,2009,Tonnes,29840.0
+4999,Italy,Municipal waste treated,2010,Tonnes,30505.0
+5000,Italy,Municipal waste treated,2011,Tonnes,29928.0
+5001,Italy,Municipal waste treated,2012,Tonnes,28765.0
+5002,Italy,Municipal waste treated,2013,Tonnes,28538.0
+5003,Italy,Municipal waste treated,2014,Tonnes,27537.0
+5004,Italy,Municipal waste treated,2015,Tonnes,26711.0
+5005,Italy,Municipal waste treated,2016,Tonnes,26888.0
+5388,Japan,Municipal waste treated,1990,Tonnes,50267.83
+5389,Japan,Municipal waste treated,1991,Tonnes,51128.94
+5390,Japan,Municipal waste treated,1992,Tonnes,50910.57
+5391,Japan,Municipal waste treated,1993,Tonnes,51258.05
+5392,Japan,Municipal waste treated,1994,Tonnes,51799.0
+5393,Japan,Municipal waste treated,1995,Tonnes,52219.0
+5394,Japan,Municipal waste treated,1996,Tonnes,52912.0
+5395,Japan,Municipal waste treated,1997,Tonnes,53088.0
+5396,Japan,Municipal waste treated,1998,Tonnes,53628.0
+5397,Japan,Municipal waste treated,1999,Tonnes,53795.0
+5398,Japan,Municipal waste treated,2000,Tonnes,54855.0
+5399,Japan,Municipal waste treated,2001,Tonnes,54798.0
+5400,Japan,Municipal waste treated,2002,Tonnes,54253.0
+5401,Japan,Municipal waste treated,2003,Tonnes,54367.0
+5402,Japan,Municipal waste treated,2004,Tonnes,53432.0
+5403,Japan,Municipal waste treated,2005,Tonnes,52750.0
+5404,Japan,Municipal waste treated,2006,Tonnes,52072.0
+5405,Japan,Municipal waste treated,2007,Tonnes,50774.0
+5406,Japan,Municipal waste treated,2008,Tonnes,50597.0
+5407,Japan,Municipal waste treated,2009,Tonnes,50397.0
+5408,Japan,Municipal waste treated,2010,Tonnes,49529.0
+5409,Japan,Municipal waste treated,2011,Tonnes,45015.0
+5410,Japan,Municipal waste treated,2012,Tonnes,45047.0
+5411,Japan,Municipal waste treated,2013,Tonnes,44645.0
+5412,Japan,Municipal waste treated,2014,Tonnes,43677.0
+5413,Japan,Municipal waste treated,2015,Tonnes,43382.0
+5773,Korea,Municipal waste treated,1990,Tonnes,30646.13
+5774,Korea,Municipal waste treated,1991,Tonnes,33670.01
+5775,Korea,Municipal waste treated,1992,Tonnes,27410.04
+5776,Korea,Municipal waste treated,1993,Tonnes,22973.1
+5777,Korea,Municipal waste treated,1994,Tonnes,21213.07
+5778,Korea,Municipal waste treated,1995,Tonnes,17438.0
+5779,Korea,Municipal waste treated,1996,Tonnes,18222.63
+5780,Korea,Municipal waste treated,1997,Tonnes,17481.68
+5781,Korea,Municipal waste treated,1998,Tonnes,16273.0
+5782,Korea,Municipal waste treated,1999,Tonnes,16649.11
+5783,Korea,Municipal waste treated,2000,Tonnes,16950.0
+5784,Korea,Municipal waste treated,2001,Tonnes,17702.14
+5785,Korea,Municipal waste treated,2002,Tonnes,18214.0
+5786,Korea,Municipal waste treated,2003,Tonnes,18518.64
+5787,Korea,Municipal waste treated,2004,Tonnes,18253.0
+5788,Korea,Municipal waste treated,2005,Tonnes,17666.0
+5789,Korea,Municipal waste treated,2008,Tonnes,19006.0
+5790,Korea,Municipal waste treated,2009,Tonnes,18581.0
+5791,Korea,Municipal waste treated,2010,Tonnes,17943.0
+5792,Korea,Municipal waste treated,2011,Tonnes,17861.0
+5793,Korea,Municipal waste treated,2012,Tonnes,17881.0
+5794,Korea,Municipal waste treated,2013,Tonnes,17786.0
+5795,Korea,Municipal waste treated,2014,Tonnes,18219.0
+5796,Korea,Municipal waste treated,2015,Tonnes,18705.0
+6164,Luxembourg,Municipal waste treated,1995,Tonnes,240.04
+6165,Luxembourg,Municipal waste treated,1996,Tonnes,242.3
+6166,Luxembourg,Municipal waste treated,1997,Tonnes,253.19
+6167,Luxembourg,Municipal waste treated,1998,Tonnes,265.59
+6168,Luxembourg,Municipal waste treated,1999,Tonnes,277.89
+6169,Luxembourg,Municipal waste treated,2000,Tonnes,285.26
+6170,Luxembourg,Municipal waste treated,2001,Tonnes,285.21
+6171,Luxembourg,Municipal waste treated,2002,Tonnes,291.29
+6172,Luxembourg,Municipal waste treated,2003,Tonnes,306.43
+6173,Luxembourg,Municipal waste treated,2004,Tonnes,310.89
+6174,Luxembourg,Municipal waste treated,2005,Tonnes,312.76
+6175,Luxembourg,Municipal waste treated,2006,Tonnes,322.65
+6176,Luxembourg,Municipal waste treated,2007,Tonnes,333.37
+6177,Luxembourg,Municipal waste treated,2008,Tonnes,340.69
+6178,Luxembourg,Municipal waste treated,2009,Tonnes,338.14
+6179,Luxembourg,Municipal waste treated,2010,Tonnes,344.26
+6180,Luxembourg,Municipal waste treated,2011,Tonnes,345.33
+6181,Luxembourg,Municipal waste treated,2012,Tonnes,346.09
+6182,Luxembourg,Municipal waste treated,2013,Tonnes,334.72
+6183,Luxembourg,Municipal waste treated,2014,Tonnes,348.15
+6184,Luxembourg,Municipal waste treated,2015,Tonnes,345.95
+6185,Luxembourg,Municipal waste treated,2016,Tonnes,357.63
+6598,Mexico,Municipal waste treated,1991,Tonnes,21062.33
+6599,Mexico,Municipal waste treated,1992,Tonnes,21967.54
+6600,Mexico,Municipal waste treated,1993,Tonnes,28089.59
+6601,Mexico,Municipal waste treated,1994,Tonnes,29472.5
+6602,Mexico,Municipal waste treated,1995,Tonnes,30509.6
+6603,Mexico,Municipal waste treated,1996,Tonnes,31959.4
+6604,Mexico,Municipal waste treated,1997,Tonnes,29272.37
+6605,Mexico,Municipal waste treated,1998,Tonnes,30550.55
+6606,Mexico,Municipal waste treated,1999,Tonnes,30952.0
+6607,Mexico,Municipal waste treated,2000,Tonnes,30733.1
+6608,Mexico,Municipal waste treated,2001,Tonnes,31488.59
+6609,Mexico,Municipal waste treated,2002,Tonnes,32173.67
+6610,Mexico,Municipal waste treated,2003,Tonnes,32915.6
+6611,Mexico,Municipal waste treated,2004,Tonnes,34604.0
+6612,Mexico,Municipal waste treated,2005,Tonnes,35405.0
+6613,Mexico,Municipal waste treated,2006,Tonnes,36135.0
+6614,Mexico,Municipal waste treated,2007,Tonnes,36865.0
+6615,Mexico,Municipal waste treated,2008,Tonnes,37594.6
+6616,Mexico,Municipal waste treated,2009,Tonnes,38325.0
+6617,Mexico,Municipal waste treated,2010,Tonnes,40058.75
+6618,Mexico,Municipal waste treated,2011,Tonnes,41062.5
+6619,Mexico,Municipal waste treated,2012,Tonnes,42102.75
+6830,Netherlands,Municipal waste treated,1991,Tonnes,7163.0
+6831,Netherlands,Municipal waste treated,1993,Tonnes,7986.0
+6832,Netherlands,Municipal waste treated,1994,Tonnes,8144.0
+6833,Netherlands,Municipal waste treated,1995,Tonnes,7870.0
+6834,Netherlands,Municipal waste treated,1996,Tonnes,7986.0
+6835,Netherlands,Municipal waste treated,1997,Tonnes,8404.0
+6836,Netherlands,Municipal waste treated,1998,Tonnes,7923.0
+6837,Netherlands,Municipal waste treated,1999,Tonnes,7846.0
+6838,Netherlands,Municipal waste treated,2000,Tonnes,8121.0
+6839,Netherlands,Municipal waste treated,2001,Tonnes,8141.0
+6840,Netherlands,Municipal waste treated,2002,Tonnes,8313.0
+6841,Netherlands,Municipal waste treated,2003,Tonnes,7778.0
+6842,Netherlands,Municipal waste treated,2004,Tonnes,8009.0
+6843,Netherlands,Municipal waste treated,2005,Tonnes,8034.0
+6844,Netherlands,Municipal waste treated,2006,Tonnes,8049.0
+6845,Netherlands,Municipal waste treated,2007,Tonnes,8254.0
+6846,Netherlands,Municipal waste treated,2008,Tonnes,9868.0
+6847,Netherlands,Municipal waste treated,2009,Tonnes,9738.0
+6848,Netherlands,Municipal waste treated,2010,Tonnes,9484.0
+6849,Netherlands,Municipal waste treated,2011,Tonnes,9479.0
+6850,Netherlands,Municipal waste treated,2012,Tonnes,9203.0
+6851,Netherlands,Municipal waste treated,2013,Tonnes,8840.0
+6852,Netherlands,Municipal waste treated,2014,Tonnes,8894.0
+6853,Netherlands,Municipal waste treated,2015,Tonnes,8865.0
+6854,Netherlands,Municipal waste treated,2016,Tonnes,8848.0
+7304,Norway,Municipal waste treated,1992,Tonnes,2222.0
+7305,Norway,Municipal waste treated,1993,Tonnes,2217.2
+7306,Norway,Municipal waste treated,1994,Tonnes,2366.26
+7307,Norway,Municipal waste treated,1995,Tonnes,2721.88
+7308,Norway,Municipal waste treated,1996,Tonnes,2760.9
+7309,Norway,Municipal waste treated,1997,Tonnes,2720.62
+7310,Norway,Municipal waste treated,1998,Tonnes,2857.0
+7311,Norway,Municipal waste treated,1999,Tonnes,2650.0
+7312,Norway,Municipal waste treated,2000,Tonnes,2755.0
+7313,Norway,Municipal waste treated,2001,Tonnes,1628.97
+7314,Norway,Municipal waste treated,2002,Tonnes,1779.7079999999999
+7315,Norway,Municipal waste treated,2003,Tonnes,1836.213
+7316,Norway,Municipal waste treated,2004,Tonnes,1902.374
+7317,Norway,Municipal waste treated,2005,Tonnes,1968.372
+7318,Norway,Municipal waste treated,2006,Tonnes,2139.3979999999997
+7319,Norway,Municipal waste treated,2007,Tonnes,2311.488
+7320,Norway,Municipal waste treated,2008,Tonnes,2323.562
+7321,Norway,Municipal waste treated,2009,Tonnes,2268.802
+7322,Norway,Municipal waste treated,2010,Tonnes,2295.239
+7323,Norway,Municipal waste treated,2011,Tonnes,2403.0
+7324,Norway,Municipal waste treated,2012,Tonnes,2392.0
+7325,Norway,Municipal waste treated,2013,Tonnes,2517.96
+7326,Norway,Municipal waste treated,2014,Tonnes,2175.44
+7327,Norway,Municipal waste treated,2015,Tonnes,2187.22
+7328,Norway,Municipal waste treated,2016,Tonnes,3946.17
+7825,Poland,Municipal waste treated,1995,Tonnes,10985.0
+7826,Poland,Municipal waste treated,1996,Tonnes,11621.0
+7827,Poland,Municipal waste treated,1997,Tonnes,12183.0
+7828,Poland,Municipal waste treated,1998,Tonnes,11827.0
+7829,Poland,Municipal waste treated,1999,Tonnes,12317.0
+7830,Poland,Municipal waste treated,2000,Tonnes,12226.0
+7831,Poland,Municipal waste treated,2001,Tonnes,11108.0
+7832,Poland,Municipal waste treated,2002,Tonnes,10509.0
+7833,Poland,Municipal waste treated,2003,Tonnes,9925.0
+7834,Poland,Municipal waste treated,2004,Tonnes,9715.0
+7835,Poland,Municipal waste treated,2005,Tonnes,9352.0
+7836,Poland,Municipal waste treated,2006,Tonnes,9877.0
+7837,Poland,Municipal waste treated,2007,Tonnes,10083.0
+7838,Poland,Municipal waste treated,2008,Tonnes,10036.0
+7839,Poland,Municipal waste treated,2009,Tonnes,10053.0
+7840,Poland,Municipal waste treated,2010,Tonnes,10040.0
+7841,Poland,Municipal waste treated,2011,Tonnes,9828.0
+7842,Poland,Municipal waste treated,2012,Tonnes,9581.0
+7843,Poland,Municipal waste treated,2013,Tonnes,9474.0
+7844,Poland,Municipal waste treated,2014,Tonnes,10330.0
+7845,Poland,Municipal waste treated,2015,Tonnes,10864.0
+7846,Poland,Municipal waste treated,2016,Tonnes,11654.0
+8201,Portugal,Municipal waste treated,1993,Tonnes,3563.0
+8202,Portugal,Municipal waste treated,1994,Tonnes,3800.0
+8203,Portugal,Municipal waste treated,1995,Tonnes,3528.95
+8204,Portugal,Municipal waste treated,1996,Tonnes,3740.45
+8205,Portugal,Municipal waste treated,1997,Tonnes,4013.21
+8206,Portugal,Municipal waste treated,1998,Tonnes,4197.81
+8207,Portugal,Municipal waste treated,1999,Tonnes,4426.9
+8208,Portugal,Municipal waste treated,2000,Tonnes,4704.56
+8209,Portugal,Municipal waste treated,2001,Tonnes,4709.17
+8210,Portugal,Municipal waste treated,2002,Tonnes,4581.44
+8211,Portugal,Municipal waste treated,2003,Tonnes,4692.78
+8212,Portugal,Municipal waste treated,2004,Tonnes,4665.19
+8213,Portugal,Municipal waste treated,2005,Tonnes,4745.18
+8214,Portugal,Municipal waste treated,2006,Tonnes,4898.08
+8215,Portugal,Municipal waste treated,2007,Tonnes,4967.27
+8216,Portugal,Municipal waste treated,2008,Tonnes,5471.84
+8217,Portugal,Municipal waste treated,2009,Tonnes,5496.27
+8218,Portugal,Municipal waste treated,2010,Tonnes,5457.14
+8219,Portugal,Municipal waste treated,2011,Tonnes,5177.78
+8220,Portugal,Municipal waste treated,2012,Tonnes,4765.92
+8221,Portugal,Municipal waste treated,2013,Tonnes,4597.94
+8222,Portugal,Municipal waste treated,2014,Tonnes,4710.46
+8605,Slovak Republic,Municipal waste treated,1997,Tonnes,1775.77
+8606,Slovak Republic,Municipal waste treated,1998,Tonnes,1739.95
+8607,Slovak Republic,Municipal waste treated,1999,Tonnes,1731.1
+8608,Slovak Republic,Municipal waste treated,2000,Tonnes,1706.72
+8609,Slovak Republic,Municipal waste treated,2002,Tonnes,1449.11
+8610,Slovak Republic,Municipal waste treated,2003,Tonnes,1511.24
+8611,Slovak Republic,Municipal waste treated,2004,Tonnes,1400.03
+8612,Slovak Republic,Municipal waste treated,2005,Tonnes,1380.85
+8613,Slovak Republic,Municipal waste treated,2006,Tonnes,1440.76
+8614,Slovak Republic,Municipal waste treated,2007,Tonnes,1520.93
+8615,Slovak Republic,Municipal waste treated,2008,Tonnes,1593.79
+8616,Slovak Republic,Municipal waste treated,2009,Tonnes,1613.67
+8617,Slovak Republic,Municipal waste treated,2010,Tonnes,1709.64
+8618,Slovak Republic,Municipal waste treated,2011,Tonnes,1669.32
+8619,Slovak Republic,Municipal waste treated,2012,Tonnes,1655.25
+8620,Slovak Republic,Municipal waste treated,2013,Tonnes,1618.39
+8621,Slovak Republic,Municipal waste treated,2014,Tonnes,1702.43
+8622,Slovak Republic,Municipal waste treated,2015,Tonnes,1776.06
+8623,Slovak Republic,Municipal waste treated,2016,Tonnes,1874.81
+8982,Spain,Municipal waste treated,2008,Tonnes,25316.94
+8983,Spain,Municipal waste treated,2009,Tonnes,25107.98
+8984,Spain,Municipal waste treated,2010,Tonnes,23774.42
+8985,Spain,Municipal waste treated,2011,Tonnes,22672.41
+8986,Spain,Municipal waste treated,2012,Tonnes,21896.34
+8987,Spain,Municipal waste treated,2013,Tonnes,21184.2
+8988,Spain,Municipal waste treated,2014,Tonnes,20836.4
+8989,Spain,Municipal waste treated,2015,Tonnes,21157.8
+8990,Spain,Municipal waste treated,2016,Tonnes,20584.6
+9150,Sweden,Municipal waste treated,1990,Tonnes,3200.0
+9151,Sweden,Municipal waste treated,1994,Tonnes,3507.0
+9152,Sweden,Municipal waste treated,1995,Tonnes,3405.0
+9153,Sweden,Municipal waste treated,1996,Tonnes,3458.0
+9154,Sweden,Municipal waste treated,1997,Tonnes,3678.0
+9155,Sweden,Municipal waste treated,1998,Tonnes,3839.0
+9156,Sweden,Municipal waste treated,1999,Tonnes,3774.0
+9157,Sweden,Municipal waste treated,2000,Tonnes,3773.0
+9158,Sweden,Municipal waste treated,2001,Tonnes,3907.2
+9159,Sweden,Municipal waste treated,2002,Tonnes,4149.0
+9160,Sweden,Municipal waste treated,2003,Tonnes,4155.6
+9161,Sweden,Municipal waste treated,2004,Tonnes,4134.45
+9162,Sweden,Municipal waste treated,2005,Tonnes,4305.75
+9163,Sweden,Municipal waste treated,2006,Tonnes,4446.68
+9164,Sweden,Municipal waste treated,2007,Tonnes,4442.47
+9165,Sweden,Municipal waste treated,2008,Tonnes,4454.59
+9166,Sweden,Municipal waste treated,2009,Tonnes,4365.72
+9167,Sweden,Municipal waste treated,2010,Tonnes,4115.09
+9168,Sweden,Municipal waste treated,2011,Tonnes,4246.24
+9169,Sweden,Municipal waste treated,2012,Tonnes,4285.09
+9170,Sweden,Municipal waste treated,2013,Tonnes,4326.07
+9171,Sweden,Municipal waste treated,2014,Tonnes,4246.28
+9172,Sweden,Municipal waste treated,2015,Tonnes,4376.53
+9173,Sweden,Municipal waste treated,2016,Tonnes,4392.51
+9609,Switzerland,Municipal waste treated,1990,Tonnes,4100.6
+9610,Switzerland,Municipal waste treated,1991,Tonnes,4051.2
+9611,Switzerland,Municipal waste treated,1992,Tonnes,4096.7
+9612,Switzerland,Municipal waste treated,1993,Tonnes,4140.2
+9613,Switzerland,Municipal waste treated,1994,Tonnes,4161.5
+9614,Switzerland,Municipal waste treated,1995,Tonnes,4240.4
+9615,Switzerland,Municipal waste treated,1996,Tonnes,4276.4
+9616,Switzerland,Municipal waste treated,1997,Tonnes,4324.4
+9617,Switzerland,Municipal waste treated,1998,Tonnes,4369.4
+9618,Switzerland,Municipal waste treated,1999,Tonnes,4555.2
+9619,Switzerland,Municipal waste treated,2000,Tonnes,4731.0
+9620,Switzerland,Municipal waste treated,2001,Tonnes,4794.0
+9621,Switzerland,Municipal waste treated,2002,Tonnes,4936.0
+9622,Switzerland,Municipal waste treated,2003,Tonnes,4916.0
+9623,Switzerland,Municipal waste treated,2004,Tonnes,4899.0
+9624,Switzerland,Municipal waste treated,2005,Tonnes,4940.0
+9625,Switzerland,Municipal waste treated,2006,Tonnes,5330.0
+9626,Switzerland,Municipal waste treated,2007,Tonnes,5465.0
+9627,Switzerland,Municipal waste treated,2008,Tonnes,5653.0
+9628,Switzerland,Municipal waste treated,2009,Tonnes,5461.0
+9629,Switzerland,Municipal waste treated,2010,Tonnes,5565.0
+9630,Switzerland,Municipal waste treated,2011,Tonnes,5478.0
+9631,Switzerland,Municipal waste treated,2012,Tonnes,5576.0
+9632,Switzerland,Municipal waste treated,2013,Tonnes,5708.0
+9633,Switzerland,Municipal waste treated,2014,Tonnes,6006.0
+9634,Switzerland,Municipal waste treated,2015,Tonnes,6030.0
+9635,Switzerland,Municipal waste treated,2016,Tonnes,6060.0
+10109,Turkey,Municipal waste treated,1994,Tonnes,17757.0
+10110,Turkey,Municipal waste treated,1995,Tonnes,20908.99
+10111,Turkey,Municipal waste treated,1996,Tonnes,22480.3
+10112,Turkey,Municipal waste treated,1997,Tonnes,24170.89
+10113,Turkey,Municipal waste treated,1998,Tonnes,24929.52
+10114,Turkey,Municipal waste treated,1999,Tonnes,24088.35
+10115,Turkey,Municipal waste treated,2000,Tonnes,24696.07
+10116,Turkey,Municipal waste treated,2001,Tonnes,25134.17
+10117,Turkey,Municipal waste treated,2002,Tonnes,25373.76
+10118,Turkey,Municipal waste treated,2003,Tonnes,26117.52
+10119,Turkey,Municipal waste treated,2004,Tonnes,25015.26
+10120,Turkey,Municipal waste treated,2005,Tonnes,26617.17
+10121,Turkey,Municipal waste treated,2006,Tonnes,25280.6
+10122,Turkey,Municipal waste treated,2007,Tonnes,26066.0
+10123,Turkey,Municipal waste treated,2008,Tonnes,24360.74
+10124,Turkey,Municipal waste treated,2009,Tonnes,26218.0
+10125,Turkey,Municipal waste treated,2010,Tonnes,25276.0
+10126,Turkey,Municipal waste treated,2011,Tonnes,26780.0
+10127,Turkey,Municipal waste treated,2012,Tonnes,25845.0
+10128,Turkey,Municipal waste treated,2013,Tonnes,25563.0
+10129,Turkey,Municipal waste treated,2014,Tonnes,28010.0
+10130,Turkey,Municipal waste treated,2015,Tonnes,27584.0
+10131,Turkey,Municipal waste treated,2016,Tonnes,31584.0
+10474,United Kingdom,Municipal waste treated,1995,Tonnes,28910.0
+10475,United Kingdom,Municipal waste treated,1996,Tonnes,29909.0
+10476,United Kingdom,Municipal waste treated,1997,Tonnes,31193.0
+10477,United Kingdom,Municipal waste treated,1998,Tonnes,31825.0
+10478,United Kingdom,Municipal waste treated,1999,Tonnes,33498.0
+10479,United Kingdom,Municipal waste treated,2000,Tonnes,33954.0
+10480,United Kingdom,Municipal waste treated,2001,Tonnes,34942.0
+10481,United Kingdom,Municipal waste treated,2002,Tonnes,35534.0
+10482,United Kingdom,Municipal waste treated,2003,Tonnes,35244.59
+10483,United Kingdom,Municipal waste treated,2004,Tonnes,36090.11
+10484,United Kingdom,Municipal waste treated,2005,Tonnes,35097.0
+10485,United Kingdom,Municipal waste treated,2006,Tonnes,35370.0
+10486,United Kingdom,Municipal waste treated,2007,Tonnes,34626.0
+10487,United Kingdom,Municipal waste treated,2008,Tonnes,33215.0
+10488,United Kingdom,Municipal waste treated,2009,Tonnes,32507.75
+10489,United Kingdom,Municipal waste treated,2010,Tonnes,31954.77
+10490,United Kingdom,Municipal waste treated,2011,Tonnes,31066.09
+10491,United Kingdom,Municipal waste treated,2012,Tonnes,30472.52
+10492,United Kingdom,Municipal waste treated,2013,Tonnes,30940.77
+10493,United Kingdom,Municipal waste treated,2014,Tonnes,31106.1
+10494,United Kingdom,Municipal waste treated,2015,Tonnes,31427.13
+10495,United Kingdom,Municipal waste treated,2016,Tonnes,31693.78
+10910,United States,Municipal waste treated,1990,Tonnes,188940.0
+10911,United States,Municipal waste treated,1991,Tonnes,188449.0
+10912,United States,Municipal waste treated,1992,Tonnes,194991.0
+10913,United States,Municipal waste treated,1993,Tonnes,197749.0
+10914,United States,Municipal waste treated,1994,Tonnes,200742.93
+10915,United States,Municipal waste treated,1995,Tonnes,197113.88
+10916,United States,Municipal waste treated,1996,Tonnes,195943.0
+10917,United States,Municipal waste treated,1997,Tonnes,202393.0
+10918,United States,Municipal waste treated,1998,Tonnes,206039.0
+10919,United States,Municipal waste treated,1999,Tonnes,213080.0
+10920,United States,Municipal waste treated,2000,Tonnes,220854.0
+10921,United States,Municipal waste treated,2001,Tonnes,218450.0
+10922,United States,Municipal waste treated,2002,Tonnes,222560.12
+10923,United States,Municipal waste treated,2003,Tonnes,223549.0
+10924,United States,Municipal waste treated,2004,Tonnes,230533.0
+10925,United States,Municipal waste treated,2005,Tonnes,230180.0
+10926,United States,Municipal waste treated,2006,Tonnes,233237.0
+10927,United States,Municipal waste treated,2007,Tonnes,232693.0
+10928,United States,Municipal waste treated,2008,Tonnes,229201.0
+10929,United States,Municipal waste treated,2009,Tonnes,222188.0
+10930,United States,Municipal waste treated,2010,Tonnes,227749.0
+10931,United States,Municipal waste treated,2011,Tonnes,227876.0
+10932,United States,Municipal waste treated,2012,Tonnes,228466.0
+10933,United States,Municipal waste treated,2013,Tonnes,231350.0
+10934,United States,Municipal waste treated,2014,Tonnes,234471.0
+11253,Brazil,Municipal waste treated,2000,Tonnes,57563.0
+11291,Chile,Municipal waste treated,2000,Tonnes,4520.3
+11292,Chile,Municipal waste treated,2001,Tonnes,4514.7
+11293,Chile,Municipal waste treated,2002,Tonnes,4647.1
+11294,Chile,Municipal waste treated,2003,Tonnes,4802.3
+11295,Chile,Municipal waste treated,2004,Tonnes,4964.1
+11296,Chile,Municipal waste treated,2005,Tonnes,5113.7
+11297,Chile,Municipal waste treated,2006,Tonnes,5310.9
+11298,Chile,Municipal waste treated,2007,Tonnes,5492.9
+11299,Chile,Municipal waste treated,2008,Tonnes,5608.0
+11300,Chile,Municipal waste treated,2009,Tonnes,5779.5
+11301,Chile,Municipal waste treated,2010,Tonnes,5935.7
+11302,Chile,Municipal waste treated,2011,Tonnes,6142.4
+11303,Chile,Municipal waste treated,2014,Tonnes,7242.19
+11304,Chile,Municipal waste treated,2015,Tonnes,7401.18
+11367,China (People's Republic of),Municipal waste treated,2000,Tonnes,72550.0
+11368,China (People's Republic of),Municipal waste treated,2001,Tonnes,78400.0
+11369,China (People's Republic of),Municipal waste treated,2002,Tonnes,74040.0
+11370,China (People's Republic of),Municipal waste treated,2003,Tonnes,75450.0
+11371,China (People's Republic of),Municipal waste treated,2004,Tonnes,80890.0
+11372,China (People's Republic of),Municipal waste treated,2005,Tonnes,80510.0
+11373,China (People's Republic of),Municipal waste treated,2006,Tonnes,78730.0
+11374,China (People's Republic of),Municipal waste treated,2007,Tonnes,94377.0
+11375,China (People's Republic of),Municipal waste treated,2008,Tonnes,103066.0
+11376,China (People's Republic of),Municipal waste treated,2009,Tonnes,112323.0
+11377,China (People's Republic of),Municipal waste treated,2010,Tonnes,123178.0
+11378,China (People's Republic of),Municipal waste treated,2011,Tonnes,130896.0
+11379,China (People's Republic of),Municipal waste treated,2012,Tonnes,144895.0
+11544,Estonia,Municipal waste treated,1995,Tonnes,532.0
+11545,Estonia,Municipal waste treated,1996,Tonnes,565.0
+11546,Estonia,Municipal waste treated,1997,Tonnes,593.0
+11547,Estonia,Municipal waste treated,1998,Tonnes,557.16
+11548,Estonia,Municipal waste treated,1999,Tonnes,568.69
+11549,Estonia,Municipal waste treated,2000,Tonnes,615.51
+11550,Estonia,Municipal waste treated,2001,Tonnes,429.82
+11551,Estonia,Municipal waste treated,2002,Tonnes,434.28
+11552,Estonia,Municipal waste treated,2003,Tonnes,456.22
+11553,Estonia,Municipal waste treated,2004,Tonnes,533.62
+11554,Estonia,Municipal waste treated,2005,Tonnes,502.47
+11555,Estonia,Municipal waste treated,2006,Tonnes,467.39
+11556,Estonia,Municipal waste treated,2007,Tonnes,530.85
+11557,Estonia,Municipal waste treated,2008,Tonnes,439.52
+11558,Estonia,Municipal waste treated,2009,Tonnes,382.58
+11559,Estonia,Municipal waste treated,2010,Tonnes,340.28
+11560,Estonia,Municipal waste treated,2011,Tonnes,339.5
+11561,Estonia,Municipal waste treated,2012,Tonnes,284.25
+11562,Estonia,Municipal waste treated,2013,Tonnes,355.66
+11563,Estonia,Municipal waste treated,2014,Tonnes,426.74
+11564,Estonia,Municipal waste treated,2015,Tonnes,434.25
+11565,Estonia,Municipal waste treated,2016,Tonnes,452.52
+11969,Israel,Municipal waste treated,2004,Tonnes,3978.0
+11970,Israel,Municipal waste treated,2005,Tonnes,4086.0
+11971,Israel,Municipal waste treated,2006,Tonnes,4227.0
+11972,Israel,Municipal waste treated,2007,Tonnes,4304.0
+11973,Israel,Municipal waste treated,2008,Tonnes,4434.0
+11974,Israel,Municipal waste treated,2009,Tonnes,4550.8
+11975,Israel,Municipal waste treated,2010,Tonnes,4623.18
+11976,Israel,Municipal waste treated,2011,Tonnes,4745.8
+11977,Israel,Municipal waste treated,2012,Tonnes,4837.4
+11978,Israel,Municipal waste treated,2013,Tonnes,4906.6
+11979,Israel,Municipal waste treated,2014,Tonnes,4999.5
+11980,Israel,Municipal waste treated,2015,Tonnes,5112.677
+11981,Israel,Municipal waste treated,2016,Tonnes,5293.312
+12103,Slovenia,Municipal waste treated,1995,Tonnes,932.77
+12104,Slovenia,Municipal waste treated,1996,Tonnes,987.07
+12105,Slovenia,Municipal waste treated,1997,Tonnes,1044.84
+12106,Slovenia,Municipal waste treated,1998,Tonnes,1127.09
+12107,Slovenia,Municipal waste treated,1999,Tonnes,969.16
+12108,Slovenia,Municipal waste treated,2000,Tonnes,860.94
+12109,Slovenia,Municipal waste treated,2001,Tonnes,738.02
+12110,Slovenia,Municipal waste treated,2002,Tonnes,791.07
+12111,Slovenia,Municipal waste treated,2003,Tonnes,803.72
+12112,Slovenia,Municipal waste treated,2004,Tonnes,837.89
+12113,Slovenia,Municipal waste treated,2005,Tonnes,843.75
+12114,Slovenia,Municipal waste treated,2006,Tonnes,886.21
+12115,Slovenia,Municipal waste treated,2007,Tonnes,919.97
+12116,Slovenia,Municipal waste treated,2008,Tonnes,904.97
+12117,Slovenia,Municipal waste treated,2009,Tonnes,851.1
+12118,Slovenia,Municipal waste treated,2010,Tonnes,948.13
+12119,Slovenia,Municipal waste treated,2011,Tonnes,838.72
+12120,Slovenia,Municipal waste treated,2012,Tonnes,713.76
+12121,Slovenia,Municipal waste treated,2013,Tonnes,830.35
+12122,Slovenia,Municipal waste treated,2014,Tonnes,863.69
+12123,Slovenia,Municipal waste treated,2015,Tonnes,899.74
+12124,Slovenia,Municipal waste treated,2016,Tonnes,922.88
+13795,Colombia,Municipal waste treated,2005,Tonnes,7567.05
+13796,Colombia,Municipal waste treated,2006,Tonnes,7580.46
+13797,Colombia,Municipal waste treated,2007,Tonnes,9191.97
+13798,Colombia,Municipal waste treated,2008,Tonnes,11273.44
+13799,Colombia,Municipal waste treated,2009,Tonnes,8980.2
+13800,Colombia,Municipal waste treated,2010,Tonnes,9686.01
+13801,Colombia,Municipal waste treated,2011,Tonnes,8974.0
+13802,Colombia,Municipal waste treated,2015,Tonnes,11189.69
+13882,Latvia,Municipal waste treated,1995,Tonnes,456.79
+13883,Latvia,Municipal waste treated,1996,Tonnes,475.96
+13884,Latvia,Municipal waste treated,1997,Tonnes,506.3
+13885,Latvia,Municipal waste treated,1998,Tonnes,536.64
+13886,Latvia,Municipal waste treated,1999,Tonnes,566.98
+13887,Latvia,Municipal waste treated,2000,Tonnes,597.32
+13888,Latvia,Municipal waste treated,2001,Tonnes,640.0
+13889,Latvia,Municipal waste treated,2002,Tonnes,673.27
+13890,Latvia,Municipal waste treated,2003,Tonnes,605.79
+13891,Latvia,Municipal waste treated,2004,Tonnes,647.08
+13892,Latvia,Municipal waste treated,2005,Tonnes,595.56
+13893,Latvia,Municipal waste treated,2006,Tonnes,708.87
+13894,Latvia,Municipal waste treated,2007,Tonnes,781.99
+13895,Latvia,Municipal waste treated,2008,Tonnes,756.23
+13896,Latvia,Municipal waste treated,2009,Tonnes,752.96
+13897,Latvia,Municipal waste treated,2010,Tonnes,680.1
+13898,Latvia,Municipal waste treated,2011,Tonnes,601.21
+13899,Latvia,Municipal waste treated,2012,Tonnes,612.54
+13900,Latvia,Municipal waste treated,2013,Tonnes,703.0
+13901,Latvia,Municipal waste treated,2014,Tonnes,711.0
+13902,Latvia,Municipal waste treated,2015,Tonnes,723.0
+13903,Latvia,Municipal waste treated,2016,Tonnes,717.97
+14464,Costa Rica,Municipal waste treated,2010,Tonnes,915.0
+14465,Costa Rica,Municipal waste treated,2011,Tonnes,1002.0
+14466,Costa Rica,Municipal waste treated,2012,Tonnes,1123.0
+14467,Costa Rica,Municipal waste treated,2013,Tonnes,1174.0
+14468,Costa Rica,Municipal waste treated,2014,Tonnes,1240.0
+14469,Costa Rica,Municipal waste treated,2015,Tonnes,1869.7
+14470,Costa Rica,Municipal waste treated,2016,Tonnes,1061.4
+14656,Lithuania,Municipal waste treated,1995,Tonnes,1546.0
+14657,Lithuania,Municipal waste treated,1996,Tonnes,1445.0
+14658,Lithuania,Municipal waste treated,1997,Tonnes,1510.0
+14659,Lithuania,Municipal waste treated,1998,Tonnes,1578.0
+14660,Lithuania,Municipal waste treated,1999,Tonnes,1236.0
+14661,Lithuania,Municipal waste treated,2000,Tonnes,1209.0
+14662,Lithuania,Municipal waste treated,2001,Tonnes,1169.0
+14663,Lithuania,Municipal waste treated,2002,Tonnes,1119.0
+14664,Lithuania,Municipal waste treated,2003,Tonnes,1136.0
+14665,Lithuania,Municipal waste treated,2004,Tonnes,1176.52
+14666,Lithuania,Municipal waste treated,2005,Tonnes,1198.22
+14667,Lithuania,Municipal waste treated,2006,Tonnes,1236.69
+14668,Lithuania,Municipal waste treated,2007,Tonnes,1346.87
+14669,Lithuania,Municipal waste treated,2008,Tonnes,1352.53
+14670,Lithuania,Municipal waste treated,2009,Tonnes,1195.59
+14671,Lithuania,Municipal waste treated,2010,Tonnes,1142.5
+14672,Lithuania,Municipal waste treated,2011,Tonnes,1308.51
+14673,Lithuania,Municipal waste treated,2012,Tonnes,1283.02
+14674,Lithuania,Municipal waste treated,2013,Tonnes,1245.92
+14675,Lithuania,Municipal waste treated,2014,Tonnes,1247.29
+14676,Lithuania,Municipal waste treated,2015,Tonnes,1282.13
+14677,Lithuania,Municipal waste treated,2016,Tonnes,1211.02
