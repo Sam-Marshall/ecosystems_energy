@@ -1,0 +1,215 @@
+True,Country,Variable,Year,Unit,Value
+0,Australia,Public water supply,2005,Cubic metres,10331.400024414
+1,Australia,Public water supply,2009,Cubic metres,8873.0
+2,Australia,Public water supply,2010,Cubic metres,8604.0
+3,Australia,Public water supply,2011,Cubic metres,7106.0
+4,Austria,Public water supply,2010,Cubic metres,587.0
+5,Belgium,Total water made available for use,2005,Cubic metres,6361.0
+6,Belgium,Total water made available for use,2006,Cubic metres,6414.0
+7,Belgium,Total water made available for use,2007,Cubic metres,6186.0
+8,Belgium,Total water made available for use,2008,Cubic metres,6140.0
+9,Belgium,Total water made available for use,2009,Cubic metres,6137.0
+10,Belgium,Public water supply,2005,Cubic metres,720.0
+11,Belgium,Public water supply,2006,Cubic metres,712.0
+12,Belgium,Public water supply,2007,Cubic metres,708.0
+13,Belgium,Public water supply,2008,Cubic metres,695.0
+14,Belgium,Public water supply,2009,Cubic metres,700.0
+15,Czech Republic,Public water supply,2005,Cubic metres,532.0
+16,Czech Republic,Public water supply,2006,Cubic metres,527.0
+17,Czech Republic,Public water supply,2007,Cubic metres,531.0
+18,Czech Republic,Public water supply,2008,Cubic metres,520.0
+19,Czech Republic,Public water supply,2009,Cubic metres,512.0
+20,Czech Republic,Public water supply,2010,Cubic metres,500.0
+21,Czech Republic,Public water supply,2011,Cubic metres,492.0
+22,Czech Republic,Public water supply,2012,Cubic metres,491.0
+23,Czech Republic,Public water supply,2013,Cubic metres,478.0
+24,Denmark,Public water supply,2005,Cubic metres,421.0
+25,Denmark,Public water supply,2006,Cubic metres,404.0
+26,Denmark,Public water supply,2007,Cubic metres,410.0
+27,Denmark,Public water supply,2008,Cubic metres,407.0
+28,Denmark,Public water supply,2009,Cubic metres,386.0
+29,Finland,Public water supply,2011,Cubic metres,340.0
+30,France,Total gross abstraction non-freshwater,2008,Cubic metres,48.0
+31,France,Total gross abstraction non-freshwater,2009,Cubic metres,72.0
+32,France,Total gross abstraction non-freshwater,2010,Cubic metres,41.0
+33,France,Public water supply,2008,Cubic metres,4089.0
+34,France,Public water supply,2011,Cubic metres,3872.0
+35,Germany,Public water supply,2007,Cubic metres,4030.0
+36,Germany,Public water supply,2010,Cubic metres,3959.0
+37,Greece,Public water supply,2005,Cubic metres,644.0
+38,Greece,Public water supply,2006,Cubic metres,643.0
+39,Greece,Public water supply,2007,Cubic metres,626.0
+40,Hungary,Public water supply,2005,Cubic metres,513.0
+41,Hungary,Public water supply,2006,Cubic metres,514.0
+42,Hungary,Public water supply,2007,Cubic metres,492.0
+43,Hungary,Public water supply,2008,Cubic metres,482.0
+44,Hungary,Public water supply,2009,Cubic metres,455.0
+45,Hungary,Public water supply,2010,Cubic metres,455.0
+46,Hungary,Public water supply,2011,Cubic metres,454.0
+47,Hungary,Public water supply,2012,Cubic metres,452.0
+48,Hungary,Public water supply,2013,Cubic metres,437.0
+49,Iceland,Public water supply,2005,Cubic metres,67.0
+50,Ireland,Public water supply,2007,Cubic metres,609.0
+51,Ireland,Public water supply,2011,Cubic metres,669.0
+52,Italy,Public water supply,2005,Cubic metres,5369.17
+53,Italy,Public water supply,2008,Cubic metres,5533.38
+54,Italy,Public water supply,2012,Cubic metres,5232.23
+55,Japan,Public water supply,2005,Cubic metres,83427.0
+56,Japan,Public water supply,2006,Cubic metres,83106.0
+57,Japan,Public water supply,2007,Cubic metres,82980.0
+58,Japan,Public water supply,2008,Cubic metres,82400.0
+59,Japan,Public water supply,2009,Cubic metres,81455.0
+60,Mexico,Public water supply,2005,Cubic metres,10703.49351
+61,Mexico,Public water supply,2006,Cubic metres,10741.41665
+62,Mexico,Public water supply,2007,Cubic metres,11158.00667
+63,Mexico,Public water supply,2008,Cubic metres,11197.472440000001
+64,Mexico,Public water supply,2009,Cubic metres,11395.38616
+65,Mexico,Public water supply,2010,Cubic metres,11443.132590000001
+66,Mexico,Public water supply,2011,Cubic metres,12179.52592
+67,Mexico,Public water supply,2012,Cubic metres,11981.32692684
+68,Mexico,Public water supply,2013,Cubic metres,11961.50364775
+69,Netherlands,Total gross abstraction non-freshwater,2005,Cubic metres,3470.0
+70,Netherlands,Total gross abstraction non-freshwater,2006,Cubic metres,3590.0
+71,Netherlands,Total gross abstraction non-freshwater,2007,Cubic metres,3669.0
+72,Netherlands,Total gross abstraction non-freshwater,2008,Cubic metres,3657.0
+73,Netherlands,Total gross abstraction non-freshwater,2009,Cubic metres,3880.0
+74,Netherlands,Total gross abstraction non-freshwater,2010,Cubic metres,4183.0
+75,Netherlands,Total gross abstraction non-freshwater,2011,Cubic metres,6196.0
+76,Netherlands,Total gross abstraction non-freshwater,2012,Cubic metres,4258.0
+77,Netherlands,Total water made available for use,2005,Cubic metres,15022.0
+78,Netherlands,Total water made available for use,2006,Cubic metres,14650.0
+79,Netherlands,Total water made available for use,2007,Cubic metres,14623.0
+80,Netherlands,Total water made available for use,2008,Cubic metres,14372.0
+81,Netherlands,Total water made available for use,2009,Cubic metres,15285.0
+82,Netherlands,Total water made available for use,2010,Cubic metres,15112.0
+83,Netherlands,Total water made available for use,2011,Cubic metres,16381.0
+84,Netherlands,Total water made available for use,2012,Cubic metres,14992.0
+85,Netherlands,Public water supply,2005,Cubic metres,1082.0
+86,Netherlands,Public water supply,2006,Cubic metres,1093.0
+87,Netherlands,Public water supply,2007,Cubic metres,1083.0
+88,Netherlands,Public water supply,2008,Cubic metres,1085.0
+89,Netherlands,Public water supply,2009,Cubic metres,1090.0
+90,Netherlands,Public water supply,2010,Cubic metres,1085.0
+91,Netherlands,Public water supply,2011,Cubic metres,1078.0
+92,Netherlands,Public water supply,2012,Cubic metres,1067.0
+93,Poland,Total gross abstraction non-freshwater,2005,Cubic metres,316.0
+94,Poland,Total gross abstraction non-freshwater,2006,Cubic metres,312.0
+95,Poland,Total gross abstraction non-freshwater,2007,Cubic metres,309.0
+96,Poland,Total gross abstraction non-freshwater,2008,Cubic metres,296.0
+97,Poland,Total gross abstraction non-freshwater,2009,Cubic metres,209.0
+98,Poland,Total gross abstraction non-freshwater,2010,Cubic metres,250.0
+99,Poland,Total gross abstraction non-freshwater,2011,Cubic metres,283.0
+100,Poland,Total gross abstraction non-freshwater,2012,Cubic metres,309.0
+101,Poland,Total gross abstraction non-freshwater,2013,Cubic metres,264.0
+102,Poland,Public water supply,2005,Cubic metres,1587.0
+103,Poland,Public water supply,2006,Cubic metres,1604.0
+104,Poland,Public water supply,2007,Cubic metres,1573.0
+105,Poland,Public water supply,2008,Cubic metres,1581.0
+106,Poland,Public water supply,2009,Cubic metres,1544.0
+107,Poland,Public water supply,2010,Cubic metres,1541.0
+108,Poland,Public water supply,2011,Cubic metres,1545.0
+109,Poland,Public water supply,2012,Cubic metres,1539.0
+110,Poland,Public water supply,2013,Cubic metres,1522.0
+111,Portugal,Public water supply,2005,Cubic metres,549.0
+112,Portugal,Public water supply,2006,Cubic metres,577.0
+113,Portugal,Public water supply,2007,Cubic metres,661.0
+114,Portugal,Public water supply,2008,Cubic metres,671.0
+115,Portugal,Public water supply,2009,Cubic metres,718.0
+116,Spain,Total gross abstraction non-freshwater,2005,Cubic metres,169.0
+117,Spain,Total gross abstraction non-freshwater,2006,Cubic metres,181.0
+118,Spain,Total gross abstraction non-freshwater,2007,Cubic metres,259.0
+119,Spain,Total gross abstraction non-freshwater,2008,Cubic metres,244.0
+120,Spain,Total gross abstraction non-freshwater,2009,Cubic metres,231.0
+121,Spain,Total gross abstraction non-freshwater,2010,Cubic metres,242.0
+122,Spain,Total gross abstraction non-freshwater,2011,Cubic metres,223.0
+123,Spain,Total gross abstraction non-freshwater,2012,Cubic metres,217.0
+124,Spain,Total water made available for use,2005,Cubic metres,29480.0
+125,Spain,Total water made available for use,2006,Cubic metres,28297.0
+126,Spain,Total water made available for use,2007,Cubic metres,28151.0
+127,Spain,Total water made available for use,2008,Cubic metres,27458.0
+128,Spain,Total water made available for use,2009,Cubic metres,27498.0
+129,Spain,Total water made available for use,2010,Cubic metres,28157.0
+130,Spain,Total water made available for use,2011,Cubic metres,28200.0
+131,Spain,Total water made available for use,2012,Cubic metres,28386.0
+132,Spain,Public water supply,2005,Cubic metres,3864.0
+133,Spain,Public water supply,2006,Cubic metres,3783.0
+134,Spain,Public water supply,2007,Cubic metres,4053.0
+135,Spain,Public water supply,2008,Cubic metres,3963.0
+136,Spain,Public water supply,2009,Cubic metres,3861.0
+137,Spain,Public water supply,2010,Cubic metres,3697.0
+138,Spain,Public water supply,2011,Cubic metres,3555.0
+139,Spain,Public water supply,2012,Cubic metres,3576.0
+140,Sweden,Total gross abstraction non-freshwater,2005,Cubic metres,11832.0
+141,Sweden,Total gross abstraction non-freshwater,2006,Cubic metres,11832.0
+142,Sweden,Total gross abstraction non-freshwater,2007,Cubic metres,11832.0
+143,Sweden,Total gross abstraction non-freshwater,2010,Cubic metres,11800.0
+144,Sweden,Public water supply,2005,Cubic metres,737.0
+145,Sweden,Public water supply,2006,Cubic metres,737.0
+146,Sweden,Public water supply,2007,Cubic metres,737.0
+147,Sweden,Public water supply,2010,Cubic metres,691.0
+148,Switzerland,Public water supply,2005,Cubic metres,1004.0
+149,Switzerland,Public water supply,2006,Cubic metres,981.0
+150,Switzerland,Public water supply,2007,Cubic metres,960.0
+151,Switzerland,Public water supply,2008,Cubic metres,980.0
+152,Switzerland,Public water supply,2009,Cubic metres,967.0
+153,Switzerland,Public water supply,2010,Cubic metres,941.0
+154,Switzerland,Public water supply,2011,Cubic metres,954.0
+155,Switzerland,Public water supply,2012,Cubic metres,721.0
+156,Turkey,Public water supply,2006,Cubic metres,2375.0
+157,Turkey,Public water supply,2008,Cubic metres,2762.0
+158,Turkey,Public water supply,2010,Cubic metres,2987.0
+159,Turkey,Public water supply,2012,Cubic metres,3287.0
+160,United Kingdom,Public water supply,2005,Cubic metres,6230.0
+161,United Kingdom,Public water supply,2006,Cubic metres,6221.0
+162,United Kingdom,Public water supply,2007,Cubic metres,6109.0
+163,United Kingdom,Public water supply,2011,Cubic metres,4167.0
+164,United States,Total gross abstraction non-freshwater,2005,Cubic metres,84299.13
+165,Chile,Public water supply,2005,Cubic metres,934.690002441
+166,Chile,Public water supply,2006,Cubic metres,972.489990234
+167,Chile,Public water supply,2007,Cubic metres,971.2199707030001
+168,Chile,Public water supply,2008,Cubic metres,979.950500488
+169,Chile,Public water supply,2009,Cubic metres,987.9299926760001
+170,Chile,Public water supply,2010,Cubic metres,1009.655883789
+171,Chile,Public water supply,2011,Cubic metres,1064.390014648
+172,Estonia,Total gross abstraction non-freshwater,2005,Cubic metres,6.0
+173,Estonia,Total gross abstraction non-freshwater,2006,Cubic metres,5.0
+174,Estonia,Total gross abstraction non-freshwater,2007,Cubic metres,4.0
+175,Estonia,Total gross abstraction non-freshwater,2008,Cubic metres,5.0
+176,Estonia,Total gross abstraction non-freshwater,2009,Cubic metres,4.0
+177,Estonia,Total gross abstraction non-freshwater,2011,Cubic metres,4.0
+178,Estonia,Public water supply,2007,Cubic metres,44.0
+179,Estonia,Public water supply,2008,Cubic metres,40.0
+180,Estonia,Public water supply,2009,Cubic metres,47.0
+181,Estonia,Public water supply,2011,Cubic metres,48.0
+182,Israel,Public water supply,2005,Cubic metres,1961.0
+183,Israel,Public water supply,2006,Cubic metres,2152.776663303
+184,Israel,Public water supply,2007,Cubic metres,2279.630002441
+185,Israel,Public water supply,2008,Cubic metres,2204.629998264
+186,Israel,Public water supply,2009,Cubic metres,1811.0
+187,Israel,Public water supply,2010,Cubic metres,1919.0
+188,Israel,Public water supply,2011,Cubic metres,1831.0
+189,Israel,Public water supply,2012,Cubic metres,1902.0
+190,Slovenia,Public water supply,2005,Cubic metres,119.0
+191,Slovenia,Public water supply,2006,Cubic metres,121.0
+192,Slovenia,Public water supply,2007,Cubic metres,114.0
+193,Slovenia,Public water supply,2008,Cubic metres,113.0
+194,Slovenia,Public water supply,2009,Cubic metres,117.0
+195,Slovenia,Public water supply,2010,Cubic metres,115.0
+196,Slovenia,Public water supply,2011,Cubic metres,116.0
+197,Slovenia,Public water supply,2012,Cubic metres,116.0
+198,Slovenia,Public water supply,2013,Cubic metres,108.0
+199,France,Total water made available for use,2008,Cubic metres,34138.0
+200,France,Total water made available for use,2009,Cubic metres,33537.0
+201,France,Total water made available for use,2010,Cubic metres,33110.0
+202,France,Total water made available for use,2011,Cubic metres,33036.0
+203,France,Total water made available for use,2012,Cubic metres,34859.0
+204,Iceland,Total gross abstraction non-freshwater,2012,Cubic metres,48.0
+205,Switzerland,Total water made available for use,2012,Cubic metres,1983.0
+206,United Kingdom,Total gross abstraction non-freshwater,2005,Cubic metres,8092.0
+207,United Kingdom,Total gross abstraction non-freshwater,2006,Cubic metres,8974.0
+208,United Kingdom,Total gross abstraction non-freshwater,2007,Cubic metres,8984.0
+209,United Kingdom,Total gross abstraction non-freshwater,2008,Cubic metres,7408.0
+210,United Kingdom,Total gross abstraction non-freshwater,2009,Cubic metres,7654.0
+211,United Kingdom,Total gross abstraction non-freshwater,2010,Cubic metres,7473.0
+212,United Kingdom,Total gross abstraction non-freshwater,2011,Cubic metres,7893.0
+213,United Kingdom,Total gross abstraction non-freshwater,2012,Cubic metres,8504.0

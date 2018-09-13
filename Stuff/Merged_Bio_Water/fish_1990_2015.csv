@@ -1,0 +1,884 @@
+True,Country,Year,Population
+0,Albania,1995,4.0
+1,Algeria,1990,13.0
+2,Algeria,1992,210.0
+3,Algeria,1993,86.0
+4,Algeria,1994,17.0
+5,Algeria,1995,53.0
+6,Algeria,1996,2.0
+7,Algeria,1997,3.0
+8,Algeria,1998,186.0
+9,Algeria,1999,348.0
+10,Argentina,1995,5624.0
+11,Argentina,1996,6969.0
+12,Argentina,1997,4798.0
+13,Argentina,1998,108.0
+14,Argentina,1999,736.0
+15,Argentina,2000,497.0
+16,Argentina,2001,286.0
+17,Argentina,2002,1453.0
+18,Argentina,2003,634.0
+19,Argentina,2004,1533.0
+20,Argentina,2005,19075.0
+21,Argentina,2006,20718.0
+22,Argentina,2007,24526.0
+23,Argentina,2008,24681.0
+24,Argentina,2009,22360.0
+25,Argentina,2010,16260.0
+26,Argentina,2011,9850.0
+27,Australia,1990,2283.0
+28,Australia,1991,2671.0
+29,Australia,1992,4840.0
+30,Australia,1993,2723.0
+31,Australia,1994,2995.0
+32,Australia,1995,2252.0
+33,Australia,1996,3110.0
+34,Australia,1997,2572.0
+35,Australia,1998,3183.0
+36,Australia,1999,2084.0
+37,Australia,2000,65886.0
+38,Australia,2001,61367.0
+39,Australia,2002,93869.0
+40,Australia,2003,106214.0
+41,Australia,2004,70131.0
+42,Australia,2005,63590.0
+43,Australia,2006,99341.0
+44,Australia,2007,48551.0
+45,Australia,2008,38814.0
+46,Australia,2010,158.0
+47,Austria,1990,1175767.0
+48,Austria,1991,1042837.0
+49,Austria,1992,1117561.0
+50,Austria,1993,1079788.0
+51,Austria,1994,1133529.0
+52,Austria,1995,1125213.0
+53,Austria,1996,1238272.0
+54,Austria,1997,1115580.0
+55,Austria,1998,1083129.0
+56,Austria,1999,1258084.0
+57,Austria,2000,1096455.0
+58,Austria,2001,1119712.0
+59,Austria,2002,1142977.0
+60,Austria,2003,10143.0
+61,Austria,2004,2143.0
+62,Austria,2005,1786.0
+63,Azerbaijan,1991,3520.0
+64,Azerbaijan,1995,1.0
+65,Azerbaijan,1996,136.0
+66,Azerbaijan,1997,210.0
+67,Azerbaijan,1998,1100.0
+68,Azerbaijan,2000,334.0
+69,Bangladesh,2008,1365.0
+70,Bangladesh,2009,4810.0
+71,Bangladesh,2010,2060.0
+72,Bangladesh,2011,10859.0
+73,Bangladesh,2012,636.0
+74,Belarus,1995,19300.0
+75,Belarus,1998,24000.0
+76,Belgium,1990,5270.0
+77,Belgium,1994,68.0
+78,Belgium,1995,2730.0
+79,Belgium,1996,20.0
+80,Belgium,1997,13.0
+81,Belgium,1998,21.0
+82,Belgium,1999,20.0
+83,Belgium,2000,33.0
+84,Belgium,2001,129.0
+85,Belgium,2002,77.0
+86,Belgium,2003,53.0
+87,Belgium,2009,900.0
+88,Benin,1996,1701.0
+89,Benin,1997,5429.0
+90,"Bolivia, Plurinational State Of",1997,81546.0
+91,"Bolivia, Plurinational State Of",1998,64067.0
+92,Botswana,1996,729.0
+93,Botswana,1997,1030.0
+94,Botswana,2003,478.0
+95,Botswana,2004,472.0
+96,Botswana,2005,757.0
+97,Botswana,2006,448.0
+98,Brazil,1992,18.0
+99,Brazil,1993,86.0
+100,Brazil,1994,8.0
+101,Brazil,1995,5.0
+102,Brazil,1996,8.0
+103,Brazil,1997,8.0
+104,Brazil,1998,2.0
+105,Brazil,1999,90.0
+106,Brazil,2000,186.0
+107,Brazil,2001,140.0
+108,Brazil,2002,112.0
+109,Brazil,2003,15.0
+110,Brazil,2004,57.0
+111,Brazil,2005,606.0
+112,Brazil,2006,779.0
+113,Brazil,2007,735.0
+114,Bulgaria,1991,8.0
+115,Bulgaria,1992,42897.0
+116,Bulgaria,1993,59392.0
+117,Bulgaria,1994,30034.0
+118,Bulgaria,1996,76.0
+119,Bulgaria,1998,175.0
+120,Bulgaria,1999,634.0
+121,Bulgaria,2001,1970.0
+122,Bulgaria,2002,554.0
+123,Bulgaria,2004,37306.0
+124,Bulgaria,2005,14266.0
+125,Bulgaria,2006,28247.0
+126,Cameroon,1996,17075.0
+127,Cameroon,1997,39496.0
+128,Canada,1990,1927375.0
+129,Canada,1991,1406440.0
+130,Canada,1992,431130.0
+131,Canada,1993,394107.0
+132,Canada,1994,121469.0
+133,Canada,1995,138695.0
+134,Canada,1996,140534.0
+135,Canada,1997,63094.0
+136,Canada,1998,99142.0
+137,Canada,1999,91014.0
+138,Canada,2000,63527.0
+139,Canada,2001,62897.0
+140,Canada,2002,78567.0
+141,Canada,2003,111730.0
+142,Canada,2004,87887.0
+143,Canada,2005,169472.0
+144,Canada,2006,55365.0
+145,Canada,2007,35788.0
+146,Canada,2008,21195.0
+147,Canada,2009,4379.0
+148,Canada,2010,4656.0
+149,Canada,2011,85.0
+150,Cayman Islands,1996,25.0
+151,Cayman Islands,1997,22.0
+152,Chile,1997,39089.0
+153,Chile,1998,25784.0
+154,Chile,2001,1.0
+155,China,1990,2765.0
+156,China,1991,2823.0
+157,China,1992,2395.0
+158,China,1993,1668.0
+159,China,1994,3703.0
+160,China,1995,3709.0
+161,China,1996,3674.0
+162,China,1997,2830.0
+163,China,1998,1880.0
+164,China,1999,777.0
+165,China,2000,3725.0
+166,China,2001,5212.0
+167,China,2002,4028.0
+168,China,2003,3986.0
+169,China,2004,17171.0
+170,China,2005,26133.0
+171,China,2006,6423.0
+172,China,2007,7413.0
+173,China,2008,53270.0
+174,China,2009,823.0
+175,China,2010,38169.0
+176,Colombia,2006,176.0
+177,Colombia,2007,161.0
+178,Colombia,2011,143.0
+179,Colombia,2012,119.0
+180,Croatia,1990,500.0
+181,Croatia,2000,200.0
+182,Croatia,2001,200.0
+183,Croatia,2002,700.0
+184,Croatia,2004,400.0
+185,Croatia,2005,120.0
+186,Cyprus,1990,2946.0
+187,Cyprus,1991,2020.0
+188,Cyprus,1992,3500.0
+189,Cyprus,1993,6254.0
+190,Cyprus,1994,3331.0
+191,Cyprus,1995,8500.0
+192,Cyprus,1996,4875.0
+193,Cyprus,1997,4000.0
+194,Cyprus,1998,4300.0
+195,Cyprus,1999,2400.0
+196,Cyprus,2000,7800.0
+197,Cyprus,2001,4105.0
+198,Cyprus,2002,7760.0
+199,Cyprus,2003,3050.0
+200,Cyprus,2004,10530.0
+201,Cyprus,2005,10150.0
+202,Denmark,1990,619839.0
+203,Denmark,1991,777935.0
+204,Denmark,1992,793623.0
+205,Denmark,1993,830298.0
+206,Denmark,1994,796605.0
+207,Denmark,1995,948790.0
+208,Denmark,1996,703090.0
+209,Denmark,1997,539722.0
+210,Denmark,1998,692667.0
+211,Denmark,1999,755820.0
+212,Denmark,2000,857501.0
+213,Denmark,2001,815566.0
+214,Denmark,2002,779023.0
+215,Denmark,2003,8483.0
+216,Denmark,2004,14315.0
+217,Denmark,2005,36217.0
+218,Denmark,2006,15553.0
+219,Denmark,2007,26780.0
+220,Denmark,2008,17410.0
+221,Denmark,2009,9762.0
+222,Dominican Republic,1997,200.0
+223,Ecuador,1999,168.0
+224,Ecuador,2000,195.0
+225,Ecuador,2001,315.0
+226,Ecuador,2002,296.0
+227,Ecuador,2003,418.0
+228,Ecuador,2007,51.0
+229,Egypt,1990,81189.0
+230,Estonia,1990,12604.0
+231,Estonia,1991,2490.0
+232,Estonia,1992,24700.0
+233,Estonia,1993,13186.0
+234,Estonia,1994,23332.0
+235,Estonia,1995,8175.0
+236,Estonia,1996,10564.0
+237,Estonia,1997,9255.0
+238,Estonia,1998,21006.0
+239,Estonia,1999,17972.0
+240,Estonia,2000,14910.0
+241,Estonia,2001,3953.0
+242,Estonia,2002,14070.0
+243,Estonia,2003,7376.0
+244,Estonia,2004,15121.0
+245,Estonia,2005,16748.0
+246,Estonia,2006,142.0
+247,Estonia,2007,1761.0
+248,Estonia,2008,67.0
+249,Ethiopia,1993,12900.0
+250,Ethiopia,1994,4028617.0
+251,Ethiopia,1995,13753.0
+252,Ethiopia,1996,8174.0
+253,Ethiopia,1997,23144.0
+254,Ethiopia,1998,4379.0
+255,Finland,1990,170.0
+256,Finland,1998,12000.0
+257,France,1990,3614608.0
+258,France,1991,3670478.0
+259,France,1992,3956452.0
+260,France,1993,3828162.0
+261,France,1994,3996707.0
+262,France,1995,4245044.0
+263,France,1996,3886215.0
+264,France,1997,3224650.0
+265,France,1998,3549736.0
+266,France,1999,3936740.0
+267,France,2000,3740999.0
+268,France,2001,4247496.0
+269,France,2002,4118731.0
+270,France,2003,38948.0
+271,France,2004,39460.0
+272,France,2005,38148.0
+273,France,2006,47161.0
+274,France,2007,39185.0
+275,France,2008,40486.0
+276,France,2009,36197.0
+277,France,2010,43083.0
+278,French Guiana,1992,1773.0
+279,French Guiana,2001,1350.0
+280,Germany,1990,32323.0
+281,Germany,1991,19898.0
+282,Germany,1992,29693.0
+283,Germany,1993,60111.0
+284,Germany,1994,28672.0
+285,Germany,1995,36976.0
+286,Germany,1996,14327.0
+287,Germany,1997,18051.0
+288,Germany,1998,6035.0
+289,Germany,1999,54532.0
+290,Germany,2000,24424.0
+291,Germany,2001,25032.0
+292,Germany,2002,54719.0
+293,Germany,2003,16935.0
+294,Germany,2004,12247.0
+295,Germany,2005,9114.0
+296,Germany,2006,23940.0
+297,Germany,2007,7331.0
+298,Germany,2008,24455.0
+299,Ghana,1997,7132.0
+300,Ghana,1998,10179.0
+301,Greece,1990,11368.0
+302,Greece,1991,8586.0
+303,Greece,1992,3051.0
+304,Greece,1993,3451.0
+305,Greece,1994,7374.0
+306,Greece,1995,16587.0
+307,Greece,1996,11627.0
+308,Greece,1997,8343.0
+309,Greece,1998,9946.0
+310,Greece,1999,9525.0
+311,Greece,2000,5597.0
+312,Greece,2001,8055.0
+313,Greece,2002,9653.0
+314,Greece,2003,8715.0
+315,Greece,2004,10500.0
+316,Greece,2005,11831.0
+317,Greece,2006,11730.0
+318,Greece,2007,6652.0
+319,Greece,2008,12936.0
+320,Greece,2009,16023.0
+321,Greece,2010,4973.0
+322,Greece,2011,8778.0
+323,Greece,2012,6202.0
+324,Hong Kong,1990,56.0
+325,Hong Kong,1994,82.0
+326,Hong Kong,1995,86.0
+327,Hong Kong,1996,109.0
+328,Hong Kong,1997,114.0
+329,Hong Kong,1998,155.0
+330,Hong Kong,1999,108.0
+331,Hong Kong,2000,96.0
+332,Hong Kong,2001,171.0
+333,Hong Kong,2002,176.0
+334,Hong Kong,2003,249.0
+335,Hong Kong,2004,293.0
+336,Hong Kong,2005,350.0
+337,Hong Kong,2006,397.0
+338,Iceland,1990,120000.0
+339,Iceland,1995,80000.0
+340,India,1990,4245.0
+341,India,1991,6207.0
+342,India,1992,12839.0
+343,India,1993,6011.0
+344,India,1997,1.0
+345,India,2000,8.0
+346,India,2001,9.0
+347,India,2003,60756.0
+348,India,2004,54050.0
+349,India,2005,13572.0
+350,"Iran, Islamic Republic Of",1990,51807.0
+351,"Iran, Islamic Republic Of",1991,87.0
+352,"Iran, Islamic Republic Of",1992,106.0
+353,"Iran, Islamic Republic Of",1993,358.0
+354,"Iran, Islamic Republic Of",1994,802.0
+355,"Iran, Islamic Republic Of",1995,122603.0
+356,"Iran, Islamic Republic Of",1996,240.0
+357,"Iran, Islamic Republic Of",1997,363.0
+358,"Iran, Islamic Republic Of",1998,9.0
+359,"Iran, Islamic Republic Of",1999,27.0
+360,"Iran, Islamic Republic Of",2000,50.0
+361,"Iran, Islamic Republic Of",2001,6.0
+362,"Iran, Islamic Republic Of",2002,593.0
+363,"Iran, Islamic Republic Of",2003,63.0
+364,"Iran, Islamic Republic Of",2004,23.0
+365,"Iran, Islamic Republic Of",2005,10.0
+366,"Iran, Islamic Republic Of",2006,2.0
+367,Ireland,1995,409.0
+368,Ireland,2000,337.0
+369,Ireland,2005,247.0
+370,Israel,1990,410.0
+371,Israel,1991,191.0
+372,Israel,1992,256.0
+373,Israel,1993,140.0
+374,Israel,1994,19.0
+375,Israel,1995,75.0
+376,Israel,1996,1.0
+377,Israel,1997,127.0
+378,Israel,1998,72.0
+379,Israel,1999,62.0
+380,Israel,2000,102.0
+381,Israel,2001,274.0
+382,Israel,2009,887.0
+383,Israel,2010,2726.0
+384,Israel,2011,1697.0
+385,Israel,2012,1436.0
+386,Israel,2013,1237.0
+387,Italy,1990,12.0
+388,Italy,1991,20.0
+389,Italy,1992,43.0
+390,Italy,1993,170.0
+391,Italy,1994,188.0
+392,Italy,1995,316.0
+393,Italy,1996,287.0
+394,Italy,1997,495.0
+395,Italy,1998,580.0
+396,Italy,1999,308.0
+397,Italy,2003,5.0
+398,Japan,1990,15047.0
+399,Japan,1991,20146.0
+400,Japan,1992,22539.0
+401,Japan,1993,30732.0
+402,Japan,1994,25950.0
+403,Japan,1995,31655.0
+404,Japan,1996,31448.0
+405,Japan,1997,31300.0
+406,Japan,1998,27545.0
+407,Japan,1999,29286.0
+408,Japan,2000,11692.0
+409,Japan,2001,87.0
+410,Japan,2002,107.0
+411,Japan,2003,128.0
+412,Japan,2004,149.0
+413,Japan,2005,103.0
+414,Japan,2006,155.0
+415,Kenya,1996,365772.0
+416,Kenya,1997,338190.0
+417,Kenya,1998,877655.0
+418,"Korea, Republic Of",1990,6.0
+419,"Korea, Republic Of",1996,15.0
+420,"Korea, Republic Of",1997,16.0
+421,"Korea, Republic Of",1998,25.0
+422,"Korea, Republic Of",1999,14.0
+423,"Korea, Republic Of",2000,87.0
+424,"Korea, Republic Of",2001,2275.0
+425,"Korea, Republic Of",2002,2294.0
+426,"Korea, Republic Of",2003,2110.0
+427,"Korea, Republic Of",2004,834.0
+428,"Korea, Republic Of",2005,896.0
+429,"Korea, Republic Of",2006,1607.0
+430,"Korea, Republic Of",2007,2198.0
+431,"Korea, Republic Of",2008,2035.0
+432,"Korea, Republic Of",2009,2973.0
+433,"Korea, Republic Of",2010,5938.0
+434,"Korea, Republic Of",2011,4669.0
+435,"Korea, Republic Of",2012,10398.0
+436,"Korea, Republic Of",2013,1720.0
+437,Latvia,1990,50000.0
+438,Lithuania,1997,25000.0
+439,Madagascar,1996,59.0
+440,Madagascar,1997,82.0
+441,Malawi,1991,614.0
+442,Malawi,1992,949.0
+443,Malawi,1993,847.0
+444,Malawi,2003,950.0
+445,Malaysia,1990,585.0
+446,Malaysia,1995,405.0
+447,Mali,1996,5347.0
+448,Mali,1997,11663.0
+449,Mali,1999,148000.0
+450,Mali,2000,135000.0
+451,Mali,2001,188000.0
+452,Mauritania,1996,10181.0
+453,Mauritania,1997,3156.0
+454,Mexico,1991,1503300.0
+455,Mexico,1994,1602270.0
+456,Mexico,1997,1001610.0
+457,Mexico,2000,1209480.0
+458,Morocco,1990,53988.0
+459,Morocco,1991,92961.0
+460,Morocco,1992,45508.0
+461,Morocco,1993,73813.0
+462,Morocco,1994,108895.0
+463,Morocco,1995,126540.0
+464,Morocco,1996,75314.0
+465,Morocco,1997,201663.0
+466,Morocco,1998,145894.0
+467,Morocco,1999,115532.0
+468,Morocco,2000,205853.0
+469,Morocco,2001,96017.0
+470,Morocco,2002,171422.0
+471,Morocco,2003,74646.0
+472,Morocco,2004,99358.0
+473,Morocco,2005,100839.0
+474,Mozambique,1995,1668.0
+475,Mozambique,1996,1092.0
+476,Mozambique,1997,2907.0
+477,Namibia,1992,4200.0
+478,Namibia,1996,16577.0
+479,Namibia,1997,5868.0
+480,Namibia,1998,27822.0
+481,Netherlands,1990,217579.0
+482,Netherlands,1991,243642.0
+483,Netherlands,1992,267174.0
+484,Netherlands,1993,271841.0
+485,Netherlands,1994,299782.0
+486,Netherlands,1995,365963.0
+487,Netherlands,1996,284299.0
+488,Netherlands,1997,218622.0
+489,Netherlands,1998,218425.0
+490,Netherlands,1999,256122.0
+491,Netherlands,2000,242256.0
+492,Netherlands,2001,309014.0
+493,Netherlands,2002,289331.0
+494,Netherlands,2003,292367.0
+495,Netherlands,2004,263324.0
+496,Netherlands,2005,229064.0
+497,Netherlands,2006,257845.0
+498,Netherlands,2007,213521.0
+499,Netherlands,2008,213417.0
+500,Netherlands,2009,228230.0
+501,Netherlands,2010,209325.0
+502,New Zealand,1990,196.0
+503,New Zealand,1991,237.0
+504,New Zealand,1992,72.0
+505,New Zealand,1993,40.0
+506,New Zealand,1994,64.0
+507,New Zealand,1995,63.0
+508,New Zealand,1996,50.0
+509,New Zealand,1997,33.0
+510,New Zealand,1998,27.0
+511,New Zealand,1999,30.0
+512,New Zealand,2000,24.0
+513,New Zealand,2001,34.0
+514,New Zealand,2002,31.0
+515,New Zealand,2003,18.0
+516,Nigeria,1992,35993.0
+517,Nigeria,1995,124.0
+518,Nigeria,1996,130740.0
+519,Nigeria,1997,286065.0
+520,Nigeria,1998,273460.0
+521,Nigeria,2003,105.0
+522,Nigeria,2004,183.0
+523,Norway,1990,153.0
+524,Norway,1991,69.0
+525,Norway,1992,114.0
+526,Norway,1993,238.0
+527,Norway,1994,199.0
+528,Norway,1995,198.0
+529,Norway,1996,137.0
+530,Norway,1997,193.0
+531,Norway,1998,148.0
+532,Norway,1999,112.0
+533,Norway,2000,80.0
+534,Norway,2001,151.0
+535,Norway,2002,303.0
+536,Norway,2003,315.0
+537,Norway,2004,34.0
+538,Norway,2005,22.0
+539,Pakistan,1990,463.0
+540,Pakistan,1991,440.0
+541,Pakistan,1992,554.0
+542,Pakistan,1993,539.0
+543,Pakistan,1994,583.0
+544,Pakistan,1995,498.0
+545,Pakistan,1996,490.0
+546,Pakistan,1997,52.0
+547,Pakistan,1998,13.0
+548,Pakistan,1999,8.0
+549,Pakistan,2000,4.0
+550,Pakistan,2001,5.0
+551,Pakistan,2002,5.0
+552,Peru,1991,48.0
+553,Peru,1992,49.0
+554,Peru,1993,44.0
+555,Peru,1994,42.0
+556,Peru,1995,248.0
+557,Peru,1996,48.0
+558,Peru,1999,64.0
+559,Peru,2000,78.0
+560,Peru,2001,81.0
+561,Peru,2002,82.0
+562,Peru,2003,82.0
+563,Peru,2004,88.0
+564,Peru,2005,87.0
+565,Peru,2006,81.0
+566,Poland,1990,3245.0
+567,Poland,1991,7087.0
+568,Poland,1992,6725.0
+569,Poland,1993,6501.0
+570,Poland,1994,3763.0
+571,Poland,1995,2552.0
+572,Poland,1996,19175.0
+573,Poland,1997,10642.0
+574,Poland,1998,18387.0
+575,Poland,1999,14877.0
+576,Poland,2000,4744.0
+577,Poland,2001,15485.0
+578,Poland,2002,77397.0
+579,Poland,2003,28864.0
+580,Poland,2004,44991.0
+581,Poland,2005,14090.0
+582,Poland,2006,7172.0
+583,Poland,2007,645.0
+584,Poland,2008,28748.0
+585,Portugal,1990,947.0
+586,Portugal,1995,1221.0
+587,Romania,1990,18.0
+588,Romania,1991,5.0
+589,Romania,1992,3.0
+590,Romania,1993,4.0
+591,Romania,1994,75.0
+592,Romania,1995,17.0
+593,Romania,1996,9.0
+594,Romania,1997,12.0
+595,Romania,1998,284.0
+596,Romania,1999,350.0
+597,Romania,2000,520.0
+598,Romania,2002,9.0
+599,Romania,2003,7.0
+600,Romania,2004,9.0
+601,Romania,2005,18.0
+602,Romania,2006,10.0
+603,Romania,2007,6.0
+604,Russian Federation,1990,10000.0
+605,Russian Federation,1991,389040.0
+606,Russian Federation,1992,23243.0
+607,Russian Federation,1993,10000.0
+608,Russian Federation,1994,146625.0
+609,Russian Federation,1995,44630.0
+610,Russian Federation,1996,44102.0
+611,Russian Federation,1997,42019.0
+612,Russian Federation,1998,127375.0
+613,Russian Federation,1999,149695.0
+614,Russian Federation,2000,12835.0
+615,Russian Federation,2001,38885.0
+616,Russian Federation,2002,12700.0
+617,Russian Federation,2003,12525.0
+618,Russian Federation,2004,12525.0
+619,Russian Federation,2005,16190.0
+620,Russian Federation,2006,18550.0
+621,Russian Federation,2007,18882.0
+622,Russian Federation,2008,18530.0
+623,Russian Federation,2009,21554.0
+624,Russian Federation,2010,23125.0
+625,Russian Federation,2011,22775.0
+626,Senegal,1993,14214.0
+627,Senegal,1994,8592.0
+628,Senegal,1995,6868.0
+629,Senegal,1996,62424.0
+630,Senegal,1997,109422.0
+631,Senegal,1998,166561.0
+632,Serbia,1993,6.0
+633,Serbia,1995,6.0
+634,Slovenia,1991,3199.0
+635,Slovenia,1992,2506.0
+636,Slovenia,1993,1500.0
+637,Slovenia,1994,807.0
+638,Slovenia,1995,261.0
+639,Slovenia,1996,739.0
+640,Slovenia,1997,892.0
+641,Slovenia,1998,2045.0
+642,Slovenia,1999,506.0
+643,Slovenia,2000,148.0
+644,Slovenia,2001,159.0
+645,Slovenia,2002,114.0
+646,South Africa,1990,107.0
+647,South Africa,1992,225.0
+648,South Africa,1993,2782.0
+649,South Africa,1994,3055.0
+650,South Africa,1995,2691.0
+651,South Africa,1996,4477.0
+652,South Africa,1997,11053.0
+653,South Africa,1998,13442.0
+654,South Africa,2000,150.0
+655,South Africa,2002,65.0
+656,South Africa,2003,35.0
+657,South Africa,2004,42.0
+658,South Africa,2005,11.0
+659,South Africa,2007,495.0
+660,South Africa,2008,15.0
+661,South Africa,2009,7.0
+662,Spain,1990,562038.0
+663,Spain,1991,644942.0
+664,Spain,1992,591510.0
+665,Spain,1993,1856987.0
+666,Spain,1994,2505844.0
+667,Spain,1995,2348655.0
+668,Spain,1996,2119477.0
+669,Spain,1997,2548621.0
+670,Spain,1998,2287577.0
+671,Spain,1999,2646631.0
+672,Spain,2000,2755396.0
+673,Spain,2001,2678261.0
+674,Spain,2002,2630708.0
+675,Spain,2003,62624.0
+676,Spain,2004,68062.0
+677,Spain,2005,71702.0
+678,Spain,2006,67304.0
+679,Spain,2007,69828.0
+680,Spain,2008,75531.0
+681,Spain,2009,4612.0
+682,Spain,2010,6119.0
+683,Spain,2011,6197.0
+684,Spain,2012,4431.0
+685,Sweden,1990,662.0
+686,Sweden,1991,3218.0
+687,Sweden,1992,4073.0
+688,Sweden,1993,817.0
+689,Sweden,1994,4802.0
+690,Sweden,1995,3078.0
+691,Sweden,1996,3655.0
+692,Sweden,1997,2633.0
+693,Sweden,1998,465.0
+694,Sweden,1999,2374.0
+695,Sweden,2000,381.0
+696,Sweden,2001,372.0
+697,Sweden,2002,506.0
+698,Sweden,2003,443.0
+699,Sweden,2004,912.0
+700,Sweden,2005,1637.0
+701,Sweden,2006,1792.0
+702,Sweden,2007,44.0
+703,Sweden,2008,461.0
+704,Switzerland,1993,350.0
+705,Switzerland,2008,1754.0
+706,Switzerland,2011,244.0
+707,Syrian Arab Republic,1994,30.0
+708,Syrian Arab Republic,1995,35.0
+709,Syrian Arab Republic,1996,140.0
+710,"Taiwan, Province Of China",1990,150.0
+711,"Taiwan, Province Of China",1994,206.0
+712,"Taiwan, Province Of China",1995,286.0
+713,"Taiwan, Province Of China",1996,1101.0
+714,"Taiwan, Province Of China",1997,533.0
+715,"Taiwan, Province Of China",1998,703.0
+716,"Taiwan, Province Of China",1999,512.0
+717,"Taiwan, Province Of China",2000,398.0
+718,"Taiwan, Province Of China",2001,427.0
+719,"Taiwan, Province Of China",2002,1333.0
+720,"Taiwan, Province Of China",2003,580.0
+721,"Taiwan, Province Of China",2004,632.0
+722,"Taiwan, Province Of China",2005,757.0
+723,"Taiwan, Province Of China",2006,826.0
+724,"Tanzania, United Republic Of",1990,20589.0
+725,"Tanzania, United Republic Of",1993,784.0
+726,"Tanzania, United Republic Of",1997,574.0
+727,Thailand,1996,54788.0
+728,Thailand,1997,59272.0
+729,Thailand,1998,40024.0
+730,Thailand,1999,42844.0
+731,Thailand,2000,105420.0
+732,Thailand,2001,90596.0
+733,Tunisia,1990,28.0
+734,Tunisia,1992,50.0
+735,Tunisia,1993,29.0
+736,Tunisia,1994,10959.0
+737,Tunisia,1995,103.0
+738,Tunisia,1996,5141.0
+739,Tunisia,1997,368.0
+740,Tunisia,1998,6377.0
+741,Tunisia,1999,14.0
+742,Tunisia,2000,4412.0
+743,Tunisia,2001,6346.0
+744,Tunisia,2002,6306.0
+745,Tunisia,2003,8070.0
+746,Tunisia,2004,6270.0
+747,Tunisia,2005,7950.0
+748,Tunisia,2006,8013.0
+749,Tunisia,2007,2840.0
+750,Turkey,1990,321920.0
+751,Turkey,1991,1960466.0
+752,Turkey,1992,1832144.0
+753,Turkey,1993,1879705.0
+754,Turkey,1994,2290234.0
+755,Turkey,1995,2725606.0
+756,Turkey,1996,3611127.0
+757,Turkey,1997,3105143.0
+758,Turkey,1998,3038287.0
+759,Turkey,1999,3817374.0
+760,Turkey,2000,2531379.0
+761,Turkey,2001,289184.0
+762,Turkey,2002,220124.0
+763,Turkey,2005,5846.0
+764,Turkey,2006,11231.0
+765,Turkmenistan,1990,182.0
+766,Turkmenistan,1991,223.0
+767,Turkmenistan,1993,3.0
+768,Turkmenistan,1998,820.0
+769,Turkmenistan,1999,7.0
+770,Turkmenistan,2000,287.0
+771,Turkmenistan,2001,476.0
+772,Turkmenistan,2002,723.0
+773,Uganda,1994,470.0
+774,Uganda,1995,1095.0
+775,Uganda,1996,4725.0
+776,Uganda,1997,147.0
+777,Uganda,1998,135.0
+778,Uganda,1999,244.0
+779,Uganda,2000,496.0
+780,Uganda,2001,1851.0
+781,Uganda,2002,2120.0
+782,Uganda,2003,8752.0
+783,Uganda,2004,8841.0
+784,Uganda,2005,3370.0
+785,Uganda,2006,11202.0
+786,Uganda,2007,3090.0
+787,Uganda,2008,2995.0
+788,Uganda,2009,3067.0
+789,Ukraine,1991,6000.0
+790,Ukraine,1992,832.0
+791,Ukraine,1993,15.0
+792,Ukraine,1994,764.0
+793,Ukraine,1995,1.0
+794,Ukraine,1996,9.0
+795,Ukraine,1997,3.0
+796,Ukraine,1998,1.0
+797,Ukraine,2001,4110.0
+798,Ukraine,2004,5630.0
+799,Ukraine,2005,23300.0
+800,Ukraine,2007,12660.0
+801,United Kingdom,1990,360590.0
+802,United Kingdom,1991,329863.0
+803,United Kingdom,1992,339893.0
+804,United Kingdom,1993,336153.0
+805,United Kingdom,1994,340870.0
+806,United Kingdom,1995,290350.0
+807,United Kingdom,1996,245349.0
+808,United Kingdom,1997,262807.0
+809,United Kingdom,1998,256797.0
+810,United Kingdom,1999,284709.0
+811,United Kingdom,2000,269261.0
+812,United Kingdom,2001,292097.0
+813,United Kingdom,2002,256261.0
+814,United Kingdom,2003,453.0
+815,United States,1990,640153.0
+816,United States,1991,1136138.0
+817,United States,1992,1171761.0
+818,United States,1993,839301.0
+819,United States,1994,1813675.0
+820,United States,1995,2916339.0
+821,United States,1996,2739657.0
+822,United States,1997,1714602.0
+823,United States,1998,1216921.0
+824,United States,1999,1086994.0
+825,United States,2000,641052.0
+826,United States,2001,1196766.0
+827,United States,2002,1743126.0
+828,United States,2003,1648439.0
+829,United States,2004,1902818.0
+830,United States,2005,5003736.0
+831,United States,2006,1759204.0
+832,United States,2007,1168043.0
+833,United States,2008,670399.0
+834,United States,2009,358220.0
+835,United States,2010,211175.0
+836,Uzbekistan,2000,1986.0
+837,Uzbekistan,2001,1149.0
+838,Uzbekistan,2002,7.0
+839,"Venezuela, Bolivarian Republic Of",1994,12.0
+840,"Venezuela, Bolivarian Republic Of",2006,9.0
+841,"Venezuela, Bolivarian Republic Of",2009,7.0
+842,Viet Nam,1990,62.0
+843,Viet Nam,1994,25.0
+844,Viet Nam,1995,23.0
+845,Viet Nam,1996,75.0
+846,Viet Nam,1998,59.0
+847,Viet Nam,2001,47.0
+848,Viet Nam,2004,15.0
+849,Viet Nam,2005,56.0
+850,Viet Nam,2006,74.0
+851,Zambia,1990,38578.0
+852,Zambia,1991,32348.0
+853,Zambia,1992,5500.0
+854,Zambia,1993,5353.0
+855,Zambia,1994,6449.0
+856,Zambia,1995,5886.0
+857,Zambia,1996,19925.0
+858,Zambia,1997,5330.0
+859,Zambia,1998,5749.0
+860,Zambia,1999,5189.0
+861,Zambia,2000,5938.0
+862,Zambia,2001,6169.0
+863,Zambia,2002,14272.0
+864,Zambia,2004,6350.0
+865,Zambia,2005,6130.0
+866,Zambia,2006,6369.0
+867,Zambia,2008,6318.0
+868,Zambia,2009,6331.0
+869,Zambia,2010,6150.0
+870,Zambia,2011,6738.0
+871,Zambia,2012,6777.0
+872,Zimbabwe,1996,1162.0
+873,Zimbabwe,1997,1087.0
+874,Zimbabwe,1998,1297.0
+875,Zimbabwe,1999,34.0
+876,Zimbabwe,2000,15.0
+877,Zimbabwe,2001,19.0
+878,Zimbabwe,2002,41.0
+879,Zimbabwe,2003,36.0
+880,Zimbabwe,2004,53.0
+881,Zimbabwe,2005,60.0
+882,Zimbabwe,2006,53.0

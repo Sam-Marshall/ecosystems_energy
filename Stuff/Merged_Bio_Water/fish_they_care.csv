@@ -1,0 +1,97 @@
+True,Country,Year,Population
+0,United States,2008,13750.0
+1,United States,2008,700.0
+2,United States,2008,150.0
+3,United States,2008,120.0
+4,United States,2008,7100.0
+5,United States,2008,50353.0
+6,Canada,2008,20055.0
+7,United States,2008,183.0
+8,United States,2008,1342.0
+9,United States,2008,1539.0
+10,United States,2008,578.0
+11,United States,2008,1652.0
+12,United States,2008,7500.0
+13,United States,2008,1917.0
+14,United States,2008,1275.0
+15,United States,2008,374929.0
+16,United States,2008,36758.0
+17,United States,2008,1333.0
+18,Canada,2008,93.0
+19,Canada,2008,303.0
+20,Canada,2008,22.0
+21,Canada,2008,276.0
+22,Canada,2008,399.0
+23,United States,2008,487.0
+24,United States,2008,3212.0
+25,United States,2008,2731.0
+26,United States,2008,96731.0
+27,Australia,2008,13342.0
+28,Australia,2008,3151.0
+29,Australia,2008,15488.0
+30,Australia,2008,474.0
+31,Australia,2008,48.0
+32,Australia,2008,33.0
+33,Australia,2008,39.0
+34,Australia,2008,825.0
+35,Australia,2008,4.0
+36,Australia,2008,0.0
+37,Australia,2008,1.0
+38,Australia,2008,534.0
+39,United States,2008,335.0
+40,United States,2008,583.0
+41,United States,2008,166.0
+42,United States,2008,31.0
+43,France,2008,14036.0
+44,France,2008,26450.0
+45,United States,2008,64944.0
+46,China,2008,1639.0
+47,Australia,2008,677.0
+48,Australia,2008,1141.0
+49,China,2008,46057.0
+50,China,2008,929.0
+51,China,2008,4645.0
+52,Australia,2008,3018.0
+53,Australia,2008,39.0
+54,Denmark,2008,19.0
+55,Denmark,2008,17391.0
+56,Canada,2008,47.0
+57,United States,2009,14900.0
+58,United States,2009,350.0
+59,United States,2009,700.0
+60,United States,2009,50.0
+61,United States,2009,8600.0
+62,United States,2009,54126.0
+63,United States,2009,30490.0
+64,Canada,2009,497.0
+65,United States,2009,156933.0
+66,United States,2009,24.0
+67,France,2009,12951.0
+68,France,2009,23246.0
+69,United States,2009,91948.0
+70,China,2009,823.0
+71,Denmark,2009,10.0
+72,Denmark,2009,9752.0
+73,Canada,2009,3853.0
+74,Canada,2009,29.0
+75,United States,2009,2.0
+76,United States,2009,3.0
+77,United States,2009,62.0
+78,United States,2009,5.0
+79,United States,2009,0.0
+80,United States,2009,27.0
+81,United States,2010,22053.0
+82,United States,2010,23863.0
+83,Canada,2010,288.0
+84,United States,2010,100670.0
+85,United States,2010,27.0
+86,France,2010,15430.0
+87,France,2010,27653.0
+88,United States,2010,64562.0
+89,China,2010,3377.0
+90,Australia,2010,158.0
+91,China,2010,34247.0
+92,China,2010,545.0
+93,Canada,2010,4338.0
+94,Canada,2010,30.0
+95,Canada,2011,85.0
